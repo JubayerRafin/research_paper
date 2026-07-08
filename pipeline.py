@@ -148,7 +148,7 @@ def run_stage2(config, md_path, dry_run=False):
 
     if md_path and not os.path.exists(md_path):
         print(f"[Stage 2] ERROR: Markdown file not found: {md_path}")
-        print("[Stage 2] Run Stage 1 first.")
+        print("[Stage 2] Run Stage 1 first, or set stage2.input_md in config.")
         sys.exit(1)
 
     if md_path:
@@ -217,6 +217,31 @@ def run_stage4(config, rebuild=False, query=None):
 
 
 # ══════════════════════════════════════════════════════════════════
+# Stage 2 markdown resolution
+# ══════════════════════════════════════════════════════════════════
+
+def _resolve_stage2_md(config, md_path_from_stage1):
+    """
+    Decide which markdown Stage 2 should read.
+
+    Priority:
+      1. md_path produced by a Stage 1 run in THIS invocation (both/all/all-rag)
+      2. explicit config: stage2.input_md   <-- respected for standalone --stage 2
+      3. fallback: <stage1.output_dir>/<pdf_base>.md derived from input.pdf_path
+    """
+    if md_path_from_stage1:
+        return md_path_from_stage1
+
+    explicit = config.get("stage2", {}).get("input_md")
+    if explicit:
+        return explicit
+
+    pdf_base = os.path.splitext(os.path.basename(
+        config["input"]["pdf_path"]))[0]
+    return os.path.join(config["stage1"]["output_dir"], f"{pdf_base}.md")
+
+
+# ══════════════════════════════════════════════════════════════════
 # MAIN
 # ══════════════════════════════════════════════════════════════════
 
@@ -242,12 +267,9 @@ def main():
         md_path = run_stage1(config, test_pages)
 
     if args.stage in ("2", "both", "all", "all-rag"):
-        if md_path is None:
-            pdf_base = os.path.splitext(os.path.basename(
-                config["input"]["pdf_path"]))[0]
-            md_path = os.path.join(
-                config["stage1"]["output_dir"], f"{pdf_base}.md"
-            )
+        # Respect stage2.input_md from config for standalone --stage 2 runs,
+        # instead of always deriving the name from input.pdf_path.
+        md_path = _resolve_stage2_md(config, md_path)
         run_stage2(config, md_path, dry_run=args.dry_run)
 
     if args.stage in ("3", "all", "all-rag"):

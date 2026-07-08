@@ -1,5 +1,5 @@
 input:
-  pdf_path: data/source_pdfs/hp-e877-series-user-guide.pdf
+  pdf_path: data/hp-e877-series-user-guide.pdf
   test_pages: null
 experiment:
   tag: qwen35_35b
@@ -25,8 +25,8 @@ stage1:
     fallback_flavor: stream
     output_format: json
 stage2:
-  output_dir: output/stage2_qwen35_35b
-  input_md: data/stage1_output/hp-e877-series-user-guide.md
+  output_dir: output/stage2
+  input_md: data/canon_manual.md
   chunking:
     max_tokens: 400
     overlap_sentences: 1
@@ -65,16 +65,16 @@ stage2:
     - do not
     - important
   llm:
-    model: qwen3.5:35b
+    model: mistral-small3.2:24b
     base_url: http://localhost:11434
     temperature: 0.3
     max_tokens: 4096
     timeout: 600
     system_roles:
-    - You are a helpful HP printer technician.
-    - You are a printer hardware expert.
-    - You are an HP technical support specialist.
-    - You are a customer service agent for HP printers.
+    - You are a helpful Canon printer technician.
+    - You are a Canon printer hardware expert.
+    - You are a Canon technical support specialist.
+    - You are a customer service agent for Canon printers.
   filters:
     min_question_length: 10
     min_answer_length: 5
