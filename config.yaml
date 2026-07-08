@@ -65,7 +65,7 @@ stage2:
     - do not
     - important
   llm:
-    model: mistral-small3.2:24b
+    model: qwen3.5:35b 
     base_url: http://localhost:11434
     temperature: 0.3
     max_tokens: 4096
