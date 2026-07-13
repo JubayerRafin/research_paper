@@ -13,6 +13,7 @@ from semantic_classifier import classify_blocks
 from chunker import chunk_all
 from qa_generator import generate_qa_for_chunk, qa_pair_to_jsonl, QAPair
 from quality_filters import run_all_filters
+from chunk_prefilter import filter_chunks   # NEW: drops parser-artifact chunks
 
 
 def _export_dli_kb(accepted, chunks, out_path):
@@ -174,9 +175,17 @@ def run_pipeline(config: dict, dry_run: bool = False):
     chunks = chunk_all(classified, config)
     print(f"      → {len(chunks)} chunks")
 
+    # --- 3b. Pre-filter parser artifacts (0/1 tables, image-only chunks) ---
+    chunks, dropped = filter_chunks(chunks)
+    if dropped:
+        print(f"      Pre-filter removed {len(dropped)} artifact chunks:")
+        for reason, n in Counter(r for _, r in dropped).most_common():
+            print(f"        - {reason}: {n}")
+        print(f"      → {len(chunks)} chunks after pre-filter")
+
     if dry_run:
         print("\n[DRY RUN] Stopping before LLM calls.\n")
-        for i, c in enumerate(chunks[:8]):
+        for i, c in enumerate(chunks):
             print(f"  [{i}] {c.category:12s} | {c.heading[:30]:30s} | {c.text[:70].replace(chr(10),' ')}...")
         return
 
