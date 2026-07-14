@@ -1,0 +1,24 @@
+{
+  "metric": "faithfulness",
+  "method": "token-overlap (stopwords removed, lightly stemmed); untestable pairs excluded",
+  "n_pairs_total": 530,
+  "n_pairs_scored": 528,
+  "n_untestable_excluded": 2,
+  "mean_score": 0.9208,
+  "median_score": 1.0,
+  "stdev_score": 0.1308,
+  "verdict_counts": {
+    "faithful": 494,
+    "partial": 31,
+    "suspicious": 3
+  },
+  "verdict_pct": {
+    "faithful": 93.56,
+    "partial": 5.87,
+    "suspicious": 0.57
+  },
+  "thresholds": {
+    "faithful_min": 0.7,
+    "partial_min": 0.4
+  }
+}

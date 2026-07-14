@@ -1,0 +1,613 @@
+idx,page,category,qa_cosine,nn_cosine,nearest_neighbor_idx,is_near_duplicate,question
+0,1,procedure,0.4556,0.885,576,0,How do you identify the HP Color LaserJet Managed MFP models?
+1,4,procedure,0.8809,0.8813,151,0,How do you enable the SuperSpeed USB 3.0 port on an HP printer?
+2,4,procedure,0.4871,0.7826,396,0,What should you do when a 'Cartridge is low' or 'Cartridge is very low' message appears on the printer control panel or EWS?
+3,12,procedure,0.4488,0.8016,586,0,How can I find the most up-to-date information about the printer?
+4,13,procedure,0.425,0.7685,578,0,How should I connect the printer to a power source?
+5,13,procedure,0.4949,0.7531,566,0,What should I do before cleaning the printer?
+6,13,procedure,0.2454,0.8239,11,0,How do you start this procedure?
+7,14,spec,0.6159,0.6518,9,0,What is item number 7 described as in the manual?
+8,13,rule_error,0.1345,0.5817,42,0,What should you avoid when locating features on the front of the printer?
+9,15,spec,0.6402,0.7021,414,0,What does item number 9 refer to in the printer manual?
+10,16,spec,0.7231,0.7052,517,0,What types of USB host ports does the printer have?
+11,15,procedure,0.2884,0.8239,6,0,How do you begin the procedure described in the manual?
+12,16,spec,0.4514,0.5854,160,0,What is the purpose of the thumbscrew in the printer?
+13,17,spec,0.8536,0.7037,250,0,What does the Reset button do in the printer?
+14,16,rule_error,0.5606,0.5354,321,0,What should you do if you're having trouble viewing the control panel?
+15,18,spec,0.7683,0.721,250,0,What information can be accessed through the Information button on the printer?
+16,18,spec,0.6374,0.5852,250,0,What are the multiple destinations that can be sent to using the Scan+ button on OnFlow printers?
+17,19,spec,0.1108,0.6408,455,0,What is the specification for the ASIC in this printer?
+18,18,procedure,0.8689,0.4981,481,0,What should you do to stop scrolling through menus on the touchscreen?
+19,19,procedure,0.761,0.875,20,0,How can I find out the specifications for my specific printer model?
+20,19,procedure,0.9163,0.875,19,0,How can I learn about the general specifications of different printer models?
+21,20,spec,0.1734,0.7264,23,0,What is the print speed for the E87750 model on A4/letter size paper?
+22,20,spec,0.5988,0.8046,45,0,What are the power input voltage specifications for this printer?
+23,21,spec,0.7295,0.7942,26,0,What are the copy speeds for different models of this printer?
+24,21,spec,0.8858,0.6448,366,0,What are the scan speed specifications for the E877/E826 dn models in simplex and duplex modes?
+25,22,spec,0.5213,0.8787,608,0,What are the input capacities for each tray of the printer?
+26,22,spec,0.0893,0.7942,23,0,What are the copy speed specifications for different models of this printer when copying normal A3 documents from flatbed or ADF?
+27,24,spec,0.2996,0.7768,59,0,What are the supported media types for duplex printing?
+28,25,spec,0.8816,0.7209,608,0,What is the sheet capacity of Tray 1?
+29,26,spec,0.7762,0.3253,37,0,What is the minimum amount of available hard-disk space required for macOS according to Table 1-12?
+30,26,spec,0.6762,0.7321,35,0,"What print driver is available for Windows Server 2003 SP2, 32-bit?"
+31,26,spec,0.6149,0.8629,452,0,What operating systems are supported for this printer?
+32,25,procedure,0.6203,0.739,34,0,How do you install the HP print driver on macOS?
+33,25,procedure,0.5587,0.8325,35,0,"How do you install the HP PCL 6 printer-specific print driver for Windows Server 2019, 64-bit?"
+34,25,procedure,0.4259,0.739,32,0,What should you download to install the print driver for macOS 11 (Big Sur) or later versions?
+35,25,procedure,0.8041,0.8325,33,0,"How do you get the PCL 6 printer-specific print driver for Windows Server 2012 R2, 64-bit?"
+36,25,procedure,0.4326,0.7138,586,0,How can I find the current details on client and server operating systems for this printer?
+37,25,procedure,0.3266,0.5391,452,0,What are the system requirements for installing the HP Smart UPD driver?
+38,27,spec,0.2548,0.6623,39,0,What is the power consumption of the E877 printer model when it's in ready mode?
+39,27,procedure,0.7994,0.7989,578,0,How can I check the power usage of my printer?
+40,27,spec,0.3942,0.4644,607,0,What are the dimensions of the dn model with an integrated engine?
+41,28,spec,0.8755,0.7609,47,0,What is the recommended operating temperature range for this printer?
+42,27,rule_error,0.1026,0.7285,584,0,What should you avoid doing to prevent damaging the printer?
+43,28,spec,0.1839,0.5089,41,0,What is the noise level when printing color simplex A4 at 70ppm?
+44,28,rule_error,0.6036,0.7012,46,0,What should be considered when choosing a location to install the printer?
+45,28,spec,0.6361,0.8046,22,0,What is the power requirement for the 110-volt printer model?
+46,28,procedure,0.7665,0.817,405,0,How should you set up the environment for proper printer operation?
+47,29,spec,0.7528,0.7609,41,0,What is the recommended range for relative humidity when using the printer?
+48,29,procedure,0.7807,0.7089,170,0,How do I find instructions on using the Microsoft Add Printer tool for my printer?
+49,30,procedure,0.8319,0.8233,58,0,How should you handle the paper trays while loading them?
+50,30,procedure,0.8056,0.8209,584,0,How should you handle adding or removing paper from Tray 1 while the printer is operating?
+51,30,procedure,0.6828,0.8049,52,0,How should you prepare Tray 1 before loading paper?
+52,30,procedure,0.6997,0.8496,412,0,What should you do with the paper guides when loading paper into Tray 1?
+53,33,spec,0.4358,0.8825,55,0,What is the correct orientation for loading paper when using automatic two-sided printing?
+54,35,spec,0.0623,0.7389,112,0,What is the loading method for one-sided printing in duplex mode?
+55,35,spec,0.1423,0.8825,53,0,What is the loading orientation for one-sided printing?
+56,32,procedure,0.917,0.783,438,0,How should I position the paper in Tray 1 for optimal print quality?
+57,36,procedure,0.881,0.8296,58,0,How do you load paper into Tray 2?
+58,36,procedure,0.8774,0.8296,57,0,What should you do to load paper into the optional 2 x 520-sheet trays?
+59,36,spec,0.5329,0.7852,100,0,What are the options available for duplex mode in this printer?
+60,36,procedure,0.6768,0.7961,400,0,How do you adjust the paper-width guides before loading paper?
+61,36,procedure,0.4456,0.7723,60,0,What should you do after adjusting the paper-length guide?
+62,36,procedure,0.8397,0.7737,245,0,How do you specify custom paper size in this printer?
+63,39,spec,0.7907,0.7368,59,0,What are the two different duplex modes mentioned in the manual?
+64,38,procedure,0.2959,0.7924,423,0,How do you ensure the best print quality when using this printer?
+65,41,procedure,0.4815,0.7304,66,0,How should you load letterhead or preprinted paper when using the Alternative Letterhead Mode?
+66,41,procedure,0.6384,0.7304,65,0,How do you start enabling Alternative Letterhead Mode on the printer?
+67,42,procedure,0.6236,0.8329,68,0,How many envelopes can you load into the multipurpose tray at once?
+68,42,procedure,0.6015,0.8329,67,0,What is the maximum number of envelopes that Tray 2 or Tray 3 can hold?
+69,42,spec,0.7974,0.7244,608,0,What envelope sizes are supported by Tray 1 in this printer?
+70,42,procedure,0.827,0.7422,98,0,How do you open the print driver in the software program?
+71,42,procedure,0.7995,0.7641,75,0,What should you select in the Paper size drop-down list when printing envelopes?
+72,42,procedure,0.8259,0.6148,69,0,How should envelopes be loaded into the printer?
+73,43,procedure,0.341,0.713,74,0,How do you begin printing sheets of labels?
+74,43,procedure,0.739,0.713,73,0,How do you specify the size of the labels in the printing software?
+75,43,procedure,0.5434,0.7641,71,0,What should you choose from the Paper type drop-down list when printing labels?
+76,44,spec,0.3419,0.8305,77,0,What is the correct orientation for loading labels into Tray 1?
+77,44,procedure,0.6492,0.8305,76,0,How should labels be loaded into Tray 1 for correct printing?
+78,45,procedure,0.677,0.6929,431,0,What should you do if your toner runs out?
+79,45,procedure,0.8259,0.5958,19,0,"How can I get replacement supplies, accessories, and parts for my printer?"
+80,45,procedure,0.0713,0.5661,555,0,How do you prepare before contacting the managed service representative?
+81,45,procedure,0.6817,0.8428,85,0,How should I know when it's time to replace the toner cartridges?
+82,45,procedure,0.5439,0.8252,395,0,How can you check if a toner cartridge is compatible with your printer?
+83,46,procedure,0.8171,0.8094,84,0,How do you remove the old toner cartridge from the printer?
+84,46,procedure,0.6839,0.8094,83,0,What should you do with the new toner cartridge once you have removed it from its package?
+85,48,procedure,0.7019,0.8428,81,0,How can I know when it's time to replace the toner collection unit?
+86,48,procedure,0.5509,0.7071,85,0,What should you do with the toner collection unit once you grasp it?
+87,50,procedure,0.8011,0.81,91,0,How do you install a new staple cartridge?
+88,50,procedure,0.8949,0.8675,94,0,What should you do when the staple cartridge is empty?
+89,50,procedure,0.8653,0.8447,93,0,How do you remove the staple cartridge carriage from the stapler?
+90,50,procedure,0.8018,0.8229,94,0,What should you do with the two tabs on the staple cartridge to remove it?
+91,52,procedure,0.8817,0.81,87,0,How do you move the staple cartridge assembly to the front?
+92,52,procedure,0.6605,0.8002,94,0,What should you do after immobilizing the staple cartridge assembly?
+93,55,procedure,0.8197,0.8447,89,0,How do you remove the staple cartridges from the booklet-maker accessory?
+94,55,procedure,0.7065,0.8675,88,0,What should you do after removing the empty staple cartridges?
+95,59,procedure,0.6233,0.7342,112,0,How can you initiate printing using this printer?
+96,59,procedure,0.5007,0.8443,116,0,How can you learn about common printing tasks on Windows?
+97,59,procedure,0.7582,0.7506,110,0,How do you select your printer in Windows?
+98,59,procedure,0.8989,0.788,282,0,What should you click to configure available options in the print driver?
+99,60,procedure,0.525,0.8946,112,0,How do you start setting up automatic duplex printing?
+100,60,procedure,0.5633,0.8365,99,0,What should you select in the Document Properties dialog to enable automatic duplex printing?
+101,60,procedure,0.6641,0.7556,113,0,How do you start printing the first side of the job?
+102,60,procedure,0.7158,0.8449,114,0,How do you choose how many pages will be printed on each sheet of paper?
+103,60,procedure,0.3288,0.8196,114,0,What should you select after choosing the number of pages per sheet?
+104,61,procedure,0.7703,0.8408,115,0,How do you specify the paper type for a print job?
+105,61,procedure,0.5386,0.6786,430,0,What should you do if a tray configuration message displays on the printer control panel?
+106,61,procedure,0.7306,0.7746,116,0,What are some of the print tasks that have instructions available?
+107,62,procedure,0.9497,0.729,108,0,How can I print on both sides of the paper using the HP printing software for macOS?
+108,62,procedure,0.9521,0.729,107,0,What should I do if I want to print multiple pages per sheet with the HP printing software for macOS?
+109,62,procedure,0.6341,0.7073,95,0,How do you start the printing process on macOS?
+110,62,procedure,0.5728,0.7506,97,0,What should you do after selecting the printer?
+111,62,procedure,0.4144,0.7179,100,0,How do you access the layout menu to set up automatic duplex printing on macOS 10.14 Mojave and later?
+112,62,procedure,0.6696,0.8946,99,0,How do you start the manual duplex printing process?
+113,62,procedure,0.4277,0.7556,101,0,What should you do after the first side of the pages are printed?
+114,63,procedure,0.5304,0.8449,102,0,What should you do after selecting the number of pages to print on each sheet?
+115,63,procedure,0.6956,0.8408,104,0,What should you do if your default paper type is Letter but you are using a different paper type for a print job?
+116,64,procedure,0.923,0.8443,96,0,How can I find information online about common printing tasks?
+117,64,procedure,0.8246,0.8302,126,0,How can I save print jobs to the printer's memory for future use?
+118,64,procedure,0.5782,0.6885,131,0,How do you select the printer properties or preferences when storing jobs on a USB flash drive?
+119,64,procedure,0.841,0.7749,123,0,What should you click to access the job storage options?
+120,64,procedure,0.9104,0.3459,313,0,How do you append a unique number to the end of the job name?
+121,64,procedure,0.2022,0.4584,199,0,What should you do after clicking the OK button to close the Document Properties dialog box?
+122,65,procedure,0.6682,0.8144,131,0,How do you access the Job Storage menu in the Printer menu?
+123,65,procedure,0.8392,0.7749,119,0,What should you do if the Job Storage menu is not showing?
+124,65,procedure,0.2868,0.8003,125,0,How do you protect a stored or personal job with a PIN?
+125,65,procedure,0.2185,0.8003,124,0,What should you do after setting up the saved job and protecting it with a PIN?
+126,66,procedure,0.5364,0.8302,117,0,How do you start printing a job stored in the printer memory?
+127,66,procedure,0.7611,0.7704,130,0,How do you remove unnecessary documents from the printer's memory?
+128,66,procedure,0.8141,0.6593,131,0,What can be adjusted regarding the number of jobs the printer stores?
+129,66,procedure,0.7062,0.5591,119,0,How do you access the folder containing the job you want to delete?
+130,66,procedure,0.6197,0.7704,127,0,What should you do to delete the job from the printer memory?
+131,67,procedure,0.8944,0.8144,122,0,How do you access the settings for managing stored jobs on the printer?
+132,67,procedure,0.6998,0.7234,133,0,How can I print to an HP printer using my mobile device?
+133,67,procedure,0.6314,0.7234,132,0,How can I find the full list of mobile printing solutions offered by HP?
+134,67,procedure,0.5617,0.6371,178,0,What do you need to enable for HP ePrint via email?
+135,68,spec,0.6415,0.641,132,0,What devices support wireless printing using Wi-Fi Direct Print?
+136,68,procedure,0.5723,0.6996,138,0,How do you start enabling Wi-Fi Direct on the printer?
+137,68,procedure,0.4117,0.5731,429,0,What should you select after choosing the Networking menu?
+138,68,procedure,0.4661,0.7483,361,0,How do you start the process of changing the printer's Wi-Fi Direct name?
+139,68,procedure,0.4822,0.8379,353,0,What should you do after selecting the 'Wi-Fi Direct' option in the network settings?
+140,69,procedure,0.3808,0.7825,147,0,How do you access the HP Embedded Web Server (EWS) from a computer?
+141,69,rule_error,0.6917,0.6207,135,0,What is required for AirPrint to work between an Apple device and the printer?
+142,70,procedure,0.727,0.6739,98,0,How can I enable printing on my Android device if it's not available by default?
+143,70,procedure,0.6134,0.8258,148,0,How do you connect a USB flash drive to the printer?
+144,70,procedure,0.7506,0.7855,145,0,How do you enable the USB port before using it?
+145,70,procedure,0.8356,0.8668,515,0,How do you start enabling the USB port for printing?
+146,70,procedure,0.4881,0.7238,144,0,What should be selected after accessing the Enable Device USB option?
+147,71,procedure,0.5753,0.7996,350,0,How do you access the HP Embedded Web Server for your printer?
+148,71,procedure,0.6409,0.8582,145,0,How do you enable printing from a USB drive on your printer?
+149,71,procedure,0.7564,0.8185,148,0,How do you start printing a document from a USB flash drive?
+150,71,procedure,0.3148,0.6624,284,0,What should you do if the USB port is covered?
+151,72,procedure,0.7457,0.8813,1,0,How do you enable the SuperSpeed USB 3.0 port for wired USB printing?
+152,72,procedure,0.8863,0.723,144,0,How do you enable the port using the control panel?
+153,72,procedure,0.8464,0.9088,393,0,How do you find the printer's IP address?
+154,73,procedure,0.7465,0.7183,95,0,How do I make copies using this printer?
+155,73,procedure,0.7984,0.6815,166,0,What should I do if I need additional copy tasks?
+156,74,spec,0.5384,0.7398,270,0,What is Table 5-1 about?
+157,73,procedure,0.5745,0.6896,472,0,How do you select the number of copies on the printer control panel?
+158,73,procedure,0.7025,0.831,286,0,How do you rotate a page in the thumbnail view?
+159,73,procedure,0.8308,0.7267,433,0,What should you do to delete selected pages?
+160,76,spec,0.6905,0.7943,286,0,What is the function of the thumbnail and page view buttons?
+161,75,procedure,0.6874,0.7259,162,0,How do you specify the type of original document when copying or printing on both sides?
+162,75,procedure,0.7038,0.7259,161,0,What should you do to set the output sides for a double-sided copy or print?
+163,75,procedure,0.6328,0.6791,285,0,How do you start copying when the document is ready?
+164,77,spec,0.8663,0.5535,274,0,What does the Clear preview button do?
+165,77,procedure,0.5572,0.6248,166,0,How can I find instructions for copying pages from books or other bound documents?
+166,77,procedure,0.7015,0.7386,106,0,What are some of the copy tasks that have available instructions?
+167,78,procedure,0.6168,0.8524,281,0,How can I scan a document using this printer?
+168,78,procedure,0.8175,0.8347,262,0,How can I use the printer to scan a document and send it via email?
+169,78,rule_error,0.7786,0.791,193,0,What could cause the Scan to Email feature not to work during setup?
+170,79,procedure,0.5737,0.7402,46,0,How do you begin the setup process for the printer?
+171,79,procedure,0.3511,0.6651,360,0,What should you type in the address line of your web browser to open the EWS?
+172,80,procedure,0.8008,0.7569,360,0,How do you access the Network Identification tab in the EWS?
+173,80,procedure,0.3516,0.4294,225,0,What should you verify if DNS is required on the network?
+174,80,procedure,0.7552,0.851,175,0,How can I set up the Send to Email feature if I need a simple configuration?
+175,80,procedure,0.6432,0.851,174,0,What should I use if I need an advanced setup for the Send to Email feature?
+176,83,spec,0.8834,0.6703,184,0,What are the default file types available for scanned documents in this printer?
+177,83,spec,0.3206,0.5453,510,0,What are the options available in the 'From' drop-down list?
+178,81,procedure,0.6533,0.65,140,0,How do you start the Email Setup Wizard in the HP Embedded Web Server (EWS) for basic configuration?
+179,81,procedure,0.7595,0.8316,193,0,What should you do if a message displays indicating that the Scan to Email feature is disabled?
+180,81,procedure,0.7812,0.7788,206,0,How do you add an SMTP server in the setup process?
+181,81,procedure,0.5617,0.5729,180,0,What should you do if you're using a hosted SMTP service like Gmail?
+182,81,procedure,0.8007,0.7094,174,0,How do you configure the sender's email address?
+183,84,spec,0.7988,0.7534,467,0,What are the available scan resolution options for this printer?
+184,87,spec,0.6693,0.6724,252,0,What is the default file name for saving files in this printer?
+185,87,spec,0.5424,0.4466,197,0,What does the 'Address Field Restrictions' feature control?
+186,87,spec,0.8437,0.6227,231,0,What is the purpose of the 'User editable' feature in the printer's email settings?
+187,88,spec,0.8892,0.6519,252,0,What is the default format for duplicate file name suffixes?
+188,88,spec,0.7245,0.6099,234,0,What types of separators are available for Flow printers to create multiple files?
+189,88,spec,0.7138,0.7718,467,0,What does the Resolution feature control in the printer settings?
+190,89,spec,0.8066,0.8754,218,0,What are the options for selecting the content orientation of an original document in this printer?
+191,89,spec,0.608,0.3216,538,0,What algorithms can be selected for signing the certificate?
+192,84,procedure,0.562,0.682,330,0,How do you access advanced settings in the E-mail Setup dialog?
+193,84,procedure,0.5221,0.8316,179,0,What should you do if the Enable Scan to Email check box is not selected?
+194,84,procedure,0.653,0.5732,180,0,How do you set up the server for email function when 'server already in use by another function' option displays?
+195,84,procedure,0.6718,0.6366,206,0,How do you verify that all settings are correct during the outgoing email server setup?
+196,84,procedure,0.795,0.6143,389,0,What should you do if the SMTP server requires authentication for sending automatic alerts and reports from the printer?
+197,84,procedure,0.9147,0.6946,336,0,How can you prevent users from changing contacts in the Address Book at the printer control panel?
+198,84,procedure,0.7481,0.5982,205,0,What should you do if you want to use a custom message for all emails sent from the printer?
+199,84,procedure,0.8755,0.6315,447,0,How do you enable the Suppress blank pages option?
+200,84,procedure,0.7496,0.766,261,0,How do you specify the width of edge margins to be erased for a job?
+201,90,spec,0.7983,0.4789,489,0,What is the 'Optimize Text/Picture' feature designed to do?
+202,90,spec,0.821,0.6077,256,0,What type of printers is the customized stamp feature available for?
+203,90,procedure,0.7323,0.7031,170,0,How do you start creating a new Quick Set in the printer's setup?
+204,90,procedure,0.6465,0.6468,203,0,What information is required when setting up a new Quick Set?
+205,91,procedure,0.9034,0.6589,168,0,How can I set up my printer to send emails using an Office 365 Outlook account?
+206,91,procedure,0.7762,0.7788,180,0,How do you start the SMTP wizard to configure the outgoing email server?
+207,91,procedure,0.7561,0.5983,182,0,What should you type in the I know my SMTP server address or host name field?
+208,91,procedure,0.64,0.465,192,0,How do you initiate a test email in the Summary and Test dialog?
+209,93,procedure,0.8852,0.8039,213,0,How can I set up the Scan to Folder feature?
+210,93,rule_error,0.2935,0.7792,224,0,What do I need to have ready before setting up the Scan to Network feature?
+211,94,procedure,0.8237,0.8496,224,0,How can I set up Scan to Network Folder on my printer?
+212,94,procedure,0.483,0.6582,241,0,How do you start the Save to Network Folder Quick Set Wizard?
+213,94,procedure,0.6919,0.8167,224,0,How do you specify the folder path when setting up the scan server?
+214,94,procedure,0.4959,0.6496,376,0,What should you do if you select 'Always use these credentials' in the Authentication Settings?
+215,94,procedure,0.8813,0.4208,393,0,How can you find the Windows domain in Windows 7 or Windows 8?
+216,101,spec,0.7063,0.6979,162,0,What options are available for the 'Original Sides' feature in the printer?
+217,102,spec,0.8595,0.6414,252,0,What is the File NamePrefix feature used for?
+218,102,spec,0.7402,0.8754,190,0,What are the options for content orientation in this printer?
+219,102,spec,0.7313,0.5945,245,0,What are the cropping options available in this printer?
+220,103,spec,0.725,0.7274,322,0,What file formats can be selected for the saved file?
+221,103,spec,0.6692,0.7286,467,0,What is the range of dots per inch (dpi) for resolution in this printer?
+222,103,spec,0.699,0.5676,64,0,How do higher-quality images affect file size and printing time?
+223,95,procedure,0.8164,0.8936,224,0,How do you start the Scan to Network Folder setup process?
+224,95,procedure,0.8792,0.8936,223,0,What is the first step to configure the Scan to Network Folder settings?
+225,95,procedure,0.2227,0.4887,138,0,What should you do if your home router does not handle computer names well?
+226,95,procedure,0.5597,0.3895,319,0,What should you type in the Retrieve the device user’s home folder using this attribute field?
+227,95,procedure,0.7387,0.6476,237,0,How do you allow sending scanned documents to folders with write access only?
+228,95,procedure,0.9707,0.4926,239,0,How do you include a thumbnail of the first scanned page in the notification?
+229,95,procedure,0.8942,0.7712,253,0,How do you set the default scanning preferences for the Quick Set?
+230,95,procedure,0.6017,0.713,218,0,What is Auto orientation used for in Flow printers?
+231,95,procedure,0.8112,0.7147,315,0,How do you make a file setting editable at the printer control panel?
+232,95,procedure,0.7331,0.7252,256,0,How do you specify the color mode for printing copies?
+233,95,procedure,0.863,0.6893,220,0,What file format should you select for metadata information?
+234,95,procedure,0.679,0.6099,188,0,How can scan jobs be separated on Flow printers using a blank page separator?
+235,104,procedure,0.669,0.7722,167,0,How can I scan documents directly to a Microsoft SharePoint site?
+236,104,procedure,0.6824,0.7937,239,0,What does the Scan to SharePoint feature eliminate the need for?
+237,104,procedure,0.8919,0.6476,227,0,How do you enable write access to the destination folder on SharePoint?
+238,104,procedure,0.1733,0.6246,409,0,What should exist on the SharePoint site before this procedure can be completed?
+239,105,procedure,0.7262,0.7937,236,0,How do you enable the Scan to SharePoint feature?
+240,105,procedure,0.6169,0.7905,253,0,What should you do after clicking Quick Sets in the Scan to SharePoint area?
+241,105,procedure,0.5199,0.6582,212,0,How do you ensure that the SharePoint folder specified as the destination is accessible each time the Quick Set is used?
+242,105,procedure,0.681,0.438,243,0,What should you select if you want the Quick Set to send a notification only when a job fails?
+243,105,procedure,0.904,0.5095,389,0,How do you print a notification when a selected condition occurs?
+244,107,spec,0.4685,0.9046,280,0,What views can you toggle between using specific buttons?
+245,108,spec,0.5505,0.7784,259,0,What are the options for selecting the original size in this printer?
+246,107,procedure,0.7009,0.7617,167,0,How do you start scanning a document to a SharePoint site from the printer's home screen?
+247,107,procedure,0.3952,0.7896,239,0,What should you do if you need to sign in to use the Scan to SharePoint feature?
+248,107,procedure,0.6204,0.6782,229,0,What should you do if you want to change settings for the document before scanning?
+249,107,procedure,0.5434,0.6036,235,0,How do you name the file when scanning a document to SharePoint?
+250,108,spec,0.5723,0.748,276,0,What do the buttons on page 108 of the printer manual allow you to do?
+251,109,spec,0.3429,0.7093,282,0,What are the available settings under Image Adjustment for Flow printers?
+252,108,procedure,0.729,0.6724,184,0,How do you set the default file name prefix for files to be saved?
+253,108,procedure,0.1966,0.7905,240,0,What should you specify when setting up a Scan to SharePoint Quick Set?
+254,110,procedure,0.9485,0.8399,283,0,How can I enable the Scan to USB Drive feature on my printer?
+255,110,spec,0.7213,0.7002,483,0,What is the purpose of the 'High Compression (smaller file)' setting?
+256,110,spec,0.7709,0.7252,232,0,What are the options available for printing color in this printer?
+257,111,procedure,0.2136,0.4818,150,0,What should you check under Hardware Ports?
+258,111,procedure,0.8152,0.8052,254,0,Where can you find the Scan to USB Driver Settings option?
+259,112,spec,0.7749,0.7784,245,0,What does the 'Original Size' feature in the printer manual refer to?
+260,111,procedure,0.8586,0.6366,204,0,What should you do to review the summary of settings and save the Quick Set?
+261,113,spec,0.5168,0.766,200,0,What are the units of measurement available for specifying the width of edge margins in the 'Erase Edges' feature?
+262,114,procedure,0.7707,0.8347,168,0,How can I send a scanned document directly to an email address?
+263,115,spec,0.4348,0.8808,275,0,What is described in Table 6-16 on page 115?
+264,116,spec,0.7628,0.9165,280,0,What are the two views available for toggling using the buttons?
+265,117,spec,0.9282,0.7057,444,0,What is the page number where Table 6-17 is located?
+266,114,procedure,0.4213,0.7813,262,0,How do you specify recipients when scanning a document to an email address?
+267,114,procedure,0.6781,0.5771,168,0,How do I preview a document before sending it to print?
+268,114,procedure,0.5614,0.6012,264,0,What can I use the buttons on the right side of the screen for during the preview?
+269,117,procedure,0.9208,0.8873,271,0,How can I scan a document and store it in the printer's job storage folder?
+270,118,spec,0.4736,0.7398,156,0,What is Table 6-18 about?
+271,119,procedure,0.7146,0.8873,269,0,How do you start printing a scanned document from a job storage folder on the printer?
+272,119,procedure,0.6303,0.4688,416,0,What should you do if the document is private?
+273,119,procedure,0.8749,0.7831,211,0,How can I scan a document and store it on a network folder?
+274,119,spec,0.6397,0.6681,160,0,What is the purpose of the delete button in thumbnail view?
+275,120,spec,0.4747,0.8808,263,0,What is described in Table 6-20 on page 120 of the manual?
+276,121,spec,0.6536,0.748,250,0,What are the different views that can be toggled using the buttons on the printer?
+277,120,procedure,0.7639,0.5763,278,0,How do you select an existing folder location that has been set up by the administrator?
+278,120,procedure,0.5124,0.6994,213,0,What should you do if you want to specify a new folder location for saving the scanned document?
+279,120,procedure,0.7826,0.5713,276,0,How do you expand or collapse the preview screen in the printer manual?
+280,123,spec,0.3705,0.9165,264,0,What views are available for toggling using specific buttons?
+281,124,spec,0.7974,0.8799,283,0,What are the steps to scan a document to a USB drive using this printer?
+282,124,spec,0.4368,0.813,315,0,What are some of the settings that can be configured in the printer?
+283,124,procedure,0.8159,0.8799,281,0,How do you start scanning a document to a USB drive from the printer control panel?
+284,124,procedure,0.6831,0.7728,515,0,What should you do after inserting the USB drive into the printer's USB port?
+285,124,procedure,0.8945,0.6824,149,0,How do you save a document to the USB drive when it's ready?
+286,125,spec,0.6808,0.831,158,0,What is the function of the rotate page button in thumbnail view?
+287,125,procedure,0.7205,0.6659,133,0,How can I find more information about HP JetAdvantage business workflow and printing solutions?
+288,126,procedure,0.8784,0.7901,289,0,How can I find instructions for common scan tasks on the web?
+289,126,procedure,0.4546,0.7901,288,0,What is one specific scan task that instructions are available for?
+290,127,procedure,0.8292,0.8495,484,0,How can I configure the fax features on this printer?
+291,127,procedure,0.9096,0.7831,290,0,What do I need to do to send and receive faxes using this printer?
+292,128,rule_error,0.8134,0.5607,352,0,What happens if I change settings via the control panel after adjusting them through the HP Embedded Web Server?
+293,128,spec,0.3737,0.3499,308,0,What are the possible values for the RedialonNoAnswer setting?
+294,129,spec,0.787,0.6637,512,0,What does the Fax Number Confirmation feature do?
+295,128,procedure,0.8705,0.8827,296,0,How do you access the fax dialing settings to make changes?
+296,128,procedure,0.8016,0.8827,295,0,What should you do after configuring the desired fax dialing settings?
+297,128,procedure,0.7625,0.7704,514,0,How do you adjust the volume level of the printer's dialing when sending faxes?
+298,128,procedure,0.4066,0.73,296,0,What should you set if you're using a rotary-dial phone for faxing?
+299,129,spec,0.8406,0.825,305,0,What are the available fax send speed settings and their corresponding bit rates?
+300,129,rule_error,0.3724,0.7379,513,0,What should you do if you're having trouble sending or receiving a fax?
+301,130,spec,0.8047,0.748,499,0,What are the available options for the ReceiveMode setting in the fax accessory menu?
+302,130,spec,0.9003,0.656,500,0,How many rings can be set before the fax accessory answers a call?
+303,130,spec,0.9051,0.6558,490,0,What does the Error Correction Mode feature do in this fax accessory?
+304,130,procedure,0.6438,0.8543,514,0,How do you adjust the ringer volume for the fax accessory?
+305,131,spec,0.8761,0.825,299,0,What are the available options for the Fax Receive Speed setting in this printer?
+306,131,procedure,0.6351,0.7705,290,0,How do you specify the recipients when sending a fax from this printer?
+307,131,procedure,0.8637,0.7366,300,0,How do you send a fax once it's ready?
+308,133,spec,0.4848,0.6696,250,0,What do the buttons described in the table allow you to do?
+309,133,procedure,0.7099,0.7904,310,0,How do you start setting up a fax printing schedule?
+310,133,procedure,0.5454,0.7904,309,0,What should you do after selecting New Event when creating a fax printing schedule?
+311,134,procedure,0.7273,0.6506,499,0,How can I prevent faxes from specific phone numbers from being printed and saved?
+312,134,procedure,0.3886,0.6866,313,0,How can you add additional fax numbers to the blocked list?
+313,134,procedure,0.7732,0.6866,312,0,How do you select multiple fax numbers in the list?
+314,134,procedure,0.8492,0.7704,295,0,How can I find instructions for managing my fax speed dial lists?
+315,136,procedure,0.2747,0.813,282,0,How can I manage my printer's settings?
+316,136,procedure,0.692,0.6785,3,0,What should I do to keep my printer up-to-date?
+317,136,procedure,0.8097,0.7443,106,0,How can you manage advanced printing functions?
+318,137,procedure,0.8575,0.7042,140,0,How do you access the Embedded Web Server?
+319,138,spec,0.5398,0.5532,358,0,What information does the Device Status menu show?
+320,138,rule_error,0.6043,0.7178,147,0,What tabs are specific to multi-function printers in the HP Embedded Web Server?
+321,139,spec,0.5793,0.6036,342,0,What can you do in the 'Control Panel Customization' menu?
+322,139,spec,0.5803,0.7274,220,0,What file formats are used for exporting and importing data in the Import/Export menu?
+323,139,spec,0.4067,0.5972,321,0,What does the 'Remote Control-Panel' menu option allow you to do?
+324,139,procedure,0.5911,0.5396,541,0,"How do you transfer settings, user accounts, or contacts between HP products?"
+325,139,procedure,0.5395,0.6258,333,0,What is the purpose of the Import/Export functionality in the printer manual?
+326,140,spec,0.8022,0.8442,148,0,What does the 'Print from USBDrive Settings' menu allow you to do?
+327,140,rule_error,0.2119,0.7802,425,0,What should you do if you're having trouble finding solutions to your printer problems?
+328,140,spec,0.6412,0.5266,538,0,What does the License Management menu allow users to do?
+329,140,rule_error,0.9,0.5163,119,0,What should you do if job-specific copy setting options are not set from the control panel at the start of a job?
+330,141,spec,0.5483,0.8009,332,0,What are the default message settings that can be configured in the Scan to Email Setup menu?
+331,141,spec,0.7191,0.603,166,0,What is the Expert Copy feature available on?
+332,141,procedure,0.8786,0.8009,330,0,How do you configure the default email settings for digital sending in the Scan/Digital Send tab?
+333,141,procedure,0.8573,0.7664,336,0,How do you export contacts from the printer?
+334,141,procedure,0.2972,0.682,322,0,What can you use the exported .CSV file for?
+335,142,spec,0.8384,0.8439,337,0,What are the different settings that can be configured under Fax Send Setup?
+336,142,spec,0.717,0.7664,333,0,What are the options available under the 'Contacts' menu in the printer's settings?
+337,142,spec,0.8787,0.8439,335,0,What are the default settings for outgoing faxes?
+338,143,procedure,0.4697,0.6262,443,0,How do you configure the printer's reaction when supplies are very low?
+339,143,procedure,0.1732,0.7182,84,0,What should you do to lock toner cartridges into the printer and help prevent early replacement?
+340,143,spec,0.4122,0.5473,342,0,What is the purpose of the 'General Troubleshooting' menu?
+341,143,rule_error,0.6027,0.6451,389,0,"What should you do if your printer encounters an error that requires a power cycle, such as a 49 error?"
+342,143,spec,0.2489,0.6036,321,0,What does the ManageSupplies menu configure?
+343,144,spec,0.9231,0.743,350,0,What is HPWebServices used for in this printer?
+344,143,procedure,0.6709,0.6743,369,0,How do you set an administrator password for the printer?
+345,143,procedure,0.5153,0.5995,315,0,What can you do to manage remote apps on the printer?
+346,143,procedure,0.5518,0.6559,370,0,How can you ensure that all sites are trusted when using this printer?
+347,143,procedure,0.554,0.5854,325,0,What is the purpose of the Self Test in this printer manual?
+348,144,spec,0.614,0.7783,372,0,What security settings can be configured under the General Security menu?
+349,144,spec,0.4213,0.6386,348,0,What does the 'WebService Security' menu allow you to do?
+350,144,procedure,0.7948,0.7996,147,0,How do you enable HP Web Services for this printer?
+351,144,procedure,0.1684,0.7833,350,0,What should you do if there are issues enabling HP Web Services or connecting the printer to the Internet?
+352,145,spec,0.6654,0.5667,348,0,What security management levels can be set for the HP Embedded Web Server?
+353,145,spec,0.5269,0.8379,139,0,What settings can be configured under the 'Wi-Fi Direct' menu?
+354,145,rule_error,0.6066,0.7616,369,0,What should you avoid when configuring security settings on this printer?
+355,145,rule_error,0.9094,0.6182,358,0,What is the purpose of the Network Statistics feature on the HP Jetdirect print server?
+356,146,procedure,0.8115,0.7583,282,0,How can I set up the printer's network settings?
+357,146,procedure,0.8381,0.689,384,0,How should I proceed if I need support for peer-to-peer networking on my HP printer?
+358,146,spec,0.6968,0.6182,355,0,What does the Network Statistics menu display?
+359,146,spec,0.529,0.7018,377,0,What can you do in the IPsec/Firewall menu of this printer?
+360,146,procedure,0.4977,0.7569,172,0,What should you click to view or change network information once the EWS is open?
+361,147,procedure,0.8594,0.7483,138,0,How do you change the default printer name?
+362,147,procedure,0.5474,0.7433,153,0,How do you manually set an IPv4 address on the printer?
+363,147,procedure,0.5656,0.7461,368,0,What should you do after selecting the Manual option for IPv4 settings?
+364,148,spec,0.4565,0.9021,366,0,What is the recommended setting for the printer's link speed and communication mode?
+365,148,spec,0.8593,0.6345,367,0,What must match between the print server and the network hub?
+366,148,spec,0.4783,0.9021,364,0,What is the recommended mode for the printer's link speed and duplex settings?
+367,148,spec,0.8057,0.7993,364,0,What is the link speed and communication mode requirement for the print server in this context?
+368,148,procedure,0.8335,0.7461,363,0,How do you enable manual configuration for IPv6 settings?
+369,149,procedure,0.6755,0.7676,315,0,How can I limit access to the printer's configuration settings?
+370,149,rule_error,0.8832,0.7532,354,0,What security standards and protocols does the printer support to help keep it secure?
+371,149,procedure,0.5648,0.692,354,0,How do you secure your printer from unauthorized changes?
+372,149,procedure,0.2582,0.7783,348,0,What should you do after opening the General Security menu?
+373,149,procedure,0.8114,0.4641,344,0,How can you change an existing password?
+374,149,procedure,0.4366,0.5843,344,0,Why is it important to make note of the administrator password?
+375,150,procedure,0.7762,0.7208,170,0,How do you start the sign-in process on the printer control panel?
+376,150,procedure,0.6778,0.6496,214,0,What should you do after entering your credentials during the sign-in process?
+377,150,procedure,0.7925,0.7018,359,0,How do you start configuring IPsec on an HP printer connected to a network?
+378,151,procedure,0.4835,0.3895,348,0,How do you set up encryption on the hard disk?
+379,151,procedure,0.5797,0.688,371,0,How do I secure my printer's formatter?
+380,151,procedure,0.9372,0.6377,39,0,How can I learn about the energy-conservation settings for my printer?
+381,151,procedure,0.797,0.8012,382,0,How do you access the sleep settings on the printer?
+382,151,procedure,0.8044,0.8012,381,0,What should you do to specify when the printer enters sleep mode?
+383,151,procedure,0.6287,0.7705,381,0,How do you start creating a new Sleep Schedule event in the printer's settings?
+384,152,procedure,0.5742,0.689,357,0,How can I manage my networked HP printers efficiently?
+385,152,procedure,0.6775,0.5138,350,0,What should I do to get updates for HP Web Jetadmin?
+386,152,procedure,0.516,0.8008,424,0,How do you download the most recent firmware update file for your printer?
+387,153,spec,0.8239,0.682,0,0,What is the web address for downloading software utilities and drivers for the HP Color LaserJet E877mfp printer?
+388,153,rule_error,0.6269,0.8343,554,0,What should you have ready when contacting telephone support for your HP printer?
+389,153,procedure,0.411,0.6872,327,0,What should you do if the printer alerts of an error or warning?
+390,154,procedure,0.6494,0.8482,391,0,How do you reset the printer settings to the factory-set defaults?
+391,154,procedure,0.7098,0.8482,390,0,How do you restore the printer settings to their original values?
+392,154,procedure,0.5115,0.8465,394,0,What should you do after selecting Reset in the factory settings menu?
+393,155,procedure,0.7107,0.9088,153,0,How do you access the printer's network information to find its IP address or host name?
+394,155,procedure,0.744,0.8465,392,0,What should you click on the left side of the screen to reset the factory settings?
+395,155,procedure,0.4565,0.8306,434,0,How can you check the status of your toner cartridge?
+396,155,procedure,0.7004,0.7826,2,0,What should you do when the printer indicates that a toner cartridge level is low?
+397,155,procedure,0.7701,0.7667,50,0,How can you address the issue of the printer not picking up paper from the tray?
+398,155,procedure,0.7536,0.8137,404,0,What should you do when the printer is picking up multiple sheets of paper at once?
+399,155,procedure,0.6769,0.7802,400,0,How do you adjust the paper guides to solve printer issues?
+400,155,procedure,0.7358,0.9143,412,0,How do you adjust the paper guides in the tray correctly?
+401,155,procedure,0.4722,0.5916,412,0,What should you do if the top sheets of paper in the tray have a wavy or uneven appearance due to high humidity?
+402,155,procedure,0.4253,0.579,58,0,How do you release individual sheets of paper without introducing static electricity?
+403,155,procedure,0.6344,0.6292,404,0,What should you do after flexing the paper stack?
+404,158,procedure,0.6493,0.8137,398,0,How should you prepare the paper stack before returning it to the tray if the printer is picking up multiple sheets?
+405,158,procedure,0.6221,0.817,46,0,What should you ensure about the printing environment before using the printer?
+406,161,procedure,0.8125,0.8396,412,0,How do you ensure the paper guides are working correctly?
+407,161,procedure,0.6031,0.5753,114,0,What should you do if there are more pages than the maximum allowed in the document feeder input tray or output bin?
+408,162,procedure,0.845,0.8293,415,0,How should you start the process of clearing jammed paper from the printer?
+409,162,procedure,0.2616,0.6246,238,0,What is the primary goal of the procedures mentioned in this section?
+410,163,procedure,0.83,0.6395,408,0,How does the auto-navigation feature help with clearing printer jams?
+411,163,procedure,0.5066,0.5151,410,0,What happens after completing a step in the auto-navigation procedure?
+412,163,procedure,0.6829,0.9143,400,0,How can you ensure the paper guides in the tray are set up properly?
+413,163,procedure,0.6972,0.8081,405,0,What should you do if the printing environment is not within recommended specifications?
+414,163,spec,0.54,0.7264,282,0,What are the different items listed in the printer manual?
+415,163,procedure,0.6313,0.8293,408,0,How do you start the process of clearing a paper jam in the document feeder?
+416,163,procedure,0.7721,0.8264,415,0,What should you do after opening the document-feeder cover when there's a paper jam?
+417,165,procedure,0.7109,0.7825,415,0,How do you clear a paper jam in Tray 1?
+418,166,procedure,0.7106,0.7619,416,0,What should you do after opening the right door during a paper jam?
+419,167,rule_error,0.4328,0.7196,416,0,What should you do if paper is visible in the output bin during a jam?
+420,168,rule_error,0.8707,0.6791,419,0,What should you wait for before clearing paper jams in the fuser area?
+421,169,rule_error,0.718,0.7388,423,0,What can cause print-quality issues on HP Color LaserJet Enterprise printers?
+422,169,rule_error,0.7084,0.7548,327,0,What are some common printing issues that can be resolved using troubleshooting steps?
+423,169,rule_error,0.7992,0.7924,64,0,What should I do to fix print quality problems?
+424,170,procedure,0.8106,0.8008,386,0,How can I upgrade my printer's firmware?
+425,170,rule_error,0.5841,0.7802,327,0,What should I do if my printer isn't working properly?
+426,170,procedure,0.5062,0.4576,480,0,How do you adjust the humidity and resistance setting on the control panel?
+427,170,procedure,0.4731,0.8247,470,0,What should you do if the printed pages have smears or fuzzy print?
+428,170,procedure,0.7729,0.7068,109,0,How do you access the Finishing menu in the print driver on macOS?
+429,170,procedure,0.2389,0.6334,481,0,What should you select from after opening the Finishing menu?
+430,171,procedure,0.8411,0.6786,105,0,How do you print the Supplies Status Page from the printer control panel?
+431,171,procedure,0.6256,0.7331,395,0,What should you do if the supplies status report indicates that a toner cartridge is at its estimated end of life?
+432,172,procedure,0.6274,0.7945,408,0,How do you start the cleaning process for the printer paper path?
+433,172,procedure,0.3987,0.7267,159,0,What should you do after selecting the 'Cleaning Page' option?
+434,172,procedure,0.593,0.8306,395,0,How do you start inspecting a toner cartridge?
+435,172,procedure,0.3311,0.7623,395,0,What should you check on the memory chip of the toner cartridge?
+436,172,procedure,0.6072,0.7064,413,0,How do you ensure the paper meets HP specifications for printing?
+437,172,procedure,0.5446,0.815,405,0,What should you do to check the printing environment?
+438,172,procedure,0.8779,0.783,56,0,How do you adjust the alignment for a specific tray when printing from it?
+439,172,procedure,0.3434,0.7651,438,0,What should you do after making adjustments to the tray alignment?
+440,173,procedure,0.6125,0.6822,422,0,How can you address issues like unexpected lines in graphics or missing text when printing from a software program?
+441,173,procedure,0.4235,0.7046,470,0,What should you do if the printed pages have incorrect formatting or substituted fonts?
+442,174,procedure,0.7402,0.8571,469,0,How do you begin the calibration process on the printer?
+443,174,procedure,0.8366,0.7895,442,0,What should you do while the printer is calibrating?
+444,174,spec,0.9653,0.7057,265,0,What is the page number where Table 9-3 Image defects table quick reference can be found?
+445,176,spec,0.6283,0.7629,466,0,What are the characteristics of the dark or light lines that appear on the printed page?
+446,176,spec,0.4349,0.6346,445,0,What are the characteristics of the lines that repeat down the length of the page?
+447,177,spec,0.4105,0.7337,448,0,What are some possible solutions for printing a blank page?
+448,177,spec,0.3977,0.7379,466,0,What are some possible solutions when the entire printed page is black?
+449,178,spec,0.4466,0.6562,470,0,What are some possible solutions for toner rubbing off along the edges of a printed page?
+450,178,spec,0.4054,0.6532,460,0,What color plane is most likely affected by registration error in this printer issue?
+451,179,spec,0.3171,0.4833,492,0,What are some possible solutions when an image is not centered or skewed on the page?
+452,179,spec,0.6323,0.8629,31,0,What is the supported operating environment for this printer?
+453,180,spec,0.7824,0.5776,463,0,What are the two types of paper curl described in the manual?
+454,180,spec,0.474,0.7114,459,0,What are the steps to take when the printed content is light or faded on the entire page?
+455,181,spec,0.7521,0.6984,41,0,What are the environmental specifications for the printer?
+456,181,spec,0.5453,0.7107,404,0,What conditions can cause paper not to stack well in the output tray?
+457,174,procedure,0.6228,0.7295,327,0,How should you start troubleshooting image defects in your printer?
+458,174,procedure,0.6994,0.6515,82,0,How can I check if the cartridge is installed correctly when troubleshooting a completely black printed page?
+459,174,procedure,0.3959,0.7717,466,0,What should you do first if your printout has dark or light lines repeating down the length of the page?
+460,174,procedure,0.7475,0.7716,442,0,How do you calibrate the printer when there's a registration error?
+461,174,procedure,0.6203,0.6611,2,0,What should you do if a cartridge is severely faded or at a Very Low state?
+462,174,procedure,0.6831,0.5764,396,0,How do you adjust the toner density for mono models if it's too high?
+463,174,procedure,0.2521,0.5776,453,0,How can you address positive curl when reprinting a document?
+464,174,procedure,0.8532,0.8185,465,0,How do you redistribute the toner in the cartridge?
+465,174,procedure,0.6902,0.8185,464,0,What should you do after shaking the cartridge to redistribute the toner?
+466,182,spec,0.4386,0.7717,459,0,What are some possible solutions for dark vertical lines on the printed page?
+467,182,spec,0.824,0.7718,189,0,What is the maximum resolution supported by this printer?
+468,182,procedure,0.8174,0.6009,432,0,How do you clean the scanner glass and document feeder strips?
+469,184,procedure,0.6199,0.8571,442,0,How do you begin the calibration process?
+470,184,procedure,0.4226,0.8247,427,0,How should you proceed if the printed pages have smeared ink?
+471,184,procedure,0.7275,0.7483,427,0,What should be done when there is fuzzy or dark print on the copied pages?
+472,184,procedure,0.5921,0.759,98,0,How do you start checking the paper selection options on the printer?
+473,184,procedure,0.2925,0.6814,71,0,What should you do after selecting Paper size?
+474,184,procedure,0.6094,0.7794,488,0,How do you adjust the image quality settings in the Copy menu?
+475,185,procedure,0.375,0.6395,482,0,How do you start optimizing a copy job for different image types?
+476,185,procedure,0.8504,0.4671,482,0,How can I reduce moire patterns when scanning halftone images?
+477,185,procedure,0.7958,0.6486,482,0,What should you do if the scanned image is too dark or too light?
+478,187,procedure,0.8312,0.7491,246,0,How do you access the Scan application from the Home screen on the printer control panel?
+479,187,procedure,0.2311,0.7783,236,0,What should you select after choosing a Scan feature?
+480,188,procedure,0.7633,0.7764,282,0,How do you start adjusting the color setting on this printer?
+481,188,procedure,0.4914,0.6334,429,0,What should you select after scrolling in the Options pane?
+482,189,procedure,0.4551,0.7112,289,0,How do you start optimizing the scan job for the type of image being scanned?
+483,189,procedure,0.5407,0.7002,255,0,How do you adjust the compression level for saving a file?
+484,190,procedure,0.7656,0.8495,290,0,How do you access the fax settings menu on your printer?
+485,192,procedure,0.829,0.8439,484,0,How do you access the Fax application from the Home screen on the printer control panel?
+486,192,procedure,0.186,0.621,189,0,What should you do after selecting the Resolution option in the Options pane?
+487,192,procedure,0.6864,0.7647,484,0,How do you access the Image Adjustment settings in the Fax menu?
+488,192,procedure,0.1133,0.7794,474,0,What should you do after adjusting the image quality settings?
+489,192,procedure,0.4386,0.7365,290,0,How do you optimize a fax job for different types of images in this printer manual?
+490,193,procedure,0.8352,0.6558,303,0,How do you enable the Error Correction Mode setting?
+491,193,procedure,0.7754,0.7301,282,0,How do you enable the Fit to Page setting in the printer manual described?
+492,193,procedure,0.6876,0.5198,491,0,What happens if the Fit to Page setting is disabled and a larger image is received?
+493,193,rule_error,0.8042,0.8721,494,0,What could be causing poor fax quality if it only happens with one recipient?
+494,194,rule_error,0.7322,0.8721,493,0,What can cause poor fax quality when sending from a specific machine?
+495,194,procedure,0.4209,0.6124,588,0,How do I find my product model number?
+496,194,procedure,0.9115,0.8047,290,0,How can I address problems related to the printer's fax functions?
+497,194,rule_error,0.7584,0.7062,499,0,What should I use to connect my fax accessory to avoid any issues?
+498,195,rule_error,0.8583,0.6763,501,0,What might cause fax communication problems when using a surge-protection device?
+499,195,procedure,0.649,0.748,301,0,How can you ensure the fax accessory receives faxes?
+500,195,procedure,0.6592,0.656,302,0,What happens if the rings-to-answer setting for the fax accessory is set lower than that of the messaging service?
+501,195,rule_error,0.7916,0.7017,494,0,What could cause a communication error during a fax call?
+502,195,procedure,0.5958,0.7188,503,0,How do you print a Configuration Page report to check the status of the analog-fax accessory?
+503,195,procedure,0.5169,0.7465,496,0,What should you do if the Fax Accessory Page does not print?
+504,195,procedure,0.7874,0.6412,505,0,How do you proceed if the status of your analog-fax accessory card is still DAMAGED?
+505,195,procedure,0.902,0.7016,502,0,What does a status of ENABLED indicate for an analog-fax accessory?
+506,196,procedure,0.5875,0.5781,494,0,How do you address the issue when the receiving fax machine does not support JBIG?
+507,196,spec,0.7123,0.7651,290,0,What are the possible operational states of the fax accessory in this printer?
+508,196,procedure,0.6304,0.6741,313,0,How do you address the issue when none of the contacts in the selected contacts list have fax information?
+509,196,procedure,0.942,0.7719,484,0,How do you access fax settings in HP Web Jetadmin?
+510,196,procedure,0.7642,0.743,335,0,What should be selected from the drop-down menu to access Digital Sending and Fax options?
+511,197,procedure,0.7921,0.7229,290,0,How does the printer modify forwarded faxes?
+512,197,procedure,0.8129,0.6637,294,0,How do names and numbers display in the fax address book?
+513,197,rule_error,0.7831,0.7379,300,0,What should you do if there's a jam in the document feeder while trying to send a fax?
+514,197,procedure,0.8296,0.8543,304,0,How do you adjust the fax volume?
+515,197,procedure,0.5391,0.8911,516,0,How can I start using the USB port on my printer?
+516,197,procedure,0.7736,0.8911,515,0,How can I activate the USB port on my printer?
+517,198,procedure,0.7059,0.8149,145,0,How can you enable the USB port for printing on a network-connected printer?
+518,199,spec,0.9109,0.8089,519,0,What is the duration of the limited warranty for HP Color LaserJet Managed MFPE877 Series products?
+519,199,rule_error,0.6793,0.8089,518,0,What should you do if your HP Color LaserJet Managed MFP E877 Series printer has defects during the warranty period?
+520,199,rule_error,0.7083,0.8208,533,0,What might void the warranty on an HP printer?
+521,199,rule_error,0.762,0.5947,520,0,What happens if I try to use the HP printer in a country/region it was not intended for?
+522,200,procedure,0.5948,0.918,532,0,How can I find out more about consumer legal guarantees?
+523,200,procedure,0.4964,0.6097,547,0,How can I find more information about consumer statutory rights in Malta?
+524,201,procedure,0.4283,0.903,525,0,How can I find more information about the legal warranties granted to consumers?
+525,201,procedure,0.4155,0.903,524,0,What should you do if you want more information about legal warranties granted to consumers?
+526,203,procedure,0.4555,0.9009,524,0,How can I find out more about my consumer legal warranty?
+527,204,procedure,0.6077,0.8263,532,0,How can I find out more about the legal consumer guarantee in Portugal?
+528,204,procedure,0.4937,0.8066,529,0,What is the address for HP's limited warranty in Greece?
+529,207,procedure,0.6002,0.8219,530,0,How can I find the address of the HP entity responsible for the Limited Warranty in my country?
+530,207,procedure,0.8995,0.8219,529,0,How can I find contact information for HP's limited warranty in Finland?
+531,207,procedure,0.5004,0.8793,526,0,How can I find out more about my legal warranty rights?
+532,208,procedure,0.533,0.918,522,0,How can I find more information about the legal consumer guarantee?
+533,209,procedure,0.7305,0.8372,534,0,How do you initiate warranty service for an HP printer?
+534,209,procedure,0.7554,0.8372,533,0,How can I determine when the warranty for my HP printer ends?
+535,209,procedure,0.784,0.5123,526,0,What is the warranty coverage for Replacement Preventative Maintenance kits or LLCs products?
+536,210,rule_error,0.6747,0.6601,82,0,What might happen if I use a non-HP toner cartridge in my HP printer?
+537,210,procedure,0.8345,0.6911,434,0,How does HP collect usage information from their toner cartridges?
+538,211,procedure,0.3953,0.5974,376,0,How do you accept the license terms for the Sign-In Once application?
+539,211,procedure,0.6014,0.5502,542,0,How can you legally use the Software on your device according to the manual?
+540,211,procedure,0.7689,0.4938,331,0,What are the conditions for making a back-up copy of the Software?
+541,211,procedure,0.5944,0.5797,542,0,How do you transfer the software to another end user?
+542,211,procedure,0.4915,0.5797,541,0,How do you set up an account to use the Software?
+543,211,procedure,0.7661,0.5458,371,0,What should you do if there is unauthorized use of your HP ID account?
+544,211,procedure,0.8284,0.8006,550,0,What does HP disclaim in the software warranty?
+545,211,procedure,0.7902,0.6798,550,0,How is HP's liability limited according to the EULA?
+546,211,procedure,0.7942,0.4714,539,0,How should users ensure they are complying with export laws when using the software?
+547,211,procedure,0.6455,0.6097,523,0,How do consumer rights under Australian law affect the EULA?
+548,211,procedure,0.828,0.5537,549,0,How can I initiate a support request or warranty claim within Australia?
+549,211,procedure,0.6024,0.6794,531,0,What should I do if I think I am entitled to any warranty under this agreement?
+550,211,procedure,0.8317,0.8006,544,0,How does HP limit its liability for failure to comply with a consumer guarantee when the software is acquired for personal use?
+551,211,procedure,0.7161,0.5218,575,0,How will HP handle the cost of collecting goods if it's significantly expensive for the New Zealand consumer to return them?
+552,215,procedure,0.7473,0.8116,553,0,How should I ship back a defective Customer Self Repair (CSR) part if it needs to be returned to HP?
+553,215,procedure,0.7185,0.8116,552,0,What happens if I don't return a defective CSR part to HP when required?
+554,215,procedure,0.6796,0.8343,388,0,How can I get telephone support for my printer?
+555,215,procedure,0.4353,0.7015,388,0,What information should I have ready when contacting telephone support?
+556,217,procedure,0.5835,0.7086,574,0,How can I contribute to environmental sustainability when using this HP product?
+557,217,procedure,0.7351,0.7308,558,0,How was the airborne emissions of ozone for this product measured?
+558,217,procedure,0.632,0.7308,557,0,What scenario was used to determine the ozone levels in an office workspace?
+559,217,procedure,0.7768,0.7498,560,0,How can I identify if my HP printing equipment is ENERGY STAR qualified?
+560,217,procedure,0.6651,0.7498,559,0,What should I do to find more information about ENERGY STAR qualified imaging products from HP?
+561,217,procedure,0.7581,0.6624,584,0,How can I reduce paper usage when using this printer?
+562,218,procedure,0.8473,0.432,571,0,How should plastic parts over 25 grams be marked?
+563,218,procedure,0.8305,0.6812,575,0,How can I participate in the HP Planet Partners return and recycling program?
+564,218,procedure,0.5706,0.67,566,0,What should I do if I want to recycle my used HP cartridges?
+565,218,procedure,0.5162,0.6049,436,0,How can I determine if my recycled or lightweight paper is suitable for this printer?
+566,219,rule_error,0.5454,0.7531,5,0,What should you do instead of disposing of the printer with regular household waste?
+567,219,procedure,0.8468,0.7848,575,0,How can I find out more about HP's recycling programs for used electronic hardware?
+568,220,procedure,0.9149,0.628,574,0,How can I find the chemical information report for this HP product?
+569,220,procedure,0.6274,0.5417,38,0,How can I find the power consumption data for this product in networked standby mode?
+570,221,spec,0.6043,0.5327,455,0,What are the maximum allowable concentrations of hazardous substances like lead and mercury in this printer according to India E-waste Rule 2016?
+571,222,procedure,0.236,0.5492,568,0,How can you obtain Material Safety Data Sheets for supplies containing chemical substances like toner?
+572,223,procedure,0.9011,0.5763,573,0,How can I find out more about EPEAT?
+573,223,procedure,0.8212,0.626,575,0,What is the website to learn about HP's EPEAT registered products?
+574,225,procedure,0.9346,0.7086,556,0,How can I find out about HP's environmental management system?
+575,225,procedure,0.8904,0.7848,567,0,What should I do to learn more about HP's end-of-life product return and recycling program?
+576,226,procedure,0.9303,0.885,0,0,How do you identify the regulatory model number for the HP Color LaserJet Managed MFP product?
+577,227,rule_error,0.4776,0.604,370,0,What type of cable is necessary for compliance with FCC regulations when using this printer?
+578,227,procedure,0.3677,0.7989,39,0,How do you determine if your power source is adequate for the printer?
+579,228,rule_error,0.5566,0.462,409,0,What could happen if I use controls or perform procedures not specified in the user guide?
+580,229,procedure,0.2432,0.8076,583,0,How do you connect the device in Denmark?
+581,229,procedure,0.2117,0.8032,583,0,What should you do to connect the device in Finland?
+582,229,procedure,0.2471,0.5643,580,0,How is the apparatus connected in Norway?
+583,229,procedure,0.2191,0.8076,580,0,What is the procedure for connecting the device in Sweden?
+584,231,rule_error,0.6476,0.8209,50,0,What should you avoid doing with the paper trays while operating the printer?
+585,231,procedure,0.6397,0.7552,591,0,What type of telephone cord should be used if it's not provided with the product to reduce the risk of fire?
+586,231,procedure,0.2278,0.8016,3,0,How can I find more detailed information about this printer?
+587,231,spec,0.698,0.4076,590,0,What limitation does the Telepermit grant indicate regarding the connection of terminal equipment to Telecom's network?
+588,232,procedure,0.7934,0.6262,589,0,How do I find the product identifier for this equipment?
+589,232,procedure,0.5602,0.6262,588,0,What should I do if the telephone company requests the product identifier?
+590,232,procedure,0.7445,0.5103,593,0,How can I determine the maximum number of devices that may be connected to my telephone line?
+591,232,procedure,0.7424,0.7552,585,0,What type of telephone cord and jack should be used with this equipment?
+592,232,procedure,0.4724,0.6967,42,0,How can I protect my printer from electrical surges?
+593,232,procedure,0.7647,0.5999,606,0,What should you do if your equipment is causing harm to the telephone network?
+594,232,procedure,0.4931,0.8743,595,0,What information must be identified in a fax message sent according to the Telephone Consumer Protection Act of 1991?
+595,232,procedure,0.4437,0.8743,594,0,What type of telephone number cannot be provided in a fax message according to the Telephone Consumer Protection Act of 1991?
+596,232,rule_error,0.2931,0.4221,593,0,What should you do instead of attempting to connect electrical ground connections yourself?
+597,234,rule_error,0.618,0.4741,605,0,What could happen if I use the 802.11a/b/g/n wireless functionality outdoors in Europe?
+598,234,rule_error,0.8813,0.878,604,0,What is the minimum safe distance for human proximity to the antenna during normal operation to avoid exceeding FCC radio frequency exposure limits?
+599,235,procedure,0.7985,0.5021,598,0,How far should you keep the device from your head and body when operating it?
+600,235,procedure,0.2247,0.5965,606,0,How can I get more information about this equipment's protection against interference?
+601,235,procedure,0.5792,0.4353,606,0,How is the radio noise emission of this digital apparatus classified?
+602,235,procedure,0.5677,0.5017,606,0,What standard does the internal wireless radio comply with?
+603,235,rule_error,0.4963,0.5393,600,0,What could cause interference or damage to this wireless LAN device?
+604,235,rule_error,0.7876,0.878,598,0,What is the minimum distance that should be maintained from the antennas to avoid exceeding radio frequency exposure limits?
+605,236,procedure,0.4041,0.5749,580,0,How can I determine if the telecommunications functionality of this product is available in my European country?
+606,237,procedure,0.5714,0.5999,593,0,How can I ensure that this radio communication equipment is safe to use?
+607,238,spec,0.7494,0.6903,62,0,What are the dimensions of the printer as specified in the manual?
+608,238,spec,0.7526,0.8787,25,0,What is the capacity of the trays in this printer?
+609,238,spec,0.7017,0.683,452,0,What are the supported versions of Internet Explorer for this printer?
+610,238,spec,0.8812,0.8002,364,0,What is the network link speed setting for Tray 3 in this printer manual?
+611,238,spec,0.8622,0.6497,218,0,What are the page numbers that discuss paper orientation in this manual?

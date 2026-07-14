@@ -39,7 +39,7 @@ def load_summary(path: Path) -> dict | None:
 
 
 def render_report(faith, qq, div, source_file, total_raw=None, faith_nli=None):
-    n = faith.get("n_pairs_scored", faith.get("n_pairs")) if faith else (qq["n_pairs"] if qq else 0)
+    n = faith.get("n_pairs_scored", faith.get("n_pairs")) if faith else 0
     
 
     # Headline pass/fail

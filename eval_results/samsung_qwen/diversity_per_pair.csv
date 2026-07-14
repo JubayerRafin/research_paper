@@ -1,0 +1,531 @@
+idx,page,category,qa_cosine,nn_cosine,nearest_neighbor_idx,is_near_duplicate,question
+0,1,procedure,0.3567,0.462,490,0,How can I receive more complete service?
+1,1,procedure,0.6588,0.8367,491,0,How can visually impaired users access instructions on how to use the manual?
+2,4,procedure,0.4305,0.7034,488,0,What should I do if the TV displays 'Weak or No Signal' in TV mode?
+3,6,procedure,0.1556,0.4495,509,0,What is listed as step 279 in the manual?
+4,7,procedure,0.6177,0.75,88,0,How do I watch live broadcasts on my TV?
+5,7,procedure,0.6714,0.6688,23,0,What is the purpose of viewing detailed information about external devices?
+6,7,procedure,0.4719,0.642,21,0,How can you check the connection to an HDMI cable and external devices?
+7,8,procedure,0.207,0.3874,477,0,What should be done before transporting the product to prevent damage?
+8,9,procedure,0.4134,0.5164,131,0,How can you get access to the network?
+9,9,spec,0.4159,0.5097,440,0,What type of LAN cable is required for connecting to the network?
+10,10,procedure,0.5722,0.7217,15,0,How do you disconnect Wi-Fi?
+11,11,procedure,0.7564,0.563,438,0,What is the procedure for restoring network settings?
+12,12,spec,0.6179,0.6521,16,0,What are the requirements for turning on the TV using a mobile device?
+13,13,procedure,0.1871,0.665,447,0,How should the supplied type-C power adapter and cable be used?
+14,13,procedure,0.8187,0.6572,47,0,What is the maximum installation distance recommended for Wireless One Connect relative to the screen?
+15,14,procedure,0.8569,0.7638,442,0,How do I unpair a connected Wireless One Connect?
+16,15,procedure,0.884,0.7776,292,0,How can I watch my mobile device's screen on the TV?
+17,15,procedure,0.8989,0.5369,401,0,How do I turn off Screen Sharing (Smart View)?
+18,15,procedure,0.56,0.582,258,0,How do you enable Apple AirPlay on the printer?
+19,16,procedure,0.5726,0.6789,16,0,How do I enable the Tap View feature to watch content through my TV?
+20,16,procedure,0.6589,0.6748,19,0,How do you enable Tap View in the SmartThings app?
+21,17,spec,0.4476,0.642,6,0,What do HDMI cables transmit from an external device to the TV?
+22,18,spec,0.6603,0.4458,21,0,What terminal colors are used for video signals on Component cables?
+23,17,procedure,0.7072,0.7125,113,0,What can be viewed regarding external devices connected to the TV?
+24,19,procedure,0.4672,0.6403,113,0,How can you switch between TV programs and the content of external devices?
+25,19,procedure,0.4343,0.5139,197,0,What happens when I select a connected external device on the Sources screen?
+26,19,procedure,0.6559,0.7127,448,0,How do I control an external device like a Blu-ray player using the TV's remote control?
+27,19,procedure,0.4929,0.542,291,0,How do you access the options to change a connected external device's name or add it to the Home Screen?
+28,20,procedure,0.6328,0.5052,218,0,How can I connect a camera for video calls and other features?
+29,22,rule_error,0.4223,0.5538,197,0,What should be done if the connector names or locations on an external device do not match expectations?
+30,22,rule_error,0.74,0.6572,432,0,What issue may occur if I use a non-certified HDMI cable?
+31,23,procedure,0.8278,0.7316,416,0,How do you manually change the Sound Output setting to Receiver (Optical)?
+32,23,spec,0.3976,0.7426,124,0,What must be true about the PC and TV if you want to connect them wirelessly?
+33,24,spec,0.3903,0.5336,12,0,What operating system versions are required for the TV to support Portrait Mode?
+34,25,procedure,0.6937,0.8126,290,0,How can you connect to nearby Galaxy devices?
+35,25,spec,0.6085,0.822,290,0,What conditions must be met to connect multiple Galaxy devices using Multi Control mode?
+36,25,procedure,0.6308,0.5084,95,0,How can you easily transfer and save photos?
+37,25,procedure,0.6034,0.7708,118,0,How do I change my Samsung Account settings?
+38,26,procedure,0.6831,0.6621,34,0,How do I connect to Galaxy devices using Storage Share?
+39,26,procedure,0.7835,0.7037,40,0,How can I find out about the connection between my device and a Galaxy Watch?
+40,26,procedure,0.7356,0.7105,129,0,How do I connect my Galaxy Watch to the TV?
+41,27,procedure,0.8566,0.6598,528,0,How can you control TV operations?
+42,27,spec,0.5889,0.5376,443,0,What does the LED indicator signify when charging the remote control via the USB port?
+43,27,spec,0.4245,0.6003,50,0,What is the purpose of the button labeled '/' and how do you activate it?
+44,28,spec,0.7542,0.7063,51,0,What happens when the Color button is pressed?
+45,28,spec,0.2085,0.6712,46,0,What happens when the Return button is pressed for 1 second or more?
+46,29,spec,0.2307,0.6712,45,0,What happens when the Volume button is pressed for 2 seconds or more?
+47,27,spec,0.7156,0.6572,14,0,What is the recommended maximum distance for using the Bluetooth-connected Samsung Smart Remote from the TV?
+48,27,spec,0.7572,0.5746,121,0,What is the function of the Remote Grip Sensor?
+49,30,spec,0.3108,0.5368,51,0,What is the function of the TTX/MIX button?
+50,30,spec,0.4959,0.607,503,0,What is the function of the directional button?
+51,31,spec,0.4279,0.7063,44,0,"What is the function of the Red, Green, Yellow, and Blue color buttons?"
+52,30,procedure,0.4431,0.5715,454,0,What should I do if my model or geographical area does not provide the Standard Remote Control?
+53,32,procedure,0.6052,0.6974,455,0,How do you pair the Samsung Smart Remote to your TV if it does not connect automatically?
+54,32,procedure,0.4768,0.7424,143,0,How do I use the mobile remote control if my TV is not registered in the SmartThings app?
+55,33,procedure,0.578,0.7074,121,0,What is Universal Remote Setup used for?
+56,33,rule_error,0.4969,0.5867,60,0,Why might a user have difficulty controlling external devices with the Universal Remote?
+57,33,procedure,0.8862,0.6019,493,0,How can I learn more about the functions of each Game Controller button?
+58,34,rule_error,0.5257,0.7679,448,0,What is required to control external devices connected via Anynet+ using the TV's remote?
+59,34,rule_error,0.6411,0.6033,30,0,What causes an external device to not support HDMI-CEC?
+60,34,rule_error,0.3443,0.8253,454,0,How can you fix the TV remote control if it does not work under certain circumstances?
+61,34,rule_error,0.6414,0.6255,424,0,What should be avoided when connecting a 5.1 home theater system to listen to 5.1 channel audio from an external device?
+62,34,rule_error,0.4782,0.7184,452,0,What happens if a universal remote control is set up alongside Anynet+ on an external device?
+63,35,procedure,0.4275,0.6001,64,0,"How do you connect input devices like a keyboard, mouse, or gamepad?"
+64,35,spec,0.8152,0.6476,71,0,What type of USB gamepad is explicitly mentioned as being supported?
+65,35,procedure,0.3166,0.4539,454,0,How do you resolve an issue if your device was not detected?
+66,36,spec,0.6886,0.5502,68,0,What is the function of the F1 key?
+67,36,spec,0.6186,0.5351,51,0,What is the function of right-clicking in this context?
+68,36,procedure,0.4354,0.5502,66,0,How does the key operation vary?
+69,37,spec,0.849,0.6958,70,0,What connection method is used for the Xbox Series X/S controller and does it support force feedback?
+70,37,spec,0.7169,0.7212,71,0,Which controllers support force feedback according to the text?
+71,37,spec,0.5628,0.7212,70,0,What are the force feedback specifications for supported gamepads?
+72,37,spec,0.8682,0.5704,64,0,Which mode will Tizen TVs use to support compatible gamepads?
+73,37,spec,0.9169,0.4752,100,0,Is controller audio output available on this product via the 3.5 mm port?
+74,38,spec,0.6891,0.5921,51,0,What function is performed by pressing and holding the B button or O button on Sony controllers?
+75,38,spec,0.5212,0.4928,158,0,What limitation applies to using the UI navigation function when connecting via Wi-Fi solution?
+76,39,spec,0.7945,0.5525,63,0,What functions are available to set up the mouse?
+77,39,procedure,0.8918,0.6161,79,0,How do you enter text on your TV?
+78,39,procedure,0.3157,0.3972,79,0,How do I perform an editing function after entering characters?
+79,40,procedure,0.3232,0.6161,77,0,How do you enter text using voice input when the virtual keyboard is displayed?
+80,41,procedure,0.6269,0.4794,202,0,What steps must you take to use smart functions?
+81,44,procedure,0.5242,0.601,88,0,"How can I install video, music, sports, and game apps on my TV?"
+82,44,procedure,0.7418,0.7739,465,0,How do you stop using Smart Hub?
+83,44,procedure,0.8867,0.7647,82,0,How do you reset the Smart Hub settings?
+84,45,procedure,0.1486,0.4846,202,0,What does this screen make?
+85,45,spec,0.396,0.4053,67,0,What does the 'On Now' function display?
+86,47,spec,0.6202,0.5912,334,0,What is the minimum internet connection speed required to receive 8K image quality?
+87,47,procedure,0.5133,0.6349,104,0,How do I access the Media Options menu?
+88,48,procedure,0.6638,0.75,4,0,How can I view TV programs currently on the air?
+89,48,procedure,0.2616,0.7772,217,0,What can you do using the Guide feature?
+90,49,procedure,0.7597,0.7628,92,0,How do you enter the Ambient Home screen?
+91,49,spec,0.0963,0.5248,204,0,What determines which third-party applications are supported?
+92,53,procedure,0.6778,0.8772,526,0,How do you access the TV screen from Ambient mode?
+93,56,procedure,0.3051,0.4422,94,0,How do you customize the border style and color for an image in Art mode?
+94,58,procedure,0.8616,0.7567,402,0,How do you switch from Art mode to the Home screen?
+95,58,procedure,0.3074,0.6259,402,0,How can I save photos from my mobile device to the TV while in Art mode?
+96,60,rule_error,0.5508,0.581,140,0,What can cause the motion sensor to start operating unexpectedly?
+97,60,rule_error,0.4693,0.6115,400,0,What causes the 'Sleep Timer' or 'Off Timer' settings to appear in the menu?
+98,61,procedure,0.8454,0.7947,99,0,What is the purpose of the Generative Wallpaper feature?
+99,61,procedure,0.8019,0.7947,98,0,How do I activate the Generative Wallpaper feature?
+100,63,procedure,0.6465,0.5014,184,0,How can I connect my controller for Gamestream?
+101,66,spec,0.6563,0.4178,273,0,What is the purpose of the 'Workout Tracker' service?
+102,67,procedure,0.1963,0.6406,111,0,"What must be done to use the feature that allows enjoying content like video, music, sports and game apps?"
+103,68,procedure,0.5841,0.3865,216,0,What does an icon containing a specific symbol indicate about an application?
+104,68,procedure,0.6211,0.6701,207,0,How do you configure option settings in this menu?
+105,69,procedure,0.7086,0.6342,301,0,How do I manage installed apps?
+106,71,rule_error,0.1607,0.7346,178,0,What conditions must be met to use the Vision AI Companion service?
+107,71,procedure,0.6789,0.6133,108,0,How do I receive recommendations for related information and access AI apps while watching Live TV?
+108,72,procedure,0.3834,0.6133,107,0,How do you access a variety of AI apps or services when using non-broadcast services?
+109,72,procedure,0.806,0.672,106,0,How do I set up Bixby to use the Vision AI Companion service?
+110,72,procedure,0.425,0.6204,104,0,How do you access the settings menu to view service-setting-related features?
+111,73,spec,0.3577,0.6406,102,0,On which platforms is the feature for viewing information on playing content and receiving recommendations supported?
+112,73,procedure,0.4439,0.5984,19,0,How do you start Click to Search while viewing Live TV or Samsung TV Plus content?
+113,74,procedure,0.8674,0.7125,23,0,What is the purpose of managing external devices connected to the TV?
+114,74,procedure,0.5435,0.5598,143,0,What should I expect regarding some screen setting features on the Smart Hub Home screen?
+115,74,procedure,0.9221,0.7217,188,0,How do you turn Game Mode on or off?
+116,74,procedure,0.7263,0.5867,157,0,How can I listen to my TV's audio using an external device?
+117,78,procedure,0.8364,0.6588,118,0,How do I view the Terms & Conditions for my Samsung account?
+118,78,procedure,0.17,0.7708,37,0,How can I log in using my Samsung account?
+119,78,procedure,0.7615,0.4125,120,0,How do you set up high security for personal information when editing your profile?
+120,78,procedure,0.4436,0.5367,451,0,How do I prevent others from using my account when sharing the TV?
+121,80,procedure,0.3783,0.7074,55,0,What is the purpose of using the remote function?
+122,80,procedure,0.1775,0.5056,32,0,"What should be connected to a Windows PC, Mac, or mobile device for easy use?"
+123,80,procedure,0.4501,0.6003,41,0,How can one prepare the TV for easy computer use in advance?
+124,80,procedure,0.813,0.7426,32,0,How do I wirelessly connect the TV to the PC?
+125,80,procedure,0.7641,0.6425,126,0,How do I use the remote access function after installing Easy Connection to Screen on my PC?
+126,81,procedure,0.8568,0.6425,125,0,How do you proceed after entering the required settings to connect the computer remotely?
+127,82,procedure,0.5412,0.4168,128,0,How can I find my computer's username on Windows and Mac operating systems?
+128,83,procedure,0.6364,0.4258,38,0,How do you access folders shared on Windows or Mac OS after moving to the top of the screen?
+129,84,procedure,0.6964,0.7105,40,0,How do I connect Samsung DeX software to the TV?
+130,84,procedure,0.6819,0.5166,131,0,How do you add or delete a web service link in the Workspace?
+131,85,procedure,0.76,0.5166,130,0,How can you access the web service?
+132,86,procedure,0.5742,0.3385,515,0,How can I select a topic?
+133,88,procedure,0.4288,0.4389,131,0,How can I log into websites easily and securely using the Internet app?
+134,89,procedure,0.644,0.5447,142,0,How can you monitor and control home appliances and IoT devices?
+135,89,spec,0.6417,0.573,267,0,What is the impact on power consumption when using remote control for devices registered to the SmartThings cloud while the TV is in low power or standby mode?
+136,91,procedure,0.4129,0.4919,20,0,How can I run the Quick Panel in SmartThings?
+137,92,spec,0.5285,0.6334,524,0,What types of IoT devices can be connected using the SmartThings Hub features on Samsung products?
+138,92,spec,0.4471,0.4902,137,0,What is required to connect to Zigbee or Thread when using this Hub function?
+139,92,spec,0.5094,0.5351,403,0,What type of doorbells are supported for connection to the TV?
+140,92,procedure,0.5317,0.581,96,0,What happens when you activate the sensor?
+141,92,spec,0.3916,0.6754,170,0,What conditions must be met for the sound sensor to function?
+142,93,procedure,0.2928,0.7694,528,0,How can you control devices connected to SmartThings and the TV when Bixby is on the product?
+143,93,procedure,0.7623,0.7424,54,0,How can routines in the mobile SmartThings app be used to manage the TV?
+144,93,spec,0.5178,0.3844,204,0,What factors determine whether Pointer mode is available?
+145,94,procedure,0.6654,0.7198,147,0,What types of devices can be used to play media content?
+146,94,procedure,0.7156,0.6633,523,0,How do you delete recorded media content from the list?
+147,94,procedure,0.7911,0.7198,145,0,How do I select and play media content from a connected device?
+148,95,procedure,0.742,0.6848,147,0,How do you start playing content from a USB device?
+149,95,procedure,0.5551,0.5677,40,0,How do you set up the connection to play music visualizations on your TV?
+150,98,spec,0.3212,0.6092,153,0,What conditions must be met for background music to play during a slideshow?
+151,95,procedure,0.3812,0.4625,230,0,How do you jump backward or forward by 10 seconds in a video?
+152,95,procedure,0.7494,0.4344,243,0,"How do you change from 360 Auto Rotation mode to General, Dynamic, or Natural modes?"
+153,95,procedure,0.7327,0.6092,150,0,How do you pause or resume background music while photos are displayed on the TV?
+154,99,procedure,0.5282,0.5002,193,0,How can you view multiple content items?
+155,99,procedure,0.578,0.6906,156,0,How do you add or delete a screen in the current Multi View?
+156,99,procedure,0.7731,0.6906,155,0,How do you close Multi View?
+157,101,spec,0.5407,0.5867,116,0,What is required for a printer to support listening to TV audio via this feature?
+158,101,spec,0.7686,0.4928,75,0,What limitation applies when the Auracast feature is turned on regarding other wireless devices?
+159,102,procedure,0.675,0.4547,158,0,What must be done if a password has been set before connecting an audio device and using Auracast?
+160,102,procedure,0.3827,0.4615,485,0,What is the purpose of the Reset Password procedure?
+161,103,procedure,0.3451,0.4767,164,0,How can you create a more immersive viewer experience when watching soccer matches?
+162,103,procedure,0.5788,0.6693,164,0,What is the navigation path to access Soccer Mode Settings?
+163,103,procedure,0.3914,0.5219,164,0,How can I enable AI Soccer Mode Pro to automatically run when soccer matches are recognized?
+164,103,procedure,0.573,0.6693,162,0,What is the purpose of Soccer Mode?
+165,105,procedure,0.6446,0.5454,167,0,What is the purpose of using the Live Translate feature?
+166,105,spec,0.3118,0.4633,77,0,What input signals are required to use the subtitle translation feature?
+167,106,procedure,0.4931,0.5454,165,0,How do I configure specific items for viewing content using the real-time translation service?
+168,107,procedure,0.562,0.6981,251,0,What is the purpose of letting the TV analyze the surroundings and content?
+169,107,spec,0.4226,0.4635,141,0,What conditions must be met for Active Voice Amplifier or Active Voice Amplifier Pro to function?
+170,107,spec,0.3208,0.6754,141,0,What condition must be met for Adaptive Sound to function?
+171,107,spec,0.3445,0.4457,252,0,What is the maximum difference in levels that this function can make from the current volume?
+172,110,procedure,0.7896,0.7584,173,0,How can you change the settings of a Voice Assistant?
+173,110,procedure,0.8351,0.7584,172,0,How do I enable the selected Voice Assistant?
+174,111,spec,0.5694,0.8499,180,0,What condition must be met for Bixby to function?
+175,111,procedure,0.5087,0.6674,176,0,How do you start a conversation with Bixby?
+176,112,procedure,0.5734,0.6674,175,0,How do I start a conversation with Bixby using the Samsung Smart Remote?
+177,113,procedure,0.9395,0.5347,175,0,How can I configure Bixby to play sounds when it starts or stops listening?
+178,113,procedure,0.7395,0.7346,106,0,What steps are required to connect to Vision AI Companion for advanced features?
+179,113,procedure,0.8401,0.6262,180,0,How can I control whether Bixby uses my personal information during service usage?
+180,115,rule_error,0.1503,0.8499,174,0,What must a user agree to in order to use the Bixby function?
+181,115,procedure,0.394,0.6041,469,0,What factors cause the voice interaction rate to differ?
+182,116,spec,0.6823,0.5704,257,0,What is stated about USB camera support?
+183,116,procedure,0.249,0.4963,282,0,What is required to enable gesture interaction?
+184,117,procedure,0.5918,0.6634,115,0,How do you set Game Mode when connecting a game source other than PlayStation or Xbox?
+185,118,procedure,0.6702,0.5464,407,0,How do you turn on Game Motion Plus to obtain softer and clearer picture quality in RPG or adventure games?
+186,118,procedure,0.5723,0.5046,367,0,How is optimal image quality for HDR games determined according to the HGiG standard?
+187,120,procedure,0.5222,0.6012,207,0,How can you control Game Settings Monitoring and Game Enhancer Settings?
+188,120,procedure,0.2448,0.7217,115,0,How do you start the Game Bar when Game Mode is On or Auto?
+189,121,spec,0.9119,0.9016,198,0,What resolution is set in the PC for a Game Bar Screen Ratio of 32:9?
+190,121,spec,0.3349,0.76,192,0,What screen ratios can be selected for change?
+191,121,spec,0.5737,0.7216,190,0,Where must the resolution be set initially to enable changing the screen ratio?
+192,121,spec,0.5204,0.76,190,0,Under what condition can the Game Bar's Screen Ratio be changed?
+193,122,procedure,0.3043,0.6671,284,0,How can I view details on how to use each menu item?
+194,122,spec,0.8515,0.5654,351,0,"What does the FPS specification indicate in real time, and how does it behave when VRR is active?"
+195,122,procedure,0.9503,0.5969,420,0,What should I do if I want to view the Voice Hint for controlling functions using voice commands?
+196,122,spec,0.5682,0.5273,345,0,Which printer models support FreeSync Premium Pro and what connection requirement must be met?
+197,123,spec,-0.0318,0.5538,29,0,What happens if an external gaming device is connected and the source name is changed to 'PC'?
+198,123,spec,0.6059,0.9016,189,0,What resolution is supported for the Game Bar Screen Ratio of 32:9 at 60 Hz?
+199,123,spec,0.3954,0.6883,189,0,What values can be used to adjust the game screen height at Super Ultra Wide resolution?
+200,124,spec,0.654,0.6607,364,0,What gaming refresh rate frequencies does this feature support?
+201,124,procedure,0.682,0.736,192,0,What should you do if the game screen and sound are not output properly after changing the Screen Ratio on the Game Bar?
+202,125,procedure,0.7767,0.535,142,0,How does the smart screen switch on?
+203,126,procedure,0.4779,0.4014,206,0,How can I enable the 'Now brief' feature if automatic user detection fails due to environmental conditions?
+204,127,spec,0.7366,0.5248,91,0,What factors determine which widgets are supported?
+205,127,procedure,0.6072,0.5187,99,0,How do I set or turn off a wallpaper on the Now brief screen?
+206,127,procedure,0.7801,0.5472,246,0,How do I enable Night Mode on the Now brief?
+207,128,procedure,0.465,0.6701,104,0,What does configuring these settings control?
+208,128,procedure,0.6969,0.5808,451,0,How does enabling or disabling the 'Option Autorun Samsung TV Plus' affect what displays when the TV is turned on?
+209,129,procedure,0.5051,0.5074,16,0,What happens when you screen mirror your mobile device?
+210,129,procedure,0.6595,0.6857,155,0,How do I activate Multi View?
+211,130,procedure,0.4959,0.6179,233,0,What actions can you take regarding your channel lists on the Samsung TV?
+212,130,procedure,0.6729,0.6778,509,0,How do I access the Guide screen?
+213,130,procedure,0.866,0.7292,234,0,How do you access the feature for editing channels stored on the TV?
+214,131,procedure,0.5034,0.549,222,0,What can you do using the Schedule Manager?
+215,131,procedure,0.4743,0.5164,280,0,What is the function of Channel Filter?
+216,132,spec,0.8239,0.5368,233,0,What symbol is used to mark unsafe channels in the provided channel list?
+217,132,procedure,0.6138,0.7772,89,0,How do you access additional features from the Guide?
+218,133,procedure,0.6633,0.6089,220,0,How do you use a USB device instead of a video recorder?
+219,133,procedure,0.5723,0.7656,520,0,How do I start recording a program that is currently being broadcast?
+220,133,procedure,0.6404,0.6169,223,0,How do you start recording using the remote control?
+221,133,procedure,0.5607,0.8539,520,0,What steps are required to schedule a recording while watching a broadcast?
+222,133,procedure,0.7265,0.6604,225,0,How do you access the Recording & Schedule Manager screen?
+223,133,procedure,0.8065,0.6169,220,0,How should I configure the 'Start Recording Early' and 'Continue Recording After' settings?
+224,135,procedure,0.7046,0.649,228,0,What is the procedure to configure scheduled viewing on the TV?
+225,135,procedure,0.7126,0.8018,228,0,How do I access the schedule viewing option on the Guide screen?
+226,135,procedure,0.269,0.6098,505,0,How do you access the Program Info window?
+227,135,procedure,0.6466,0.6614,512,0,What should be done to schedule viewing of a specific program after selecting it in the Program Info window?
+228,135,procedure,0.7512,0.8018,225,0,How do I navigate to create or modify a schedule viewing?
+229,136,procedure,0.2021,0.4971,231,0,What must be connected to use the Timeshift function?
+230,136,procedure,0.7284,0.4925,497,0,How can you quickly increase the speed in slow rewind or forward mode?
+231,136,procedure,0.6281,0.6397,458,0,How do you return to live TV while using Timeshift?
+232,138,procedure,0.8061,0.6856,502,0,How can I change the channel or check programs on other digital channels?
+233,138,procedure,0.7285,0.8196,502,0,How do you open the Channel List?
+234,138,procedure,0.6896,0.7564,233,0,How do you access options like Edit Channels and All from the Channel List screen?
+235,139,procedure,0.6357,0.7485,234,0,How can I access the edit-channel screen?
+236,139,procedure,0.8648,0.6817,502,0,How do I rename an available channel?
+237,140,procedure,0.7037,0.7675,516,0,How can I identify which channels are marked as favorites on the Edit Channels and Channel List screens?
+238,140,procedure,0.8115,0.752,233,0,How do you add channels to your favorites list?
+239,141,procedure,0.5276,0.6001,88,0,How do I watch a blocked or restricted program?
+240,143,procedure,0.6804,0.5136,233,0,What does the Secure Channel Viewing feature provide?
+241,143,procedure,0.4885,0.5886,251,0,How can you use signal strength information to improve TV performance?
+242,144,procedure,0.3988,0.6879,423,0,How can you adjust the settings for the picture and the sound?
+243,144,procedure,0.4995,0.7131,402,0,What should you do to change the picture mode?
+244,144,procedure,0.851,0.7113,243,0,What happens when you change the Picture Mode from FILMMAKER MODE to another mode?
+245,145,procedure,0.7537,0.4626,252,0,"How do you adjust the brightness of red, green, and blue colors so that the brightest area becomes white?"
+246,148,procedure,0.8264,0.5717,266,0,How do you set the start time for EyeComfort Mode?
+247,149,spec,0.4601,0.4775,12,0,What are the specifications for compatible smartphone models to use this function?
+248,149,rule_error,0.3412,0.7404,249,0,What causes some of the screen edges to move outside the borders and become invisible?
+249,149,rule_error,0.5429,0.7404,248,0,How can you fix the issue where screen edges are not visible due to pixel shifting?
+250,149,rule_error,0.5204,0.528,243,0,Why should you turn on the Pixel Shift mode when viewing content with static images?
+251,150,procedure,0.3322,0.6981,168,0,What is the purpose of optimizing the TV?
+252,150,procedure,0.4138,0.4626,245,0,How do you adjust the black level using this function?
+253,151,procedure,0.5036,0.526,87,0,How does the Quick Media Switching feature work?
+254,152,procedure,0.591,0.5452,423,0,What happens to the sound mode when an external device is connected?
+255,152,procedure,0.3618,0.6136,286,0,How do you adjust the volumes of the left and right speakers to balance sound levels?
+256,152,procedure,0.7193,0.56,31,0,How do you set the TV to allow Dolby Digital+ with Atmos streams from external devices?
+257,154,spec,0.6248,0.5704,182,0,What is the minimum version of USB required for compatibility?
+258,155,procedure,0.6671,0.6144,435,0,How does the printer connect to a Bluetooth audio device?
+259,156,procedure,0.4923,0.6753,260,0,How do I configure Q-Symphony settings?
+260,156,procedure,0.6434,0.6753,259,0,How can I change the positions of audio devices configured in Q-Symphony Mode?
+261,158,procedure,0.4156,0.8512,275,0,What types of settings can be configured on the printer?
+262,158,procedure,0.6897,0.6746,261,0,How do you set the time on the printer?
+263,158,procedure,0.6359,0.6646,266,0,How do I know if I need to set the current time manually instead of using the auto function?
+264,159,procedure,0.3586,0.5373,266,0,How do you ensure that time zone and daylight savings settings are applied correctly?
+265,159,procedure,0.8057,0.5039,262,0,How does Time Offset adjust the time?
+266,159,procedure,0.605,0.6646,263,0,How do you set the current date and time when Clock Mode is in Manual?
+267,160,procedure,0.5173,0.6475,398,0,How can you reduce TV power consumption?
+268,160,spec,0.7261,0.4635,202,0,Under what conditions is the Screen Saver function automatically activated?
+269,160,spec,0.7353,0.7499,400,0,What is the maximum duration for which the sleep timer can be set before the TV automatically turns off?
+270,162,rule_error,0.7294,0.6177,488,0,What should you avoid doing while the TV is updating its software?
+271,162,procedure,0.4453,0.5771,273,0,What is required to update from the network?
+272,162,procedure,0.72,0.5694,129,0,How do I prepare an update file on a USB device for my Samsung TV?
+273,162,procedure,0.8609,0.5771,271,0,What is the purpose of providing security updates to the device?
+274,163,spec,0.5466,0.4883,204,0,What determines whether these functions are supported?
+275,164,procedure,0.1662,0.8512,261,0,What is possible to configure in this printer?
+276,164,spec,0.3509,0.7056,498,0,What parameters can be configured for the voice guide?
+277,165,procedure,0.5027,0.4988,281,0,How do you enlarge the screen to make pictures or text bigger?
+278,166,procedure,0.6626,0.5913,83,0,How do you change the Smart Hub and setting menu screens to white text on a black background?
+279,168,spec,0.7393,0.6042,412,0,What condition must be met for the Separate Closed Caption Try Now feature to be enabled?
+280,169,procedure,0.7773,0.598,113,0,How does the device operate when an analog TV channel is selected or a signal is supplied from an external device?
+281,169,procedure,0.8537,0.5998,282,0,How do you zoom in on the sign language screen?
+282,169,spec,0.2496,0.5998,281,0,What aspects of the sign language guide can be configured?
+283,170,procedure,0.3883,0.5263,165,0,What is the purpose of moving text and image?
+284,171,procedure,0.8056,0.6671,193,0,How can you change the appearance of the menu items shown on the screen?
+285,171,procedure,0.5403,0.6016,53,0,How can I check if my Samsung smart remote is being held in the correct orientation?
+286,171,procedure,0.8668,0.6136,255,0,How can I adjust the volume of the notification sound?
+287,172,procedure,0.4218,0.6419,224,0,How do you set the TV for retail environments?
+288,172,procedure,0.5927,0.6986,455,0,How do I reset my forgotten PIN using the remote control?
+289,172,procedure,0.6892,0.6064,487,0,How do I restore all TV settings to factory defaults?
+290,173,procedure,0.5415,0.822,35,0,How do you connect nearby Galaxy devices using Multi Control?
+291,174,procedure,0.4917,0.542,27,0,How can I view the list of allowed and connected devices when connecting mobile devices or tablets?
+292,174,procedure,0.734,0.7776,16,0,"How can you view content from an iPhone, iPad, or Mac on the TV screen?"
+293,174,procedure,0.1383,0.4966,11,0,How do you back up data where settings are saved?
+294,174,spec,0.1554,0.4289,374,0,What does the text state about which devices support Cold Weather Mode?
+295,174,procedure,0.6057,0.6456,147,0,"How can I cast content like movies, music, and shows from my mobile device or computer?"
+296,175,procedure,0.417,0.5645,297,0,When should I read the instructions and information provided?
+297,175,procedure,0.8712,0.6993,458,0,When should you read the instructions for Recording and Timeshift?
+298,175,spec,0.6835,0.7488,300,0,What are the minimum and maximum free storage space requirements for Schedule Recording on a USB device?
+299,175,spec,0.8401,0.5318,113,0,What happens to abnormally saved recorded files when a recording device is connected to the TV?
+300,176,spec,0.4781,0.7488,298,0,What is the minimum amount of free space required on a USB storage device for the Timeshift function to work?
+301,177,procedure,0.3012,0.6342,105,0,What must you do before downloading new apps using Apps?
+302,177,procedure,0.2732,0.429,512,0,How can I find out if certain applications do not support multitasking?
+303,178,spec,0.9251,0.3815,306,0,What limitation applies to the number of windows that can be opened concurrently?
+304,179,procedure,0.4981,0.6216,124,0,How can you connect the TV to your network if the wireless access point supports WPS?
+305,180,procedure,0.3148,0.5728,145,0,What should you read before playing media content?
+306,180,spec,0.2628,0.4918,348,0,What is the maximum number of items that can be displayed in the media content list?
+307,180,spec,0.2241,0.5362,358,0,Which file formats are not supported by models released in 2025 and 2026?
+308,182,spec,0.8271,0.5859,310,0,What are the specific requirements for HEIF grid type images regarding format support and minimum resolution?
+309,182,spec,0.785,0.5425,348,0,What is the maximum channel support for FLAC files according to the manual?
+310,182,spec,0.2154,0.6724,373,0,What is the maximum resolution supported for JPEG files?
+311,183,spec,0.7337,0.9123,343,0,What information does the manual provide regarding video capabilities?
+312,183,spec,0.4052,0.883,325,0,"What is the maximum bitrate supported for AVI, MKV, ASF, and MP4 file formats?"
+313,183,spec,0.4171,0.9172,332,0,What is the maximum bitrate supported for AV1 video at 3840 x 2160 resolution?
+314,183,spec,0.3561,0.7985,354,0,What video resolution is supported during playback for H.264 UHD up to Level 5.1?
+315,183,spec,0.3046,0.6066,348,0,What input audio channel configurations support up to 28 channels?
+316,186,spec,0.6741,0.8839,360,0,What is the maximum frame rate supported for 4096 x 2160 resolution when using H.264 or HEVC video codecs?
+317,186,spec,0.6495,0.7685,341,0,What is the maximum bitrate supported for VP9 profile 2 at 3840 x 2160 resolution?
+318,189,spec,0.6171,0.9121,355,0,What is the maximum bitrate supported for H.264 video files in AVI or MKV containers?
+319,189,spec,0.6233,0.8878,313,0,What is the maximum bitrate supported for AV1 video in WebM containers at 3840 x 2160 resolution?
+320,189,spec,0.6766,0.8005,338,0,What are the limitations for H.264 FHD resolution and which features are unsupported?
+321,192,spec,0.3909,0.9124,357,0,What is the maximum bitrate supported for video files in this printer?
+322,192,spec,0.3794,0.7769,346,0,What is the maximum bitrate supported for files in *.m2ts format?
+323,192,spec,0.3857,0.8894,356,0,What is the maximum bitrate supported for 2160p video at 60fps?
+324,192,spec,0.6601,0.888,342,0,Which audio codecs are listed as supported in the specifications?
+325,195,spec,0.2963,0.8963,333,0,What is the maximum bitrate supported for files in *.asf or *.mp4 format using HEVC video codecs?
+326,195,spec,0.5811,0.7602,361,0,What are the supported video resolutions and their corresponding frame rates for AV1 encoded files in PS or TS containers?
+327,195,spec,0.8214,0.8089,359,0,What is the maximum level of HEVC 8K support?
+328,198,spec,0.3182,0.863,347,0,What video resolutions are supported for the WebM file format?
+329,200,spec,0.5438,0.8591,350,0,What video codecs are supported for the *.avi file format?
+330,200,spec,0.6626,0.9153,335,0,What is the maximum bitrate supported for WebM files at 3840 x 2160 resolution?
+331,201,spec,0.325,0.8885,355,0,What is the maximum bitrate supported for H.264 video codecs?
+332,201,spec,0.6324,0.9172,313,0,What is the maximum bitrate supported for AV1 video codec at 4096 x 2160 resolution?
+333,203,spec,0.3572,0.8963,325,0,What is the maximum bitrate supported for *.asf and *.mp4 files?
+334,203,spec,0.4151,0.841,335,0,What is the maximum bitrate supported for WebM files encoded with VP8 or VP9 at 4K resolution?
+335,205,spec,0.3936,0.9153,330,0,What is the maximum bitrate supported for WebM files?
+336,207,spec,0.5269,0.8392,329,0,"What video codec is supported for AVI, MPG, TP, and TRP files?"
+337,207,spec,0.8754,0.8775,340,0,What video codec and maximum bitrate are supported for the *.webm file format?
+338,207,spec,0.2626,0.9149,354,0,What is the maximum H.264 FHD level supported by this device?
+339,209,spec,0.3884,0.8458,362,0,"What is the maximum bitrate supported for files in VOB, PS, or TS containers?"
+340,209,spec,0.0992,0.8775,337,0,Which video codecs are compatible with *.webm file format according to this manual?
+341,210,spec,0.37,0.8134,353,0,What is the maximum bitrate supported for files using VP9 video codec?
+342,210,spec,0.6772,0.888,324,0,"Which audio codecs are listed as supported in addition to AC3, LPCM, and ADPCM(IMA, MS)?"
+343,212,spec,0.7299,0.9123,311,0,What specific details regarding video capabilities can be found in this section?
+344,212,spec,0.3943,0.8802,349,0,What is the maximum bitrate supported for video files in RMVB format?
+345,212,spec,0.5278,0.6129,370,0,Which printer models are excluded from the specifications mentioned in the text?
+346,213,spec,0.3632,0.9117,357,0,What is the maximum bitrate supported for files in AV1 format?
+347,213,spec,0.0511,0.8741,340,0,Which video codecs are supported when playing .webm files at a resolution of 3840 x 2160?
+348,213,spec,0.6287,0.6066,315,0,What is the maximum number of audio channels and which profile does the printer support for WMA?
+349,215,spec,0.3562,0.8802,344,0,What is the maximum bitrate supported for files using AV1 video codec in RMVB containers?
+350,217,spec,0.2165,0.8591,329,0,Which video codecs are listed as supported in the document?
+351,218,spec,0.7478,0.7697,356,0,What are the frame rate and bitrate specifications listed in the document?
+352,220,spec,0.6662,0.8256,316,0,What are the supported video resolutions and their corresponding frame rates for H.264 BP/MP/HP codecs?
+353,220,spec,0.3343,0.831,331,0,What is the maximum bitrate supported for files using Window Media Video v7 (WMV1) or v8 codecs?
+354,220,spec,0.2347,0.9149,338,0,What is the maximum H.264 UHD level supported by this device?
+355,222,spec,0.3028,0.9198,362,0,"What is the maximum bitrate supported for AVI, MKV, ASF, MP4, 3GP, MOV, FLV, and VRO containers when using H.264 video codecs?"
+356,222,spec,0.4294,0.8894,323,0,What is the maximum bitrate specified for the 1920 x 1080 resolution at 60 fps?
+357,224,spec,0.3731,0.9124,321,0,What is the maximum bitrate supported for AV1 video files in this printer?
+358,224,spec,0.3342,0.559,145,0,Which container formats are compatible with the printer's media playback features?
+359,224,spec,0.7965,0.8972,354,0,What are the maximum support levels for H.264 UHD and HEVC UHD?
+360,226,spec,0.4369,0.8839,316,0,At what frame rate can 7680 x 4320 resolution be achieved with HEVC (H.265) video codecs?
+361,226,spec,0.1473,0.783,313,0,Which resolution and frame rate combination does AV1 support at 60 fps?
+362,226,spec,0.3993,0.9198,355,0,"What is the maximum bitrate supported for AVI, MKV, ASF, MP4, 3GP, MOV, FLV, VRO, VOB, PS, and TS containers?"
+363,227,spec,0.2416,0.7607,350,0,Which video codecs are compatible with RMVB container format according to the manual?
+364,229,spec,0.6162,0.6615,370,0,Which 2023/2024 model supports up to 165 Hz refresh rates?
+365,229,spec,0.2779,0.5072,367,0,"Which specific TV model is listed as being available only in the 43, 50, or 58 inch sizes?"
+366,231,procedure,0.8438,0.5184,409,0,How does the applied Picture Size behave when selecting different sources?
+367,231,spec,0.3124,0.6353,373,0,What picture sizes are supported when the input signal is HDMI (720p)?
+368,231,procedure,0.7085,0.5265,77,0,How do you use an anti-theft lock on this TV?
+369,232,spec,0.3895,0.8215,377,0,What are the supported resolutions for UHD input signals?
+370,232,procedure,0.4907,0.6835,382,0,What are the different refresh rate models supported by this printer?
+371,233,spec,0.4741,0.7081,369,0,What is the resolution of the input signal supported by the 8K models?
+372,234,spec,0.6979,0.8567,386,0,What is the clock frequency in MHz for the 3840 x 2160 resolution at 144 Hz?
+373,234,spec,0.2908,0.7268,390,0,What is the maximum resolution supported by this display?
+374,234,spec,0.5835,0.7435,380,0,At what vertical frequency does the device operate in its high-resolution mode?
+375,236,spec,0.61,0.7828,376,0,What is the horizontal frequency in KHz for the 1152 x 870 resolution?
+376,236,spec,0.5974,0.8434,387,0,What is the horizontal frequency in KHz for the resolution of 720 x 400?
+377,236,spec,0.5403,0.8215,369,0,What is the native resolution for UHD models when Input Signal Plus is set to On?
+378,237,spec,0.5418,0.8693,379,0,What is the clock frequency in MHz for an 800 x 600 resolution at a 75 Hz display format?
+379,237,spec,0.2876,0.8693,378,0,What is the clock frequency in MHz for the display mode with a resolution of 1024 x 768 at a vertical frequency of 75.029 Hz?
+380,237,spec,0.4086,0.8772,387,0,What is the horizontal frequency for the 1920 x 1080 resolution?
+381,237,spec,0.488,0.6381,373,0,How many dots by lines are in the highest listed resolution?
+382,238,spec,0.5153,0.6835,370,0,What resolution and refresh rate combination is explicitly stated as unsupported when the printer is set to Game Mode?
+383,238,spec,0.279,0.8351,386,0,What is the clock frequency in MHz for the 4K resolution at 60 Hz display format?
+384,238,spec,0.4911,0.7994,379,0,At what vertical frequency does the *7680 x 4320 resolution operate when using a clock frequency of 1188.000 MHz?
+385,238,spec,0.6828,0.8879,388,0,What is the horizontal frequency in KHz for the display format of 120 Hz at a resolution of 2560 x 1440?
+386,239,spec,0.6409,0.8567,372,0,What is the clock frequency for the 1280 x 720 resolution at 60 Hz?
+387,239,spec,0.1032,0.8772,380,0,What is the horizontal frequency in KHz for the 60 Hz display format at 1920 x 1080 resolution?
+388,239,spec,0.6976,0.8879,385,0,What are the horizontal and vertical frequencies for a display format of 120 Hz with a resolution of 1920 x 1080?
+389,239,spec,0.1426,0.8305,387,0,What is the maximum horizontal frequency in KHz supported by this display?
+390,240,spec,0.5433,0.8008,389,0,What is the maximum clock frequency supported by this display?
+391,239,spec,0.697,0.6257,369,0,What information does the document provide regarding supported resolutions?
+392,241,rule_error,0.8632,0.6968,419,0,What causes Bluetooth devices to hum or malfunction?
+393,242,procedure,0.75,0.6641,394,0,How do you block content in TV Rating?
+394,243,procedure,0.6992,0.6641,393,0,How do you block specific movie rating categories on the printer?
+395,243,procedure,0.5755,0.2963,13,0,What does the C rating signify in the Canadian English Rating system?
+396,244,procedure,0.2595,0.6167,430,0,What happens if parental restriction information is unavailable from the broadcasting station?
+397,245,spec,0.2562,0.4967,196,0,What website should be visited for detailed information regarding FreeSync support?
+398,246,procedure,0.4483,0.6475,267,0,How can I disable energy efficiency features if my TV is flickering or dimming sporadically?
+399,246,rule_error,0.5193,0.612,483,0,What should you do if the screen appears too dim?
+400,248,procedure,0.5689,0.7499,269,0,How do I disable the Sleep Timer on my TV?
+401,248,procedure,0.5097,0.6818,400,0,How do you turn off the TV?
+402,248,procedure,0.5207,0.7567,94,0,What should you do to switch from Art mode to TV mode or vice versa?
+403,248,procedure,0.5938,0.7212,405,0,What should you do if your TV model supports the One Connect Box?
+404,249,procedure,0.7171,0.5376,241,0,How do you adjust the response level for visual changes detected by the TV?
+405,249,procedure,0.3062,0.7212,403,0,What should you do if your TV is not connected to a cable box or satellite box?
+406,250,spec,0.6709,0.4999,241,0,What resolution settings should digital broadcast receivers and set-top boxes be changed to for optimal performance?
+407,250,procedure,0.7293,0.5464,185,0,How do you access the Picture Clarity Settings function to resolve blurring or juddering on the screen?
+408,250,procedure,0.7013,0.4206,326,0,How can one address picture distortions caused by video compression in fast-moving scenes?
+409,251,spec,0.4512,0.5184,366,0,What is the purpose of changing the picture size to 16:9 standard?
+410,251,procedure,0.4087,0.5404,192,0,How can I remove black bars that appear when watching movies with different aspect ratios?
+411,251,procedure,0.6847,0.5296,412,0,What should be done if the Caption function becomes unavailable when an external device is connected via HDMI or Component cable?
+412,251,procedure,0.8113,0.6297,420,0,How do you turn off the Caption function?
+413,251,procedure,0.5832,0.5087,112,0,How do you enable the Input Signal Plus feature to view HDR content?
+414,252,procedure,0.7373,0.4991,61,0,How can I find out which connection method is suitable for my specific audio device?
+415,252,procedure,0.3705,0.4551,414,0,What steps should be taken regarding volume controls before checking connections?
+416,252,procedure,0.5901,0.7316,31,0,How do I change the sound output setting to TV Speaker?
+417,253,spec,0.5868,0.5606,422,0,What happens if Pass-Through is selected on a soundbar or A/V receiver that does not support Dolby Digital+?
+418,253,procedure,0.5585,0.4656,423,0,How do I run the Sound Test?
+419,253,rule_error,0.6898,0.6968,392,0,What causes sound quality issues when using a Bluetooth speaker?
+420,254,procedure,0.737,0.899,498,0,How do you turn off the Voice Guide function?
+421,254,procedure,0.4744,0.5504,31,0,How do I connect an optical cable between my TV and soundbar?
+422,254,procedure,0.6667,0.6912,425,0,What should I check before using HDMI eARC connection with a Soundbar or A/V receiver?
+423,254,procedure,0.5642,0.6879,242,0,How do you change to an appropriate sound mode?
+424,255,procedure,0.3755,0.6255,61,0,What steps should I take to ensure an external speaker like a home theater works correctly when connected via HDMI?
+425,255,spec,0.1873,0.6912,422,0,What happens when an audio device supporting HDMI eARC is connected to the TV's HDMI (eARC) port?
+426,256,rule_error,0.2209,0.7808,437,0,What should be done if the TV has difficulties receiving broadcasts?
+427,256,procedure,0.1378,0.66,405,0,What should be done if using a set-top box or cable box?
+428,256,procedure,0.6796,0.816,453,0,How do I perform the factory data reset?
+429,256,procedure,0.4456,0.5606,213,0,How do I access Caption Settings when watching channels with an antenna cable connected?
+430,256,spec,0.6042,0.6167,396,0,What conditions prevent Broadcasting from being accessed?
+431,257,spec,0.6142,0.5477,436,0,What should be done if an external device's output resolution is not compatible?
+432,257,procedure,0.1684,0.6572,30,0,What should be done if using an HDMI connection?
+433,257,procedure,0.4669,0.5762,6,0,How do you listen to computer sound when using a DVI to HDMI cable?
+434,257,procedure,0.4095,0.7477,437,0,What should you do if the TV has difficulties connecting due to surrounding radio interferences?
+435,258,procedure,0.6868,0.6144,258,0,How can I find more information on how to connect a Bluetooth speaker?
+436,258,spec,0.5516,0.5477,431,0,What should be checked if the set resolution does not match and causes issues?
+437,259,rule_error,0.2369,0.7808,426,0,What should be done when the TV has difficulties connecting to the network?
+438,259,procedure,0.6126,0.7532,437,0,How do you reset the TV if it is unable to connect to the network?
+439,259,procedure,0.4284,0.7116,440,0,How do you troubleshoot the connection if both ends of the LAN cable are plugged in and the access point is turned on?
+440,259,procedure,0.5724,0.7116,439,0,How do I check if the Internet LAN cable is connected to the access point's external LAN port?
+441,260,procedure,0.3346,0.7399,442,0,What should I try if I am experiencing problems connecting to Wireless One Connect?
+442,260,procedure,0.8143,0.8209,446,0,How do I connect to Wireless One Connect?
+443,261,spec,0.4898,0.5376,42,0,What does it mean when the LED indication is red?
+444,261,procedure,0.4712,0.6476,15,0,How do you connect to an external input source if the Wireless One Connect appears disconnected or turned off?
+445,262,procedure,0.542,0.691,441,0,How do you resolve weak wireless signal issues between the screen device and Wireless One Connect?
+446,262,procedure,0.7817,0.8209,442,0,How do you enter pairing mode on the Wireless One Connect?
+447,262,procedure,0.6328,0.665,13,0,What type of power adapter should be used?
+448,263,procedure,0.6534,0.7679,58,0,How can I control an external HDMI-CEC (Anynet+) device using my TV's remote?
+449,263,procedure,0.705,0.6404,448,0,How do I enable Anynet+ (HDMI-CEC) from the device's settings menu?
+450,264,procedure,0.7315,0.6726,58,0,What should be checked and configured regarding the Anynet+ device when the TV is turned on?
+451,264,procedure,0.4534,0.6674,401,0,How can I prevent a specific device connected to the TV from turning off automatically?
+452,264,procedure,0.6668,0.7184,62,0,How should you use the remote control when configuring Anynet+?
+453,264,procedure,-0.0984,0.816,428,0,What should you avoid doing while a factory data reset is in progress?
+454,265,rule_error,0.29,0.8253,60,0,What should you do if the remote control isn't working?
+455,265,procedure,0.5466,0.6986,288,0,How do you reset a previously connected Samsung Smart Remote?
+456,266,procedure,0.6996,0.6861,54,0,What should you do if the TV is in an offline state in the SmartThings app?
+457,266,procedure,0.266,0.6948,488,0,What should be done if the cable connection between the TV and external devices is checked but the symptom persists?
+458,267,rule_error,0.313,0.6993,297,0,What should you do if Timeshift or Schedule recording are not working?
+459,267,procedure,0.3341,0.6243,298,0,What should be checked regarding storage space before using the recording function?
+460,267,procedure,0.5849,0.5545,219,0,How can I determine if recording is available for a specific channel?
+461,267,procedure,0.7246,0.5845,459,0,What file system format does the storage device use when prepared for the recording function?
+462,268,rule_error,0.4692,0.8395,466,0,What causes playback to not work properly?
+463,269,procedure,0.6736,0.5318,105,0,How can you add frequently used apps to the Home Screen?
+464,269,spec,0.2608,0.4445,86,0,What is stated as a potential cause for poor image quality or app failure?
+465,269,procedure,0.3771,0.7739,82,0,How do you turn off the 'Start with Smart Hub Home' function?
+466,270,rule_error,0.6195,0.8395,462,0,What causes playback issues such as files not playing smoothly?
+467,270,spec,0.194,0.5484,336,0,What happens if files use an unsupported codec?
+468,271,rule_error,0.4627,0.5113,420,0,What happens if the microphone is turned off?
+469,271,rule_error,0.7753,0.6041,181,0,What causes voice commands to differ between users?
+470,271,procedure,0.4582,0.7858,471,0,How can you prevent the TV from mistakenly recognizing ambient noise or conversation as a call to the Voice Assistant?
+471,272,procedure,0.6393,0.7858,470,0,How can I ensure my TV recognizes my voice when it is far away or the ambient noise is loud?
+472,272,procedure,0.629,0.7335,60,0,What should you do if the connection between the remote control and the TV is lost?
+473,272,procedure,0.1949,0.4956,471,0,What should be done if voice recognition does not work?
+474,273,procedure,0.6397,0.4411,481,0,How can I tell if the bottom of my TV feels hot after extended use?
+475,273,procedure,0.659,0.3023,296,0,What should I expect regarding the smell described in the manual?
+476,273,procedure,0.4054,0.4534,428,0,How do I change the usage mode from Retail Mode to prevent automatic resets?
+477,273,procedure,0.3518,0.7034,478,0,What should be done to the base stand?
+478,273,procedure,0.1205,0.7034,477,0,What should be done before proceeding if you are unsure about the assembly of the stand?
+479,274,procedure,0.5554,0.3771,470,0,What should I do if I hear noise from the printer while it is performing background tasks?
+480,274,procedure,0.4187,0.5596,488,0,What should be done if the TV's outer casing makes a popping noise due to expansion and contraction?
+481,274,spec,0.6412,0.646,488,0,What causes some TVs to seem slightly noisier than conventional ones?
+482,275,procedure,0.645,0.6252,489,0,What diagnostic actions can be performed on the TV and Smart Hub?
+483,275,procedure,0.8057,0.612,399,0,How do you check for problems with the screen?
+484,277,procedure,0.4931,0.5892,430,0,What must be verified before attempting to use Broadcast Signal?
+485,277,procedure,0.7979,0.7422,83,0,What happens when you perform the 'Reset Smart Hub' procedure?
+486,277,procedure,0.8656,0.6681,244,0,What happens when you reset the current picture settings?
+487,277,procedure,0.5474,0.6553,423,0,What is the procedure to reset the current sound settings to their defaults?
+488,278,rule_error,0.4945,0.7103,426,0,What should I do if I encounter a problem with my TV?
+489,278,procedure,0.849,0.6252,482,0,How do you use Remote Management to have a Samsung service technician diagnose your TV?
+490,278,procedure,0.3735,0.462,0,0,How do I register a service request after selecting the problem item?
+491,279,procedure,0.4438,0.8367,1,0,What does the manual provide to assist the visually impaired?
+492,279,procedure,0.3897,0.4454,499,0,What happens once the 'Learn Menu Screen' is enabled?
+493,279,procedure,0.6556,0.6019,57,0,How can I find descriptions of the buttons?
+494,279,procedure,0.7731,0.5325,285,0,How do I identify which side is the top of the remote control?
+495,281,procedure,0.8154,0.5834,1,0,How can I view the accessibility functions and their descriptions?
+496,281,procedure,0.4979,0.5232,125,0,How do you open the Accessibility Shortcuts menu using the remote control?
+497,281,procedure,0.733,0.6996,276,0,What must be done to change the speed of the Voice Guide?
+498,283,procedure,0.6758,0.899,420,0,How do you enable or disable the Voice Guide feature?
+499,283,procedure,0.8967,0.633,526,0,How do you exit Learn TV Remote mode?
+500,283,procedure,0.4867,0.5654,471,0,How can the hearing impaired listen at comfortable sound levels while their family also watches TV?
+501,288,procedure,0.4011,0.7477,420,0,What is the purpose of turning on the Voice Guide?
+502,288,procedure,0.731,0.8196,233,0,How do you change channels using the Channel List?
+503,288,procedure,0.5217,0.607,50,0,How do you use the directional buttons to navigate the virtual numeric pad?
+504,289,procedure,0.5466,0.7078,529,0,How do you change the volume using the Samsung Smart Remote?
+505,289,procedure,0.7057,0.6098,226,0,How can I view more detailed program information such as a synopsis?
+506,290,procedure,0.305,0.5824,180,0,How do you open the Guide using Bixby?
+507,290,procedure,0.592,0.5784,263,0,What should be done if the Time is not set before trying to use the Guide?
+508,290,procedure,0.6286,0.6373,519,0,How do you access the Time menu within the TV settings?
+509,290,procedure,0.3286,0.6782,89,0,What information is displayed when you open the Guide?
+510,290,procedure,0.7306,0.6678,511,0,How do I navigate between channels and programs in the Guide?
+511,291,procedure,0.6872,0.6861,502,0,How do you switch from the Guide to live TV on a selected channel?
+512,293,procedure,0.5707,0.6614,227,0,How can you identify which programs are set up for scheduled viewing?
+513,293,procedure,0.6628,0.6963,225,0,How do I set up scheduled viewing on two screens using the Guide Screen?
+514,293,procedure,0.8552,0.6623,225,0,How do I cancel a scheduled viewing from the Guide?
+515,294,procedure,0.7568,0.5528,104,0,How do you select between the 'Air' and 'Cable' settings in the Category List?
+516,294,procedure,0.5803,0.7675,237,0,How do I view only the channels contained within a specific favorites list?
+517,295,procedure,0.5339,0.5233,218,0,What should be done regarding precautions before starting the procedure for recording a program to an external hard drive connected via USB?
+518,295,procedure,0.6503,0.6112,223,0,How do you stop an ongoing recording?
+519,296,procedure,0.4154,0.6373,508,0,How do I display the menu for recording a program or starting the Timeshift function?
+520,296,procedure,0.7109,0.8539,221,0,How do you schedule a recording for a broadcast scheduled program?
+521,296,procedure,0.5432,0.6271,520,0,How do I specify how long to record for when recording a live program?
+522,297,procedure,0.8495,0.6,510,0,How do you navigate between program titles?
+523,297,procedure,0.7272,0.6633,146,0,How do I navigate from the recording options menu to select the Delete function?
+524,298,procedure,0.7823,0.7393,82,0,What can you learn to do using the Smart Hub?
+525,298,procedure,0.4555,0.5052,90,0,How do you navigate to other items after being redirected to the Home Screen?
+526,298,procedure,0.9521,0.8772,92,0,How do you return to TV mode from Ambient mode?
+527,301,procedure,0.7681,0.5857,92,0,How can I access the embedded user manual for my TV?
+528,302,procedure,0.5916,0.7694,142,0,How do you use Bixby to control your TV?
+529,302,procedure,0.5706,0.7078,504,0,How do you activate listening mode and issue a voice command using the Samsung Smart Remote?

@@ -1,0 +1,613 @@
+idx,page,category,status,detail,question
+0,1,procedure,valid,,How do you identify the HP Color LaserJet Managed MFP models?
+1,4,procedure,chunk_mismatch,chunk overlap 0.07 < 0.30 with page 4,How do you enable the SuperSpeed USB 3.0 port on an HP printer?
+2,4,procedure,chunk_mismatch,chunk overlap 0.07 < 0.30 with page 4,What should you do when a 'Cartridge is low' or 'Cartridge is very low' message 
+3,12,procedure,valid,,How can I find the most up-to-date information about the printer?
+4,13,procedure,valid,,How should I connect the printer to a power source?
+5,13,procedure,valid,,What should I do before cleaning the printer?
+6,13,procedure,valid,,How do you start this procedure?
+7,14,spec,valid,,What is item number 7 described as in the manual?
+8,13,rule_error,valid,,What should you avoid when locating features on the front of the printer?
+9,15,spec,valid,,What does item number 9 refer to in the printer manual?
+10,16,spec,valid,,What types of USB host ports does the printer have?
+11,15,procedure,valid,,How do you begin the procedure described in the manual?
+12,16,spec,valid,,What is the purpose of the thumbscrew in the printer?
+13,17,spec,valid,,What does the Reset button do in the printer?
+14,16,rule_error,valid,,What should you do if you're having trouble viewing the control panel?
+15,18,spec,valid,,What information can be accessed through the Information button on the printer?
+16,18,spec,valid,,What are the multiple destinations that can be sent to using the Scan+ button on
+17,19,spec,valid,,What is the specification for the ASIC in this printer?
+18,18,procedure,valid,,What should you do to stop scrolling through menus on the touchscreen?
+19,19,procedure,valid,,How can I find out the specifications for my specific printer model?
+20,19,procedure,valid,,How can I learn about the general specifications of different printer models?
+21,20,spec,valid,,What is the print speed for the E87750 model on A4/letter size paper?
+22,20,spec,valid,,What are the power input voltage specifications for this printer?
+23,21,spec,valid,,What are the copy speeds for different models of this printer?
+24,21,spec,valid,,What are the scan speed specifications for the E877/E826 dn models in simplex an
+25,22,spec,valid,,What are the input capacities for each tray of the printer?
+26,22,spec,valid,,What are the copy speed specifications for different models of this printer when
+27,24,spec,valid,,What are the supported media types for duplex printing?
+28,25,spec,valid,,What is the sheet capacity of Tray 1?
+29,26,spec,valid,,What is the minimum amount of available hard-disk space required for macOS accor
+30,26,spec,valid,,"What print driver is available for Windows Server 2003 SP2, 32-bit?"
+31,26,spec,valid,,What operating systems are supported for this printer?
+32,25,procedure,valid,,How do you install the HP print driver on macOS?
+33,25,procedure,valid,,How do you install the HP PCL 6 printer-specific print driver for Windows Server
+34,25,procedure,valid,,What should you download to install the print driver for macOS 11 (Big Sur) or l
+35,25,procedure,valid,,How do you get the PCL 6 printer-specific print driver for Windows Server 2012 R
+36,25,procedure,chunk_mismatch,chunk overlap 0.28 < 0.30 with page 25,How can I find the current details on client and server operating systems for th
+37,25,procedure,chunk_mismatch,chunk overlap 0.28 < 0.30 with page 25,What are the system requirements for installing the HP Smart UPD driver?
+38,27,spec,valid,,What is the power consumption of the E877 printer model when it's in ready mode?
+39,27,procedure,valid,,How can I check the power usage of my printer?
+40,27,spec,valid,,What are the dimensions of the dn model with an integrated engine?
+41,28,spec,valid,,What is the recommended operating temperature range for this printer?
+42,27,rule_error,valid,,What should you avoid doing to prevent damaging the printer?
+43,28,spec,valid,,What is the noise level when printing color simplex A4 at 70ppm?
+44,28,rule_error,valid,,What should be considered when choosing a location to install the printer?
+45,28,spec,valid,,What is the power requirement for the 110-volt printer model?
+46,28,procedure,valid,,How should you set up the environment for proper printer operation?
+47,29,spec,valid,,What is the recommended range for relative humidity when using the printer?
+48,29,procedure,valid,,How do I find instructions on using the Microsoft Add Printer tool for my printe
+49,30,procedure,valid,,How should you handle the paper trays while loading them?
+50,30,procedure,valid,,How should you handle adding or removing paper from Tray 1 while the printer is 
+51,30,procedure,valid,,How should you prepare Tray 1 before loading paper?
+52,30,procedure,valid,,What should you do with the paper guides when loading paper into Tray 1?
+53,33,spec,valid,,What is the correct orientation for loading paper when using automatic two-sided
+54,35,spec,valid,,What is the loading method for one-sided printing in duplex mode?
+55,35,spec,valid,,What is the loading orientation for one-sided printing?
+56,32,procedure,valid,,How should I position the paper in Tray 1 for optimal print quality?
+57,36,procedure,valid,,How do you load paper into Tray 2?
+58,36,procedure,valid,,What should you do to load paper into the optional 2 x 520-sheet trays?
+59,36,spec,valid,,What are the options available for duplex mode in this printer?
+60,36,procedure,valid,,How do you adjust the paper-width guides before loading paper?
+61,36,procedure,valid,,What should you do after adjusting the paper-length guide?
+62,36,procedure,chunk_mismatch,chunk overlap 0.12 < 0.30 with page 36,How do you specify custom paper size in this printer?
+63,39,spec,valid,,What are the two different duplex modes mentioned in the manual?
+64,38,procedure,valid,,How do you ensure the best print quality when using this printer?
+65,41,procedure,valid,,How should you load letterhead or preprinted paper when using the Alternative Le
+66,41,procedure,valid,,How do you start enabling Alternative Letterhead Mode on the printer?
+67,42,procedure,valid,,How many envelopes can you load into the multipurpose tray at once?
+68,42,procedure,valid,,What is the maximum number of envelopes that Tray 2 or Tray 3 can hold?
+69,42,spec,valid,,What envelope sizes are supported by Tray 1 in this printer?
+70,42,procedure,valid,,How do you open the print driver in the software program?
+71,42,procedure,valid,,What should you select in the Paper size drop-down list when printing envelopes?
+72,42,procedure,valid,,How should envelopes be loaded into the printer?
+73,43,procedure,valid,,How do you begin printing sheets of labels?
+74,43,procedure,valid,,How do you specify the size of the labels in the printing software?
+75,43,procedure,valid,,What should you choose from the Paper type drop-down list when printing labels?
+76,44,spec,valid,,What is the correct orientation for loading labels into Tray 1?
+77,44,procedure,valid,,How should labels be loaded into Tray 1 for correct printing?
+78,45,procedure,valid,,What should you do if your toner runs out?
+79,45,procedure,valid,,"How can I get replacement supplies, accessories, and parts for my printer?"
+80,45,procedure,valid,,How do you prepare before contacting the managed service representative?
+81,45,procedure,valid,,How should I know when it's time to replace the toner cartridges?
+82,45,procedure,valid,,How can you check if a toner cartridge is compatible with your printer?
+83,46,procedure,valid,,How do you remove the old toner cartridge from the printer?
+84,46,procedure,valid,,What should you do with the new toner cartridge once you have removed it from it
+85,48,procedure,valid,,How can I know when it's time to replace the toner collection unit?
+86,48,procedure,valid,,What should you do with the toner collection unit once you grasp it?
+87,50,procedure,valid,,How do you install a new staple cartridge?
+88,50,procedure,valid,,What should you do when the staple cartridge is empty?
+89,50,procedure,valid,,How do you remove the staple cartridge carriage from the stapler?
+90,50,procedure,valid,,What should you do with the two tabs on the staple cartridge to remove it?
+91,52,procedure,valid,,How do you move the staple cartridge assembly to the front?
+92,52,procedure,valid,,What should you do after immobilizing the staple cartridge assembly?
+93,55,procedure,valid,,How do you remove the staple cartridges from the booklet-maker accessory?
+94,55,procedure,valid,,What should you do after removing the empty staple cartridges?
+95,59,procedure,valid,,How can you initiate printing using this printer?
+96,59,procedure,valid,,How can you learn about common printing tasks on Windows?
+97,59,procedure,valid,,How do you select your printer in Windows?
+98,59,procedure,valid,,What should you click to configure available options in the print driver?
+99,60,procedure,valid,,How do you start setting up automatic duplex printing?
+100,60,procedure,valid,,What should you select in the Document Properties dialog to enable automatic dup
+101,60,procedure,valid,,How do you start printing the first side of the job?
+102,60,procedure,valid,,How do you choose how many pages will be printed on each sheet of paper?
+103,60,procedure,valid,,What should you select after choosing the number of pages per sheet?
+104,61,procedure,valid,,How do you specify the paper type for a print job?
+105,61,procedure,valid,,What should you do if a tray configuration message displays on the printer contr
+106,61,procedure,valid,,What are some of the print tasks that have instructions available?
+107,62,procedure,valid,,How can I print on both sides of the paper using the HP printing software for ma
+108,62,procedure,valid,,What should I do if I want to print multiple pages per sheet with the HP printin
+109,62,procedure,valid,,How do you start the printing process on macOS?
+110,62,procedure,valid,,What should you do after selecting the printer?
+111,62,procedure,valid,,How do you access the layout menu to set up automatic duplex printing on macOS 1
+112,62,procedure,valid,,How do you start the manual duplex printing process?
+113,62,procedure,valid,,What should you do after the first side of the pages are printed?
+114,63,procedure,valid,,What should you do after selecting the number of pages to print on each sheet?
+115,63,procedure,valid,,What should you do if your default paper type is Letter but you are using a diff
+116,64,procedure,valid,,How can I find information online about common printing tasks?
+117,64,procedure,valid,,How can I save print jobs to the printer's memory for future use?
+118,64,procedure,valid,,How do you select the printer properties or preferences when storing jobs on a U
+119,64,procedure,valid,,What should you click to access the job storage options?
+120,64,procedure,valid,,How do you append a unique number to the end of the job name?
+121,64,procedure,valid,,What should you do after clicking the OK button to close the Document Properties
+122,65,procedure,valid,,How do you access the Job Storage menu in the Printer menu?
+123,65,procedure,valid,,What should you do if the Job Storage menu is not showing?
+124,65,procedure,valid,,How do you protect a stored or personal job with a PIN?
+125,65,procedure,valid,,What should you do after setting up the saved job and protecting it with a PIN?
+126,66,procedure,valid,,How do you start printing a job stored in the printer memory?
+127,66,procedure,valid,,How do you remove unnecessary documents from the printer's memory?
+128,66,procedure,valid,,What can be adjusted regarding the number of jobs the printer stores?
+129,66,procedure,valid,,How do you access the folder containing the job you want to delete?
+130,66,procedure,valid,,What should you do to delete the job from the printer memory?
+131,67,procedure,valid,,How do you access the settings for managing stored jobs on the printer?
+132,67,procedure,valid,,How can I print to an HP printer using my mobile device?
+133,67,procedure,valid,,How can I find the full list of mobile printing solutions offered by HP?
+134,67,procedure,valid,,What do you need to enable for HP ePrint via email?
+135,68,spec,valid,,What devices support wireless printing using Wi-Fi Direct Print?
+136,68,procedure,valid,,How do you start enabling Wi-Fi Direct on the printer?
+137,68,procedure,valid,,What should you select after choosing the Networking menu?
+138,68,procedure,valid,,How do you start the process of changing the printer's Wi-Fi Direct name?
+139,68,procedure,valid,,What should you do after selecting the 'Wi-Fi Direct' option in the network sett
+140,69,procedure,valid,,How do you access the HP Embedded Web Server (EWS) from a computer?
+141,69,rule_error,valid,,What is required for AirPrint to work between an Apple device and the printer?
+142,70,procedure,valid,,How can I enable printing on my Android device if it's not available by default?
+143,70,procedure,valid,,How do you connect a USB flash drive to the printer?
+144,70,procedure,valid,,How do you enable the USB port before using it?
+145,70,procedure,valid,,How do you start enabling the USB port for printing?
+146,70,procedure,valid,,What should be selected after accessing the Enable Device USB option?
+147,71,procedure,valid,,How do you access the HP Embedded Web Server for your printer?
+148,71,procedure,valid,,How do you enable printing from a USB drive on your printer?
+149,71,procedure,valid,,How do you start printing a document from a USB flash drive?
+150,71,procedure,valid,,What should you do if the USB port is covered?
+151,72,procedure,valid,,How do you enable the SuperSpeed USB 3.0 port for wired USB printing?
+152,72,procedure,valid,,How do you enable the port using the control panel?
+153,72,procedure,valid,,How do you find the printer's IP address?
+154,73,procedure,valid,,How do I make copies using this printer?
+155,73,procedure,valid,,What should I do if I need additional copy tasks?
+156,74,spec,valid,,What is Table 5-1 about?
+157,73,procedure,valid,,How do you select the number of copies on the printer control panel?
+158,73,procedure,valid,,How do you rotate a page in the thumbnail view?
+159,73,procedure,valid,,What should you do to delete selected pages?
+160,76,spec,valid,,What is the function of the thumbnail and page view buttons?
+161,75,procedure,valid,,How do you specify the type of original document when copying or printing on bot
+162,75,procedure,valid,,What should you do to set the output sides for a double-sided copy or print?
+163,75,procedure,valid,,How do you start copying when the document is ready?
+164,77,spec,valid,,What does the Clear preview button do?
+165,77,procedure,valid,,How can I find instructions for copying pages from books or other bound document
+166,77,procedure,valid,,What are some of the copy tasks that have available instructions?
+167,78,procedure,valid,,How can I scan a document using this printer?
+168,78,procedure,valid,,How can I use the printer to scan a document and send it via email?
+169,78,rule_error,valid,,What could cause the Scan to Email feature not to work during setup?
+170,79,procedure,valid,,How do you begin the setup process for the printer?
+171,79,procedure,valid,,What should you type in the address line of your web browser to open the EWS?
+172,80,procedure,valid,,How do you access the Network Identification tab in the EWS?
+173,80,procedure,valid,,What should you verify if DNS is required on the network?
+174,80,procedure,valid,,How can I set up the Send to Email feature if I need a simple configuration?
+175,80,procedure,valid,,What should I use if I need an advanced setup for the Send to Email feature?
+176,83,spec,valid,,What are the default file types available for scanned documents in this printer?
+177,83,spec,valid,,What are the options available in the 'From' drop-down list?
+178,81,procedure,valid,,How do you start the Email Setup Wizard in the HP Embedded Web Server (EWS) for 
+179,81,procedure,valid,,What should you do if a message displays indicating that the Scan to Email featu
+180,81,procedure,valid,,How do you add an SMTP server in the setup process?
+181,81,procedure,valid,,What should you do if you're using a hosted SMTP service like Gmail?
+182,81,procedure,valid,,How do you configure the sender's email address?
+183,84,spec,valid,,What are the available scan resolution options for this printer?
+184,87,spec,valid,,What is the default file name for saving files in this printer?
+185,87,spec,valid,,What does the 'Address Field Restrictions' feature control?
+186,87,spec,valid,,What is the purpose of the 'User editable' feature in the printer's email settin
+187,88,spec,valid,,What is the default format for duplicate file name suffixes?
+188,88,spec,valid,,What types of separators are available for Flow printers to create multiple file
+189,88,spec,valid,,What does the Resolution feature control in the printer settings?
+190,89,spec,valid,,What are the options for selecting the content orientation of an original docume
+191,89,spec,valid,,What algorithms can be selected for signing the certificate?
+192,84,procedure,valid,,How do you access advanced settings in the E-mail Setup dialog?
+193,84,procedure,valid,,What should you do if the Enable Scan to Email check box is not selected?
+194,84,procedure,chunk_mismatch,chunk overlap 0.23 < 0.30 with page 84,How do you set up the server for email function when 'server already in use by a
+195,84,procedure,chunk_mismatch,chunk overlap 0.28 < 0.30 with page 84,How do you verify that all settings are correct during the outgoing email server
+196,84,procedure,chunk_mismatch,chunk overlap 0.28 < 0.30 with page 84,What should you do if the SMTP server requires authentication for sending automa
+197,84,procedure,chunk_mismatch,chunk overlap 0.24 < 0.30 with page 84,How can you prevent users from changing contacts in the Address Book at the prin
+198,84,procedure,chunk_mismatch,chunk overlap 0.24 < 0.30 with page 84,What should you do if you want to use a custom message for all emails sent from 
+199,84,procedure,valid,,How do you enable the Suppress blank pages option?
+200,84,procedure,valid,,How do you specify the width of edge margins to be erased for a job?
+201,90,spec,valid,,What is the 'Optimize Text/Picture' feature designed to do?
+202,90,spec,valid,,What type of printers is the customized stamp feature available for?
+203,90,procedure,valid,,How do you start creating a new Quick Set in the printer's setup?
+204,90,procedure,valid,,What information is required when setting up a new Quick Set?
+205,91,procedure,valid,,How can I set up my printer to send emails using an Office 365 Outlook account?
+206,91,procedure,valid,,How do you start the SMTP wizard to configure the outgoing email server?
+207,91,procedure,valid,,What should you type in the I know my SMTP server address or host name field?
+208,91,procedure,valid,,How do you initiate a test email in the Summary and Test dialog?
+209,93,procedure,valid,,How can I set up the Scan to Folder feature?
+210,93,rule_error,valid,,What do I need to have ready before setting up the Scan to Network feature?
+211,94,procedure,valid,,How can I set up Scan to Network Folder on my printer?
+212,94,procedure,valid,,How do you start the Save to Network Folder Quick Set Wizard?
+213,94,procedure,valid,,How do you specify the folder path when setting up the scan server?
+214,94,procedure,valid,,What should you do if you select 'Always use these credentials' in the Authentic
+215,94,procedure,valid,,How can you find the Windows domain in Windows 7 or Windows 8?
+216,101,spec,valid,,What options are available for the 'Original Sides' feature in the printer?
+217,102,spec,valid,,What is the File NamePrefix feature used for?
+218,102,spec,valid,,What are the options for content orientation in this printer?
+219,102,spec,valid,,What are the cropping options available in this printer?
+220,103,spec,valid,,What file formats can be selected for the saved file?
+221,103,spec,valid,,What is the range of dots per inch (dpi) for resolution in this printer?
+222,103,spec,valid,,How do higher-quality images affect file size and printing time?
+223,95,procedure,valid,,How do you start the Scan to Network Folder setup process?
+224,95,procedure,valid,,What is the first step to configure the Scan to Network Folder settings?
+225,95,procedure,valid,,What should you do if your home router does not handle computer names well?
+226,95,procedure,valid,,What should you type in the Retrieve the device user’s home folder using this at
+227,95,procedure,valid,,How do you allow sending scanned documents to folders with write access only?
+228,95,procedure,valid,,How do you include a thumbnail of the first scanned page in the notification?
+229,95,procedure,valid,,How do you set the default scanning preferences for the Quick Set?
+230,95,procedure,valid,,What is Auto orientation used for in Flow printers?
+231,95,procedure,valid,,How do you make a file setting editable at the printer control panel?
+232,95,procedure,valid,,How do you specify the color mode for printing copies?
+233,95,procedure,valid,,What file format should you select for metadata information?
+234,95,procedure,valid,,How can scan jobs be separated on Flow printers using a blank page separator?
+235,104,procedure,valid,,How can I scan documents directly to a Microsoft SharePoint site?
+236,104,procedure,valid,,What does the Scan to SharePoint feature eliminate the need for?
+237,104,procedure,valid,,How do you enable write access to the destination folder on SharePoint?
+238,104,procedure,valid,,What should exist on the SharePoint site before this procedure can be completed?
+239,105,procedure,valid,,How do you enable the Scan to SharePoint feature?
+240,105,procedure,valid,,What should you do after clicking Quick Sets in the Scan to SharePoint area?
+241,105,procedure,valid,,How do you ensure that the SharePoint folder specified as the destination is acc
+242,105,procedure,valid,,What should you select if you want the Quick Set to send a notification only whe
+243,105,procedure,valid,,How do you print a notification when a selected condition occurs?
+244,107,spec,valid,,What views can you toggle between using specific buttons?
+245,108,spec,valid,,What are the options for selecting the original size in this printer?
+246,107,procedure,valid,,How do you start scanning a document to a SharePoint site from the printer's hom
+247,107,procedure,valid,,What should you do if you need to sign in to use the Scan to SharePoint feature?
+248,107,procedure,valid,,What should you do if you want to change settings for the document before scanni
+249,107,procedure,valid,,How do you name the file when scanning a document to SharePoint?
+250,108,spec,valid,,What do the buttons on page 108 of the printer manual allow you to do?
+251,109,spec,valid,,What are the available settings under Image Adjustment for Flow printers?
+252,108,procedure,valid,,How do you set the default file name prefix for files to be saved?
+253,108,procedure,valid,,What should you specify when setting up a Scan to SharePoint Quick Set?
+254,110,procedure,valid,,How can I enable the Scan to USB Drive feature on my printer?
+255,110,spec,valid,,What is the purpose of the 'High Compression (smaller file)' setting?
+256,110,spec,valid,,What are the options available for printing color in this printer?
+257,111,procedure,valid,,What should you check under Hardware Ports?
+258,111,procedure,valid,,Where can you find the Scan to USB Driver Settings option?
+259,112,spec,valid,,What does the 'Original Size' feature in the printer manual refer to?
+260,111,procedure,valid,,What should you do to review the summary of settings and save the Quick Set?
+261,113,spec,valid,,What are the units of measurement available for specifying the width of edge mar
+262,114,procedure,valid,,How can I send a scanned document directly to an email address?
+263,115,spec,valid,,What is described in Table 6-16 on page 115?
+264,116,spec,valid,,What are the two views available for toggling using the buttons?
+265,117,spec,valid,,What is the page number where Table 6-17 is located?
+266,114,procedure,valid,,How do you specify recipients when scanning a document to an email address?
+267,114,procedure,valid,,How do I preview a document before sending it to print?
+268,114,procedure,valid,,What can I use the buttons on the right side of the screen for during the previe
+269,117,procedure,valid,,How can I scan a document and store it in the printer's job storage folder?
+270,118,spec,valid,,What is Table 6-18 about?
+271,119,procedure,valid,,How do you start printing a scanned document from a job storage folder on the pr
+272,119,procedure,valid,,What should you do if the document is private?
+273,119,procedure,valid,,How can I scan a document and store it on a network folder?
+274,119,spec,valid,,What is the purpose of the delete button in thumbnail view?
+275,120,spec,valid,,What is described in Table 6-20 on page 120 of the manual?
+276,121,spec,valid,,What are the different views that can be toggled using the buttons on the printe
+277,120,procedure,valid,,How do you select an existing folder location that has been set up by the admini
+278,120,procedure,valid,,What should you do if you want to specify a new folder location for saving the s
+279,120,procedure,valid,,How do you expand or collapse the preview screen in the printer manual?
+280,123,spec,valid,,What views are available for toggling using specific buttons?
+281,124,spec,valid,,What are the steps to scan a document to a USB drive using this printer?
+282,124,spec,valid,,What are some of the settings that can be configured in the printer?
+283,124,procedure,valid,,How do you start scanning a document to a USB drive from the printer control pan
+284,124,procedure,valid,,What should you do after inserting the USB drive into the printer's USB port?
+285,124,procedure,valid,,How do you save a document to the USB drive when it's ready?
+286,125,spec,valid,,What is the function of the rotate page button in thumbnail view?
+287,125,procedure,valid,,How can I find more information about HP JetAdvantage business workflow and prin
+288,126,procedure,valid,,How can I find instructions for common scan tasks on the web?
+289,126,procedure,valid,,What is one specific scan task that instructions are available for?
+290,127,procedure,valid,,How can I configure the fax features on this printer?
+291,127,procedure,valid,,What do I need to do to send and receive faxes using this printer?
+292,128,rule_error,valid,,What happens if I change settings via the control panel after adjusting them thr
+293,128,spec,valid,,What are the possible values for the RedialonNoAnswer setting?
+294,129,spec,valid,,What does the Fax Number Confirmation feature do?
+295,128,procedure,valid,,How do you access the fax dialing settings to make changes?
+296,128,procedure,valid,,What should you do after configuring the desired fax dialing settings?
+297,128,procedure,valid,,How do you adjust the volume level of the printer's dialing when sending faxes?
+298,128,procedure,valid,,What should you set if you're using a rotary-dial phone for faxing?
+299,129,spec,valid,,What are the available fax send speed settings and their corresponding bit rates
+300,129,rule_error,valid,,What should you do if you're having trouble sending or receiving a fax?
+301,130,spec,valid,,What are the available options for the ReceiveMode setting in the fax accessory 
+302,130,spec,valid,,How many rings can be set before the fax accessory answers a call?
+303,130,spec,valid,,What does the Error Correction Mode feature do in this fax accessory?
+304,130,procedure,valid,,How do you adjust the ringer volume for the fax accessory?
+305,131,spec,valid,,What are the available options for the Fax Receive Speed setting in this printer
+306,131,procedure,valid,,How do you specify the recipients when sending a fax from this printer?
+307,131,procedure,valid,,How do you send a fax once it's ready?
+308,133,spec,valid,,What do the buttons described in the table allow you to do?
+309,133,procedure,valid,,How do you start setting up a fax printing schedule?
+310,133,procedure,valid,,What should you do after selecting New Event when creating a fax printing schedu
+311,134,procedure,valid,,How can I prevent faxes from specific phone numbers from being printed and saved
+312,134,procedure,valid,,How can you add additional fax numbers to the blocked list?
+313,134,procedure,valid,,How do you select multiple fax numbers in the list?
+314,134,procedure,valid,,How can I find instructions for managing my fax speed dial lists?
+315,136,procedure,valid,,How can I manage my printer's settings?
+316,136,procedure,valid,,What should I do to keep my printer up-to-date?
+317,136,procedure,valid,,How can you manage advanced printing functions?
+318,137,procedure,valid,,How do you access the Embedded Web Server?
+319,138,spec,valid,,What information does the Device Status menu show?
+320,138,rule_error,valid,,What tabs are specific to multi-function printers in the HP Embedded Web Server?
+321,139,spec,valid,,What can you do in the 'Control Panel Customization' menu?
+322,139,spec,valid,,What file formats are used for exporting and importing data in the Import/Export
+323,139,spec,valid,,What does the 'Remote Control-Panel' menu option allow you to do?
+324,139,procedure,valid,,"How do you transfer settings, user accounts, or contacts between HP products?"
+325,139,procedure,valid,,What is the purpose of the Import/Export functionality in the printer manual?
+326,140,spec,valid,,What does the 'Print from USBDrive Settings' menu allow you to do?
+327,140,rule_error,valid,,What should you do if you're having trouble finding solutions to your printer pr
+328,140,spec,valid,,What does the License Management menu allow users to do?
+329,140,rule_error,valid,,What should you do if job-specific copy setting options are not set from the con
+330,141,spec,valid,,What are the default message settings that can be configured in the Scan to Emai
+331,141,spec,valid,,What is the Expert Copy feature available on?
+332,141,procedure,valid,,How do you configure the default email settings for digital sending in the Scan/
+333,141,procedure,valid,,How do you export contacts from the printer?
+334,141,procedure,valid,,What can you use the exported .CSV file for?
+335,142,spec,valid,,What are the different settings that can be configured under Fax Send Setup?
+336,142,spec,valid,,What are the options available under the 'Contacts' menu in the printer's settin
+337,142,spec,valid,,What are the default settings for outgoing faxes?
+338,143,procedure,valid,,How do you configure the printer's reaction when supplies are very low?
+339,143,procedure,valid,,What should you do to lock toner cartridges into the printer and help prevent ea
+340,143,spec,valid,,What is the purpose of the 'General Troubleshooting' menu?
+341,143,rule_error,valid,,What should you do if your printer encounters an error that requires a power cyc
+342,143,spec,valid,,What does the ManageSupplies menu configure?
+343,144,spec,valid,,What is HPWebServices used for in this printer?
+344,143,procedure,valid,,How do you set an administrator password for the printer?
+345,143,procedure,valid,,What can you do to manage remote apps on the printer?
+346,143,procedure,chunk_mismatch,chunk overlap 0.06 < 0.30 with page 143,How can you ensure that all sites are trusted when using this printer?
+347,143,procedure,chunk_mismatch,chunk overlap 0.06 < 0.30 with page 143,What is the purpose of the Self Test in this printer manual?
+348,144,spec,valid,,What security settings can be configured under the General Security menu?
+349,144,spec,valid,,What does the 'WebService Security' menu allow you to do?
+350,144,procedure,valid,,How do you enable HP Web Services for this printer?
+351,144,procedure,valid,,What should you do if there are issues enabling HP Web Services or connecting th
+352,145,spec,valid,,What security management levels can be set for the HP Embedded Web Server?
+353,145,spec,valid,,What settings can be configured under the 'Wi-Fi Direct' menu?
+354,145,rule_error,valid,,What should you avoid when configuring security settings on this printer?
+355,145,rule_error,valid,,What is the purpose of the Network Statistics feature on the HP Jetdirect print 
+356,146,procedure,valid,,How can I set up the printer's network settings?
+357,146,procedure,valid,,How should I proceed if I need support for peer-to-peer networking on my HP prin
+358,146,spec,valid,,What does the Network Statistics menu display?
+359,146,spec,valid,,What can you do in the IPsec/Firewall menu of this printer?
+360,146,procedure,valid,,What should you click to view or change network information once the EWS is open
+361,147,procedure,valid,,How do you change the default printer name?
+362,147,procedure,valid,,How do you manually set an IPv4 address on the printer?
+363,147,procedure,valid,,What should you do after selecting the Manual option for IPv4 settings?
+364,148,spec,valid,,What is the recommended setting for the printer's link speed and communication m
+365,148,spec,valid,,What must match between the print server and the network hub?
+366,148,spec,valid,,What is the recommended mode for the printer's link speed and duplex settings?
+367,148,spec,valid,,What is the link speed and communication mode requirement for the print server i
+368,148,procedure,valid,,How do you enable manual configuration for IPv6 settings?
+369,149,procedure,valid,,How can I limit access to the printer's configuration settings?
+370,149,rule_error,valid,,What security standards and protocols does the printer support to help keep it s
+371,149,procedure,valid,,How do you secure your printer from unauthorized changes?
+372,149,procedure,valid,,What should you do after opening the General Security menu?
+373,149,procedure,valid,,How can you change an existing password?
+374,149,procedure,valid,,Why is it important to make note of the administrator password?
+375,150,procedure,valid,,How do you start the sign-in process on the printer control panel?
+376,150,procedure,valid,,What should you do after entering your credentials during the sign-in process?
+377,150,procedure,valid,,How do you start configuring IPsec on an HP printer connected to a network?
+378,151,procedure,valid,,How do you set up encryption on the hard disk?
+379,151,procedure,valid,,How do I secure my printer's formatter?
+380,151,procedure,valid,,How can I learn about the energy-conservation settings for my printer?
+381,151,procedure,valid,,How do you access the sleep settings on the printer?
+382,151,procedure,valid,,What should you do to specify when the printer enters sleep mode?
+383,151,procedure,valid,,How do you start creating a new Sleep Schedule event in the printer's settings?
+384,152,procedure,valid,,How can I manage my networked HP printers efficiently?
+385,152,procedure,valid,,What should I do to get updates for HP Web Jetadmin?
+386,152,procedure,valid,,How do you download the most recent firmware update file for your printer?
+387,153,spec,valid,,What is the web address for downloading software utilities and drivers for the H
+388,153,rule_error,valid,,What should you have ready when contacting telephone support for your HP printer
+389,153,procedure,valid,,What should you do if the printer alerts of an error or warning?
+390,154,procedure,valid,,How do you reset the printer settings to the factory-set defaults?
+391,154,procedure,valid,,How do you restore the printer settings to their original values?
+392,154,procedure,valid,,What should you do after selecting Reset in the factory settings menu?
+393,155,procedure,valid,,How do you access the printer's network information to find its IP address or ho
+394,155,procedure,valid,,What should you click on the left side of the screen to reset the factory settin
+395,155,procedure,valid,,How can you check the status of your toner cartridge?
+396,155,procedure,valid,,What should you do when the printer indicates that a toner cartridge level is lo
+397,155,procedure,valid,,How can you address the issue of the printer not picking up paper from the tray?
+398,155,procedure,valid,,What should you do when the printer is picking up multiple sheets of paper at on
+399,155,procedure,valid,,How do you adjust the paper guides to solve printer issues?
+400,155,procedure,valid,,How do you adjust the paper guides in the tray correctly?
+401,155,procedure,valid,,What should you do if the top sheets of paper in the tray have a wavy or uneven 
+402,155,procedure,chunk_mismatch,chunk overlap 0.24 < 0.30 with page 155,How do you release individual sheets of paper without introducing static electri
+403,155,procedure,chunk_mismatch,chunk overlap 0.24 < 0.30 with page 155,What should you do after flexing the paper stack?
+404,158,procedure,valid,,How should you prepare the paper stack before returning it to the tray if the pr
+405,158,procedure,valid,,What should you ensure about the printing environment before using the printer?
+406,161,procedure,valid,,How do you ensure the paper guides are working correctly?
+407,161,procedure,valid,,What should you do if there are more pages than the maximum allowed in the docum
+408,162,procedure,valid,,How should you start the process of clearing jammed paper from the printer?
+409,162,procedure,valid,,What is the primary goal of the procedures mentioned in this section?
+410,163,procedure,valid,,How does the auto-navigation feature help with clearing printer jams?
+411,163,procedure,valid,,What happens after completing a step in the auto-navigation procedure?
+412,163,procedure,valid,,How can you ensure the paper guides in the tray are set up properly?
+413,163,procedure,valid,,What should you do if the printing environment is not within recommended specifi
+414,163,spec,valid,,What are the different items listed in the printer manual?
+415,163,procedure,valid,,How do you start the process of clearing a paper jam in the document feeder?
+416,163,procedure,valid,,What should you do after opening the document-feeder cover when there's a paper 
+417,165,procedure,valid,,How do you clear a paper jam in Tray 1?
+418,166,procedure,valid,,What should you do after opening the right door during a paper jam?
+419,167,rule_error,valid,,What should you do if paper is visible in the output bin during a jam?
+420,168,rule_error,valid,,What should you wait for before clearing paper jams in the fuser area?
+421,169,rule_error,valid,,What can cause print-quality issues on HP Color LaserJet Enterprise printers?
+422,169,rule_error,valid,,What are some common printing issues that can be resolved using troubleshooting 
+423,169,rule_error,valid,,What should I do to fix print quality problems?
+424,170,procedure,valid,,How can I upgrade my printer's firmware?
+425,170,rule_error,valid,,What should I do if my printer isn't working properly?
+426,170,procedure,valid,,How do you adjust the humidity and resistance setting on the control panel?
+427,170,procedure,valid,,What should you do if the printed pages have smears or fuzzy print?
+428,170,procedure,valid,,How do you access the Finishing menu in the print driver on macOS?
+429,170,procedure,valid,,What should you select from after opening the Finishing menu?
+430,171,procedure,valid,,How do you print the Supplies Status Page from the printer control panel?
+431,171,procedure,valid,,What should you do if the supplies status report indicates that a toner cartridg
+432,172,procedure,valid,,How do you start the cleaning process for the printer paper path?
+433,172,procedure,valid,,What should you do after selecting the 'Cleaning Page' option?
+434,172,procedure,valid,,How do you start inspecting a toner cartridge?
+435,172,procedure,valid,,What should you check on the memory chip of the toner cartridge?
+436,172,procedure,valid,,How do you ensure the paper meets HP specifications for printing?
+437,172,procedure,valid,,What should you do to check the printing environment?
+438,172,procedure,valid,,How do you adjust the alignment for a specific tray when printing from it?
+439,172,procedure,valid,,What should you do after making adjustments to the tray alignment?
+440,173,procedure,valid,,How can you address issues like unexpected lines in graphics or missing text whe
+441,173,procedure,valid,,What should you do if the printed pages have incorrect formatting or substituted
+442,174,procedure,valid,,How do you begin the calibration process on the printer?
+443,174,procedure,valid,,What should you do while the printer is calibrating?
+444,174,spec,valid,,What is the page number where Table 9-3 Image defects table quick reference can 
+445,176,spec,valid,,What are the characteristics of the dark or light lines that appear on the print
+446,176,spec,valid,,What are the characteristics of the lines that repeat down the length of the pag
+447,177,spec,valid,,What are some possible solutions for printing a blank page?
+448,177,spec,valid,,What are some possible solutions when the entire printed page is black?
+449,178,spec,valid,,What are some possible solutions for toner rubbing off along the edges of a prin
+450,178,spec,valid,,What color plane is most likely affected by registration error in this printer i
+451,179,spec,valid,,What are some possible solutions when an image is not centered or skewed on the 
+452,179,spec,valid,,What is the supported operating environment for this printer?
+453,180,spec,valid,,What are the two types of paper curl described in the manual?
+454,180,spec,valid,,What are the steps to take when the printed content is light or faded on the ent
+455,181,spec,valid,,What are the environmental specifications for the printer?
+456,181,spec,valid,,What conditions can cause paper not to stack well in the output tray?
+457,174,procedure,valid,,How should you start troubleshooting image defects in your printer?
+458,174,procedure,chunk_mismatch,chunk overlap 0.19 < 0.30 with page 174,How can I check if the cartridge is installed correctly when troubleshooting a c
+459,174,procedure,chunk_mismatch,chunk overlap 0.19 < 0.30 with page 174,What should you do first if your printout has dark or light lines repeating down
+460,174,procedure,chunk_mismatch,chunk overlap 0.28 < 0.30 with page 174,How do you calibrate the printer when there's a registration error?
+461,174,procedure,chunk_mismatch,chunk overlap 0.28 < 0.30 with page 174,What should you do if a cartridge is severely faded or at a Very Low state?
+462,174,procedure,chunk_mismatch,chunk overlap 0.17 < 0.30 with page 174,How do you adjust the toner density for mono models if it's too high?
+463,174,procedure,chunk_mismatch,chunk overlap 0.19 < 0.30 with page 174,How can you address positive curl when reprinting a document?
+464,174,procedure,chunk_mismatch,chunk overlap 0.22 < 0.30 with page 174,How do you redistribute the toner in the cartridge?
+465,174,procedure,chunk_mismatch,chunk overlap 0.22 < 0.30 with page 174,What should you do after shaking the cartridge to redistribute the toner?
+466,182,spec,valid,,What are some possible solutions for dark vertical lines on the printed page?
+467,182,spec,valid,,What is the maximum resolution supported by this printer?
+468,182,procedure,valid,,How do you clean the scanner glass and document feeder strips?
+469,184,procedure,valid,,How do you begin the calibration process?
+470,184,procedure,valid,,How should you proceed if the printed pages have smeared ink?
+471,184,procedure,valid,,What should be done when there is fuzzy or dark print on the copied pages?
+472,184,procedure,valid,,How do you start checking the paper selection options on the printer?
+473,184,procedure,valid,,What should you do after selecting Paper size?
+474,184,procedure,valid,,How do you adjust the image quality settings in the Copy menu?
+475,185,procedure,valid,,How do you start optimizing a copy job for different image types?
+476,185,procedure,valid,,How can I reduce moire patterns when scanning halftone images?
+477,185,procedure,valid,,What should you do if the scanned image is too dark or too light?
+478,187,procedure,valid,,How do you access the Scan application from the Home screen on the printer contr
+479,187,procedure,valid,,What should you select after choosing a Scan feature?
+480,188,procedure,valid,,How do you start adjusting the color setting on this printer?
+481,188,procedure,valid,,What should you select after scrolling in the Options pane?
+482,189,procedure,valid,,How do you start optimizing the scan job for the type of image being scanned?
+483,189,procedure,valid,,How do you adjust the compression level for saving a file?
+484,190,procedure,valid,,How do you access the fax settings menu on your printer?
+485,192,procedure,valid,,How do you access the Fax application from the Home screen on the printer contro
+486,192,procedure,valid,,What should you do after selecting the Resolution option in the Options pane?
+487,192,procedure,valid,,How do you access the Image Adjustment settings in the Fax menu?
+488,192,procedure,valid,,What should you do after adjusting the image quality settings?
+489,192,procedure,valid,,How do you optimize a fax job for different types of images in this printer manu
+490,193,procedure,valid,,How do you enable the Error Correction Mode setting?
+491,193,procedure,valid,,How do you enable the Fit to Page setting in the printer manual described?
+492,193,procedure,valid,,What happens if the Fit to Page setting is disabled and a larger image is receiv
+493,193,rule_error,valid,,What could be causing poor fax quality if it only happens with one recipient?
+494,194,rule_error,valid,,What can cause poor fax quality when sending from a specific machine?
+495,194,procedure,valid,,How do I find my product model number?
+496,194,procedure,valid,,How can I address problems related to the printer's fax functions?
+497,194,rule_error,valid,,What should I use to connect my fax accessory to avoid any issues?
+498,195,rule_error,valid,,What might cause fax communication problems when using a surge-protection device
+499,195,procedure,valid,,How can you ensure the fax accessory receives faxes?
+500,195,procedure,valid,,What happens if the rings-to-answer setting for the fax accessory is set lower t
+501,195,rule_error,valid,,What could cause a communication error during a fax call?
+502,195,procedure,valid,,How do you print a Configuration Page report to check the status of the analog-f
+503,195,procedure,valid,,What should you do if the Fax Accessory Page does not print?
+504,195,procedure,valid,,How do you proceed if the status of your analog-fax accessory card is still DAMA
+505,195,procedure,valid,,What does a status of ENABLED indicate for an analog-fax accessory?
+506,196,procedure,valid,,How do you address the issue when the receiving fax machine does not support JBI
+507,196,spec,valid,,What are the possible operational states of the fax accessory in this printer?
+508,196,procedure,valid,,How do you address the issue when none of the contacts in the selected contacts 
+509,196,procedure,valid,,How do you access fax settings in HP Web Jetadmin?
+510,196,procedure,valid,,What should be selected from the drop-down menu to access Digital Sending and Fa
+511,197,procedure,valid,,How does the printer modify forwarded faxes?
+512,197,procedure,valid,,How do names and numbers display in the fax address book?
+513,197,rule_error,valid,,What should you do if there's a jam in the document feeder while trying to send 
+514,197,procedure,valid,,How do you adjust the fax volume?
+515,197,procedure,valid,,How can I start using the USB port on my printer?
+516,197,procedure,valid,,How can I activate the USB port on my printer?
+517,198,procedure,valid,,How can you enable the USB port for printing on a network-connected printer?
+518,199,spec,valid,,What is the duration of the limited warranty for HP Color LaserJet Managed MFPE8
+519,199,rule_error,valid,,What should you do if your HP Color LaserJet Managed MFP E877 Series printer has
+520,199,rule_error,valid,,What might void the warranty on an HP printer?
+521,199,rule_error,valid,,What happens if I try to use the HP printer in a country/region it was not inten
+522,200,procedure,valid,,How can I find out more about consumer legal guarantees?
+523,200,procedure,valid,,How can I find more information about consumer statutory rights in Malta?
+524,201,procedure,valid,,How can I find more information about the legal warranties granted to consumers?
+525,201,procedure,valid,,What should you do if you want more information about legal warranties granted t
+526,203,procedure,valid,,How can I find out more about my consumer legal warranty?
+527,204,procedure,valid,,How can I find out more about the legal consumer guarantee in Portugal?
+528,204,procedure,valid,,What is the address for HP's limited warranty in Greece?
+529,207,procedure,valid,,How can I find the address of the HP entity responsible for the Limited Warranty
+530,207,procedure,valid,,How can I find contact information for HP's limited warranty in Finland?
+531,207,procedure,valid,,How can I find out more about my legal warranty rights?
+532,208,procedure,valid,,How can I find more information about the legal consumer guarantee?
+533,209,procedure,valid,,How do you initiate warranty service for an HP printer?
+534,209,procedure,valid,,How can I determine when the warranty for my HP printer ends?
+535,209,procedure,valid,,What is the warranty coverage for Replacement Preventative Maintenance kits or L
+536,210,rule_error,valid,,What might happen if I use a non-HP toner cartridge in my HP printer?
+537,210,procedure,valid,,How does HP collect usage information from their toner cartridges?
+538,211,procedure,valid,,How do you accept the license terms for the Sign-In Once application?
+539,211,procedure,valid,,How can you legally use the Software on your device according to the manual?
+540,211,procedure,valid,,What are the conditions for making a back-up copy of the Software?
+541,211,procedure,valid,,How do you transfer the software to another end user?
+542,211,procedure,valid,,How do you set up an account to use the Software?
+543,211,procedure,valid,,What should you do if there is unauthorized use of your HP ID account?
+544,211,procedure,valid,,What does HP disclaim in the software warranty?
+545,211,procedure,valid,,How is HP's liability limited according to the EULA?
+546,211,procedure,valid,,How should users ensure they are complying with export laws when using the softw
+547,211,procedure,valid,,How do consumer rights under Australian law affect the EULA?
+548,211,procedure,valid,,How can I initiate a support request or warranty claim within Australia?
+549,211,procedure,valid,,What should I do if I think I am entitled to any warranty under this agreement?
+550,211,procedure,chunk_mismatch,chunk overlap 0.28 < 0.30 with page 211,How does HP limit its liability for failure to comply with a consumer guarantee 
+551,211,procedure,chunk_mismatch,chunk overlap 0.24 < 0.30 with page 211,How will HP handle the cost of collecting goods if it's significantly expensive 
+552,215,procedure,valid,,How should I ship back a defective Customer Self Repair (CSR) part if it needs t
+553,215,procedure,valid,,What happens if I don't return a defective CSR part to HP when required?
+554,215,procedure,valid,,How can I get telephone support for my printer?
+555,215,procedure,valid,,What information should I have ready when contacting telephone support?
+556,217,procedure,valid,,How can I contribute to environmental sustainability when using this HP product?
+557,217,procedure,valid,,How was the airborne emissions of ozone for this product measured?
+558,217,procedure,valid,,What scenario was used to determine the ozone levels in an office workspace?
+559,217,procedure,valid,,How can I identify if my HP printing equipment is ENERGY STAR qualified?
+560,217,procedure,valid,,What should I do to find more information about ENERGY STAR qualified imaging pr
+561,217,procedure,valid,,How can I reduce paper usage when using this printer?
+562,218,procedure,valid,,How should plastic parts over 25 grams be marked?
+563,218,procedure,valid,,How can I participate in the HP Planet Partners return and recycling program?
+564,218,procedure,valid,,What should I do if I want to recycle my used HP cartridges?
+565,218,procedure,valid,,How can I determine if my recycled or lightweight paper is suitable for this pri
+566,219,rule_error,valid,,What should you do instead of disposing of the printer with regular household wa
+567,219,procedure,valid,,How can I find out more about HP's recycling programs for used electronic hardwa
+568,220,procedure,valid,,How can I find the chemical information report for this HP product?
+569,220,procedure,valid,,How can I find the power consumption data for this product in networked standby 
+570,221,spec,valid,,What are the maximum allowable concentrations of hazardous substances like lead 
+571,222,procedure,valid,,How can you obtain Material Safety Data Sheets for supplies containing chemical 
+572,223,procedure,valid,,How can I find out more about EPEAT?
+573,223,procedure,valid,,What is the website to learn about HP's EPEAT registered products?
+574,225,procedure,valid,,How can I find out about HP's environmental management system?
+575,225,procedure,valid,,What should I do to learn more about HP's end-of-life product return and recycli
+576,226,procedure,valid,,How do you identify the regulatory model number for the HP Color LaserJet Manage
+577,227,rule_error,valid,,What type of cable is necessary for compliance with FCC regulations when using t
+578,227,procedure,valid,,How do you determine if your power source is adequate for the printer?
+579,228,rule_error,valid,,What could happen if I use controls or perform procedures not specified in the u
+580,229,procedure,valid,,How do you connect the device in Denmark?
+581,229,procedure,valid,,What should you do to connect the device in Finland?
+582,229,procedure,valid,,How is the apparatus connected in Norway?
+583,229,procedure,valid,,What is the procedure for connecting the device in Sweden?
+584,231,rule_error,valid,,What should you avoid doing with the paper trays while operating the printer?
+585,231,procedure,valid,,What type of telephone cord should be used if it's not provided with the product
+586,231,procedure,valid,,How can I find more detailed information about this printer?
+587,231,spec,valid,,What limitation does the Telepermit grant indicate regarding the connection of t
+588,232,procedure,valid,,How do I find the product identifier for this equipment?
+589,232,procedure,valid,,What should I do if the telephone company requests the product identifier?
+590,232,procedure,valid,,How can I determine the maximum number of devices that may be connected to my te
+591,232,procedure,valid,,What type of telephone cord and jack should be used with this equipment?
+592,232,procedure,valid,,How can I protect my printer from electrical surges?
+593,232,procedure,valid,,What should you do if your equipment is causing harm to the telephone network?
+594,232,procedure,valid,,What information must be identified in a fax message sent according to the Telep
+595,232,procedure,valid,,What type of telephone number cannot be provided in a fax message according to t
+596,232,rule_error,valid,,What should you do instead of attempting to connect electrical ground connection
+597,234,rule_error,valid,,What could happen if I use the 802.11a/b/g/n wireless functionality outdoors in 
+598,234,rule_error,valid,,What is the minimum safe distance for human proximity to the antenna during norm
+599,235,procedure,valid,,How far should you keep the device from your head and body when operating it?
+600,235,procedure,valid,,How can I get more information about this equipment's protection against interfe
+601,235,procedure,valid,,How is the radio noise emission of this digital apparatus classified?
+602,235,procedure,valid,,What standard does the internal wireless radio comply with?
+603,235,rule_error,valid,,What could cause interference or damage to this wireless LAN device?
+604,235,rule_error,valid,,What is the minimum distance that should be maintained from the antennas to avoi
+605,236,procedure,valid,,How can I determine if the telecommunications functionality of this product is a
+606,237,procedure,valid,,How can I ensure that this radio communication equipment is safe to use?
+607,238,spec,valid,,What are the dimensions of the printer as specified in the manual?
+608,238,spec,valid,,What is the capacity of the trays in this printer?
+609,238,spec,valid,,What are the supported versions of Internet Explorer for this printer?
+610,238,spec,valid,,What is the network link speed setting for Tray 3 in this printer manual?
+611,238,spec,valid,,What are the page numbers that discuss paper orientation in this manual?

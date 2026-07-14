@@ -1,0 +1,24 @@
+{
+  "metric": "diversity_and_relevance",
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "n_pairs": 716,
+  "qa_relevance": {
+    "mean_cosine": 0.6541,
+    "median_cosine": 0.6831,
+    "pct_above_0.7": 46.09,
+    "pct_above_0.5": 80.17,
+    "pct_below_0.3": 4.33,
+    "passes_mean_target": true
+  },
+  "question_diversity": {
+    "mean_nn_cosine": 0.6977,
+    "near_duplicates_0.95": 0,
+    "near_duplicates_0.95_pct": 0.0,
+    "very_close_0.90": 19,
+    "passes_near_dup_target": true
+  },
+  "thresholds": {
+    "near_duplicate_max_pct": 5.0,
+    "qa_cosine_min_mean": 0.5
+  }
+}

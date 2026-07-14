@@ -1,0 +1,97 @@
+idx,page,category,word_count,is_generic,type,is_short,question
+0,1,procedure,10,0,how,0,How can I find contact information for Cisco offices worldwide?
+1,1,procedure,14,0,what,0,What should you do if you cannot locate the software license or limited warranty?
+2,1,procedure,18,0,how,0,How can I try to correct interference if my printer causes harmful interference to radio or television reception?
+3,1,procedure,9,0,how,0,How can I view a list of Cisco trademarks?
+4,1,procedure,14,0,how,0,How do you connect the console port to a computer using the DB-25 adapter?
+5,1,procedure,13,0,what,0,What are the power supply requirements and heat dissipation specifications for this device?
+6,7,spec,10,0,what,0,What does the technical specifications section of the manual list?
+7,7,procedure,10,0,how,0,How can I best prepare to use this installation guide?
+8,8,spec,8,0,what,0,What does Appendix 1 of the manual specify?
+9,7,procedure,17,0,how,0,How do you install power supplies and fan modules for the Cisco MDS 9148S Multilayer Fabric switch?
+10,7,procedure,19,0,how,0,How can I understand the warnings in this printer manual if my native language is not Portuguese or Swedish?
+11,10,procedure,13,0,how,0,How can I find the documentation for the Cisco MDS 9000 Family online?
+12,10,procedure,16,0,how,0,How can I access the release notes for different components of the Cisco MDS 9000 Family?
+13,10,procedure,15,0,how,0,How should you handle the Cisco MDS 9000 Family equipment to comply with regulatory standards?
+14,10,procedure,14,0,how,0,How do you find compatibility information for Cisco MDS 9000 NX-OS hardware and software?
+15,10,procedure,14,0,what,0,What guide should you consult for switch-to-switch interoperability configurations in Cisco MDS 9000 Family?
+16,10,procedure,13,0,how,0,How do you start setting up the Cisco MDS 9134 Multilayer Fabric Switch?
+17,10,procedure,13,0,what,0,What guide should I use for installing a Cisco MDS 9250i Multiservice Switch?
+18,11,procedure,16,0,how,0,How do you upgrade the software for Cisco MDS 9000 NX-OS Release 6.2(x) and SAN-OS 3(x)?
+19,11,procedure,15,0,what,0,What guide should you refer to for installing and upgrading the Storage Services Interface Image?
+20,11,procedure,16,0,how,0,How do you install or upgrade software for the Cisco MDS 9000 Family Storage Services Module?
+21,11,procedure,14,0,how,0,How do you find information about configuring interfaces for the Cisco MDS 9000 Family?
+22,11,procedure,13,0,how,0,How can you access the Fabric Configuration Guide for Cisco DCNM for SAN?
+23,11,procedure,22,0,what,0,What is the title of the guide that provides information on setting up high availability and redundancy in Cisco DCNM for SAN?
+24,12,procedure,12,0,how,0,How do you configure I/O acceleration on the Cisco MDS 9000 series?
+25,12,procedure,14,0,what,0,What guide should be used for deploying SANTap on the Cisco MDS 9000 Family?
+26,12,procedure,9,0,how,0,How can I find system messages for Cisco NX-OS?
+27,12,procedure,13,0,what,0,What guide should I use for troubleshooting the Cisco MDS 9000 Family NX-OS?
+28,13,procedure,12,0,how,0,How can the Cisco MDS 9148S switch be used in different environments?
+29,13,procedure,11,0,how,0,How do you locate information about Fan Modules in the manual?
+30,13,procedure,15,0,what,0,What page should you refer to for details about Cisco MDS 9148S Multilayer Switch Ports?
+31,14,procedure,16,0,how,0,How many 16-Gbps Fibre Channel Ports are on the front of the Cisco MDS 9148S switch?
+32,17,spec,8,0,what,0,What does an orange switch status LED indicate?
+33,17,spec,11,0,what,0,What does a solid green LED on the port link indicate?
+34,18,spec,14,0,what,0,What does a solid green status indicate for the LED in this printer manual?
+35,14,procedure,16,0,how,0,How do you identify the redundant power supplies and fans on the Cisco MDS 9148S switch?
+36,14,procedure,14,0,what,0,What happens when an external loopback is detected on the Cisco MDS 9148S switch?
+37,21,procedure,13,0,how,0,How do you align the switch with the slider rails in the rack?
+38,21,procedure,14,0,what,0,What should you do if the switch does not slide easily into the rack?
+39,28,spec,12,0,what,0,What are the different sizes of slider rails included in each kit?
+40,41,procedure,16,0,what,0,What is the purpose of the MGMT 10/100 Ethernet port on the Cisco MDS 9148S switch?
+41,41,procedure,17,0,what,0,What should you consider when preparing your site for network connections to the Cisco MDS 9148S switch?
+42,41,procedure,11,0,how,0,How do you connect the RS-232 console port to a PC?
+43,41,procedure,14,0,what,0,What is the purpose of the console port on the Cisco MDS 9148S Switch?
+44,51,procedure,12,0,how,0,How should air be cooled within solid-walled cabinets according to the manual?
+45,51,procedure,13,0,what,0,What should be the overall depth of the cabinet to ensure adequate airflow?
+46,51,procedure,16,0,what,0,What is the minimum height above the floor openings for installing the lowest piece of equipment?
+47,52,spec,17,0,what,0,What is the weight limit for the MDS 9148S when mounted on a Telco (2 post) rack?
+48,51,procedure,12,0,how,0,How can the optional Telco and EIA Shelf Bracket Kit be used?
+49,51,procedure,16,0,what,0,What should you do once the front rack-mount brackets are securely attached to the rack-mounting rails?
+50,53,procedure,9,0,how,0,How do you start the shelf bracket installation process?
+51,53,procedure,11,0,how,0,How do you ensure the shelf brackets are level during installation?
+52,59,spec,10,0,what,0,What are the dimensions of the Cisco MDS 9148S Switch?
+53,53,procedure,10,0,how,0,How do you attach the crossbar to the shelf brackets?
+54,59,procedure,16,0,how,0,How can I find the power specifications for the Cisco MDS 9148S switch in this manual?
+55,59,spec,9,0,what,0,What is the operating temperature range for this printer?
+56,59,spec,10,0,what,0,What are the humidity limits for nonoperating and storage conditions?
+57,59,spec,10,0,how,0,How high can this printer operate in terms of altitude?
+58,59,spec,10,0,what,0,What is the noise level of this printer during operation?
+59,60,spec,13,0,what,0,What is the nominal range for the AC input voltage of this printer?
+60,59,spec,12,0,what,0,What is the operating temperature range for the Cisco MDS 9148S switch?
+61,60,procedure,12,0,how,0,How can I find the general power supply specifications for this printer?
+62,60,procedure,14,0,what,0,What should I look at to understand the power supply requirements for this printer?
+63,60,spec,18,0,what,0,What is the weight of the printer when it has two fan modules and two power supplies installed?
+64,61,spec,11,0,what,0,What is the fuse rated AMP for the part number 341-0706-02?
+65,61,spec,20,0,what,0,What is the typical AC power consumption in watts for the Cisco MDS 9148S Switch when operating at 220 volts?
+66,60,rule_error,17,0,what,0,What is the maximum AC input voltage that the Cisco MDS 9148S switch power supply can handle?
+67,62,procedure,14,0,what,0,What type of AC power receptacles must be used to plug in the chassis?
+68,62,spec,14,0,what,0,What is the maximum power required for the Cisco MDS 9148S16G Multilayer Fabric Switch?
+69,62,spec,15,0,what,0,What are the supported wavelength ranges for Cisco SFP transceivers in the MDS 9148S switch?
+70,62,spec,13,0,what,0,What are the optical specifications mentioned in the Cisco CWDM SFP Transceivers manual?
+71,63,procedure,15,0,how,0,How can I find the available Fibre Channel SFP+ transceivers for the Cisco MDS9148S switch?
+72,63,spec,16,0,what,0,What are the different types of Cisco MDS Fibre Channel SFP+ modules listed in the table?
+73,64,spec,9,0,what,0,What is the wavelength for the DS-SFP-FC16G-L W SFP+?
+74,65,spec,15,0,what,0,What are the maximum and minimum average transmit power values for the DS-SFP-FC16G-SW SFP+ module?
+75,66,spec,12,0,what,0,What are the different core sizes supported by the DS-SFP-FC8G-SW SFP+ module?
+76,67,spec,11,0,what,0,What is the fiber loss budget for 50.0 micron OM2 fiber?
+77,68,spec,9,0,what,0,What are the available center wavelengths for the transmitter?
+78,68,spec,11,0,what,0,What are the dimensions of the printer as per the specifications?
+79,70,procedure,10,0,how,0,How do you connect the console port to a computer?
+80,70,procedure,13,0,how,0,How do you connect the console port on the Cisco MDS 9148S Switch?
+81,70,spec,12,0,what,0,What signal is assigned to pin 3 in the printer's pin/signal table?
+82,70,procedure,14,0,how,0,How can you connect the console port to a computer running terminal emulation software?
+83,71,spec,17,0,what,0,What is the pin configuration for an RJ-45 to RJ-45 Rollover Cable connected to a console port?
+84,71,spec,16,0,what,0,What is the signal associated with RJ-45 Pin 2 on an RJ-45 to RJ-45 Rollover Cable?
+85,71,procedure,5,0,what,1,What does Table 1-3 list?
+86,72,spec,14,0,what,0,What signals are assigned to pins 1 through 6 in the printer's pin/signal configuration?
+87,73,spec,12,0,what,0,What is the cordset rating for the power cord used in Argentina?
+88,71,spec,18,0,what,0,What type of cable is required to connect the 10/100 management Ethernet port to external hubs and switches?
+89,74,spec,13,0,what,0,What is the cordset rating for the power cord used in South Africa?
+90,78,spec,12,0,what,0,What are the factors considered in the space evaluation for printer installation?
+91,74,procedure,14,0,how,0,How do you connect the jumper power cord to the Cisco MDS 9148S Switch?
+92,74,procedure,13,0,what,0,What do you connect the C14 connector of the jumper power cord to?
+93,79,procedure,9,0,how,0,How do you record contact information for the site?
+94,79,procedure,10,0,what,0,What details should be recorded about the building or site?
+95,80,procedure,8,0,how,0,How do you record the chassis serial number?

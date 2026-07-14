@@ -1,0 +1,1932 @@
+======================================================================
+  DLI KNOWLEDGE BASE SNAPSHOT
+  Deep Doc Extractor — Team DocuForge
+======================================================================
+
+Total entries: 101
+  PROCEDURE: 88
+  SPECIFICATION: 5
+  RULE: 8
+
+======================================================================
+  PROCEDURES (88 entries)
+======================================================================
+
+--------------------------------------------------
+Entry 1: [PROCEDURE] HP Color LaserJet Managed MFP E877 Series
+Source: hp-e877-series-user-guide.md | Page: 1
+Keywords: color, managed, flow, series, images
+--------------------------------------------------
+
+CONTENT:
+HP Color LaserJet Managed MFP E87740, E87750, E87760, E87770
+HP Color LaserJet Managed Flow MFP E87740, E87750, E87760, E87770
+
+![HP Color LaserJet Managed MFP E877 Series](images/image_p1_00.png)
+
+Q&A PAIRS:
+  Q1: How do you identify the HP Color LaserJet Managed MFP models?
+  A1: The models are identified as E87740, E87750, E87760, and E87770.
+
+
+--------------------------------------------------
+Entry 2: [PROCEDURE] Table of contents
+Source: hp-e877-series-user-guide.md | Page: 4
+Keywords: method, embedded, server, network, enable, port, connected, cartridge
+--------------------------------------------------
+
+CONTENT:
+Method two: Enable the SuperSpeed USB 3.0 port from the HP Embedded Web Server (network-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Method two: Reset factory settings from the HP Embedded Web Server (network-connected
+A “Cartridge is low” or “Cartridge is very low” message displays on the printer control panel or EWS..................144
+
+
+
+Method two: Enable the USB port from the HP Embedded Web Server (network-connected printers
+
+
+
+
+
+Product Power Data per European Union Commission Regulation 1275/2008 and the UK Relevant
+
+Q&A PAIRS:
+  Q1: How do you enable the SuperSpeed USB 3.0 port on an HP printer?
+  A1: You can enable the SuperSpeed USB 3.0 port from the HP Embedded Web Server (network-connected printers).
+
+  Q2: What should you do when a 'Cartridge is low' or 'Cartridge is very low' message appears on the printer control panel or EWS?
+  A2: You can reset the factory settings from the HP Embedded Web Server (network-connected printers) to address this issue.
+
+
+--------------------------------------------------
+Entry 3: [PROCEDURE] 1 Printer overview
+Source: hp-e877-series-user-guide.md | Page: 12
+Keywords: information, printer, following, support, review, location, features, physical
+--------------------------------------------------
+
+CONTENT:
+Review the location of features on the printer, the physical and technical specifications of the printer,
+and where to locate setup information.
+
+The following information is correct at the time of publication. For current information, see
+http://www.hp.com/support/colorljE877mfp
+
+For more information:
+
+HP's all-inclusive help for the printer includes the following information:
+
+● Install and configure
+
+● Learn and use
+
+● Solve problems
+
+● Download software and firmware updates
+
+● Join support forums
+
+● Find warranty and regulatory information
+
+Q&A PAIRS:
+  Q1: How can I find the most up-to-date information about the printer?
+  A1: You can visit http://www.hp.com/support/colorljE877mfp for current information.
+
+
+--------------------------------------------------
+Entry 4: [PROCEDURE] Potential shock hazard
+Source: hp-e877-series-user-guide.md | Page: 13
+Keywords: product, safety, install, read, understand, electrical, shock, instructions
+--------------------------------------------------
+
+CONTENT:
+Review this important safety information.
+
+● Read and understand these safety statements to avoid an electrical shock hazard.
+
+● Always follow basic safety precautions when using this product to reduce risk of injury from fire or
+electric shock.
+
+● Read and understand all instructions in the user guide.
+
+● Observe all warnings and instructions marked on the product.
+
+● Use only a grounded electrical outlet when connecting the product to a power source. If you do not
+know whether the outlet is grounded, check with a qualified electrician.
+
+● Do not touch the contacts on any of the sockets on the product. Replace damaged cords
+immediately.
+
+● Unplug this product from wall outlets before cleaning.
+
+● Do not install or use this product near water or when you are wet.
+
+● Install the product securely on a stable surface.
+
+● Install the product in a protected location where no one can step on or trip over the power cord.
+
+Q&A PAIRS:
+  Q1: How should I connect the printer to a power source?
+  A1: Use only a grounded electrical outlet when connecting the product to a power source. If you do not know whether the outlet is grounded, check with a qualified electrician.
+
+  Q2: What should I do before cleaning the printer?
+  A2: Unplug this product from wall outlets before cleaning.
+
+
+--------------------------------------------------
+Entry 5: [PROCEDURE] Printer views
+Source: hp-e877-series-user-guide.md | Page: 13
+Keywords: identify, certain, parts, printer, control, panel
+--------------------------------------------------
+
+CONTENT:
+Identify certain parts of the printer and the control panel.
+
+Q&A PAIRS:
+  Q1: How do you start this procedure?
+  A1: By identifying certain parts of the printer and the control panel.
+
+
+--------------------------------------------------
+Entry 6: [PROCEDURE] Printer specifications
+Source: hp-e877-series-user-guide.md | Page: 19
+Keywords: determine, specifications, printer, model
+--------------------------------------------------
+
+CONTENT:
+Determine the specifications for your printer model.
+
+Q&A PAIRS:
+  Q1: How can I find out the specifications for my specific printer model?
+  A1: You need to determine the specifications for your printer model.
+
+
+--------------------------------------------------
+Entry 7: [PROCEDURE] Power consumption
+Source: hp-e877-series-user-guide.md | Page: 27
+Keywords: imaging, qualified, power, saves, product, equipment, usage, drops
+--------------------------------------------------
+
+CONTENT:
+Power usage drops significantly while in Ready, Sleep, or Off mode, which saves natural resources
+and saves money without affecting the high performance of this product. HP printing and imaging
+® equipment marked with the ENERGY STAR logo is qualified to the U.S. Environmental Protection
+Agency's ENERGY STAR specifications for imaging equipment. The following mark will appear on
+ENERGY STAR qualified imaging products:
+
+![Power consumption](images/image_p217_00.png)
+
+Additional ENERGY STAR qualified imaging product model information is listed at:
+
+www.hp.com/go/energystar
+
+Q&A PAIRS:
+  Q1: How can I check the power usage of my printer?
+  A1: Review the power consumption for each printer status or function.
+
+  Q2: How can I identify if my HP printing equipment is ENERGY STAR qualified?
+  A2: Look for the ENERGY STAR logo on your HP printing and imaging equipment.
+
+  Q3: What should I do to find more information about ENERGY STAR qualified imaging products from HP?
+  A3: Visit the website www.hp.com/go/energystar for additional model information.
+
+
+--------------------------------------------------
+Entry 8: [PROCEDURE] Printer hardware setup and software installation
+Source: hp-e877-series-user-guide.md | Page: 29
+Keywords: instructions, printer, support, basic, setup, hardware, installation, guide
+--------------------------------------------------
+
+CONTENT:
+For basic setup instructions, see the Hardware Installation Guide that came with the printer. For
+additional instructions, go to HP support on the web.
+
+Go to http://www.hp.com/support/colorljE877mfp for HP's all-inclusive help for the printer, which includes
+the following information:
+
+● Find instructions about how to use the Microsoft Add Printer tool
+
+Q&A PAIRS:
+  Q1: How do I find instructions on using the Microsoft Add Printer tool for my printer?
+  A1: Go to http://www.hp.com/support/colorljE877mfp for HP's all-inclusive help for the printer, which includes information about how to use the Microsoft Add Printer tool.
+
+
+--------------------------------------------------
+Entry 9: [PROCEDURE] 2 Paper trays
+Source: hp-e877-series-user-guide.md | Page: 30
+Keywords: paper, trays, tray, load, keyboard, discover, including, special
+--------------------------------------------------
+
+CONTENT:
+Discover how to load and use the paper trays, including how to load special items such as envelopes
+and labels.
+
+Use caution when loading the paper trays.
+
+**CAUTION:** Do not extend more than one paper tray at a time.
+
+Do not use paper tray as a step.
+
+All trays must be closed while relocating/moving product.
+
+Keep hands out of paper trays or drawers when closing.
+
+If the printer has a keyboard, close keyboard tray when not in use.
+
+Q&A PAIRS:
+  Q1: How should you handle the paper trays while loading them?
+  A1: Use caution when loading the paper trays.
+
+
+--------------------------------------------------
+Entry 10: [PROCEDURE] Load paper to Tray 1 (multipurpose tray)
+Source: hp-e877-series-user-guide.md | Page: 30
+Keywords: paper, tray, following, information, describes, load, avoid, jams
+--------------------------------------------------
+
+CONTENT:
+The following information describes how to load paper in Tray 1.
+
+**CAUTION:** To avoid jams, never add or remove paper from Tray 1 during printing.
+
+Q&A PAIRS:
+  Q1: How should you handle adding or removing paper from Tray 1 while the printer is operating?
+  A1: Never add or remove paper from Tray 1 during printing to avoid jams.
+
+
+--------------------------------------------------
+Entry 11: [PROCEDURE] Load and print envelopes
+Source: hp-e877-series-user-guide.md | Page: 42
+Keywords: tray, envelopes, multipurpose, holds, print
+--------------------------------------------------
+
+CONTENT:
+To print on envelopes, use Tray 1 (multipurpose tray), Tray 2, or Tray 3. Tray 1 (multipurpose tray) holds up
+to 10 envelopes, and Tray 2 or 3 holds up to 50 envelopes.
+
+Q&A PAIRS:
+  Q1: How many envelopes can you load into the multipurpose tray at once?
+  A1: Up to 10 envelopes.
+
+  Q2: What is the maximum number of envelopes that Tray 2 or Tray 3 can hold?
+  A2: Up to 50 envelopes.
+
+
+--------------------------------------------------
+Entry 12: [PROCEDURE] Load and print labels
+Source: hp-e877-series-user-guide.md | Page: 43
+Keywords: tray, print, sheets, labels, using, multipurpose
+--------------------------------------------------
+
+CONTENT:
+Print sheets of labels using Tray 1 (multipurpose tray), Tray 2, or Tray 3.
+
+Q&A PAIRS:
+  Q1: How do you begin printing sheets of labels?
+  A1: Use Tray 1 (multipurpose tray), Tray 2, or Tray 3.
+
+
+--------------------------------------------------
+Entry 13: [PROCEDURE] 3 Supplies, accessories, and parts
+Source: hp-e877-series-user-guide.md | Page: 45
+Keywords: replace, order, supplies, accessories, toner, cartridges, remove, another
+--------------------------------------------------
+
+CONTENT:
+Order supplies or accessories, replace the toner cartridges, or remove and replace another part.
+
+Q&A PAIRS:
+  Q1: What should you do if your toner runs out?
+  A1: Replace the toner cartridges.
+
+
+--------------------------------------------------
+Entry 14: [PROCEDURE] Order supplies, accessories, and parts
+Source: hp-e877-series-user-guide.md | Page: 45
+Keywords: find, obtain, replacement, supplies, accessories, parts, printer
+--------------------------------------------------
+
+CONTENT:
+Find out how to obtain replacement supplies, accessories, and parts for the printer.
+
+Q&A PAIRS:
+  Q1: How can I get replacement supplies, accessories, and parts for my printer?
+  A1: To obtain replacement supplies, accessories, and parts for your printer, you need to find out how.
+
+
+--------------------------------------------------
+Entry 15: [PROCEDURE] Replace the toner cartridges
+Source: hp-e877-series-user-guide.md | Page: 45
+Keywords: replace, toner, cartridges, receive, message, printer, print, quality
+--------------------------------------------------
+
+CONTENT:
+Replace the toner cartridges if you receive a message on the printer, or if you have print quality
+problems.
+
+Q&A PAIRS:
+  Q1: How should I know when it's time to replace the toner cartridges?
+  A1: You should replace the toner cartridges if you receive a message on the printer, or if you have print quality problems.
+
+
+--------------------------------------------------
+Entry 16: [PROCEDURE] Replace the toner collection unit (TCU)
+Source: hp-e877-series-user-guide.md | Page: 48
+Keywords: replace, toner, collection, unit, receive, message, printer, print
+--------------------------------------------------
+
+CONTENT:
+Replace the toner collection unit if you receive a message on the printer, or if you have print quality
+problems.
+
+Q&A PAIRS:
+  Q1: How can I know when it's time to replace the toner collection unit?
+  A1: You should replace the toner collection unit if you receive a message on the printer, or if you have print quality problems.
+
+  Q2: What should you do with the toner collection unit once you grasp it?
+  A2: Pull it straight out of the printer while maintaining its upright position to avoid spilling any waste toner.
+
+
+--------------------------------------------------
+Entry 17: [PROCEDURE] Replace the staple cartridge (optional inner finisher)
+Source: hp-e877-series-user-guide.md | Page: 50
+Keywords: cartridge, install, staple, current, empty
+--------------------------------------------------
+
+CONTENT:
+Install a new staple cartridge when the current cartridge is empty.
+
+Q&A PAIRS:
+  Q1: How do you install a new staple cartridge?
+  A1: You install a new staple cartridge when the current cartridge is empty.
+
+  Q2: What should you do when the staple cartridge is empty?
+  A2: You should install a new staple cartridge when the current cartridge is empty.
+
+
+--------------------------------------------------
+Entry 18: [PROCEDURE] 4 Print
+Source: hp-e877-series-user-guide.md | Page: 59
+Keywords: print, using, software, mobile, device, flash, drive
+--------------------------------------------------
+
+CONTENT:
+Print using the software, or print from a mobile device or USB flash drive.
+
+Q&A PAIRS:
+  Q1: How can you initiate printing using this printer?
+  A1: You can print using the software, or print from a mobile device or USB flash drive.
+
+
+--------------------------------------------------
+Entry 19: [PROCEDURE] Print tasks (Windows)
+Source: hp-e877-series-user-guide.md | Page: 59
+Keywords: learn, common, printing, tasks, windows, users
+--------------------------------------------------
+
+CONTENT:
+Learn about common printing tasks for Windows users.
+
+Q&A PAIRS:
+  Q1: How can you learn about common printing tasks on Windows?
+  A1: By referring to the technical printer manual.
+
+
+--------------------------------------------------
+Entry 20: [PROCEDURE] Print tasks (macOS)
+Source: hp-e877-series-user-guide.md | Page: 62
+Keywords: print, using, printing, software, including, both, sides, multiple
+--------------------------------------------------
+
+CONTENT:
+Print using the HP printing software for macOS, including how to print on both sides or print multiple
+pages per sheet.
+
+Q&A PAIRS:
+  Q1: How can I print on both sides of the paper using the HP printing software for macOS?
+  A1: To print on both sides, use the HP printing software for macOS.
+
+  Q2: What should I do if I want to print multiple pages per sheet with the HP printing software for macOS?
+  A2: Use the HP printing software for macOS to print multiple pages per sheet.
+
+
+--------------------------------------------------
+Entry 21: [PROCEDURE] Store print jobs on the printer to print later or print privately
+Source: hp-e877-series-user-guide.md | Page: 64
+Keywords: store, print, jobs, printer, memory, printing, later, time
+--------------------------------------------------
+
+CONTENT:
+Store print jobs in the printer memory for printing at a later time.
+
+Q&A PAIRS:
+  Q1: How can I save print jobs to the printer's memory for future use?
+  A1: To store print jobs in the printer memory, you need to send the print job to the printer and ensure it is saved in the printer's memory instead of printing immediately.
+
+
+--------------------------------------------------
+Entry 22: [PROCEDURE] Mobile printing
+Source: hp-e877-series-user-guide.md | Page: 67
+Keywords: mobile, solutions, enable, easy, printing, printer, laptop, tablet
+--------------------------------------------------
+
+CONTENT:
+Mobile and ePrint solutions enable easy printing to an HP printer from a laptop, tablet, smartphone, or
+other mobile device.
+
+Q&A PAIRS:
+  Q1: How can I print to an HP printer using my mobile device?
+  A1: You can use Mobile and ePrint solutions to enable easy printing from your laptop, tablet, smartphone, or other mobile device.
+
+
+--------------------------------------------------
+Entry 23: [PROCEDURE] Print from a USB flash drive
+Source: hp-e877-series-user-guide.md | Page: 70
+Keywords: printer, files, features, easy, access, printing, print, without
+--------------------------------------------------
+
+CONTENT:
+This printer features easy-access USB printing to print files without a computer.
+
+The printer accepts standard USB flash drives in the USB port near the control panel. It supports the
+following types of files:
+
+● .pdf
+
+● .prn
+
+● .pcl
+
+● .ps
+
+● .cht
+
+● .jpg
+
+● .png
+
+Q&A PAIRS:
+  Q1: How do you connect a USB flash drive to the printer?
+  A1: Insert the standard USB flash drive into the USB port near the control panel.
+
+
+--------------------------------------------------
+Entry 24: [PROCEDURE] Print using the SuperSpeed USB 3.0 port (wired)
+Source: hp-e877-series-user-guide.md | Page: 72
+Keywords: port, enable, wired, printing, located, interface, ports, area
+--------------------------------------------------
+
+CONTENT:
+Enable the SuperSpeed USB 3.0 port for wired USB printing. The port is located in the interface ports
+area and is disabled by default.
+
+Use one of the following methods to enable the SuperSpeed USB 3.0 port. Once the port is enabled,
+install the product software in order to print using this port.
+
+Q&A PAIRS:
+  Q1: How do you enable the SuperSpeed USB 3.0 port for wired USB printing?
+  A1: Use one of the following methods to enable the SuperSpeed USB 3.0 port.
+
+
+--------------------------------------------------
+Entry 25: [PROCEDURE] 5 Copy
+Source: hp-e877-series-user-guide.md | Page: 73
+Keywords: copy, copies, printer, learn, sided, document, locate, additional
+--------------------------------------------------
+
+CONTENT:
+Make copies with the printer, learn how to copy a two-sided document, and locate additional copy tasks
+on the web.
+
+Q&A PAIRS:
+  Q1: How do I make copies using this printer?
+  A1: To make copies with the printer, learn how to copy a two-sided document.
+
+  Q2: What should I do if I need additional copy tasks?
+  A2: Locate additional copy tasks on the web.
+
+
+--------------------------------------------------
+Entry 26: [PROCEDURE] Make a copy
+Source: hp-e877-series-user-guide.md | Page: 73
+Keywords: options, preview, document, screen, select, buttons, page, copy
+--------------------------------------------------
+
+CONTENT:
+Copy a document or picture from the scanner glass or automatic document feeder.. 1. Place the document face-down on the scanner glass, or place it face-up in the document feeder. and adjust the paper guides to fit the size of the document.. 2. From the Home screen on the printer control panel, navigate to the Copy application, and then. select the Copy icon.. 3. To select the number of copies, touch the box next to Copy, use the keypad to enter the number of. copies, and then touch the close keypad button .. 4. Select Optimize Text/Picture to optimize for the type of image being copied: text, graphics, or. photos. Select one of the predefined options.. 5. Set options marked with a yellow triangle before using the preview feature.. **NOTE:** After the preview scan, these options are removed from the main Options list and are. summarized in the Pre-scan Options list. To change any of these options, discard the preview and. start over.. Using the preview feature is optional.. 6. Touch the right pane of the screen to preview the document. In the preview screen, use the buttons. on the right of the screen to adjust the preview options and to rearrange, rotate, insert, or remove. pages.. Use these buttons to toggle between single-page view and thumbnail view. More options are. available in thumbnail view than in single-page view.. ![Step 6: Touch the right pane of the screen](images/image_p74_00.png). Use these buttons to zoom in or out on the selected page.. ![Use these buttons to zoom in or](images/image_p74_01.png). **NOTE:** Select only one page at a time to use these buttons.. Use this button to rotate the page 180 degrees..
+
+Q&A PAIRS:
+  Q1: How do you select the number of copies on the printer control panel?
+  A1: From the Home screen, navigate to the Copy application, select the Copy icon, touch the box next to Copy, use the keypad to enter the number of copies, and then touch the close keypad button.
+
+
+--------------------------------------------------
+Entry 27: [PROCEDURE] Make a copy
+Source: hp-e877-series-user-guide.md | Page: 73
+Keywords: button, images, pages, page, buttons, document, preview, touch
+--------------------------------------------------
+
+CONTENT:
+Use this button to rotate the page 180 degrees.. ![Use this button to rotate the page](images/image_p74_02.png). **NOTE:** This button is available only in the thumbnail view.. Use this button to delete the selected pages.. ![Use this button to delete the selected](images/image_p74_03.png). Use these buttons to rearrange the pages within the document. Select one or more pages and. move them to the left or right.. ![Use these buttons to rearrange the pages](images/image_p74_04.png). **NOTE:** These buttons are available only in the thumbnail view.. Use this button to add a page to the document. The printer prompts to scan additional pages.. ![Use this button to add a page](images/image_p74_05.png). Use this button to clear the changes made in the preview and start over.. ![Use this button to clear the changes](images/image_p74_06.png). Touch this button to collapse the preview screen and return to the Copy screen.. ![Touch this button to collapse the preview](images/image_p74_07.png). 7. When the document is ready, touch Copy to begin copying.
+
+Q&A PAIRS:
+  Q1: How do you rotate a page in the thumbnail view?
+  A1: Use this button to rotate the page 180 degrees.
+
+  Q2: What should you do to delete selected pages?
+  A2: Use this button to delete the selected pages.
+
+
+--------------------------------------------------
+Entry 28: [PROCEDURE] Copy on both sides (duplex)
+Source: hp-e877-series-user-guide.md | Page: 75
+Keywords: output, page, edge, sided, flip, image, flips, style
+--------------------------------------------------
+
+CONTENT:
+Copy or print on both sides of the paper.. 3. In the Options pane, select Original Side, and then select the option that describes the original. document:. ● Use Automatically detect to detect whether the original is printed on one or both sides of the. page.. ● Use 1-sided for originals that are printed on one side of the page.. ● Use 2-sided (book-style) for originals that flip on the right/left edge of the page, like books. If the. image is portrait, the output flips on the long edge of the page. If the image is landscape, the. output flips on the short edge of the page.. ● Use 2-sided (flip-style) for originals that flip on the top/bottom edge of the page, like calendars.. If the image is portrait, the output flips on the short edge of the page. If the image is landscape,. the output flips on the long edge of the page.. 4. Select Output Sides, and then select one of these options:. ● 1-sided: The output will be 1-sided. However, if the administrator has restricted 1-sided printing,. the output will be 2-sided book-style.. ● 2-sided (book-style): The output will flip on the right/left edge of the page, like a book. If the. image is portrait, the output flips on the long edge of the page. If the image is landscape, the. output flips on the short edge of the page.. ● 2-sided (flip-style): The output will flip on the top/bottom edge of the page, like a calendar. If the. image is portrait, the output flips on the short edge of the page. If the image is landscape, the. output flips on the long edge of the page.. ![Step 4: Select Output Sides](images/image_p76_00.png). ![● 2-sided (flip-style): The output will flip](images/image_p76_01.png).
+
+Q&A PAIRS:
+  Q1: How do you specify the type of original document when copying or printing on both sides?
+  A1: In the Options pane, select Original Side, and then select the option that describes the original document. You can choose between Automatically detect, 1-sided, 2-sided (book-style), or 2-sided (flip-style).
+
+  Q2: What should you do to set the output sides for a double-sided copy or print?
+  A2: Select Output Sides in the Options pane, and then choose one of these options: 1-sided, 2-sided (book-style), or 2-sided (flip-style).
+
+
+--------------------------------------------------
+Entry 29: [PROCEDURE] Copy on both sides (duplex)
+Source: hp-e877-series-user-guide.md | Page: 75
+Keywords: flip, sided, style, output, images, document, ready, touch
+--------------------------------------------------
+
+CONTENT:
+![● 2-sided (flip-style): The output will flip](images/image_p76_01.png). ![● 2-sided (flip-style): The output will flip](images/image_p76_02.png). ![● 2-sided (flip-style): The output will flip](images/image_p76_03.png). ![● 2-sided (flip-style): The output will flip](images/image_p76_04.png). ![● 2-sided (flip-style): The output will flip](images/image_p76_05.png). ![● 2-sided (flip-style): The output will flip](images/image_p77_00.png). ![● 2-sided (flip-style): The output will flip](images/image_p77_01.png). 7. When the document is ready, touch Start to begin copying.
+
+Q&A PAIRS:
+  Q1: How do you start copying when the document is ready?
+  A1: Touch Start to begin copying.
+
+
+--------------------------------------------------
+Entry 30: [PROCEDURE] 6 Scan
+Source: hp-e877-series-user-guide.md | Page: 78
+Keywords: scan, using, software, directly, email, flash, drive, network
+--------------------------------------------------
+
+CONTENT:
+Scan using the software, or scan directly to email, a USB flash drive, a network folder, or another
+destination.
+
+Q&A PAIRS:
+  Q1: How can I scan a document using this printer?
+  A1: You can scan using the software provided, or scan directly to email, a USB flash drive, a network folder, or another destination.
+
+
+--------------------------------------------------
+Entry 31: [PROCEDURE] Set up Scan to Email
+Source: hp-e877-series-user-guide.md | Page: 78
+Keywords: printer, feature, enables, scan, document, send, email, addresses
+--------------------------------------------------
+
+CONTENT:
+The printer has a feature that enables it to scan a document and send it to one or more email addresses.
+
+Q&A PAIRS:
+  Q1: How can I use the printer to scan a document and send it via email?
+  A1: To use this feature, you need to enable the option that allows the printer to scan a document and send it to one or more email addresses.
+
+
+--------------------------------------------------
+Entry 32: [PROCEDURE] Set up Scan to Network Folder
+Source: hp-e877-series-user-guide.md | Page: 93
+Keywords: scan, folder, feature, documents, directly, network
+--------------------------------------------------
+
+CONTENT:
+Set up the Scan to Folder feature to scan documents directly to network folder.
+
+Q&A PAIRS:
+  Q1: How can I set up the Scan to Folder feature?
+  A1: To set up the Scan to Folder feature, you need to configure it to scan documents directly to a network folder.
+
+
+--------------------------------------------------
+Entry 33: [PROCEDURE] Set up Scan to SharePoint
+Source: hp-e877-series-user-guide.md | Page: 104
+Keywords: scan, documents, site, directly, microsoft, feature, eliminates, need
+--------------------------------------------------
+
+CONTENT:
+Use Scan to SharePoint to scan documents directly to a Microsoft SharePoint site. This feature
+eliminates the need to scan the documents to a network folder, USB flash drive, or email message,
+and then manually upload the files to the SharePoint site.
+
+Q&A PAIRS:
+  Q1: How can I scan documents directly to a Microsoft SharePoint site?
+  A1: Use the Scan to SharePoint feature.
+
+  Q2: What does the Scan to SharePoint feature eliminate the need for?
+  A2: It eliminates the need to scan the documents to a network folder, USB flash drive, or email message, and then manually upload the files to the SharePoint site.
+
+
+--------------------------------------------------
+Entry 34: [PROCEDURE] Set up Scan to USB Drive
+Source: hp-e877-series-user-guide.md | Page: 110
+Keywords: scan, drive, enable, feature, allows, directly, flash
+--------------------------------------------------
+
+CONTENT:
+Enable the Scan to USB Drive feature, which allows you to scan directly to a USB flash drive.
+
+Q&A PAIRS:
+  Q1: How can I enable the Scan to USB Drive feature on my printer?
+  A1: To enable the Scan to USB Drive feature, you need to follow the specific instructions provided in your printer's manual.
+
+
+--------------------------------------------------
+Entry 35: [PROCEDURE] Scan to email
+Source: hp-e877-series-user-guide.md | Page: 114
+Keywords: document, email, scan, directly, address, contact, list, scanned
+--------------------------------------------------
+
+CONTENT:
+Scan a document directly to an email address or contact list. The scanned document is sent as an email
+message attachment.
+
+Q&A PAIRS:
+  Q1: How can I send a scanned document directly to an email address?
+  A1: Scan the document and it will be sent as an email message attachment.
+
+  Q2: How do you specify recipients when scanning a document to an email address?
+  A2: You can use the keypad to enter the address in the To field, or use a contact list by selecting the Contacts button next to the To field, choosing the appropriate contact list, and then adding names from the list of contacts.
+
+
+--------------------------------------------------
+Entry 36: [PROCEDURE] Scan to job storage
+Source: hp-e877-series-user-guide.md | Page: 117
+Keywords: scan, document, save, storage, folder, printer
+--------------------------------------------------
+
+CONTENT:
+Scan a document and save it to a job storage folder on the printer.
+
+Q&A PAIRS:
+  Q1: How can I scan a document and store it in the printer's job storage folder?
+  A1: To scan a document and save it to a job storage folder on the printer, follow these steps.
+
+
+--------------------------------------------------
+Entry 37: [PROCEDURE] Scan to network folder
+Source: hp-e877-series-user-guide.md | Page: 119
+Keywords: scan, document, save, folder, network
+--------------------------------------------------
+
+CONTENT:
+Scan a document and save it to a folder on the network.
+
+Q&A PAIRS:
+  Q1: How can I scan a document and store it on a network folder?
+  A1: To scan a document and save it to a folder on the network, follow these steps: 1) Place your document on the scanner glass or in the automatic document feeder. 2) Open the printer's control panel and select the 'Scan' option. 3) Choose the 'Network Folder' as the destination for the scanned file. 4) Select the specific folder on the network where you want to save the scan. 5) Adjust any necessary scan settings, such as resolution or file format. 6) Initiate the scan by pressing the 'Start' button.
+
+  Q2: How do you select an existing folder location that has been set up by the administrator?
+  A2: To select a folder location that the administrator already set up, select Load under Quick Sets and Defaults, select the folder, and then select Load.
+
+  Q3: What should you do if you want to specify a new folder location for saving the scanned document?
+  A3: To specify a new folder location, touch the Folder Paths field to open a touchscreen keyboard, type the path to the folder in the format \serverolder, and then select the Enter button. Enter user credentials if prompted and then select Save to save the path.
+
+
+--------------------------------------------------
+Entry 38: [PROCEDURE] Use HP JetAdvantage business solutions
+Source: hp-e877-series-user-guide.md | Page: 125
+Keywords: solutions, workflow, printing, easy, both, network, cloud, based
+--------------------------------------------------
+
+CONTENT:
+HP JetAdvantage solutions are workflow and printing solutions that are easy to use, and both network-
+and cloud-based. HP JetAdvantage solutions are designed to help businesses of all types, including
+
+
+
+healthcare, financial services, manufacturing, and public sector, manage a fleet of printers and
+scanners.
+
+HP JetAdvantage Solutions include:
+
+● HP JetAdvantage Security solutions
+
+● HP JetAdvantage Management solutions
+
+● HP JetAdvantage Workflow solutions
+
+● HP JetAdvantage Mobile Printing solutions
+
+For more information about HP JetAdvantage business workflow and printing solutions, go to
+www.hp.com/go/PrintSolutions.
+
+Q&A PAIRS:
+  Q1: How can I find more information about HP JetAdvantage business workflow and printing solutions?
+  A1: You can visit the website www.hp.com/go/PrintSolutions for more information.
+
+
+--------------------------------------------------
+Entry 39: [PROCEDURE] Additional scan tasks
+Source: hp-e877-series-user-guide.md | Page: 126
+Keywords: performing, scan, tasks, locate, information, common, instructions, available
+--------------------------------------------------
+
+CONTENT:
+Locate information on the Web for performing common scan tasks.
+
+Instructions are available for performing specific scan tasks, such as the following:
+
+● Send a scanned document to a folder in the printer memory
+
+Q&A PAIRS:
+  Q1: How can I find instructions for common scan tasks on the web?
+  A1: Locate information on the Web for performing common scan tasks.
+
+  Q2: What is one specific scan task that instructions are available for?
+  A2: Send a scanned document to a folder in the printer memory
+
+
+--------------------------------------------------
+Entry 40: [PROCEDURE] 7 Fax
+Source: hp-e877-series-user-guide.md | Page: 127
+Keywords: configure, features, send, receive, faxes, using, printer
+--------------------------------------------------
+
+CONTENT:
+Configure the fax features, and send and receive faxes using the printer.
+
+Q&A PAIRS:
+  Q1: How can I configure the fax features on this printer?
+  A1: You can configure the fax features by following the instructions provided in the manual.
+
+  Q2: What do I need to do to send and receive faxes using this printer?
+  A2: To send and receive faxes, you need to use the printer as described in the manual.
+
+
+--------------------------------------------------
+Entry 41: [PROCEDURE] Send a fax
+Source: hp-e877-series-user-guide.md | Page: 131
+Keywords: select, settings, configure, resolution, sides, step, images, recipients
+--------------------------------------------------
+
+CONTENT:
+Use the following steps to send a fax from the printer.. 2. From the Home screen on the printer control panel, navigate to the Fax application, and then select. the Fax icon. You might be prompted to type a user name and password.. 3. Specify the recipients using one of these methods:. ● Use the keypad to enter the recipient or recipients.. Touch the Fax Recipients text field, and then use the keypad to enter the fax number. To send to. on multiple fax numbers, separate the numbers with a semicolon, or select the Enter button. the touchscreen keyboard after typing each number.. a. Select the Contacts button that is next to the Fax Recipients field to open the Contacts. screen.. 4. To load a Quick Set, select Load, select the Quick Set, and then select Load under the Quick Sets. list.. 5. To configure settings, such as Resolution, Sides, and Content Orientation, select Options in the. lower left corner, and then select the settings from the Options menus. Select Done if prompted.. ![Step 5: To configure settings, such as Resolution, Sides,](images/image_p132_00.png). ![Step 5: To configure settings, such as Resolution, Sides,](images/image_p132_01.png). ![Step 5: To configure settings, such as Resolution, Sides,](images/image_p132_02.png). ![Step 5: To configure settings, such as Resolution, Sides,](images/image_p132_03.png). ![Step 5: To configure settings, such as Resolution, Sides,](images/image_p133_00.png). ![Step 5: To configure settings, such as Resolution, Sides,](images/image_p133_01.png). ![Step 5: To configure settings, such as Resolution, Sides,](images/image_p133_02.png).
+
+Q&A PAIRS:
+  Q1: How do you specify the recipients when sending a fax from this printer?
+  A1: You can use the keypad to enter the recipient or recipients by touching the Fax Recipients text field and using the keypad to enter the fax number. To send to multiple fax numbers, separate the numbers with a semicolon or select the Enter button on the touchscreen keyboard after typing each number. Alternatively, you can select the Contacts button next to the Fax Recipients field to open the Contacts screen.
+
+
+--------------------------------------------------
+Entry 42: [PROCEDURE] Send a fax
+Source: hp-e877-series-user-guide.md | Page: 131
+Keywords: step, configure, settings, resolution, sides, images, send, document
+--------------------------------------------------
+
+CONTENT:
+![Step 5: To configure settings, such as Resolution, Sides,](images/image_p133_02.png). ![Step 5: To configure settings, such as Resolution, Sides,](images/image_p133_03.png). 7. When the document is ready, select Send to send the fax.
+
+Q&A PAIRS:
+  Q1: How do you send a fax once it's ready?
+  A1: Select 'Send' to send the fax.
+
+
+--------------------------------------------------
+Entry 43: [PROCEDURE] Create a fax printing schedule
+Source: hp-e877-series-user-guide.md | Page: 133
+Keywords: schedule, select, printing, event, enable, under, begin, faxes
+--------------------------------------------------
+
+CONTENT:
+Faxes print automatically upon receipt, but they can also be stored and printed on a schedule that you
+determine. After you create the schedule, you can enable or disable the schedule as needed.
+
+c. Fax Printing Schedule
+
+3. Under Incoming Fax Options, select Use Schedule.
+
+4. Select New Event.
+
+5. Select an option under Event Type.
+
+● Begin Printing
+
+● Begin Storing
+
+6. Choose a time and the day. You can select multiple days.
+
+7. Select Save. To add another event, repeat steps 4 – 6.
+
+8. Select Done to enable the fax printing schedule.
+
+Q&A PAIRS:
+  Q1: How do you start setting up a fax printing schedule?
+  A1: Under Incoming Fax Options, select Use Schedule.
+
+  Q2: What should you do after selecting New Event when creating a fax printing schedule?
+  A2: Select an option under Event Type. The options are Begin Printing or Begin Storing.
+
+
+--------------------------------------------------
+Entry 44: [PROCEDURE] Block incoming faxes
+Source: hp-e877-series-user-guide.md | Page: 134
+Keywords: list, blocked, phone, block, setting, create, numbers, received
+--------------------------------------------------
+
+CONTENT:
+Use the fax block list setting to create a list of blocked phone numbers. When a fax is received from a
+blocked phone number, the fax is not printed and is immediately deleted from memory.
+
+Q&A PAIRS:
+  Q1: How can I prevent faxes from specific phone numbers from being printed and saved?
+  A1: Use the fax block list setting to create a list of blocked phone numbers. When a fax is received from a blocked phone number, the fax is not printed and is immediately deleted from memory.
+
+
+--------------------------------------------------
+Entry 45: [PROCEDURE] Additional fax tasks
+Source: hp-e877-series-user-guide.md | Page: 134
+Keywords: tasks, locate, information, performing, common, instructions, available, following
+--------------------------------------------------
+
+CONTENT:
+Locate information on the Web for performing common fax tasks.
+
+Instructions are available for fax tasks, such as the following:
+
+
+● Create and manage fax speed dial lists
+
+● Configure fax billing codes
+
+● Use a fax printing schedule
+
+● Block incoming faxes
+
+● Fax archiving and forwarding
+
+Q&A PAIRS:
+  Q1: How can I find instructions for managing my fax speed dial lists?
+  A1: Locate information on the Web for performing common fax tasks, including creating and managing fax speed dial lists.
+
+
+--------------------------------------------------
+Entry 46: [PROCEDURE] 8 Manage the printer
+Source: hp-e877-series-user-guide.md | Page: 136
+Keywords: utilize, management, tools, configure, security, energy, conservation, settings
+--------------------------------------------------
+
+CONTENT:
+Utilize management tools, configure security and energy-conservation settings, and manage firmware
+updates for the printer.
+
+Q&A PAIRS:
+  Q1: How can I manage my printer's settings?
+  A1: You can utilize management tools to configure security and energy-conservation settings.
+
+  Q2: What should I do to keep my printer up-to-date?
+  A2: You should manage firmware updates for the printer.
+
+
+--------------------------------------------------
+Entry 47: [PROCEDURE] Advanced configuration with the HP Embedded Web Server
+Source: hp-e877-series-user-guide.md | Page: 136
+Keywords: embedded, server, manage, advanced, printing, functions
+--------------------------------------------------
+
+CONTENT:
+(EWS)
+
+Use the HP Embedded Web Server to manage advanced printing functions.
+
+Q&A PAIRS:
+  Q1: How can you manage advanced printing functions?
+  A1: You can use the HP Embedded Web Server to manage advanced printing functions.
+
+
+--------------------------------------------------
+Entry 48: [PROCEDURE] Configure IP network settings
+Source: hp-e877-series-user-guide.md | Page: 146
+Keywords: configure, printer, network, settings
+--------------------------------------------------
+
+CONTENT:
+Use the EWS to configure the printer network settings.
+
+Q&A PAIRS:
+  Q1: How can I set up the printer's network settings?
+  A1: Use the EWS to configure the printer network settings.
+
+
+--------------------------------------------------
+Entry 49: [PROCEDURE] Printer security features
+Source: hp-e877-series-user-guide.md | Page: 149
+Keywords: access, restrict, configuration, settings, secure, data, prevent, valuable
+--------------------------------------------------
+
+CONTENT:
+Restrict who has access to configuration settings, secure data, and prevent access to valuable
+hardware components.
+
+Q&A PAIRS:
+  Q1: How can I limit access to the printer's configuration settings?
+  A1: Restrict who has access to configuration settings.
+
+
+--------------------------------------------------
+Entry 50: [PROCEDURE] Energy-conservation settings
+Source: hp-e877-series-user-guide.md | Page: 151
+Keywords: learn, energy, conservation, settings, available, printer
+--------------------------------------------------
+
+CONTENT:
+Learn about the energy-conservation settings that are available for the printer.
+
+Q&A PAIRS:
+  Q1: How can I learn about the energy-conservation settings for my printer?
+  A1: You can learn about the energy-conservation settings that are available for the printer.
+
+
+--------------------------------------------------
+Entry 51: [PROCEDURE] HP Web Jetadmin
+Source: hp-e877-series-user-guide.md | Page: 152
+Keywords: jetadmin, printers, award, winning, industry, leading, tool, efficiently
+--------------------------------------------------
+
+CONTENT:
+HP Web Jetadmin is an award-winning, industry-leading tool for efficiently managing a wide variety
+of networked HP products, including printers, multifunction printers, and digital senders. This single
+solution allows you to remotely install, monitor, maintain, troubleshoot, and secure your printing and
+imaging environment — ultimately increasing business productivity by helping you save time, control
+costs, and protect your investment.
+
+HP Web Jetadmin upgrades are periodically made available to provide support for specific product
+features. Go to www.hp.com/go/webjetadmin for more information.
+
+Q&A PAIRS:
+  Q1: How can I manage my networked HP printers efficiently?
+  A1: You can use HP Web Jetadmin, which is an industry-leading tool designed for remotely installing, monitoring, maintaining, troubleshooting, and securing your printing and imaging environment.
+
+  Q2: What should I do to get updates for HP Web Jetadmin?
+  A2: You should visit www.hp.com/go/webjetadmin for more information on available upgrades.
+
+
+--------------------------------------------------
+Entry 52: [PROCEDURE] Control panel help system
+Source: hp-e877-series-user-guide.md | Page: 153
+Keywords: help, system, menu, printer, screen, open, touch, button
+--------------------------------------------------
+
+CONTENT:
+The printer has a built-in Help system that explains how to use each screen. To open the Help system,
+in the upper-right corner of the screen. touch the Help button
+
+
+![Control panel help system](images/image_p154_00.png)
+
+For some screens, the Help opens to a global menu where you can search for specific topics. You can
+browse through the menu structure by touching the buttons in the menu.
+
+Some Help screens include animations that show specific procedures, such as clearing paper jams.
+
+If the printer alerts of an error or warning, touch the Help button to open a message that describes
+the problem. The message also contains instructions to help solve the problem.
+
+Q&A PAIRS:
+  Q1: What should you do if the printer alerts of an error or warning?
+  A1: Touch the Help button to open a message that describes the problem and provides instructions to help solve it.
+
+
+--------------------------------------------------
+Entry 53: [PROCEDURE] Reset factory settings
+Source: hp-e877-series-user-guide.md | Page: 154
+Keywords: resetting, printer, settings, factory, defaults, help, resolve, problems
+--------------------------------------------------
+
+CONTENT:
+Resetting the printer settings to the factory-set defaults can help resolve problems.
+
+Q&A PAIRS:
+  Q1: How do you reset the printer settings to the factory-set defaults?
+  A1: Resetting the printer settings to the factory-set defaults can help resolve problems.
+
+
+--------------------------------------------------
+Entry 54: [PROCEDURE] A “Cartridge is low” or “Cartridge is very low” message displays
+Source: hp-e877-series-user-guide.md | Page: 155
+Keywords: cartridge, toner, printer, life, print, quality, longer, acceptable
+--------------------------------------------------
+
+CONTENT:
+on the printer control panel or EWS
+
+Review the possible solutions to this issue.
+
+Cartridge is low: The printer indicates when a toner cartridge level is low. Actual toner cartridge life
+remaining may vary. Consider having a replacement available to install when print quality is no longer
+acceptable. The toner cartridge does not need to be replaced now.
+
+Cartridge is very low: The printer indicates when the toner cartridge level is very low. Actual toner
+cartridge life remaining may vary. Consider having a replacement available to install when print quality
+is no longer acceptable. The toner cartridge does not need to be replaced now unless the print quality is
+no longer acceptable.
+
+HP’s Premium Protection Warranty expires near the end of useable cartridge life. Check the Supplies
+Status Page or the HP Embedded Web Server (EWS) for the status.
+
+Q&A PAIRS:
+  Q1: How can you check the status of your toner cartridge?
+  A1: You can check the Supplies Status Page or the HP Embedded Web Server (EWS) for the status.
+
+  Q2: What should you do when the printer indicates that a toner cartridge level is low?
+  A2: Consider having a replacement available to install when print quality is no longer acceptable. The toner cartridge does not need to be replaced now.
+
+
+--------------------------------------------------
+Entry 55: [PROCEDURE] Printer does not pick up paper or misfeeds
+Source: hp-e877-series-user-guide.md | Page: 155
+Keywords: picking, paper, information, printer, tray, multiple, sheets, time
+--------------------------------------------------
+
+CONTENT:
+Use this information if the printer is not picking up paper from the tray or is picking up multiple sheets of
+paper at one time.
+
+Q&A PAIRS:
+  Q1: How can you address the issue of the printer not picking up paper from the tray?
+  A1: Use this information if the printer is not picking up paper from the tray or is picking up multiple sheets of paper at one time.
+
+  Q2: What should you do when the printer is picking up multiple sheets of paper at once?
+  A2: Use this information if the printer is not picking up paper from the tray or is picking up multiple sheets of paper at one time.
+
+
+--------------------------------------------------
+Entry 56: [PROCEDURE] Clear paper jams
+Source: hp-e877-series-user-guide.md | Page: 162
+Keywords: paper, procedures, section, clear, jammed, printer, path
+--------------------------------------------------
+
+CONTENT:
+Use the procedures in this section to clear jammed paper from the printer paper path.
+
+Q&A PAIRS:
+  Q1: How should you start the process of clearing jammed paper from the printer?
+  A1: By using the procedures described in the section dedicated to clearing jammed paper.
+
+  Q2: What is the primary goal of the procedures mentioned in this section?
+  A2: To clear jammed paper from the printer's paper path.
+
+
+--------------------------------------------------
+Entry 57: [PROCEDURE] Improve scan image quality
+Source: hp-e877-series-user-guide.md | Page: 185
+Keywords: following, basic, solutions, images, improve, image, quality, scanned
+--------------------------------------------------
+
+CONTENT:
+Try the following basic solutions to improve scanned image quality.
+
+
+![Improve scan image quality](images/image_p186_00.png)
+
+![Try the following basic solutions](images/image_p186_01.png)
+
+
+![Try the following basic solutions](images/image_p187_00.png)
+
+![Try the following basic solutions](images/image_p187_01.png)
+
+Q&A PAIRS:
+  Q1: How can I reduce moire patterns when scanning halftone images?
+  A1: To reduce moire patterns, use the 'Halftone' option in the scanner driver.
+
+  Q2: What should you do if the scanned image is too dark or too light?
+  A2: Adjust the brightness and contrast settings in the scanner driver to correct the image's darkness or lightness.
+
+
+--------------------------------------------------
+Entry 58: [PROCEDURE] Improve fax image quality
+Source: hp-e877-series-user-guide.md | Page: 190
+Keywords: quality, printer, having, images, problems, following, solutions, order
+--------------------------------------------------
+
+CONTENT:
+If the printer is having fax quality problems, try the following solutions in the order presented to resolve
+the issue.
+
+![Improve fax image quality](images/image_p190_00.png)
+
+
+![If the printer is having fax quality](images/image_p191_00.png)
+
+![If the printer is having fax quality](images/image_p191_01.png)
+
+
+![If the printer is having fax quality](images/image_p192_00.png)
+
+Q&A PAIRS:
+  Q1: How do you access the fax settings menu on your printer?
+  A1: Press the Setup button, then press Fax Settings.
+
+
+--------------------------------------------------
+Entry 59: [PROCEDURE] Solve wired network problems
+Source: hp-e877-series-user-guide.md | Page: 194
+Keywords: product, contact, managed, service, representative, sure, know, model
+--------------------------------------------------
+
+CONTENT:
+Contact your managed service representative. Make sure that you know your product model number,
+which appears on the product label on the back of the printer.
+
+Q&A PAIRS:
+  Q1: How do I find my product model number?
+  A1: Look at the product label on the back of the printer.
+
+
+--------------------------------------------------
+Entry 60: [PROCEDURE] Solve fax problems
+Source: hp-e877-series-user-guide.md | Page: 194
+Keywords: following, sections, solve, issues, involving, printer, functions
+--------------------------------------------------
+
+CONTENT:
+Use the following sections to solve issues involving the printer fax functions.
+
+Q&A PAIRS:
+  Q1: How can I address problems related to the printer's fax functions?
+  A1: You should use the following sections of the manual to solve issues involving the printer fax functions.
+
+
+--------------------------------------------------
+Entry 61: [PROCEDURE] USB flash drive is not responding
+Source: hp-e877-series-user-guide.md | Page: 197
+Keywords: port, disabled, default, using, feature, choose, method, enable
+--------------------------------------------------
+
+CONTENT:
+The USB port is disabled by default. Before using this feature, choose a method to enable the USB port.
+
+Q&A PAIRS:
+  Q1: How can I start using the USB port on my printer?
+  A1: Before using this feature, you need to choose a method to enable the USB port.
+
+
+--------------------------------------------------
+Entry 62: [PROCEDURE] HP's Premium Protection Warranty: LaserJet toner cartridge
+Source: hp-e877-series-user-guide.md | Page: 209
+Keywords: warranty, product, products, purchase, limited, statement, warranted, free
+--------------------------------------------------
+
+CONTENT:
+limited warranty statement
+
+This HP product is warranted to be free from defects in materials and workmanship.
+
+This warranty does not apply to products that (a) have been refilled, refurbished, remanufactured or
+tampered with in any way, (b) experience problems resulting from misuse, improper storage, or operation
+outside of the published environmental specifications for the printer product or (c) exhibit wear from
+ordinary use.
+
+To obtain warranty service, please return the product to place of purchase (with a written description of
+the problem and print samples) or contact HP customer support. At HP's option, HP will either replace
+products that prove to be defective or refund your purchase price.
+
+TO THE EXTENT ALLOWED BY LOCAL LAW, THE ABOVE WARRANTY IS EXCLUSIVE AND NO OTHER
+WARRANTY OR CONDITION, WHETHER WRITTEN OR ORAL, IS EXPRESSED OR IMPLIED AND HP
+SPECIFICALLY DISCLAIMS ANY IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY,
+SATISFACTORY QUALITY, AND FITNESS FOR A PARTICULAR PURPOSE.
+
+TO THE EXTENT ALLOWED BY LOCAL LAW, IN NO EVENT WILL HP OR ITS SUPPLIERS BE LIABLE
+FOR DIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL (INCLUDING LOST PROFIT OR DATA), OR OTHER
+DAMAGE, WHETHER BASED IN CONTRACT, TORT, OR OTHERWISE.
+
+Q&A PAIRS:
+  Q1: How do you initiate warranty service for an HP printer?
+  A1: To obtain warranty service, please return the product to place of purchase (with a written description of the problem and print samples) or contact HP customer support.
+
+
+--------------------------------------------------
+Entry 63: [PROCEDURE] Long life consumable and maintenance kit limited warranty
+Source: hp-e877-series-user-guide.md | Page: 209
+Keywords: warranty, product, printer, products, statement, warranted, free, defects
+--------------------------------------------------
+
+CONTENT:
+statement
+
+This HP product is warranted to be free from defects in materials and workmanship until the earlier of a)
+the printer providing a low-life indicator on the control panel, or b) the expiration of the warranty period.
+Replacement Preventative Maintenance kits or LLCs products carry a 90 day parts only limited warranty,
+from the last purchase date.
+
+This warranty does not apply to products that (a) have been refurbished, remanufactured or tampered
+with in any way, (b) experience problems resulting from misuse, improper storage, or operation outside of
+the published environmental specifications for the printer product or (c) exhibit wear from ordinary use.
+
+TO THE EXTENT ALLOWED BY LOCAL LAW, THE ABOVE WARRANTY IS EXCLUSIVE AND NO
+OTHER WARRANTY OR CONDITION, WHETHER WRITTEN OR ORAL, IS EXPRESSED OR IMPLIED.
+
+
+HP SPECIFICALLY DISCLAIMS ANY IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY,
+SATISFACTORY QUALITY, AND FITNESS FOR A PARTICULAR PURPOSE.
+
+Q&A PAIRS:
+  Q1: How can I determine when the warranty for my HP printer ends?
+  A1: The warranty ends at the earlier of either the printer providing a low-life indicator on the control panel or the expiration of the warranty period.
+
+  Q2: What is the warranty coverage for Replacement Preventative Maintenance kits or LLCs products?
+  A2: Replacement Preventative Maintenance kits or LLCs products carry a 90 day parts only limited warranty from the last purchase date.
+
+
+--------------------------------------------------
+Entry 64: [PROCEDURE] Data stored on the toner cartridge
+Source: hp-e877-series-user-guide.md | Page: 210
+Keywords: toner, cartridge, memory, product, used, chip, information, might
+--------------------------------------------------
+
+CONTENT:
+The HP toner cartridges used with this product contain a memory chip that assists in the operation of
+the product.
+
+In addition, this memory chip collects a limited set of information about the usage of the product, which
+might include the following: the date when the toner cartridge was first installed, the date when the toner
+cartridge was last used, the number of pages printed using the toner cartridge, the page coverage,
+the printing modes used, any printing errors that might have occurred, and the product model. This
+information helps HP design future products to meet our customers' printing needs.
+
+The data collected from the toner cartridge memory chip does not contain information that can be used
+to identify a customer or user of the toner cartridge or their product.
+
+HP collects a sampling of the memory chips from toner cartridges returned to HP's free return and
+recycling program (HP Planet Partners: www.hp.com/hprecycle). The memory chips from this sampling
+are read and studied in order to improve future HP products. HP partners who assist in recycling this
+toner cartridge might have access to this data, as well.
+
+
+Any third party possessing the toner cartridge might have access to the anonymous information on the
+memory chip.
+
+Q&A PAIRS:
+  Q1: How does HP collect usage information from their toner cartridges?
+  A1: HP collects usage information by reading a sampling of memory chips from toner cartridges returned to HP's free return and recycling program.
+
+
+--------------------------------------------------
+Entry 65: [PROCEDURE] End User License Agreement
+Source: hp-e877-series-user-guide.md | Page: 211
+Keywords: agreement, entity, terms, conditions, user, license, legal, between
+--------------------------------------------------
+
+CONTENT:
+READ CAREFULLY BEFORE USING THIS SOFTWARE EQUIPMENT: This End-User License Agreement. ("EULA") is a legal agreement between (a) you (either an individual or a single entity) and (b) HP Inc. ("HP"). that governs your use of the Sign-In Once application installed on or made available by HP for use with. your printing device (the “Software”).. An amendment or addendum to this EULA may accompany the HP Product.. RIGHTS IN THE SOFTWARE ARE OFFERED ONLY ON THE CONDITION THAT YOU AGREE TO ALL TERMS. AND CONDITIONS OF THIS EULA. BY INSTALLING, COPYING, DOWNLOADING, OR OTHERWISE USING. THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS EULA. IF YOU DO NOT ACCEPT. THESE LICENSE TERMS, YOUR SOLE REMEDY IS TO IMMEDIATELY STOP USING SOFTWARE AND TO. UNINSTALL THE PRODUCT FROM YOUR DEVICE.. THIS EULA IS A GLOBAL AGREEMENT AND IS NOT SPECIFIC TO ANY PARTICULAR COUNTRY, STATE OR. TERRITORY. IF YOU ACQUIRED THE SOFTWARE AS A CONSUMER WITHIN THE MEANING OF RELEVANT. CONSUMER LEGISLATION IN YOUR COUNTRY, STATE OR TERRITORY, THEN DESPITE ANYTHING TO. THE CONTRARY IN THIS EULA, NOTHING IN THIS EULA AFFECTS ANY NON EXCLUDABLE STATUTORY. RIGHTS OR REMEDIES THAT YOU MAY HAVE UNDER SUCH CONSUMER LEGISLATION AND THIS EULA. IS SUBJECT TO THOSE RIGHTS AND REMEDIES. REFER TO SECTION 17 FOR FURTHER INFORMATION. ON YOUR CONSUMER RIGHTS.. 1. GRANT OF LICENSE. HP grants you the following rights provided you comply with all terms and. conditions of this EULA. In the case you are representing an entity or organization, the same terms. and conditions in this Section 1 shall also apply with respect to the use, copying, and storage of the.
+
+Q&A PAIRS:
+  Q1: How do you accept the license terms for the Sign-In Once application?
+  A1: By installing, copying, downloading, or otherwise using the Software, you agree to be bound by the terms of this EULA.
+
+
+--------------------------------------------------
+Entry 66: [PROCEDURE] End User License Agreement
+Source: hp-e877-series-user-guide.md | Page: 211
+Keywords: software, device, freeware, conditions, storage, copy, terms, license
+--------------------------------------------------
+
+CONTENT:
+and conditions in this Section 1 shall also apply with respect to the use, copying, and storage of the. Software on the devices of your respective entity or organization.. a. Use. You may use one copy of the Software on your device for the purpose of accessing and. using the Software. You may not separate component parts of the Software for use on more. than one device. You do not have the right to distribute the Software, nor do you have the right. to modify the Software or disable any licensing or control feature of the Software. You may. load the Software into the temporary memory (RAM)of your device for purposes of using the. Software.. b. Storage. You may copy the Software into the local memory or storage device of your device.. c. Copying. You may make archival or back-up copies of the Software, provided the copy contains. all of the original Software's proprietary notices and that it is used only for back-up purposes.. d. Reservation of Rights. HP and its suppliers reserve all rights not expressly granted to you in this. EULA.. e. Freeware. Notwithstanding the terms and conditions of this EULA, all or any portion of the. Software which constitutes non-proprietary HP software or software provided under public. license by third parties ("Freeware"), is licensed to you subject to the terms and conditions of the. software license agreement or other documentation accompanying such Freeware at the time. of download, installation, or use of the Freeware. Use of the Freeware by you shall be governed. entirely by the terms and conditions of such license.. 2. UPGRADES. To use Software identified as an upgrade, you must first be licensed for the original.
+
+Q&A PAIRS:
+  Q1: How can you legally use the Software on your device according to the manual?
+  A1: You may use one copy of the Software on your device for the purpose of accessing and using the Software. You may load the Software into the temporary memory (RAM) of your device for purposes of using the Software.
+
+  Q2: What are the conditions for making a back-up copy of the Software?
+  A2: You may make archival or back-up copies of the Software, provided the copy contains all of the original Software's proprietary notices and that it is used only for back-up purposes.
+
+
+--------------------------------------------------
+Entry 67: [PROCEDURE] End User License Agreement
+Source: hp-e877-series-user-guide.md | Page: 211
+Keywords: software, transfer, terms, user, upgrade, must, original, product
+--------------------------------------------------
+
+CONTENT:
+To use Software identified as an upgrade, you must first be licensed for the original. Software identified by HP as eligible for the upgrade. After upgrading, you may no longer use the. original Software Product that formed the basis for your upgrade eligibility.. 3. ADDITIONAL SOFTWARE. This EULA applies to updates or supplements to the original Software. provided by HP unless HP provides other terms along with the update or supplement. In case of a. conflict between such terms, the other terms will prevail.. 4. TRANSFER.. a. Third Party. The initial user of the Software may make a one-time transfer of the Software to. another end user. Any transfer must include all component parts, media, printed materials, this. EULA, and if applicable, the Certificate of Authenticity. The transfer may not be an indirect. transfer, such as a consignment. Prior to the transfer, the end user receiving the transferred. product must agree to all the EULA terms. Upon transfer of the Software, your license is. automatically terminated.. b. Restrictions. You may not rent, lease or lend the Software or use the Software for commercial. timesharing or bureau use. You may not sublicense, assign or transfer the license or Software. except as expressly provided in this EULA.. 5. PROPRIETARY RIGHTS. All intellectual property rights in the Software and user documentation are. owned by HP or its suppliers and are protected by law, including but not limited to United States. copyright, trade secret, and trademark law, as well as other applicable laws and international. treaty provisions. You shall not remove any product identification, copyright notices or proprietary. restrictions from the Software.. 6.
+
+Q&A PAIRS:
+  Q1: How do you transfer the software to another end user?
+  A1: The initial user of the Software may make a one-time transfer of the Software to another end user, including all component parts, media, printed materials, this EULA, and if applicable, the Certificate of Authenticity. The transfer must not be indirect, such as a consignment, and the end user receiving the transferred product must agree to all the EULA terms before the transfer.
+
+
+--------------------------------------------------
+Entry 68: [PROCEDURE] End User License Agreement
+Source: hp-e877-series-user-guide.md | Page: 211
+Keywords: software, data, account, device, applicable, must, access, applications
+--------------------------------------------------
+
+CONTENT:
+6. LIMITATION ON REVERSE ENGINEERING. You may not reverse engineer, decompile, or disassemble. the Software, except and only to the extent that the right to do so is mandated under applicable law. notwithstanding this limitation or it is expressly provided for in this EULA.. 7. TERM. This EULA is effective unless terminated or rejected. This EULA will also terminate upon. conditions set forth elsewhere in this EULA or if you fail to comply with any term or condition of this. EULA.. 8. ACCOUNT SET-UP.. a. You must register and establish an account on HP ID in order to use the Software. It is your. responsibility to obtain and maintain all equipment, services and software needed for access to. and use of the HP ID account, any applications linked via this Software, and your device(s), as. well as paying any applicable charges.. b. YOU ARE SOLELY AND FULLY RESPONSIBLE FOR MAINTAINING THE CONFIDENTIALITY OF. ANY USERNAMES AND PASSWORDS COLLECTED BY THE SOFTWARE. You must notify HP. immediately of any unauthorized use of your HP ID account or any other breach of security. related to this Software or the device(s) it is installed on.. 9. NOTICE OF DATA COLLECTION. HP may collect usernames, passwords, device IP addresses,. and/or other authentication information used by you to access HP ID and the various applications. connected via this Software. HP may use this data to optimize Software performance based on user. preferences, provide support and maintenance, and assure security and software integrity. You can. read more about the data collection in the sections titled “What Data We Collect” and “How We Use. Data” in the HP Privacy Statement.. 10.
+
+Q&A PAIRS:
+  Q1: How do you set up an account to use the Software?
+  A1: You must register and establish an account on HP ID.
+
+  Q2: What should you do if there is unauthorized use of your HP ID account?
+  A2: You must notify HP immediately of any unauthorized use of your HP ID account or any other breach of security related to this Software or the device(s) it is installed on.
+
+
+--------------------------------------------------
+Entry 69: [PROCEDURE] End User License Agreement
+Source: hp-e877-series-user-guide.md | Page: 211
+Keywords: implied, warranties, states, jurisdictions, allow, exclusion, limitations, duration
+--------------------------------------------------
+
+CONTENT:
+10. DISCLAIMER OF WARRANTIES. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW,. HP AND ITS SUPPLIERS PROVIDE THE SOFTWARE “AS IS” AND WITH ALL FAULTS, AND. HEREBY DISCLAIM ALL OTHER WARRANTIES, DUTIES, AND CONDITIONS, EITHER EXPRESS,. IMPLIED, OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, WARRANTIES: (i) OF TITLE AND NON-. INFRINGEMENT; (ii) OF MERCHANTABILITY; (iii) OF FITNESS FOR A PARTICULAR PURPOSE; (iv) THAT. THE SOFTWARE WILL FUNCTION WITH NON-HP SUPPLIES OR ACCESSORIES; AND (v), OF LACK OF. VIRUSES ALL WITH REGARD TO THE SOFTWARE. Some states/jurisdictions do not allow exclusion of. implied warranties or limitations on the duration of implied warranties, so the above disclaimer may. not apply to you in its entirety.. 11. LIMITATION OF LIABILITY. Subject to local law, notwithstanding any damages that you might incur,. the entire liability of HP and any of its suppliers under any provision of this EULA and your exclusive. remedy for all of the foregoing shall be limited to the greater of the amount actually paid by you. separately for the Software or U.S. $5.00. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE. LAW, IN NO EVENT SHALL HP OR ITS SUPPLIERS BE LIABLE FOR ANY SPECIAL, INCIDENTAL,. INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, BUT NOT LIMITED TO,. DAMAGES FOR LOSS OF PROFITS OR CONFIDENTIAL OR OTHER INFORMATION, FOR BUSINESS. INTERRUPTION, FOR PERSONAL INJURY, OR FOR LOSS OF PRIVACY) ARISING OUT OF OR IN. ANY WAY RELATED TO THE USE OF OR INABILITY TO USE THE SOFTWARE, OR OTHERWISE IN. CONNECTION WITH ANY PROVISION OF THIS EULA, EVEN IF HP OR ANY SUPPLIER HAS BEEN.
+
+Q&A PAIRS:
+  Q1: What does HP disclaim in the software warranty?
+  A1: HP and its suppliers disclaim all other warranties, duties, and conditions, either express, implied, or statutory. This includes warranties of title and non-infringement, merchantability, fitness for a particular purpose, that the software will function with non-HP supplies or accessories, and of lack of viruses.
+
+  Q2: How is HP's liability limited according to the EULA?
+  A2: HP's entire liability under any provision of this EULA and your exclusive remedy for all damages shall be limited to the greater of the amount actually paid by you separately for the Software or U.S. $5.00.
+
+
+--------------------------------------------------
+Entry 70: [PROCEDURE] End User License Agreement
+Source: hp-e877-series-user-guide.md | Page: 211
+Keywords: software, laws, limitation, commercial, export, states, exclusion, computer
+--------------------------------------------------
+
+CONTENT:
+CONNECTION WITH ANY PROVISION OF THIS EULA, EVEN IF HP OR ANY SUPPLIER HAS BEEN. ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND EVEN IF THE REMEDY FAILS OF ITS. ESSENTIAL PURPOSE. Some states/jurisdictions do not allow the exclusion or limitation of incidental. or consequential damages, so the above limitation or exclusion may not apply to you.. 12. U.S. GOVERNMENT CUSTOMERS. Consistent with FAR 12.211 and 12.212, Commercial Computer. Software, Computer Software Documentation, and Technical Data for Commercial Items are. licensed to the U.S. Government under HP's standard commercial license.. 13. COMPLIANCE WITH EXPORT LAWS. You shall comply with all laws and regulations of the United. States and other countries ("Export Laws") to assure that the Software is not (1) exported, directly. or indirectly, in violation of Export Laws, or (2) used for any purpose prohibited by Export Laws,. including, without limitation, nuclear, chemical, or biological weapons proliferation.. 14. CAPACITY AND AUTHORITY TO CONTRACT. You represent that you are of the legal age of majority. in your state of residence and, if applicable, you are duly authorized by your employer to enter into. this contract.. 15. APPLICABLE LAW. This EULA is governed by the laws of the State of California, U.S.A.. 16. ENTIRE AGREEMENT. Unless you have entered into a separate license agreement for the Software,. this EULA (including any addendum or amendment to this EULA which is included with the. HP Product) is the entire agreement between you and HP relating to the Software and it supersedes. all prior or contemporaneous oral or written communications, proposals and representations with.
+
+Q&A PAIRS:
+  Q1: How should users ensure they are complying with export laws when using the software?
+  A1: You shall comply with all laws and regulations of the United States and other countries to assure that the Software is not exported, directly or indirectly, in violation of Export Laws, or used for any purpose prohibited by Export Laws.
+
+
+--------------------------------------------------
+Entry 71: [PROCEDURE] End User License Agreement
+Source: hp-e877-series-user-guide.md | Page: 211
+Keywords: consumer, software, australian, terms, under, failure, respect, subject
+--------------------------------------------------
+
+CONTENT:
+all prior or contemporaneous oral or written communications, proposals and representations with. respect to the Software or any other subject matter covered by this EULA. To the extent the terms of. any HP policies or programs for support services conflict with the terms of this EULA, the terms of. this EULA shall control.. 17. CONSUMER RIGHTS. Consumers in some countries, states or territories may have the benefit of. certain statutory rights and remedies under consumer legislation in respect of which HP’s liability. cannot lawfully be excluded or limited. If you acquired the Software as a consumer within the. meaning of relevant consumer legislation in your country, state or territory, the provisions of this. EULA (including the disclaimers of warranties, limitations and exclusions of liability) must be read. subject to applicable law and apply only to the maximum extent permitted by that applicable law.. Australian Consumers: If you acquired the Software as a consumer within the meaning of the. ‘Australian Consumer Law’ under the Australian Competition and Consumer Act 2010 (Cth) then. despite any other provision of this EULA:. a. the Software comes with guarantees that cannot be excluded under the Australian Consumer. Law, including that goods will be of acceptable quality and services will be supplied with due. care and skill. You are entitled to a replacement or refund for a major failure and compensation. for any other reasonably foreseeable loss or damage. You are also entitled to have the Software. repaired or replaced if it is not of acceptable quality and the failure does not amount to a major. failure. b.
+
+Q&A PAIRS:
+  Q1: How do consumer rights under Australian law affect the EULA?
+  A1: If you acquired the Software as a consumer within the meaning of the 'Australian Consumer Law' under the Australian Competition and Consumer Act 2010 (Cth), then despite any other provision of this EULA, the Software comes with guarantees that cannot be excluded under the Australian Consumer Law.
+
+
+--------------------------------------------------
+Entry 72: [PROCEDURE] End User License Agreement
+Source: hp-e877-series-user-guide.md | Page: 211
+Keywords: warranty, consumer, software, australia, australian, under, data, support
+--------------------------------------------------
+
+CONTENT:
+b. nothing in this EULA excludes, restricts or modifies any right or remedy, or any guarantee,. warranty or other term or condition implied or imposed by the Australian Consumer Law which. cannot be lawfully excluded or limited; and. c. the benefits provided to you by the express warranties in this EULA are in addition to other. rights and remedies available to you under the Australian Consumer Law. Your rights under the. Australian Consumer Law prevail to the extent that they are inconsistent with any limitations. contained in the express warranty.. The Software may be capable of retaining user-generated data. HP hereby provides you with. notice that if HP repairs your Software, that repair may result in the loss of that data. To the. full extent permitted by law, the limitations and exclusions of HP’s liability in this EULA apply in. respect of any such loss of data.. If you think that you are entitled to any warranty under this agreement or any of the above. remedies, please contact HP:. Table A-1. HP PPS Australia Pty Ltd. Building F, 1 Homebush Bay. Drive. Australia. To initiate a support request or warranty claim, please call 13 10 47 (within Australia) or +61 2 8278. 1039 (if dialing internationally) or visit www.hp.com.au and select the “Support” tab for the most. current customer service options.. If you are a consumer within the meaning of the Australia Consumer Law and you are purchasing. the Software or warranty and support services for the Software which are not of a kind ordinarily. acquired for personal, domestic or household use or consumption, then despite any other provision.
+
+Q&A PAIRS:
+  Q1: How can I initiate a support request or warranty claim within Australia?
+  A1: To initiate a support request or warranty claim within Australia, please call 13 10 47.
+
+  Q2: What should I do if I think I am entitled to any warranty under this agreement?
+  A2: If you think that you are entitled to any warranty under this agreement, please contact HP at Building F, 1 Homebush Bay Drive, Australia.
+
+
+--------------------------------------------------
+Entry 73: [PROCEDURE] End User License Agreement
+Source: hp-e877-series-user-guide.md | Page: 211
+Keywords: software, zealand, consumer, costs, personal, domestic, household, consumption
+--------------------------------------------------
+
+CONTENT:
+acquired for personal, domestic or household use or consumption, then despite any other provision. of this EULA, HP limits its liability for failure to comply with a consumer guarantee as follows:. a. provision of warranty or support services for the Software: to any one or more of the following:. re-supply of the services or payment of the costs of having the services re-supplied;. b. provision of the Software: to any one or more of the following: replacement of the Software or. the supply of equivalent software; repair of the Software; payment of the costs of replacing the. Software or of acquiring equivalent software; or payment of the costs of having the Software. repaired; and. c. otherwise, to the maximum extent permitted by law.. New Zealand Consumers: In New Zealand, the Software comes with guarantees that cannot be. excluded under the Consumer Guarantees Act 1993. In New Zealand, Consumer Transaction means. a transaction involving a person who is purchasing goods for personal, domestic or household. use or consumption and not for the purpose of a business. New Zealand consumers who are. purchasing goods for personal, domestic or household use or consumption and not for the purpose. of a business ("New Zealand Consumers") are entitled to repair, replacement or refund for a failure. and compensation for other reasonably foreseeable loss or damage. A New Zealand Consumer (as. defined above) may recover the costs of returning the product to the place of purchase if there. is a breach of the New Zealand consumer law; furthermore, if it will be of significant cost to the.
+
+Q&A PAIRS:
+  Q1: How does HP limit its liability for failure to comply with a consumer guarantee when the software is acquired for personal use?
+  A1: HP limits its liability by providing warranty or support services through re-supply of the services or payment of the costs, and by providing the Software through replacement, repair, or payment of related costs.
+
+
+--------------------------------------------------
+Entry 74: [PROCEDURE] End User License Agreement
+Source: hp-e877-series-user-guide.md | Page: 211
+Keywords: herein, consumer, products, services, zealand, cost, goods, contained
+--------------------------------------------------
+
+CONTENT:
+is a breach of the New Zealand consumer law; furthermore, if it will be of significant cost to the. New Zealand Consumer to return the goods to HP then HP will collect such goods at its own cost.. Where any supply of products or services is for business purposes, you agree that the Consumer. Guarantees Act 1993 does not apply and that given the nature and value of the transaction, this is. fair and reasonable.. © Copyright 2019 HP Development Company, L.P.. The information contained herein is subject to change without notice. All other product names. mentioned herein may be trademarks of their respective companies. To the extent permitted by. applicable law, the only warranties for HP products and services are set forth in the express warranty. statements accompanying such products and services. Nothing herein should be construed as. constituting an additional warranty. To the extent permitted by applicable law, HP shall not be liable. for technical or editorial errors or omissions contained herein.
+
+Q&A PAIRS:
+  Q1: How will HP handle the cost of collecting goods if it's significantly expensive for the New Zealand consumer to return them?
+  A1: HP will collect such goods at its own cost.
+
+
+--------------------------------------------------
+Entry 75: [PROCEDURE] Customer self-repair warranty service
+Source: hp-e877-series-user-guide.md | Page: 215
+Keywords: parts, part, repair, defective, customer, self, replacement, must
+--------------------------------------------------
+
+CONTENT:
+HP products are designed with many Customer Self Repair (CSR) parts to minimize repair time and. allow for greater flexibility in performing defective parts replacement. If during the diagnosis period, HP. identifies that the repair can be accomplished by the use of a CSR part, HP will ship that part directly. to you for replacement. There are two categories of CSR parts: 1) Parts for which customer self repair is. mandatory. If you request HP to replace these parts, you will be charged for the travel and labor costs. of this service. 2) Parts for which customer self repair is optional. These parts are also designed for. Customer Self Repair. If, however, you require that HP replace them for you, this may be done at no. additional charge under the type of warranty service designated for your product.. Based on availability and where geography permits, CSR parts will be shipped for next business day. delivery. Same-day or four-hour delivery may be offered at an additional charge where geography. permits. If assistance is required, you can call the HP Technical Support Center and a technician will. help you over the phone. HP specifies in the materials shipped with a replacement CSR part whether a. defective part must be returned to HP. In cases where it is required to return the defective part to HP,. you must ship the defective part back to HP within a defined period of time, normally five (5) business. days. The defective part must be returned with the associated documentation in the provided shipping. material. Failure to return the defective part may result in HP billing you for the replacement. With a.
+
+Q&A PAIRS:
+  Q1: How should I ship back a defective Customer Self Repair (CSR) part if it needs to be returned to HP?
+  A1: You must ship the defective part back to HP within five business days with the associated documentation in the provided shipping material.
+
+  Q2: What happens if I don't return a defective CSR part to HP when required?
+  A2: Failure to return the defective part may result in HP billing you for the replacement.
+
+
+--------------------------------------------------
+Entry 76: [PROCEDURE] Customer self-repair warranty service
+Source: hp-e877-series-user-guide.md | Page: 215
+Keywords: support, product, country, region, register, customer, self, repair
+--------------------------------------------------
+
+CONTENT:
+With a. customer self repair, HP will pay all shipping and part return costs and determine the courier/carrier to. be used.. Get telephone support for your country/region Country/region phone numbers are on the flyer that was in the. box with your product or at www.hp.com/support/.. Have the product name, serial number, date of purchase, and. problem description ready.. Get 24-hour Internet support, and download software utilities http://www.hp.com/support/colorljE877mfp. and drivers. Order additional HP service or maintenance agreements www.hp.com/go/carepack. Register your product www.register.hp.com
+
+Q&A PAIRS:
+  Q1: How can I get telephone support for my printer?
+  A1: You can get telephone support by calling the country/region phone numbers listed on the flyer that came with your product or at www.hp.com/support/.
+
+  Q2: What information should I have ready when contacting telephone support?
+  A2: Have the product name, serial number, date of purchase, and problem description ready.
+
+
+--------------------------------------------------
+Entry 77: [PROCEDURE] Protecting the environment
+Source: hp-e877-series-user-guide.md | Page: 217
+Keywords: committed, providing, quality, products, environmentally, sound, manner, product
+--------------------------------------------------
+
+CONTENT:
+HP is committed to providing quality products in an environmentally sound manner. This product has
+been designed with several attributes to minimize impacts on our environment.
+
+Q&A PAIRS:
+  Q1: How can I contribute to environmental sustainability when using this HP product?
+  A1: You can contribute by utilizing the product's design attributes that have been incorporated to minimize impacts on our environment.
+
+
+--------------------------------------------------
+Entry 78: [PROCEDURE] Ozone production
+Source: hp-e877-series-user-guide.md | Page: 217
+Keywords: printing, emissions, ozone, office, devices, airborne, product, measured
+--------------------------------------------------
+
+CONTENT:
+The airborne emissions of ozone for this product has been measured according to a standardized
+protocol* and when these emissions data are applied to an anticipated high-use scenario in an office
+workspace**, HP has determined there is no appreciable amount of ozone generated during printing and
+the levels are well within current indoor air quality standards and guidelines.
+
+* Test method for the determination of emissions from hardcopy devices with respect to awarding the
+environmental label for office devices with printing function; DE-UZ 205 – BAM January, 2018
+
+** Based on ozone concentration when printing 2 hours per day in 30.6 cubic meter room with a
+ventilation rate of 0.68 air changes per hour with HP printing supplies
+
+Q&A PAIRS:
+  Q1: How was the airborne emissions of ozone for this product measured?
+  A1: The airborne emissions of ozone were measured according to a standardized protocol called 'Test method for the determination of emissions from hardcopy devices with respect to awarding the environmental label for office devices with printing function; DE-UZ 205 – BAM January, 2018'.
+
+  Q2: What scenario was used to determine the ozone levels in an office workspace?
+  A2: The scenario used was based on ozone concentration when printing 2 hours per day in a 30.6 cubic meter room with a ventilation rate of 0.68 air changes per hour using HP printing supplies.
+
+
+--------------------------------------------------
+Entry 79: [PROCEDURE] Paper use
+Source: hp-e877-series-user-guide.md | Page: 217
+Keywords: product, duplex, feature, manual, automatic, printing, multiple, pages
+--------------------------------------------------
+
+CONTENT:
+This product’s duplex feature (manual or automatic) and N-up printing (multiple pages printed on one
+page) capability can reduce paper usage and the resulting demands on natural resources.
+
+Q&A PAIRS:
+  Q1: How can I reduce paper usage when using this printer?
+  A1: You can reduce paper usage by utilizing the product's duplex feature (manual or automatic) and N-up printing capability, which allows multiple pages to be printed on one page.
+
+
+--------------------------------------------------
+Entry 80: [PROCEDURE] Plastics
+Source: hp-e877-series-user-guide.md | Page: 218
+Keywords: plastic, parts, over, grams, marked, according, international, standards
+--------------------------------------------------
+
+CONTENT:
+Plastic parts over 25 grams are marked according to international standards that enhance the ability to
+identify plastics for recycling purposes at the end of the product’s life.
+
+Q&A PAIRS:
+  Q1: How should plastic parts over 25 grams be marked?
+  A1: Plastic parts over 25 grams are marked according to international standards that enhance the ability to identify plastics for recycling purposes at the end of the product’s life.
+
+
+--------------------------------------------------
+Entry 81: [PROCEDURE] HP LaserJet print supplies
+Source: hp-e877-series-user-guide.md | Page: 218
+Keywords: original, cartridges, planet, partners, program, information, supplies, easy
+--------------------------------------------------
+
+CONTENT:
+Original HP Supplies were designed with the environment in mind. HP makes it easy to conserve
+1 resources and paper when printing. And when you are done, we make it easy and free to recycle.
+
+All HP cartridges returned to HP Planet Partners go through a multiphase recycling process where
+materials are separated and refined for use as raw material in new Original HP cartridges and everyday
+products. No Original HP cartridges returned through HP Planet Partners are ever sent to a landfill, and
+HP never refills or resells Original HP cartridges.
+
+To participate in the HP Planet Partners return and recycling program, visit www.hp.com/hprecycle.
+Select your country/region for information on how to return HP printing supplies. Multi-lingual program
+information and instructions are also included in every new HP LaserJet print cartridge package.
+
+1 Program availability varies. For more information, visit www.hp.com/hprecycle.
+
+Q&A PAIRS:
+  Q1: How can I participate in the HP Planet Partners return and recycling program?
+  A1: To participate in the HP Planet Partners return and recycling program, visit www.hp.com/hprecycle. Select your country/region for information on how to return HP printing supplies.
+
+  Q2: What should I do if I want to recycle my used HP cartridges?
+  A2: Visit www.hp.com/hprecycle. Select your country/region for information on how to return HP printing supplies.
+
+
+--------------------------------------------------
+Entry 82: [PROCEDURE] Paper
+Source: hp-e877-series-user-guide.md | Page: 218
+Keywords: paper, product, recycled, lightweight, capable, using, meets, guidelines
+--------------------------------------------------
+
+CONTENT:
+This product is capable of using recycled paper and lightweight paper (EcoFFICIENT™) when the paper
+meets the guidelines outlined in the HP LaserJet Printer Family Print Media Guide. This product is
+suitable for the use of recycled paper and lightweight paper (EcoFFICIENT™) according to EN12281:2002.
+
+Q&A PAIRS:
+  Q1: How can I determine if my recycled or lightweight paper is suitable for this printer?
+  A1: You should ensure the paper meets the guidelines outlined in the HP LaserJet Printer Family Print Media Guide.
+
+
+--------------------------------------------------
+Entry 83: [PROCEDURE] Electronic hardware recycling
+Source: hp-e877-series-user-guide.md | Page: 219
+Keywords: recycle, encourages, customers, used, electronic, hardware, information, recycling
+--------------------------------------------------
+
+CONTENT:
+HP encourages customers to recycle used electronic hardware. For more information about recycling
+programs go to: www.hp.com/recycle.
+
+Q&A PAIRS:
+  Q1: How can I find out more about HP's recycling programs for used electronic hardware?
+  A1: You can visit the website www.hp.com/recycle for more information about recycling programs.
+
+
+--------------------------------------------------
+Entry 84: [PROCEDURE] Chemical substances
+Source: hp-e877-series-user-guide.md | Page: 220
+Keywords: information, chemical, committed, providing, customers, substances, products, needed
+--------------------------------------------------
+
+CONTENT:
+HP is committed to providing our customers with information about the chemical substances in our
+products as needed to comply with legal requirements such as REACH (Regulation EC No 1907/2006 of
+the European Parliament and the Council). A chemical information report for this product can be found
+at: www.hp.com/go/reach.
+
+Q&A PAIRS:
+  Q1: How can I find the chemical information report for this HP product?
+  A1: You can find the chemical information report at the following URL: www.hp.com/go/reach.
+
+
+--------------------------------------------------
+Entry 85: [PROCEDURE] Product Power Data per European Union Commission
+Source: hp-e877-series-user-guide.md | Page: 220
+Keywords: product, power, network, ports, regulation, relevant, statutory, requirements
+--------------------------------------------------
+
+CONTENT:
+Regulation 1275/2008 and the UK Relevant Statutory
+Requirements
+
+For product power data, including the power consumption of the product in networked standby if all
+wired network ports are connected and all wireless network ports are activated, please refer to section
+P14 ‘Additional Information’ of the product IT ECO Declaration at www.hp.com/hpinfo/globalcitizenship/
+environment/productdata/itecodesktop-pc.html.
+
+Q&A PAIRS:
+  Q1: How can I find the power consumption data for this product in networked standby mode?
+  A1: To find the power consumption data, you need to refer to section P14 'Additional Information' of the product IT ECO Declaration at www.hp.com/hpinfo/globalcitizenship/environment/productdata/itecodesktop-pc.html.
+
+
+--------------------------------------------------
+Entry 86: [PROCEDURE] Material Safety Data Sheet (MSDS)
+Source: hp-e877-series-user-guide.md | Page: 222
+Keywords: material, safety, data, sheets, supplies, containing, chemical, substances
+--------------------------------------------------
+
+CONTENT:
+Material Safety Data Sheets (MSDS) for supplies containing chemical substances (for example, toner)
+can be obtained by accessing the HP Web site at www.hp.com/go/msds.
+
+Q&A PAIRS:
+  Q1: How can you obtain Material Safety Data Sheets for supplies containing chemical substances like toner?
+  A1: By accessing the HP Web site at www.hp.com/go/msds.
+
+
+--------------------------------------------------
+Entry 87: [PROCEDURE] EPEAT
+Source: hp-e877-series-user-guide.md | Page: 223
+Keywords: products, information, many, designed, meet, comprehensive, environmental, rating
+--------------------------------------------------
+
+CONTENT:
+Many HP products are designed to meet EPEAT. EPEAT is a comprehensive environmental rating that
+helps identify greener electronics equipment. For more information on EPEAT go to www.epeat.net.
+For information on HP's EPEAT registered products go to www.hp.com/hpinfo/globalcitizenship/
+environment/pdf/epeat_printers.pdf.
+
+Q&A PAIRS:
+  Q1: How can I find out more about EPEAT?
+  A1: You can visit www.epeat.net for more information on EPEAT.
+
+  Q2: What is the website to learn about HP's EPEAT registered products?
+  A2: You can go to www.hp.com/hpinfo/globalcitizenship/environment/pdf/epeat_printers.pdf for information on HP's EPEAT registered products.
+
+
+--------------------------------------------------
+Entry 88: [PROCEDURE] For more information
+Source: hp-e877-series-user-guide.md | Page: 225
+Keywords: environmental, product, environment, visit, obtain, information, topics, profile
+--------------------------------------------------
+
+CONTENT:
+To obtain information about these environmental topics:
+
+● Product environmental profile sheet for this and many related HP products
+
+● HP’s commitment to the environment
+
+● HP’s environmental management system
+
+● HP’s end-of-life product return and recycling program
+
+● Material Safety Data Sheets
+
+Visit www.hp.com/go/environment.
+
+Also, visit www.hp.com/recycle.
+
+Q&A PAIRS:
+  Q1: How can I find out about HP's environmental management system?
+  A1: To obtain information about HP’s environmental management system, visit www.hp.com/go/environment.
+
+  Q2: What should I do to learn more about HP's end-of-life product return and recycling program?
+  A2: Visit www.hp.com/go/environment to get information about HP’s end-of-life product return and recycling program.
+
+
+======================================================================
+  SPECIFICATIONS (5 entries)
+======================================================================
+
+--------------------------------------------------
+Entry 89: [SPECIFICATION] Restriction on Hazardous Substances statement (India)
+Source: hp-e877-series-user-guide.md | Page: 221
+Keywords: rule, polybrominated, weight, product, well, related, consumables, spares
+--------------------------------------------------
+
+CONTENT:
+This product, as well as its related consumables and spares, complies with the reduction in hazardous
+substances provisions of the "India E-waste Rule 2016." It does not contain lead, mercury, hexavalent
+chromium, polybrominated biphenyls or polybrominated diphenyl ethers in concentrations exceeding
+0.1 weight % and 0.01 weight % for cadmium, except where allowed pursuant to the exemptions set in
+Schedule 2 of the Rule.
+
+Q&A PAIRS:
+  Q1: What are the maximum allowable concentrations of hazardous substances like lead and mercury in this printer according to India E-waste Rule 2016?
+  A1: The maximum allowable concentration for lead, mercury, hexavalent chromium, polybrominated biphenyls, and polybrominated diphenyl ethers is 0.1 weight %, while cadmium has a limit of 0.01 weight %.
+
+
+--------------------------------------------------
+Entry 90: [SPECIFICATION] Index
+Source: hp-e877-series-user-guide.md | Page: 238
+Keywords: settings, embedded, server, printing, locating, windows, changing, network
+--------------------------------------------------
+
+CONTENT:
+Symbols/Numerics copy settings Embedded Web Server. HP Embedded Web changing network. 520-sheet trays. Server 125, 127, 129 settings 135. jams 155. copying changing printer name 136. overview 62 opening 135. A. counterfeit supplies 188, 199 Embedded Web Server (EWS). AirPrint 56, 58 customer support assigning passwords 138. alternative letterhead mode 19, online 142, 188, 204 features 125. 30 network connection 125. Android devices D end-of-life disposal 206, 207. printing from 56, 59 energy use, optimizing 140. default gateway, setting 136, 137. anticounterfeit supplies 188, 199 envelopes. deleting. orientation 19. stored jobs 53, 55. B orientation, loading 31. digital send settings. envelopes, loading 31. batteries included 206, 207 HP Embedded Web. environmental stewardship. bin, output Server 125, 127, 130. program 206. locating 2 digital sending. Ethernet (RJ-45). Bonjour folders 108. locating 5. identifying 125 printer memory 106. Eurasian conformity 215, 219. browser requirements sending documents 103. Explorer, versions supported. HP Embedded Web USB 113. HP Embedded Web. Server 125 disposal, end-of-life 206, 207. Server 125. document feeder. C jams 152. F. locating 2. calibrate. paper-feeding problems 144, fax. colors 163. 150 block 123. scanner 171. double-sided printing feeding problems 183, 185. cartridge. Mac 51 optimize for text or. replacing 34. Windows 48 pictures 179. cartridges. duplex printing overview 116. non-HP 188, 199. Mac 51 required settings 116. recycling 206, 207. duplex printing (double-sided) settings 117, 123. warranty 188, 198. settings (Windows) 48 setup 116. ce marking 215. Windows 48 fax settings. China Short Range Device. duplexing HP Embedded Web. Statement 226.
+
+Q&A PAIRS:
+  Q1: What is the capacity of the trays in this printer?
+  A1: The printer has 520-sheet trays.
+
+
+--------------------------------------------------
+Entry 91: [SPECIFICATION] Index
+Source: hp-e877-series-user-guide.md | Page: 238
+Keywords: locating, server, printing, windows, paper, port, help, hardware
+--------------------------------------------------
+
+CONTENT:
+Statement 226. manually (Mac) 51 Server 125, 127, 131. cleaning. manually (Windows) 48 required 116. glass 171, 174, 179. FCC regulations 215, 216. paper path 158. E feeding problems 183, 185. colors. Finnish laser safety. calibrate 163 easy-access USB port. statement 215, 217. control panel locating 2. folders. help 142 easy-access USB printing 59. sending to 108. locating 2 edge-to-edge copying 171. formatter. locating features 5 electronic hardware. locating 4. copy recycling 206, 208. fraud Web site 188, 199. optimize for text or. pictures 171. front door HP JetAdvantage business labels. locating 2 solutions 114 orientaion, loading 33. fuser HP Web Jetadmin 141 printing (Windows) 48. jams 157 HP Web Services printing on 32. enabling 125, 127, 133 labels, loading 32. G LAN port. I locating 5. gateway, setting default 136, 137. laser safety statements 215, 217. general configuration image quality. license, software 188, 200. HP Embedded Web check toner-cartridge. loading. Server 125, 127, 128 status 158, 160. paper in Tray 1 19. glass, cleaning 171, 174, 179 information pages. paper in Trays 2 and 3 25. HP Embedded Web. local area network (LAN). H Server 125, 127. locating 5. interface ports. hard disks lock. locating 4, 5. encrypted 138, 140 formatter 138, 140. Internet Explorer, versions. hardware integration pocket (HIP). supported. locating 2 M. HP Embedded Web. hardware recycling, Brazil 206,. Server 125 Mac driver settings. 208. IP Security 138, 139 Job Storage 53. Help button. IPsec 138, 139 managing network 135. locating 5. IPv4 address 136 managing the printer. help, control panel 142. IPv6 address 137 overview 125. Hi-Speed USB 2.0 printing port. manual duplex. locating 5. J Mac 51. Home button. Windows 48. locating 5 jams.
+
+Q&A PAIRS:
+  Q1: What are the supported versions of Internet Explorer for this printer?
+  A1: The manual does not specify which versions of Internet Explorer are supported.
+
+
+--------------------------------------------------
+Entry 92: [SPECIFICATION] Index
+Source: hp-e877-series-user-guide.md | Page: 238
+Keywords: printer, scanning, scan, settings, embedded, server, network, folder
+--------------------------------------------------
+
+CONTENT:
+Network Folder, scan to 108 Tray 2 155 locating 2. network link speed settings, Tray 3 155 RJ-45 port. changing 137 paper pickup problems locating 5. network settings solving 144, 147. S HP Embedded Web paper trays. Server 125, 127, 134 overview 19. safety statements 215, 217. networks paper type. Save to printer memory 106. default gateway 136, 137 selecting (Windows) 48. scan settings. HP Web Jetadmin 141 paper types. HP Embedded Web. IPv4 address 136 selecting (Mac) 51. Server 125, 127, 130. IPv6 address 137 ports. Scan to Network Folder 108. subnet mask 136, 137 locating 5. initial setup 82. NFC connect and print 56, 57 potential shock hazard 2. Scan to USB Drive 113. non-HP supplies 188, 199 power usage 140. enabling 99. print media. scanner. O loading in Tray 1 19. calibrate 171. loading in Trays 2 and 3 25. on/off button glass cleaning 171, 174, 179. print on both sides. locating 2 scanning. Mac 51. online help, control panel 142 optimize for text or. manually, Windows 48. online support 142, 188, 204 pictures 174. Windows 48. operating-environment range overview 67. print settings. printer 17 scanning to email. HP Embedded Web. optimize copy images 171 sending documents 103. Server 125, 127, 129. optimize fax images 179 scanning to folder 108. printer. optimize scanned images 174 scanning to printer folder 106. operating-environment. orientation scanning to printer memory 106. range 17. envelopes 31 scanning to USB 113. overview 1. labels 33 security. printer memory. other links list encrypted hard disk 138, 140. sending to 106. HP Embedded Web security settings. printer memory, scan to 106. Server 125, 127, 129 HP Embedded Web. printing. output bin Server 125, 127, 132. from USB storage.
+
+Q&A PAIRS:
+  Q1: What is the network link speed setting for Tray 3 in this printer manual?
+  A1: The network link speed settings for Tray 3 are located on page 155.
+
+
+--------------------------------------------------
+Entry 93: [SPECIFICATION] Index
+Source: hp-e877-series-user-guide.md | Page: 238
+Keywords: toner, paper, orientation, replacing, cartridges, tray, embedded, locating
+--------------------------------------------------
+
+CONTENT:
+subnet mask 136, 137 paper orientation 27. supplies Tray 3. counterfeit 188, 199 jams 155. HP Embedded Web locating 2. Server 132 paper orientation 27. low threshold settings 144 Tray 4. non-HP 188, 199 paper orientation 27. recycling 206, 207 Tray 5. replacing staples 39 paper orientation 27. replacing toner cartridges 34 trays. replacing toner collection locating 2. unit 37 use alternative letterhead. using when low 144 mode 30. support troubleshooting. online 142, 188, 204 check toner-cartridge. system requirements status 158, 160. HP Embedded Web jams 151, 152. Server 125 overview 142. paper feed problems 144. T troubleshooting tools. HP Embedded Web. Taiwan EMI statement 215, 219. Server 125, 127, 132. TCP/IP. two-sided printing. manually configuring IPv4. settings (Windows) 48. parameters 136. manually configuring IPv6. U. parameters 137. technical support USB. online 142, 188, 204 sending to 113. toner cartridge USB port. components 34 enabling 59, 61, 186. low threshold settings 144 locating 5. using when low 144 USB storage accessories. toner cartridges printing from 59. components 34. W memory chips 188, 199. non-HP 188, 199. warranty. recycling 206, 207. customer self repair 188, 204. replacing 34. license 188, 200. See toner cartridges. product 188. warranty 188, 198. toner cartridges 188, 198
+
+Q&A PAIRS:
+  Q1: What are the page numbers that discuss paper orientation in this manual?
+  A1: The information about paper orientation can be found on pages 27.
+
+
+======================================================================
+  RULES (8 entries)
+======================================================================
+
+--------------------------------------------------
+Entry 94: [RULE] Change fax configurations
+Source: hp-e877-series-user-guide.md | Page: 128
+Keywords: settings, change, update, configured, using, control, panel, override
+--------------------------------------------------
+
+CONTENT:
+Change or update fax settings.
+
+**NOTE:** The settings configured using the control panel override any settings made in the HP
+Embedded Web Server.
+
+Q&A PAIRS:
+  Q1: What happens if I change settings via the control panel after adjusting them through the HP Embedded Web Server?
+  A1: The settings configured using the control panel override any settings made in the HP Embedded Web Server.
+
+
+--------------------------------------------------
+Entry 95: [RULE] Customer support
+Source: hp-e877-series-user-guide.md | Page: 153
+Keywords: support, printer, country, region, register, find, contact, options
+--------------------------------------------------
+
+CONTENT:
+Find support contact options for your HP printer.
+
+Get telephone support for your country/ Country/region phone numbers are on the flyer that was in the box with the printer or
+region. at support.hp.com.
+
+Have the printer name, serial number,
+date of purchase, and problem
+description ready.
+
+Get 24-hour Internet support, and http://www.hp.com/support/colorljE877mfp
+download software utilities and drivers.
+
+Order additional HP service or www.hp.com/go/carepack
+maintenance agreements.
+
+Register the printer. www.register.hp.com
+
+Q&A PAIRS:
+  Q1: What should you have ready when contacting telephone support for your HP printer?
+  A1: You should have the printer name, serial number, date of purchase, and problem description ready.
+
+
+--------------------------------------------------
+Entry 96: [RULE] Resolving color print quality problems
+Source: hp-e877-series-user-guide.md | Page: 169
+Keywords: quality, color, information, below, troubleshoot, print, image, problems
+--------------------------------------------------
+
+CONTENT:
+Use the information below to troubleshoot print-quality, color-quality, and image-quality problems on HP
+Color LaserJet Enterprise printers.
+
+Q&A PAIRS:
+  Q1: What can cause print-quality issues on HP Color LaserJet Enterprise printers?
+  A1: Print-quality issues can be caused by various factors such as incorrect printer settings, low toner levels, dirty or damaged printheads, and improper paper handling.
+
+
+--------------------------------------------------
+Entry 97: [RULE] HP limited warranty statement
+Source: hp-e877-series-user-guide.md | Page: 199
+Keywords: warranty, defects, products, period, color, managed, support, options
+--------------------------------------------------
+
+CONTENT:
+HP PRODUCT DURATION OF LIMITED WARRANTY*. HP Color LaserJet Managed MFP E877 Series, HP Color 90 day, HP parts only. LaserJet Managed MFP E87740, E87750, E87760, E87770, HP. Color LaserJet Managed Flow MFP E87740, E87750, E87760,. E87770. **NOTE:** *Warranty and support options vary by product, country, and local legal requirements. Go to. support.hp.com to learn about HP award-winning service and support options in your region.. HP warrants to you, the end-user customer, this HP Limited Warranty applies only to HP branded. products sold or leased a) from HP Inc., its subsidiaries, affiliates, authorized resellers, authorized. distributors, or country distributors; and, b) with this HP Limited Warranty, that HP hardware and. accessories will be free from defects in materials and workmanship after the date of purchase, for. the period specified above. If HP receives notice of such defects during the warranty period, HP will, at. its option, either repair or replace products which prove to be defective. Replacement products may be. either new or equivalent in performance to new.. HP warrants to you that HP software will not fail to execute its programming instructions after the date. of purchase, for the period specified above, due to defects in material and workmanship when properly. installed and used. If HP receives notice of such defects during the warranty period, HP will replace. software which does not execute its programming instructions due to such defects.. HP does not warrant that the operation of HP products will be uninterrupted or error free. If HP is unable,.
+
+Q&A PAIRS:
+  Q1: What should you do if your HP Color LaserJet Managed MFP E877 Series printer has defects during the warranty period?
+  A1: If HP receives notice of such defects during the warranty period, HP will, at its option, either repair or replace products which prove to be defective.
+
+
+--------------------------------------------------
+Entry 98: [RULE] HP limited warranty statement
+Source: hp-e877-series-user-guide.md | Page: 199
+Keywords: product, warranty, country, region, parts, apply, improper, maintenance
+--------------------------------------------------
+
+CONTENT:
+If HP is unable,. within a reasonable time, to repair or replace any product to a condition as warranted, you will be entitled. to a refund of the purchase price upon prompt return of the product.. HP products may contain remanufactured parts equivalent to new in performance or may have been. subject to incidental use.. Warranty does not apply to defects resulting from (a) improper or inadequate maintenance or. calibration, (b) software, interfacing, parts or supplies not supplied by HP, (c) unauthorized modification. or misuse, (d) operation outside of the published environmental specifications for the product, or (e). improper site preparation or maintenance.. TO THE EXTENT ALLOWED BY LOCAL LAW, THE ABOVE WARRANTIES ARE EXCLUSIVE AND NO. OTHER WARRANTY OR CONDITION, WHETHER WRITTEN OR ORAL, IS EXPRESSED OR IMPLIED AND. HP SPECIFICALLY DISCLAIMS ANY IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY,. SATISFACTORY QUALITY, AND FITNESS FOR A PARTICULAR PURPOSE. Some countries/regions, states. or provinces do not allow limitations on the duration of an implied warranty, so the above limitation or. exclusion might not apply to you. This warranty gives you specific legal rights and you might also have. other rights that vary from country/region to country/region, state to state, or province to province.. HP's limited warranty is valid in any country/region or locality where HP has a support presence for this. product and where HP has marketed this product. The level of warranty service you receive may vary. according to local standards. HP will not alter form, fit or function of the product to make it operate in a.
+
+Q&A PAIRS:
+  Q1: What might void the warranty on an HP printer?
+  A1: The warranty does not apply to defects resulting from improper or inadequate maintenance or calibration, software or parts not supplied by HP, unauthorized modification or misuse, operation outside of the published environmental specifications, or improper site preparation or maintenance.
+
+
+--------------------------------------------------
+Entry 99: [RULE] HP limited warranty statement
+Source: hp-e877-series-user-guide.md | Page: 199
+Keywords: function, exclusion, limitation, alter, form, product, operate, country
+--------------------------------------------------
+
+CONTENT:
+HP will not alter form, fit or function of the product to make it operate in a. country/region for which it was never intended to function for legal or regulatory reasons.. TO THE EXTENT ALLOWED BY LOCAL LAW, THE REMEDIES IN THIS WARRANTY STATEMENT ARE YOUR. SOLE AND EXCLUSIVE REMEDIES. EXCEPT AS INDICATED ABOVE, IN NO EVENT WILL HP OR ITS. SUPPLIERS BE LIABLE FOR LOSS OF DATA OR FOR DIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL. (INCLUDING LOST PROFIT OR DATA), OR OTHER DAMAGE, WHETHER BASED IN CONTRACT, TORT, OR. OTHERWISE. Some countries/regions, states or provinces do not allow the exclusion or limitation of. incidental or consequential damages, so the above limitation or exclusion may not apply to you.. THE WARRANTY TERMS CONTAINED IN THIS STATEMENT, EXCEPT TO THE EXTENT LAWFULLY. PERMITTED, DO NOT EXCLUDE, RESTRICT OR MODIFY AND ARE IN ADDITION TO THE MANDATORY. STATUTORY RIGHTS APPLICABLE TO THE SALE OF THIS PRODUCT TO YOU.
+
+Q&A PAIRS:
+  Q1: What happens if I try to use the HP printer in a country/region it was not intended for?
+  A1: HP will not alter the product's form, fit, or function to make it operate in a country/region for which it was never intended due to legal or regulatory reasons.
+
+
+--------------------------------------------------
+Entry 100: [RULE] HP policy on non-HP supplies
+Source: hp-e877-series-user-guide.md | Page: 210
+Keywords: toner, cartridge, either, refilled, customer, product, failure, damage
+--------------------------------------------------
+
+CONTENT:
+HP cannot recommend the use of non-HP toner cartridges, either new or remanufactured.
+
+**NOTE:** For HP printer products, the use of a non-HP toner cartridge or a refilled toner cartridge does
+not affect either the warranty to the customer or any HP support contract with the customer. However,
+if product failure or damage is attributable to the use of a non-HP toner cartridge or refilled toner
+cartridge, HP will charge its standard time and materials charges to service the product for the
+particular failure or damage.
+
+Q&A PAIRS:
+  Q1: What might happen if I use a non-HP toner cartridge in my HP printer?
+  A1: If product failure or damage is attributable to the use of a non-HP toner cartridge, HP will charge its standard time and materials charges to service the product for the particular failure or damage.
+
+
+--------------------------------------------------
+Entry 101: [RULE] Disposal of waste equipment by users (EU, UK, and India)
+Source: hp-e877-series-user-guide.md | Page: 219
+Keywords: waste, household, equipment, symbol, means, dispose, product, instead
+--------------------------------------------------
+
+CONTENT:
+This symbol means do not dispose of your product with your other household waste. Instead, you should
+protect human health and the environment by handing over your waste equipment to a designated
+collection point for the recycling of waste electrical and electronic equipment. For more information,
+please contact your household waste disposal service, or go to: www.hp.com/recycle.
+
+Q&A PAIRS:
+  Q1: What should you do instead of disposing of the printer with regular household waste?
+  A1: You should hand over your waste equipment to a designated collection point for the recycling of waste electrical and electronic equipment.
+
+

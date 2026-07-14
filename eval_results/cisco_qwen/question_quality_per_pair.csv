@@ -1,0 +1,65 @@
+idx,page,category,word_count,is_generic,type,is_short,question
+0,1,procedure,16,0,what,0,What should users do if they are unable to locate the software license or limited warranty?
+1,1,procedure,12,0,what,0,What measures can users try to correct interference caused by this equipment?
+2,1,procedure,14,0,how,0,How do you connect the console port to a computer using a DB-9 adapter?
+3,7,procedure,5,0,what,1,What does the preface describe?
+4,7,spec,9,0,what,0,What does Appendix 1's section on Technical Specifications include?
+5,7,procedure,9,0,what,0,What prerequisites are required before using this installation guide?
+6,8,spec,7,0,what,1,What specifications are listed in Appendix 1?
+7,10,procedure,11,0,how,0,How can I find the Cisco MDS 9000 Family documentation online?
+8,10,procedure,13,0,what,0,What are the specific release notes available for the Cisco MDS 9000 family?
+9,10,procedure,11,0,what,0,What documents are available regarding Cisco MDS 9000 interoperability and compatibility?
+10,11,procedure,12,0,what,0,What is the title of the guide that covers system management configuration?
+11,12,procedure,15,0,what,0,What documents are included in the Cisco MDS 9000 Family NX-OS troubleshooting and reference materials?
+12,13,procedure,11,0,what,0,What are the major features of the Cisco MDS 9148S switch?
+13,13,procedure,10,1,what,0,What views of the chassis are described in this section?
+14,14,procedure,13,0,what,0,What components are located on the front of the Cisco MDS 9148S switch?
+15,17,spec,12,0,what,0,What does the 'Red Blinking' status indicate for the Switch status LED?
+16,17,spec,12,0,what,0,What does it mean when the Port link LED is flashing orange?
+17,18,spec,11,0,what,0,What does it mean if the Right LED is solid amber?
+18,21,procedure,14,0,how,0,How do you stabilize the switch in the rack after sliding it into place?
+19,28,spec,14,0,what,0,What is the quantity of M4 x 6-mm Phillips flat-head screws included per kit?
+20,27,rule_error,13,0,what,0,What causes the need for rear-facing installation of the Cisco MDS 9148S switch?
+21,41,procedure,13,0,how,0,How do you connect the console port on the Cisco MDS 9148S switch?
+22,41,procedure,21,0,how,0,How do you connect the console port to perform functions like configuring the switch from the CLI or monitoring network statistics?
+23,51,procedure,8,0,how,0,How should air be cooled in solid-walled cabinets?
+24,52,spec,16,0,what,0,What is the weight limit for mounting an MDS 9148S on a Telco (2 post) rack?
+25,51,procedure,14,0,how,0,How can the optional Telco and EIA Shelf Bracket Kit be used during installation?
+26,53,procedure,7,0,what,1,What equipment is needed for this installation?
+27,59,spec,11,0,what,0,What are the physical dimensions of the Cisco MDS 9148S Switch?
+28,53,procedure,10,0,how,0,How do you attach the crossbar to the shelf brackets?
+29,59,procedure,14,0,what,0,What technical specifications are included in this appendix for the Cisco MDS 9148S switch?
+30,59,spec,10,0,what,0,What is the ambient operating temperature range for this printer?
+31,60,spec,11,0,what,0,What is the nominal AC input voltage range for this printer?
+32,59,spec,13,0,what,0,What are the ambient operating temperature limits for the Cisco MDS 9148S switch?
+33,60,procedure,7,1,what,1,What information is included in this section?
+34,60,spec,17,0,what,0,What is the weight of the device when two fan modules and two power supplies are installed?
+35,61,spec,10,0,what,0,What is the fuse melting time for part number 341-0706-02?
+36,61,spec,20,0,what,0,What is the AC power consumption in watts for the Cisco MDS 9148S Switch under worst-case conditions at 220 volts?
+37,61,spec,14,0,what,0,What are the specifications for the AC input power supply's voltage and current limits?
+38,62,spec,14,0,what,0,What is the maximum power required for the Cisco MDS 9148S16G Multilayer Fabric Switch?
+39,62,spec,15,0,what,0,What parameters are encoded in each Cisco SFP+ transceiver to enable verification by the switch?
+40,63,procedure,11,0,what,0,What Fibre Channel SFP+ transceivers are available for the CiscoMDS9148S switch?
+41,63,spec,8,0,what,0,What is the type of the DS-SFP-FC16G-LW part?
+42,64,spec,13,0,what,0,What is the core size in microns for the DS-SFP-FC16G-L W SFP+ module?
+43,65,spec,11,0,what,0,What are the operating temperature limits for the DS-SFP-FC16G-SW SFP+ module?
+44,65,spec,12,0,what,0,What is the maximum average transmit power for the DS-SFP-FC16G-LW SFP+ module?
+45,66,spec,17,0,what,0,What is the cable distance for the DS-SFP-FC8G-ER SFP+ module operating at 1550 nanometers on single-mode fiber?
+46,67,spec,15,0,what,0,What is the maximum average transmit power for the DS-SFP-FC8G-LW SFP+ module at 8 Gbps?
+47,67,spec,11,0,what,0,What is the fiber loss budget for 50.0 micron OM2 cables?
+48,68,spec,20,0,what,0,"What are the minimum and maximum values for the receiver optical input power, and under what conditions do they apply?"
+49,63,procedure,8,0,what,0,What are the cabling specifications summarized in Table1-8?
+50,70,procedure,10,0,how,0,How do you connect the console port to a computer?
+51,70,spec,12,0,what,0,What RJ-45 pin on the console port corresponds to the RTS signal?
+52,70,procedure,17,0,how,0,How are pins 1 and 8 of the console port on the Cisco MDS 9148S Switch related?
+53,70,procedure,16,0,what,0,What components are required to connect the console port to a computer running terminal emulation software?
+54,71,spec,12,0,what,0,What signal is connected to RJ-45 pin 1 on the rollover cable?
+55,71,spec,13,0,which,0,Which DB-9 pin corresponds to the RTS signal in a console device connection?
+56,71,spec,20,0,what,0,What RJ-45 pin corresponds to the DSR signal on the console port when using an RJ-45 to RJ-45 rollover cable?
+57,73,spec,12,0,what,0,What is the cordset rating for power cords used in North America?
+58,71,spec,19,0,what,0,What type of cable should be used to connect the 10/100 management Ethernet port to external hubs and switches?
+59,74,spec,12,0,what,0,What is the cordset rating for the power cord used in Japan?
+60,78,spec,10,0,what,0,What specific factors are included in the environmental evaluation task?
+61,74,procedure,13,0,how,0,How do you connect the C14 connector on the optional jumper power cord?
+62,79,procedure,11,0,what,0,What is the purpose of using Table 1-2 in Chapter 1?
+63,80,procedure,9,0,what,0,What information should be recorded using the provided worksheets?

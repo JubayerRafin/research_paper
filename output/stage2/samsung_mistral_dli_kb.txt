@@ -1,0 +1,312 @@
+======================================================================
+  DLI KNOWLEDGE BASE SNAPSHOT
+  Deep Doc Extractor — Team DocuForge
+======================================================================
+
+Total entries: 20
+  PROCEDURE: 11
+  RULE: 9
+
+======================================================================
+  PROCEDURES (11 entries)
+======================================================================
+
+--------------------------------------------------
+Entry 1: [PROCEDURE] Accessibility Guidance
+Source: samsung_manual.md | Page: 6
+Keywords: provides, menu, remote, control, guide, visually, impaired
+--------------------------------------------------
+
+CONTENT:
+Provides a menu and a remote control guide that aid the visually impaired.
+
+Q&A PAIRS:
+  Q1: What is the procedure for using the TV with Voice Guide on?
+  A1: The procedure for using the TV with Voice Guide on is described on page 288.
+
+  Q2: How does this product assist the visually impaired?
+  A2: It provides a menu and a remote control guide.
+
+
+--------------------------------------------------
+Entry 2: [PROCEDURE] Connections
+Source: samsung_manual.md | Page: 7
+Keywords: cable, access, using, watch, live, broadcasts, connecting, coaxial
+--------------------------------------------------
+
+CONTENT:
+You can watch live broadcasts by connecting a coaxial cable to your TV and can get access to the network by using a
+LAN cable or wireless access point. Using various connectors, you can also connect external devices.
+
+Q&A PAIRS:
+  Q1: How can I watch live broadcasts on my TV?
+  A1: You can watch live broadcasts by connecting a coaxial cable to your TV.
+
+  Q2: What are the ways to access the network with this device?
+  A2: You can get access to the network by using a LAN cable or wireless access point.
+
+
+--------------------------------------------------
+Entry 3: [PROCEDURE] Remote Control and Peripherals
+Source: samsung_manual.md | Page: 27
+Keywords: control, operations, remote, pair, external, devices, keyboard, ease
+--------------------------------------------------
+
+CONTENT:
+You can control TV operations with your Remote Control. Pair external devices, such as a keyboard, for ease of use.
+
+Q&A PAIRS:
+  Q1: How can you manage TV functions using the provided accessories?
+  A1: You can control TV operations with your Remote Control.
+
+
+--------------------------------------------------
+Entry 4: [PROCEDURE] TV Viewing and Recording
+Source: samsung_manual.md | Page: 130
+Keywords: list, channels, variety, convenience, features, offered, samsung, while
+--------------------------------------------------
+
+CONTENT:
+Use a variety of convenience features offered by your Samsung TV while watching TV. You can also edit your list of
+channels and create a list of favorite channels.
+
+Q&A PAIRS:
+  Q1: How do you customize your channel list on the Samsung TV?
+  A1: You can edit your list of channels and create a list of favorite channels.
+
+
+--------------------------------------------------
+Entry 5: [PROCEDURE] Picture and Sound
+Source: samsung_manual.md | Page: 144
+Keywords: change, settings, picture, sound, according, preference
+--------------------------------------------------
+
+CONTENT:
+You can change the settings for the picture and the sound according to your preference.
+
+Q&A PAIRS:
+  Q1: How can I adjust the picture settings on my printer?
+  A1: You can change the settings for the picture according to your preference.
+
+  Q2: What should I do if I want to modify the sound settings of my printer?
+  A2: You can change the settings for the sound according to your preference.
+
+
+--------------------------------------------------
+Entry 6: [PROCEDURE] System and Support
+Source: samsung_manual.md | Page: 158
+Keywords: configure, system, support, settings, clock, timers, energy, usage
+--------------------------------------------------
+
+CONTENT:
+You can configure system and support settings, such as clock, timers, energy usage and software updates.
+
+Q&A PAIRS:
+  Q1: How can I adjust the system's clock or timers?
+  A1: You can configure system settings to adjust the clock and timers.
+
+  Q2: What can you do to manage energy usage in the printer?
+  A2: You can configure support settings to manage energy usage.
+
+
+--------------------------------------------------
+Entry 7: [PROCEDURE] Precautions and Notes
+Source: samsung_manual.md | Page: 175
+Keywords: instructions, information, must, read, installation, available
+--------------------------------------------------
+
+CONTENT:
+Instructions and information that you must read after installation are available for you.
+
+Q&A PAIRS:
+  Q1: How can I access instructions and information after installing the printer?
+  A1: Instructions and information that you must read after installation are available for you.
+
+
+--------------------------------------------------
+Entry 8: [PROCEDURE] Wireless One Connect Issues
+Source: samsung_manual.md | Page: 260
+Keywords: following, solutions, having, issues, connecting, wireless, connect
+--------------------------------------------------
+
+CONTENT:
+Try the following solutions if you are having issues connecting to Wireless One Connect.
+
+Q&A PAIRS:
+  Q1: How can I troubleshoot connection issues with Wireless One Connect?
+  A1: If you are having issues connecting to Wireless One Connect, try the following solutions.
+
+
+--------------------------------------------------
+Entry 9: [PROCEDURE] Other issues
+Source: samsung_manual.md | Page: 273
+Keywords: procedures, resolve, issues, occur, relation, product
+--------------------------------------------------
+
+CONTENT:
+Use these procedures to resolve other issues that may occur in relation to the product.
+
+Q&A PAIRS:
+  Q1: How should you begin resolving issues related to the product?
+  A1: By using the procedures described.
+
+
+--------------------------------------------------
+Entry 10: [PROCEDURE] Diagnosing TV operational issues
+Source: samsung_manual.md | Page: 275
+Keywords: diagnose, issues, smart, reset, functions
+--------------------------------------------------
+
+CONTENT:
+You can diagnose issues with your TV and Smart Hub and run reset functions.
+
+Q&A PAIRS:
+  Q1: How can I diagnose issues with my TV and Smart Hub?
+  A1: You can diagnose issues with your TV and Smart Hub by using the diagnostic tools available in the printer manual.
+
+
+--------------------------------------------------
+Entry 11: [PROCEDURE] Learn Menu Screen
+Source: samsung_manual.md | Page: 279
+Keywords: once, learn, menu, screen, enabled, tell, information, features
+--------------------------------------------------
+
+CONTENT:
+Once "Learn Menu Screen" is enabled, your TV will tell you the information and features of the menus you select.
+
+Q&A PAIRS:
+  Q1: How can I get my TV to display menu information?
+  A1: Enable 'Learn Menu Screen'.
+
+
+======================================================================
+  RULES (9 entries)
+======================================================================
+
+--------------------------------------------------
+Entry 12: [RULE] Picture Issues
+Source: samsung_manual.md | Page: 246
+Keywords: trouble, picture, steps, help, resolve, problem
+--------------------------------------------------
+
+CONTENT:
+When the TV has trouble with the picture, these steps may help resolve the problem.
+
+Q&A PAIRS:
+  Q1: What should I do if my TV is having trouble with the picture?
+  A1: You can try following the troubleshooting steps provided in the manual to resolve the problem.
+
+
+--------------------------------------------------
+Entry 13: [RULE] External Device Connectivity Issues
+Source: samsung_manual.md | Page: 257
+Keywords: difficulties, connecting, external, devices, game, console, mobile, device
+--------------------------------------------------
+
+CONTENT:
+When the TV has difficulties connecting to external devices such as a PC, game console, or mobile device, these
+steps may help resolve the problem.
+
+Q&A PAIRS:
+  Q1: What should I do if my TV is having trouble connecting to an external device like a PC or game console?
+  A1: You can try following the troubleshooting steps provided in the manual to resolve the connection issues.
+
+
+--------------------------------------------------
+Entry 14: [RULE] Network Issues
+Source: samsung_manual.md | Page: 259
+Keywords: difficulties, connecting, network, steps, help, resolve, problem
+--------------------------------------------------
+
+CONTENT:
+When the TV has difficulties connecting to the network, these steps may help resolve the problem.
+
+Q&A PAIRS:
+  Q1: What should I do if my TV is having trouble connecting to the network?
+  A1: You can try following the troubleshooting steps provided in the manual to resolve the connection problem.
+
+
+--------------------------------------------------
+Entry 15: [RULE] Anynet+ (HDMI-CEC) Issues
+Source: samsung_manual.md | Page: 263
+Keywords: anynet, working, steps, help, resolve, problem
+--------------------------------------------------
+
+CONTENT:
+When Anynet+ (HDMI-CEC) isn't working, these steps may help resolve the problem.
+
+Q&A PAIRS:
+  Q1: What should I do if Anynet+ (HDMI-CEC) is not functioning properly?
+  A1: You can try following the troubleshooting steps provided in the manual to resolve the problem.
+
+
+--------------------------------------------------
+Entry 16: [RULE] Remote Control Issues
+Source: samsung_manual.md | Page: 265
+Keywords: remote, control, working, steps, help, resolve, problem
+--------------------------------------------------
+
+CONTENT:
+When the remote control isn't working, these steps may help resolve the problem.
+
+Q&A PAIRS:
+  Q1: What should you do if your printer's remote control stops working?
+  A1: You can try resolving the issue by following the troubleshooting steps provided in the manual.
+
+
+--------------------------------------------------
+Entry 17: [RULE] Recording Issues
+Source: samsung_manual.md | Page: 267
+Keywords: timeshift, schedule, recording, aren, working, steps, help, resolve
+--------------------------------------------------
+
+CONTENT:
+When Timeshift or Schedule recording aren't working, these steps may help resolve the problem.
+
+Q&A PAIRS:
+  Q1: What should you do if Timeshift or Schedule recording are not functioning correctly?
+  A1: You can try following the troubleshooting steps provided in the manual to resolve the issue.
+
+
+--------------------------------------------------
+Entry 18: [RULE] Media Files
+Source: samsung_manual.md | Page: 270
+Keywords: files, play, help, resolve, problem
+--------------------------------------------------
+
+CONTENT:
+When files don't play, this may help resolve the problem.
+
+Q&A PAIRS:
+  Q1: What can I do when my printer is not playing files?
+  A1: You can try resolving the problem by following the suggested steps in the manual.
+
+
+--------------------------------------------------
+Entry 19: [RULE] Voice Assistant Issues
+Source: samsung_manual.md | Page: 271
+Keywords: voice, assistant, working, steps, help, resolve, problem
+--------------------------------------------------
+
+CONTENT:
+When the Voice Assistant isn't working, these steps may help resolve the problem.
+
+Q&A PAIRS:
+  Q1: What should I do if my printer's voice assistant is not responding?
+  A1: You can try resolving the issue by following the troubleshooting steps provided in the manual.
+
+
+--------------------------------------------------
+Entry 20: [RULE] Getting Support
+Source: samsung_manual.md | Page: 278
+Keywords: help, directly, samsung, problem
+--------------------------------------------------
+
+CONTENT:
+Get help directly from Samsung if you have a problem with your TV.
+
+Q&A PAIRS:
+  Q1: What should I do if I encounter a problem with my Samsung TV that I can't solve?
+  A1: You should get help directly from Samsung.
+
+

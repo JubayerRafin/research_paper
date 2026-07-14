@@ -26,7 +26,7 @@ stage1:
     output_format: json
 stage2:
   output_dir: output/stage2
-  input_md: data/canon_manual.md
+  input_md: data/samsung_manual.md
   chunking:
     max_tokens: 400
     overlap_sentences: 1
@@ -65,16 +65,16 @@ stage2:
     - do not
     - important
   llm:
-    model: qwen3.5:35b 
+    model: qwen3.5:35b  
     base_url: http://localhost:11434
     temperature: 0.3
     max_tokens: 4096
     timeout: 600
     system_roles:
-    - You are a helpful Canon printer technician.
-    - You are a Canon printer hardware expert.
-    - You are a Canon technical support specialist.
-    - You are a customer service agent for Canon printers.
+    - You are a helpful Samsung technician.
+    - You are a Samsung Tv expert.
+    - You are a Samsung technical support specialist.
+    - You are a customer service agent for Samsung devices.
   filters:
     min_question_length: 10
     min_answer_length: 5
@@ -98,8 +98,8 @@ stage2:
     csv: true
     dli_kb: true
 stage3:
-  output_dir: output/stage3_mistral_24b__by_qwen3-5_35b
-  input_jsonl: output/stage2_mistral_24b/qa_pairs.jsonl
+  output_dir: output/stage3_qwen3.5_35b
+  input_jsonl: output/stage2_qwen3.5_35b/qa_pairs.jsonl
   llm:
     base_url: http://localhost:11434
     model: qwen3.5:35b
@@ -134,7 +134,7 @@ stage4:
     device: cpu
   chroma:
     persist_dir: output/stage4_qwen35_35b/chroma
-    collection_name: hp_e877_manual
+    collection_name: samsung_manual
   retrieval:
     top_k: 10
     max_final_hits: 5

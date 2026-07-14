@@ -1,0 +1,28 @@
+{
+  "metric": "question_quality",
+  "n_pairs": 449,
+  "length": {
+    "mean_words": 11.7,
+    "median_words": 11,
+    "min_words": 6,
+    "max_words": 23,
+    "short_count": 20,
+    "short_pct": 4.45
+  },
+  "generic": {
+    "count": 0,
+    "pct": 0.0,
+    "target_max_pct": 5.0,
+    "passes": true
+  },
+  "type_distribution": {
+    "how": {
+      "count": 290,
+      "pct": 64.59
+    },
+    "what": {
+      "count": 159,
+      "pct": 35.41
+    }
+  }
+}

@@ -1,0 +1,2776 @@
+======================================================================
+  DLI KNOWLEDGE BASE SNAPSHOT
+  Deep Doc Extractor — Team DocuForge
+======================================================================
+
+Total entries: 118
+  PROCEDURE: 110
+  SPECIFICATION: 1
+  RULE: 7
+
+======================================================================
+  PROCEDURES (110 entries)
+======================================================================
+
+--------------------------------------------------
+Entry 1: [PROCEDURE] Parts and Their Functions
+Source: canon_manual.md | Page: 8
+Keywords: section, parts, machine, describes, control, panel, view, exterior
+--------------------------------------------------
+
+CONTENT:
+3EEJ-001
+
+This section describes the parts of the machine (exterior, front and back side, and interior) and how they function. In
+addition to describing the parts of the machine used for such basic operations as placing documents, loading paper,
+and replacing the toner cartridges, this section also describes the keys on the control panel and display. Read this
+section for tips on how to use the machine properly.
+
+![Parts and Their Functions](images/image_p8_00.png)
+
+**External View(P. 5)
+Internal View(P. 7)
+Control Panel(P. 9)**
+
+Q&A PAIRS:
+  Q1: How can I learn about the basic operations of the printer, like placing documents or loading paper?
+  A1: Read this section for tips on how to use the machine properly.
+
+
+--------------------------------------------------
+Entry 2: [PROCEDURE] Display
+Source: canon_manual.md | Page: 15
+Keywords: screen, home, display, settings, initiating, operations, screens, specifying
+--------------------------------------------------
+
+CONTENT:
+3EEJ-005
+
+The <Home> screen for initiating operations and screens for specifying settings appear in the display. You can also
+view job progress and messages here. Touch the display to operate it.
+
+**<Home> Screen**
+
+The <Home> screen is displayed when the power is turned ON or by pressing on the control panel. Use
+
+this screen to specify settings for and register functions.
+
+![Display](images/image_p15_00.png)
+
+Q&A PAIRS:
+  Q1: How do you access the <Home> screen on the printer?
+  A1: The <Home> screen is displayed when the power is turned ON or by pressing on the control panel.
+
+
+--------------------------------------------------
+Entry 3: [PROCEDURE] Customizing the <Home> Screen
+Source: canon_manual.md | Page: 18
+Keywords: change, order, buttons, home, screen, displayed, according, application
+--------------------------------------------------
+
+CONTENT:
+3EEJ-006
+
+You can change the order that buttons in the <Home> screen are displayed in according to your application or a
+preferred arrangement.
+
+Q&A PAIRS:
+  Q1: How do you rearrange the buttons on the <Home> screen?
+  A1: You can change the order that buttons in the <Home> screen are displayed in according to your application or a preferred arrangement.
+
+
+--------------------------------------------------
+Entry 4: [PROCEDURE] 1
+Source: canon_manual.md | Page: 18
+Keywords: menu, output, rprt, purchase, information, press
+--------------------------------------------------
+
+CONTENT:
+and tap <Menu> <Output Rprt.> <Purchase Information for Press
+
+Q&A PAIRS:
+  Q1: How do you access the home screen settings?
+  A1: Tap <Home Screen Settings>.
+
+  Q2: What should you do after the screen for entering a PIN is displayed?
+  A2: Enter the PIN, and tap <Apply>.
+
+  Q3: How do you start the process of accessing purchase information for consumables?
+  A3: Press and tap <Menu> <Output Rprt.> <Purchase Information for Consumables>.
+
+  Q4: How do you access the purchase information for the press?
+  A4: Tap <Menu>, then <Output Rprt.>, and finally <Purchase Information for Press>
+
+
+--------------------------------------------------
+Entry 5: [PROCEDURE] 3 Tap the button where you want to insert a blank, and tap <Insert>.
+Source: canon_manual.md | Page: 19
+Keywords: delete, blank, inserted, select, proceed, step, button, want
+--------------------------------------------------
+
+CONTENT:
+● To delete an inserted blank, select the blank, tap <Delete>, and proceed to step 5.
+
+![3 Tap the button where you want](images/image_p19_01.png)
+
+Q&A PAIRS:
+  Q1: How do you delete an inserted blank?
+  A1: To delete an inserted blank, select the blank, tap <Delete>, and proceed to step 5.
+
+
+--------------------------------------------------
+Entry 6: [PROCEDURE] Using the Display
+Source: canon_manual.md | Page: 20
+Keywords: display, touch, screen, images, panel, allowing, operate, directly
+--------------------------------------------------
+
+CONTENT:
+3EEJ-007
+
+The display is a touch panel, allowing you to operate directly on the screen.
+
+![Using the Display](images/image_p20_00.png)
+
+**Tap
+Touch the screen lightly and quickly. Use for selecting or finalizing items.**
+
+![image_p20_01](images/image_p20_01.png)
+
+Q&A PAIRS:
+  Q1: How do you select or finalize items on the touch panel display?
+  A1: Touch the screen lightly and quickly.
+
+
+--------------------------------------------------
+Entry 7: [PROCEDURE] 2 Place the document face down on the platen glass.
+Source: canon_manual.md | Page: 23
+Keywords: corner, document, paper, align, left, platen, glass, place
+--------------------------------------------------
+
+CONTENT:
+● Align the corner of the document with the top-left corner of the platen glass.
+
+![2 Place the document face down on](images/image_p23_02.png)
+
+To scan transparent documents (for example, tracing paper or transparencies), cover them with plain white
+paper.
+
+Q&A PAIRS:
+  Q1: How should you position the document on the platen glass?
+  A1: Align the corner of the document with the top-left corner of the platen glass.
+
+  Q2: What should you do when scanning transparent documents?
+  A2: Cover them with plain white paper.
+
+
+--------------------------------------------------
+Entry 8: [PROCEDURE] 3 Gently close the platen cover.
+Source: canon_manual.md | Page: 23
+Keywords: document, machine, ready, scan, scanning, complete, remove, platen
+--------------------------------------------------
+
+CONTENT:
+● The machine is ready to scan the document.
+
+● When scanning is complete, remove the document from the platen glass.
+
+Q&A PAIRS:
+  Q1: How should you proceed after the printer has finished scanning?
+  A1: Remove the document from the platen glass.
+
+
+--------------------------------------------------
+Entry 9: [PROCEDURE] Loading Paper in the Paper Drawer
+Source: canon_manual.md | Page: 26
+Keywords: paper, load, drawer, multi, purpose, tray, usually, want
+--------------------------------------------------
+
+CONTENT:
+3EEJ-00A
+
+Load the paper that you usually use in the paper drawer. When you want to print on paper that is not loaded in the
+Loading Paper in the Multi-Purpose Tray(P. 25) paper drawer, load the paper in the multi-purpose tray.
+
+Q&A PAIRS:
+  Q1: How do you print on paper that is not loaded in the paper drawer?
+  A1: Load the paper in the multi-purpose tray.
+
+
+--------------------------------------------------
+Entry 10: [PROCEDURE] 3 Adjust the position of the paper guides.
+Source: canon_manual.md | Page: 26
+Keywords: paper, while, squeezing, images, part, guide, slide, align
+--------------------------------------------------
+
+CONTENT:
+![3 Adjust the position of the paper](images/image_p26_02.png)
+
+While squeezing the top
+part of the right guide, slide
+it to align with the size
+indicator for the paper to be
+loaded.
+
+
+![While squeezing the top](images/image_p27_00.png)
+
+While squeezing the top
+part of the front guide, slide
+it to align with the size
+indicator for the paper to be
+loaded.
+
+Q&A PAIRS:
+  Q1: How do you adjust the position of the right guide?
+  A1: While squeezing the top part of the right guide, slide it to align with the size indicator for the paper to be loaded.
+
+  Q2: What should you do to adjust the front guide?
+  A2: While squeezing the top part of the front guide, slide it to align with the size indicator for the paper to be loaded.
+
+
+--------------------------------------------------
+Entry 11: [PROCEDURE] 4 Prepare paper.
+Source: canon_manual.md | Page: 27
+Keywords: paper, abbreviations, guides, stack, well, flat, surface, align
+--------------------------------------------------
+
+CONTENT:
+● Fan the paper stack well, and tap it on a flat surface to align the edges.
+
+![4 Prepare paper](images/image_p27_01.png)
+
+**Size abbreviations on the paper guides
+The abbreviations on the paper guides in the paper drawer indicate paper sizes as follows:
+● LGL: Legal**
+
+● LTR: Letter
+
+● STMT: Statement
+
+Q&A PAIRS:
+  Q1: How should you prepare a stack of paper before using it in the printer?
+  A1: Fan the paper stack well, and tap it on a flat surface to align the edges.
+
+
+--------------------------------------------------
+Entry 12: [PROCEDURE] 5 Insert the paper into the paper drawer.
+Source: canon_manual.md | Page: 27
+Keywords: paper, load, loading, drawer, exceed, limit, mark, images
+--------------------------------------------------
+
+CONTENT:
+![5 Insert the paper](images/image_p27_02.png)
+
+Make sure that the paper size setting of the paper drawer
+matches the size of the paper to load in the paper drawer.
+
+Load the paper stack with the print side face up, and against
+drawer. the left guide of the paper
+
+
+**Do not exceed the load limit mark when loading paper
+Make sure that the paper stack does not exceed the load limit mark. Loading too much paper can cause
+paper jams.**
+
+![Do not exceed the load limit mark](images/image_p28_00.png)
+
+**When loading envelopes or paper with a logo, see Loading Envelopes in the Multi-Purpose Tray(P. 28)
+or Loading Preprinted Paper(P. 31) .**
+
+Q&A PAIRS:
+  Q1: How should you arrange the paper stack when loading it into the drawer?
+  A1: Load the paper stack with the print side face up, and against the left guide of the paper drawer.
+
+
+--------------------------------------------------
+Entry 13: [PROCEDURE] 1 Open the multi-purpose tray.
+Source: canon_manual.md | Page: 29
+Keywords: tray, images, pull, auxiliary, open, multi, purpose, extend
+--------------------------------------------------
+
+CONTENT:
+![1 Open the multi-purpose tray](images/image_p29_00.png)
+
+tray ( ● Pull out the auxiliary ), and extend the tray extension ( ) when loading large-sized paper.
+
+![tray ( ● Pull out the auxiliary](images/image_p29_01.png)
+
+Q&A PAIRS:
+  Q1: How do you prepare the multi-purpose tray for large-sized paper?
+  A1: Pull out the auxiliary tray and extend the tray extension.
+
+
+--------------------------------------------------
+Entry 14: [PROCEDURE] Loading Envelopes in the Multi-Purpose Tray
+Source: canon_manual.md | Page: 32
+Keywords: envelopes, loading, orientation, sure, flatten, curls, attention, side
+--------------------------------------------------
+
+CONTENT:
+3EEJ-00E
+
+Make sure to flatten any curls on envelopes before loading them. Also pay attention to the orientation of envelopes
+and which side is face up.
+
+**Before Loading Envelopes(P. 28)
+Loaded Orientation(P. 29)**
+
+![Loading Envelopes in the Multi-Purpose Tray](images/image_p32_00.png)
+
+Q&A PAIRS:
+  Q1: How should you prepare envelopes before loading them into the printer?
+  A1: Make sure to flatten any curls on envelopes before loading them.
+
+  Q2: What should you pay attention to when orienting envelopes for loading?
+  A2: Pay attention to the orientation of envelopes and which side is face up.
+
+
+--------------------------------------------------
+Entry 15: [PROCEDURE] Specifying Paper Size and Type
+Source: canon_manual.md | Page: 38
+Keywords: paper, size, type, settings, loaded, load, must, specify
+--------------------------------------------------
+
+CONTENT:
+3EEJ-00H
+
+You must specify the paper size and type settings to match the paper that is loaded. Make sure to change the paper
+settings when you load the paper that is different from the previously loaded paper. You can also register a default
+paper size and paper type for the multi-purpose tray, which is convenient if you always load paper of the same size
+and type.
+
+![Specifying Paper Size and Type](images/image_p38_00.png)
+
+Q&A PAIRS:
+  Q1: How do you ensure the printer settings match the loaded paper?
+  A1: You must specify the paper size and type settings to match the paper that is loaded.
+
+  Q2: What should you do when loading a different type of paper?
+  A2: Make sure to change the paper settings when you load the paper that is different from the previously loaded paper.
+
+
+--------------------------------------------------
+Entry 16: [PROCEDURE] 2 Select the paper source.
+Source: canon_manual.md | Page: 38
+Keywords: paper, multi, purpose, tray, same, size, type, always
+--------------------------------------------------
+
+CONTENT:
+**If the same size/type of paper is always set in the Multi-Purpose Tray
+<On>. Tap <Multi-Purpose Tray>**
+
+![2 Select the paper source](images/image_p38_01.png)
+
+Q&A PAIRS:
+  Q1: How do you set up the Multi-Purpose Tray for always using the same size and type of paper?
+  A1: Tap <Multi-Purpose Tray>.
+
+
+--------------------------------------------------
+Entry 17: [PROCEDURE] 3 Select the loaded paper size.
+Source: canon_manual.md | Page: 38
+Keywords: loaded, paper, size, displayed, sizes, select, images
+--------------------------------------------------
+
+CONTENT:
+● If the loaded paper size is not displayed, tap <Other Sizes>.
+
+![3 Select the loaded paper size](images/image_p38_03.png)
+
+Q&A PAIRS:
+  Q1: How do you select a different paper size if it's not displayed on the screen?
+  A1: Tap <Other Sizes>.
+
+
+--------------------------------------------------
+Entry 18: [PROCEDURE] 4 Select the loaded paper type.
+Source: canon_manual.md | Page: 38
+Keywords: paper, frequently, used, select, loaded, type, images, size
+--------------------------------------------------
+
+CONTENT:
+![4 Select the loaded paper type](images/image_p39_00.png)
+
+**When a frequently used paper size is known
+You can set the machine to display only frequently used paper sizes in the selection screen.**
+
+Q&A PAIRS:
+  Q1: How do you set the machine to display only frequently used paper sizes?
+  A1: Select the loaded paper type.
+
+
+--------------------------------------------------
+Entry 19: [PROCEDURE] Registering a Custom Paper Size
+Source: canon_manual.md | Page: 40
+Keywords: register, custom, paper, size, type, load, multi, purpose
+--------------------------------------------------
+
+CONTENT:
+3EEJ-00J
+
+You can register a custom paper size and type to load in the multi-purpose tray.
+
+Q&A PAIRS:
+  Q1: How can you register a custom paper size and type?
+  A1: You can register a custom paper size and type to load in the multi-purpose tray.
+
+
+--------------------------------------------------
+Entry 20: [PROCEDURE] 6 Select the paper type.
+Source: canon_manual.md | Page: 41
+Keywords: paper, loading, select, type, images, drawer, multi, purpose
+--------------------------------------------------
+
+CONTENT:
+![6 Select the paper type](images/image_p41_02.png)
+
+**Loading Paper in the Paper Drawer(P. 22)
+Loading Paper in the Multi-Purpose Tray(P. 25)**
+
+Q&A PAIRS:
+  Q1: What should I do if I want to use the multi-purpose tray to load paper?
+  A1: Follow the instructions provided on page 25 of the manual for loading paper in the multi-purpose tray.
+
+
+--------------------------------------------------
+Entry 21: [PROCEDURE] Entering Sleep Mode
+Source: canon_manual.md | Page: 43
+Keywords: sleep, mode, power, machine, function, reduces, amount, control
+--------------------------------------------------
+
+CONTENT:
+3EEJ-00R
+
+The sleep mode function reduces the amount of power consumed by the machine by disabling power flow to the
+control panel. If no operations will be performed on the machine for a while, such as during a lunch break, you can
+on the control panel. You can also use the Auto Sleep Time setting to save power simply by pressing
+automatically put the machine into sleep mode if it remains idle for a specified length of time.
+
+![Entering Sleep Mode](images/image_p43_00.png)
+
+![The sleep mode function reduces the amount](images/image_p43_01.png)
+
+Q&A PAIRS:
+  Q1: What does the Auto Sleep Time setting do?
+  A1: The Auto Sleep Time setting automatically puts the machine into sleep mode if it remains idle for a specified length of time.
+
+
+--------------------------------------------------
+Entry 22: [PROCEDURE] 3 Enter the number of copies.
+Source: canon_manual.md | Page: 48
+Keywords: enter, quantity, clear, cancel, entered, number, copies, images
+--------------------------------------------------
+
+CONTENT:
+● Enter a quantity from 1 to 999.
+
+● Tap <Clear> to cancel the entered quantity.
+
+![3 Enter the number of copies](images/image_p48_02.png)
+
+Q&A PAIRS:
+  Q1: How do you specify how many copies you want to print?
+  A1: Enter a quantity from 1 to 999.
+
+  Q2: What should you do if you want to cancel the number of copies you've entered?
+  A2: Tap <Clear> to cancel the entered quantity.
+
+
+--------------------------------------------------
+Entry 23: [PROCEDURE] 5
+Source: canon_manual.md | Page: 49
+Keywords: cancel, scanning, images, press, starts, cannot, scan, while
+--------------------------------------------------
+
+CONTENT:
+. Press
+
+![5](images/image_p85_01.png)
+
+● Scanning starts.
+
+To cancel, tap <Cancel> ● <Yes>.
+
+![To cancel, tap <Cancel> ● <Yes>](images/image_p85_02.png)
+
+You cannot scan while the ScanGear MF is displayed. Close the
+screen before scanning.
+
+When scanning is complete, follow the procedure below (when file format is PDF).
+
+Q&A PAIRS:
+  Q1: What should you do if you want to cancel copying?
+  A1: Tap <Cancel> <Yes>.
+
+  Q2: How do you initiate a scan using this printer?
+  A2: Press the button labeled '5' to start scanning.
+
+  Q3: What should you do if you need to cancel a scan?
+  A3: Tap <Cancel> then tap <Yes> to cancel the scan.
+
+
+--------------------------------------------------
+Entry 24: [PROCEDURE] Selecting Copy Paper
+Source: canon_manual.md | Page: 50
+Keywords: paper, source, copy, images, select, specify, contains, printing
+--------------------------------------------------
+
+CONTENT:
+3EEJ-00W
+
+Specify the paper source that contains the paper to use for printing out copies.
+
+![Selecting Copy Paper](images/image_p50_00.png)
+
+<Copy> <Paper> Select the paper source ( , )
+
+![<Copy> <Paper> Select the paper source (](images/image_p50_01.png)
+
+Q&A PAIRS:
+  Q1: How do you specify the paper source for printing copies?
+  A1: To specify the paper source, select the option <Copy> <Paper> and then choose the desired paper source from the available options.
+
+
+--------------------------------------------------
+Entry 25: [PROCEDURE] Canceling Copies
+Source: canon_manual.md | Page: 51
+Keywords: cancel, copying, want, screen, press, immediately, pressing, control
+--------------------------------------------------
+
+CONTENT:
+3EEJ-00X
+
+If you want to cancel copying , tap <Cancel> on the screen or press on the immediately after pressing
+
+control panel. You can also cancel copying after checking the copy status.
+
+Q&A PAIRS:
+  Q1: How do I cancel copying on this printer?
+  A1: Tap <Cancel> on the screen or press the Cancel button on the control panel immediately after pressing it.
+
+  Q2: What can I do to check the copy status before cancelling?
+  A2: You can check the copy status and then decide to cancel copying if needed.
+
+
+--------------------------------------------------
+Entry 26: [PROCEDURE] Enlarging or Reducing
+Source: canon_manual.md | Page: 54
+Keywords: copy, ratio, images, select, enlarge, reduce, copies, using
+--------------------------------------------------
+
+CONTENT:
+3EEJ-010
+
+You can enlarge or reduce copies by using a preset copy ratio such as <A5> → <A4>,
+or by setting a custom copy ratio in increments of 1%.
+
+![Enlarging or Reducing](images/image_p54_00.png)
+
+
+![You can enlarge or reduce copies](images/image_p54_01.png)
+
+<Copy> <Copy Ratio> Select the copy ratio
+
+![<Copy> <Copy Ratio> Select the copy ratio](images/image_p54_02.png)
+
+![<Copy> <Copy Ratio> Select the copy ratio](images/image_p54_03.png)
+
+Q&A PAIRS:
+  Q1: How do you enlarge or reduce copies using preset ratios?
+  A1: You can enlarge or reduce copies by using a preset copy ratio such as <A5> → <A4>.
+
+  Q2: What should you do to set a custom copy ratio?
+  A2: You can set a custom copy ratio in increments of 1%.
+
+
+--------------------------------------------------
+Entry 27: [PROCEDURE] Selecting Document Type
+Source: canon_manual.md | Page: 55
+Keywords: type, document, select, copy, documents, images, original, optical
+--------------------------------------------------
+
+CONTENT:
+3EEJ-011
+
+You can select the optical image quality for the copy depending on the document
+type, such as text-only documents, documents with charts and graphs, or magazine
+photos.
+
+![Selecting Document Type](images/image_p55_00.png)
+
+<Copy> <Original Type> Select the document type
+
+![<Copy> <Original Type> Select the document type](images/image_p55_01.png)
+
+Q&A PAIRS:
+  Q1: How do you select the optical image quality for your copy?
+  A1: You can select the optical image quality for the copy depending on the document type, such as text-only documents, documents with charts and graphs, or magazine photos.
+
+  Q2: What should you do to choose the appropriate document type?
+  A2: Select the document type using the <Copy> <Original Type> option.
+
+
+--------------------------------------------------
+Entry 28: [PROCEDURE] Adjusting Density
+Source: canon_manual.md | Page: 56
+Keywords: density, adjust, copy, images, apply, document, text, light
+--------------------------------------------------
+
+CONTENT:
+3EEJ-012
+
+You can adjust the density of the copy if the text or images in a document are too
+light or dark. You can also automatically set an optimal density for a document.
+
+![Adjusting Density](images/image_p56_00.png)
+
+<Copy> <Density> Adjust the density <Apply>
+
+![<Copy> <Density> Adjust the density <Apply>](images/image_p56_01.png)
+
+![<Copy> <Density> Adjust the density <Apply>](images/image_p56_02.png)
+
+Q&A PAIRS:
+  Q1: How do you adjust the copy density on this printer?
+  A1: Press <Copy>, then press <Density>. Adjust the density, and then press <Apply>.
+
+  Q2: What should you do if the text or images in a document are too light or dark?
+  A2: You can adjust the density of the copy to make the text or images clearer.
+
+
+--------------------------------------------------
+Entry 29: [PROCEDURE] Copying Both Sides of an ID Card onto One Page
+Source: canon_manual.md | Page: 59
+Keywords: card, copy, images, sides, copying, front, back, onto
+--------------------------------------------------
+
+CONTENT:
+3EEJ-014
+
+You can use <ID Card Copy> to copy the front and back sides of a card onto the same side of
+a page. This function is useful when copying a driver's license or ID card.
+
+![Copying Both Sides of an ID Card](images/image_p59_00.png)
+
+![You can use <ID Card Copy>](images/image_p59_01.png)
+
+![You can use <ID Card Copy>](images/image_p59_02.png)
+
+Place the card Turn the card over
+
+Q&A PAIRS:
+  Q1: How do you start copying both sides of an ID card using this printer?
+  A1: To start copying, press the <ID Card Copy> button.
+
+  Q2: What should you do after placing the card on the scanner glass?
+  A2: After placing the card, turn it over to scan the other side.
+
+
+--------------------------------------------------
+Entry 30: [PROCEDURE] Erasing Dark Borders and Frame Lines (Erase Frame)
+Source: canon_manual.md | Page: 60
+Keywords: frame, erase, copying, images, documents, smaller, size, lines
+--------------------------------------------------
+
+CONTENT:
+3EEJ-015
+
+When copying documents that are smaller than the output paper size, frame
+lines may appear around the edges in the copied image. When copying facing
+pages from thick book, dark borders may appear. <Erase Frame> enables you
+to erase these frame lines and dark borders.
+
+![Erasing Dark Borders and Frame Lines (Erase](images/image_p60_00.png)
+
+![When copying documents that are smaller than](images/image_p60_01.png)
+
+![When copying documents that are smaller than](images/image_p60_02.png)
+
+<Copy> <Erase Frame> Select the type of Erase Frame Specify the width of the frame to
+erase <Apply> Select the paper size on the <Scan Size> screen
+
+![<Copy> <Erase Frame> Select the type of](images/image_p60_03.png)
+
+Q&A PAIRS:
+  Q1: How do you start the process to erase frame lines and dark borders?
+  A1: Press <Copy> then <Erase Frame>.
+
+  Q2: What should you specify after selecting the type of Erase Frame?
+  A2: Specify the width of the frame to erase.
+
+
+--------------------------------------------------
+Entry 31: [PROCEDURE] Collating Copies by Page
+Source: canon_manual.md | Page: 62
+Keywords: page, select, order, preparing, copies, group, collate, rotate
+--------------------------------------------------
+
+CONTENT:
+3EEJ-016
+
+When preparing multiple copies of multi-page documents, you can select <Group>,
+<Collate>, <Rotate + Group>, or <Rotate + Collate> for the order of copied papers. This
+function is useful when preparing handouts for meetings or presentations.
+
+![Collating Copies by Page](images/image_p62_00.png)
+
+<Copy> <Finishing> Select page order
+
+![<Copy> <Finishing> Select page order](images/image_p62_01.png)
+
+Q&A PAIRS:
+  Q1: How do you select the order of copied papers when preparing multiple copies of multi-page documents?
+  A1: You can select <Group>, <Collate>, <Rotate + Group>, or <Rotate + Collate> for the order of copied papers.
+
+  Q2: What should you do if you want to prepare handouts for meetings or presentations?
+  A2: You can use the function that allows you to select <Group>, <Collate>, <Rotate + Group>, or <Rotate + Collate> for the order of copied papers.
+
+
+--------------------------------------------------
+Entry 32: [PROCEDURE] Copying for
+Source: canon_manual.md | Page: 64
+Keywords: pages, copy, images, documents, book, copying, facing, books
+--------------------------------------------------
+
+CONTENT:
+3EEJ-017
+
+![Copying for](images/image_p64_00.png)
+
+You can copy documents with two facing pages such as books and magazines into
+separate pages, dividing the left and right pages.
+
+![You can copy documents](images/image_p64_01.png)
+
+<Copy> <Book->2 Pages>
+
+![<Copy> <Book->2 Pages>](images/image_p64_02.png)
+
+Q&A PAIRS:
+  Q1: How do you copy documents with two facing pages into separate pages?
+  A1: You can copy documents with two facing pages such as books and magazines into separate pages, dividing the left and right pages.
+
+  Q2: What should you select to copy a document with two facing pages?
+  A2: Select <Copy> <Book->2 Pages>.
+
+
+--------------------------------------------------
+Entry 33: [PROCEDURE] Copy Settings to Your Needs Configuring
+Source: canon_manual.md | Page: 65
+Keywords: settings, copy, default, register, whenever, need, copies, images
+--------------------------------------------------
+
+CONTENT:
+3EEJ-018
+
+The default settings are . If the settings that are displayed whenever you turn ON the machine, or when you press
+you register your frequently used settings as default settings, you can eliminate the need to configure the same
+settings every time you make copies. In addition, you can also register combinations of multiple copy settings and use
+them whenever you need them.
+
+![Copy Settings to Your Needs Configuring](images/image_p65_00.png)
+
+![The default settings are . If the](images/image_p65_01.png)
+
+**Change the copy ratio to 95% and register it as the
+default setting. From now on, you can make copies
+Changing Default without changing the copy ratio.
+Settings(P. 62)**
+
+![Change the copy ratio](images/image_p65_02.png)
+
+register the combination of Go to <Favorite Settings> and
+<Number of Copies> and <Finishing Type> turned
+<Collate>. You can then easily use this setting
+combination whenever you need it. Registering
+Frequently Used Copy Settings(P. 63)
+
+Q&A PAIRS:
+  Q1: How do I change the copy ratio to 95% and set it as the default?
+  A1: Go to <Favorite Settings> and register the combination of <Number of Copies> and <Finishing Type> turned <Collate>. You can then easily use this setting combination whenever you need it.
+
+
+--------------------------------------------------
+Entry 34: [PROCEDURE] Changing Default Settings
+Source: canon_manual.md | Page: 66
+Keywords: settings, default, change, images, menu, copy, select, apply
+--------------------------------------------------
+
+CONTENT:
+3EEJ-019
+
+![Changing Default Settings](images/image_p66_00.png)
+
+<Menu> <Copy Settings> <Change Default Settings> Select the setting Change the default
+value of the selected item <Apply> <Apply>
+
+![<Menu> <Copy Settings> <Change Default Settings> Select](images/image_p66_01.png)
+
+Q&A PAIRS:
+  Q1: What should you do after selecting an item in the Change Default Settings menu?
+  A1: After selecting an item, change the default value of that selected item.
+
+
+--------------------------------------------------
+Entry 35: [PROCEDURE] Registering Frequently Used Copy Settings
+Source: canon_manual.md | Page: 67
+Keywords: settings, copy, frequently, setting, select, register, used, combinations
+--------------------------------------------------
+
+CONTENT:
+3EEJ-01A
+
+You can register up to four frequently used combinations of copy settings. By simply selecting a registered setting
+combination when it is needed, you can eliminate the need to configure the same settings every time you make
+copies, such as if you frequently set the number of copies to 5, set <Erase Frame> to <On>, and increase the sharpness
+when copying. You can register the setting combinations as <Settings 1> to <Settings 4>.
+
+![Registering Frequently Used Copy Settings](images/image_p67_00.png)
+
+<Copy> <Favorite Settings> <Regist./Edit> Select <Settings 1> to <Settings 4> Select each
+setting and set the value <Apply> <Yes>
+
+![<Copy> <Favorite Settings> <Regist./Edit> Select <Settings 1>](images/image_p67_01.png)
+
+Q&A PAIRS:
+  Q1: How do you start the process of registering frequently used copy settings?
+  A1: Press <Copy>, then press <Favorite Settings>, and finally press <Regist./Edit>.
+
+  Q2: What should you select to choose which setting combination to register?
+  A2: Select <Settings 1> to <Settings 4>.
+
+
+--------------------------------------------------
+Entry 36: [PROCEDURE] Printing from a Computer
+Source: canon_manual.md | Page: 70
+Keywords: printer, driver, computer, print, printing, document, application, using
+--------------------------------------------------
+
+CONTENT:
+3EEJ-01E
+
+You can print a document made with an application on your computer by using the printer driver. There are useful
+settings on the printer driver, such as enlarging/reducing, that enable you to print your documents in various ways.
+Before you can use this function, you need to complete some procedures, such as installing the printer driver on your
+computer. For more information, see the manuals for the relevant drivers on the online manual website.
+
+![Printing from a Computer](images/image_p70_00.png)
+
+**About the Printer Driver Help(P. 66)
+Basic Printing Operations(P. 66)**
+
+Q&A PAIRS:
+  Q1: How can you print a document made with an application on your computer?
+  A1: You can print a document by using the printer driver.
+
+  Q2: What do you need to complete before using the printing function from a computer?
+  A2: Before you can use this function, you need to complete some procedures, such as installing the printer driver on your computer.
+
+
+--------------------------------------------------
+Entry 37: [PROCEDURE] 3 Specify the print settings as necessary, and click [OK].
+Source: canon_manual.md | Page: 70
+Keywords: settings, switch, according, specify, print, necessary, images
+--------------------------------------------------
+
+CONTENT:
+● Switch the tab according to the settings.
+
+
+![3 Specify the print settings as necessary,](images/image_p71_00.png)
+
+Q&A PAIRS:
+  Q1: How do you adjust the printer's settings?
+  A1: Switch the tab according to the settings.
+
+
+--------------------------------------------------
+Entry 38: [PROCEDURE] 4 Click [Print] or [OK].
+Source: canon_manual.md | Page: 71
+Keywords: printing, starts, want, cancel, canceling, prints, checking, status
+--------------------------------------------------
+
+CONTENT:
+➠ Printing starts.
+
+**● If you want to cancel printing, see Canceling Prints(P. 68) .**
+
+**Checking the Printing Status(P. 71)**
+
+Q&A PAIRS:
+  Q1: How do I stop a print job once it has started?
+  A1: If you want to cancel printing, see Canceling Prints on page 68.
+
+
+--------------------------------------------------
+Entry 39: [PROCEDURE] Canceling Prints
+Source: canon_manual.md | Page: 72
+Keywords: computer, control, panel, cancel, printing, machine
+--------------------------------------------------
+
+CONTENT:
+3EEJ-01F
+
+You can cancel printing from your computer or on the control panel of the machine.
+
+**From a Computer(P. 68)
+From the Control Panel(P. 69)**
+
+Q&A PAIRS:
+  Q1: How do you cancel printing from a computer according to the manual?
+  A1: You can cancel printing from your computer as described on page 68 of the manual.
+
+  Q2: What are the steps to cancel printing from the control panel?
+  A2: The steps to cancel printing from the control panel are outlined on page 69 of the manual.
+
+
+--------------------------------------------------
+Entry 40: [PROCEDURE] 1 Double-click the printer icon.
+Source: canon_manual.md | Page: 72
+Keywords: printer, click, icon, double, folder, images, displayed, open
+--------------------------------------------------
+
+CONTENT:
+![1 Double-click the printer icon](images/image_p72_00.png)
+
+When the printer icon is not displayed
+Open the printer folder ( Displaying the Printer Folder(P. 208) ), right-click your printer icon, and click
+what's printing] (or double-click the icon of the printer driver for the machine). [See
+
+Q&A PAIRS:
+  Q1: How do you open the printer folder if the printer icon is not displayed?
+  A1: Open the printer folder by right-clicking your printer icon and clicking 'what's printing'.
+
+
+--------------------------------------------------
+Entry 41: [PROCEDURE] 3 Click [Yes].
+Source: canon_manual.md | Page: 72
+Keywords: images, printing, selected, document, canceling, application, cancel, click
+--------------------------------------------------
+
+CONTENT:
+![3 Click [Yes]](images/image_p72_02.png)
+
+● Printing of the selected document is canceled.
+
+![● Printing of the selected document is](images/image_p72_03.png)
+
+**Canceling from an application
+screen like shown below appears. You can cancel printing by clicking [Cancel]. On some applications, a**
+
+
+![Canceling from an application](images/image_p73_00.png)
+
+Q&A PAIRS:
+  Q1: How do you cancel the printing of a selected document from the application screen?
+  A1: You can cancel printing by clicking [Cancel].
+
+
+--------------------------------------------------
+Entry 42: [PROCEDURE] 4 Select the document to check.
+Source: canon_manual.md | Page: 75
+Keywords: document, displays, list, processed, select, images, copy, print
+--------------------------------------------------
+
+CONTENT:
+![4 Select the document](images/image_p75_02.png)
+
+**<Copy/Print Job Status>**
+
+Displays a list of the documents that are being processed or are waiting to be processed.
+
+**<Details>**
+
+Displays detailed information about the document selected from the list.
+
+**Basic Printing Operations(P. 66)**
+
+
+**Canceling Prints(P. 68)**
+
+Q&A PAIRS:
+  Q1: What should I do if I want more information about a specific document in the print queue?
+  A1: Select the document from the list and then choose <Details> to display detailed information about it.
+
+
+--------------------------------------------------
+Entry 43: [PROCEDURE] Your Needs Configuring Print Settings to
+Source: canon_manual.md | Page: 77
+Keywords: settings, default, register, profiles, print, watermark, combinations, printing
+--------------------------------------------------
+
+CONTENT:
+3EEJ-01J
+
+You can register combinations of settings as "profiles" to suit your different printing objectives. Also, you can register
+the settings that you frequently use as the default settings. Once the default settings are registered, they are displayed
+automatically in the printer driver screen, and you can skip the operations to specify them and proceed to printing
+immediately.
+
+![Your Needs Configuring Print Settings](images/image_p77_00.png)
+
+**Set "TOP SECRET" as a watermark and register it in
+"profiles." You can then select this watermark from
+Registering profiles whenever you need it.
+Combinations of Frequently Used Print
+Settings(P. 74)**
+
+![Set "TOP SECRET" as a watermark](images/image_p77_01.png)
+
+**From Set [2 on 1] as a default setting in the printer driver.
+the next print job, every printout page will show 2 pages
+from the document. Changing Default
+Settings(P. 76)**
+
+Q&A PAIRS:
+  Q1: How can you register frequently used settings as default in the printer driver?
+  A1: From Set [2 on 1] as a default setting in the printer driver.
+
+  Q2: What should you do to use 'TOP SECRET' as a watermark repeatedly?
+  A2: Set 'TOP SECRET' as a watermark and register it in 'profiles.'
+
+
+--------------------------------------------------
+Entry 44: [PROCEDURE] Settings
+Source: canon_manual.md | Page: 78
+Keywords: print, profiles, settings, combinations, time, register, selecting, profile
+--------------------------------------------------
+
+CONTENT:
+3EEJ-01K
+
+Specifying combinations of settings such as "1-sided landscape orientation on A4 size paper in save toner mode" every
+time you print is time consuming. If you register your frequently used combinations of print settings as "profiles," you
+can specify print settings simply by selecting one of the profiles from the list. This section explains how to register
+profiles and how to print using profiles.
+
+**Registering a Profile(P. 74)
+Selecting a Profile(P. 75)**
+
+Q&A PAIRS:
+  Q1: How can I save time when specifying print settings frequently?
+  A1: You can register your frequently used combinations of print settings as profiles and then select one of the profiles from the list to specify print settings.
+
+
+--------------------------------------------------
+Entry 45: [PROCEDURE] 1 Change the settings that you want to register as a profile, and click [Add].
+Source: canon_manual.md | Page: 78
+Keywords: settings, print, required, basic, page, setup, finishing, quality
+--------------------------------------------------
+
+CONTENT:
+Make print settings as required on the [Basic Settings], [Page Setup], [Finishing], and [Quality] tabs. ●
+
+![1 Change the settings that you want](images/image_p78_00.png)
+
+Q&A PAIRS:
+  Q1: How do I start adjusting the print settings?
+  A1: Make print settings as required on the [Basic Settings], [Page Setup], [Finishing], and [Quality] tabs.
+
+
+--------------------------------------------------
+Entry 46: [PROCEDURE] 2 Enter a profile name in [Name], select an icon, and then click [OK].
+Source: canon_manual.md | Page: 78
+Keywords: settings, enter, profile, click, view, name, images, comments
+--------------------------------------------------
+
+CONTENT:
+, enter comments about the profile in [Comment]. ● As necessary
+
+● Click [View Settings] to see the settings that will be registered.
+
+![2 Enter a profile name in [Name],](images/image_p78_01.png)
+
+
+![● Click [View Settings]](images/image_p79_00.png)
+
+Q&A PAIRS:
+  Q1: How do you view the settings that will be registered?
+  A1: Click [View Settings] to see the settings that will be registered.
+
+  Q2: What should you enter in the [Comment] field?
+  A2: Enter comments about the profile in [Comment].
+
+
+--------------------------------------------------
+Entry 47: [PROCEDURE] 3 Change the settings on the printing preferences screen, and click [OK].
+Source: canon_manual.md | Page: 80
+Keywords: settings, print, basic, printing, required, page, setup, finishing
+--------------------------------------------------
+
+CONTENT:
+● Make print settings as required on the [Basic Settings], [Page Setup], [Finishing], and [Quality] tabs.
+
+
+![3 Change the settings on the printing](images/image_p81_00.png)
+
+**Basic Printing Operations(P. 66)
+Registering Combinations of Frequently Used Print Settings(P. 74)**
+
+Q&A PAIRS:
+  Q1: How do you make print settings as required?
+  A1: Make print settings as required on the [Basic Settings], [Page Setup], [Finishing], and [Quality] tabs.
+
+
+--------------------------------------------------
+Entry 48: [PROCEDURE] Scanning from the Machine
+Source: canon_manual.md | Page: 84
+Keywords: scanning, documents, machine, computer, scan, whether, images, sequence
+--------------------------------------------------
+
+CONTENT:
+3EEJ-01S
+
+![Scanning from the Machine](images/image_p84_00.png)
+
+The sequence of "scanning a document and saving it to a computer" can only be
+done when scanning from the machine. Scan while specifying what computer
+documents will be saved to; whether to scan documents in color or black and white;
+whether to save documents as PDFs or JPEGs; and other settings.
+
+Q&A PAIRS:
+  Q1: How do you start the process of scanning a document and saving it to a computer?
+  A1: You can only start this sequence when scanning from the machine.
+
+  Q2: What settings can be specified while scanning documents?
+  A2: You can specify what computer documents will be saved to; whether to scan documents in color or black and white; whether to save documents as PDFs or JPEGs; and other settings.
+
+
+--------------------------------------------------
+Entry 49: [PROCEDURE] 4 Select the scan type.
+Source: canon_manual.md | Page: 84
+Keywords: scan, settings, select, type, images, change, utility, table
+--------------------------------------------------
+
+CONTENT:
+![4 Select the scan type](images/image_p84_04.png)
+
+
+![4 Select the scan type](images/image_p85_00.png)
+
+**To change settings
+settings in the table above are all factory default settings. You can change settings from MF Scan ● The
+Utility. For more information, click [Instructions] on MF Scan Utility.**
+
+● If you are a macOS user, see the manuals for the relevant drivers or software on the online manual
+website.
+
+Q&A PAIRS:
+  Q1: How can I change the default settings of MF Scan Utility?
+  A1: You can change settings from MF Scan Utility. For more information, click [Instructions] on MF Scan Utility.
+
+  Q2: What should macOS users do to find relevant driver or software manuals?
+  A2: If you are a macOS user, see the manuals for the relevant drivers or software on the online manual website.
+
+
+--------------------------------------------------
+Entry 50: [PROCEDURE] Scanning from a Computer
+Source: canon_manual.md | Page: 87
+Keywords: scan, utility, application, images, computer, using, included, processing
+--------------------------------------------------
+
+CONTENT:
+3EEJ-01U
+
+There are two ways to scan from a computer: using MF Scan Utility and using an application such as an image-
+processing or word-processing application.
+
+![Scanning from a Computer](images/image_p87_00.png)
+
+**Scanning Using MF Scan Utility**
+
+MF Scan Utility is an application included with the machine that enables you to scan
+documents or images to a computer. You can forward the scanned data to a specified
+application, or attach it to an e-mail message. For more information, click [Instructions]
+on MF Scan Utility.
+
+![MF Scan Utility is an application included](images/image_p87_01.png)
+
+![MF Scan Utility is an application included](images/image_p87_02.png)
+
+Q&A PAIRS:
+  Q1: How can you scan documents or images to a computer using the provided machine?
+  A1: You can use MF Scan Utility, an application included with the machine.
+
+  Q2: What are the two ways to scan from a computer according to the manual?
+  A2: The two ways are using MF Scan Utility and using an application such as an image-processing or word-processing application.
+
+
+--------------------------------------------------
+Entry 51: [PROCEDURE] 2 From the application, select the start scan command.
+Source: canon_manual.md | Page: 88
+Keywords: application, procedure, selecting, start, scan, command, varies, depending
+--------------------------------------------------
+
+CONTENT:
+● The procedure for selecting the start scan command varies depending on the application. For more
+information, see the instruction manual for your application.
+
+Q&A PAIRS:
+  Q1: How do you select the start scan command?
+  A1: The procedure for selecting the start scan command varies depending on the application. For more information, see the instruction manual for your application.
+
+
+--------------------------------------------------
+Entry 52: [PROCEDURE] 3 Select the scanner driver for the machine.
+Source: canon_manual.md | Page: 88
+Keywords: select, configure, advanced, scan, settings
+--------------------------------------------------
+
+CONTENT:
+● Select ScanGear MF or WIA. If you select ScanGear MF, you can configure advanced scan settings.
+
+Q&A PAIRS:
+  Q1: How do I access advanced scan settings?
+  A1: To configure advanced scan settings, select ScanGear MF.
+
+
+--------------------------------------------------
+Entry 53: [PROCEDURE] 5 Click [Scan].
+Source: canon_manual.md | Page: 88
+Keywords: scanning, complete, scanned, image, forwarded, application, configuring, scan
+--------------------------------------------------
+
+CONTENT:
+● When scanning is complete, the scanned image is forwarded to an application.
+
+**Configuring Scan Settings in ScanGear MF(P. 86)**
+
+Q&A PAIRS:
+  Q1: How do you proceed after the scanning process is finished?
+  A1: The scanned image is forwarded to an application.
+
+
+--------------------------------------------------
+Entry 54: [PROCEDURE] Configuring Scan Settings in ScanGear MF
+Source: canon_manual.md | Page: 90
+Keywords: scan, utility, starting, settings, images, scanning, click, configuring
+--------------------------------------------------
+
+CONTENT:
+3EEJ-01X
+
+![Configuring Scan Settings in ScanGear MF](images/image_p90_00.png)
+
+You can use ScanGear MF to configure advanced scan settings when you scan. The
+way of starting ScanGear MF differs depending of the way of scanning from the
+computer.
+
+**Starting from MF Scan Utility
+When scanning from MF Scan Utility, click [ScanGear] to start ScanGear MF. For more information, click
+Utility. [Instructions] on MF Scan**
+
+![Starting from MF Scan Utility](images/image_p90_01.png)
+
+Q&A PAIRS:
+  Q1: How do you start ScanGear MF when scanning from the MF Scan Utility?
+  A1: Click [ScanGear] to start ScanGear MF.
+
+
+--------------------------------------------------
+Entry 55: [PROCEDURE] Protecting the Machine from Unauthorized Access
+Source: canon_manual.md | Page: 93
+Keywords: prevent, unauthorized, third, parties, accessing, using, machine
+--------------------------------------------------
+
+CONTENT:
+3EEJ-020
+
+Prevent unauthorized third parties from accessing and using the machine.
+
+Q&A PAIRS:
+  Q1: How can you prevent unauthorized access to the machine?
+  A1: To prevent unauthorized access, ensure that only authorized individuals are allowed to use the machine.
+
+
+--------------------------------------------------
+Entry 56: [PROCEDURE] Setting Access Privileges
+Source: canon_manual.md | Page: 94
+Keywords: access, privileges, system, machine, manager, settings, setting, protect
+--------------------------------------------------
+
+CONTENT:
+3EEJ-021
+
+Protect the machine from unauthorized access by only allowing users with access privileges to use the machine. When
+privileges are set, the user must enter a PIN to change settings.
+
+![Setting Access Privileges](images/image_p94_00.png)
+
+System Manager PIN
+System Manager PIN is intended exclusively for Administrators having full access privileges. If you specify this
+PIN, you need to log on to the machine using this PIN in order to access <System Management Settings>.
+
+**Setting the System Manager PIN(P. 91)**
+
+Q&A PAIRS:
+  Q1: What is the System Manager PIN used for?
+  A1: The System Manager PIN is intended exclusively for Administrators having full access privileges. It allows them to log on to the machine in order to access System Management Settings.
+
+
+--------------------------------------------------
+Entry 57: [PROCEDURE] Setting the System Manager PIN
+Source: canon_manual.md | Page: 95
+Keywords: system, administrators, manager, intended, exclusively, access, management, settings
+--------------------------------------------------
+
+CONTENT:
+3EEJ-022
+
+Set a System Manager PIN that is intended exclusively for Administrators. You can access <System Management
+Settings> only when the PIN has been entered correctly. It is recommended that only Administrators know the PIN.
+
+Q&A PAIRS:
+  Q1: How do you set up a System Manager PIN according to this manual?
+  A1: To set a System Manager PIN, it should be intended exclusively for Administrators and only they should know the PIN.
+
+
+--------------------------------------------------
+Entry 58: [PROCEDURE] 4 Specify the System Manager PIN.
+Source: canon_manual.md | Page: 95
+Keywords: enter, apply, confirm, number, seven, digits, displayed, once
+--------------------------------------------------
+
+CONTENT:
+● Enter a number of up to seven digits, and tap <Apply>.
+
+● When <PIN (Confirm)> is displayed, enter the PIN once again to confirm.
+
+![4 Specify the System Manager PIN](images/image_p95_00.png)
+
+● You cannot set a PIN that consists only of zeros, such as "00" or "0000000".
+
+to erase the PIN (leave the text box blank), and tap <Apply>. ● To disable the PIN, press
+
+Q&A PAIRS:
+  Q1: How do you set a new System Manager PIN?
+  A1: Enter a number of up to seven digits, and tap <Apply>.
+
+  Q2: What should you do when <PIN (Confirm)> is displayed?
+  A2: Enter the PIN once again to confirm.
+
+
+--------------------------------------------------
+Entry 59: [PROCEDURE] Restricting the Machine's Functions
+Source: canon_manual.md | Page: 96
+Keywords: functions, machine, restricting, rarely, used, provide, opportunities, misuse
+--------------------------------------------------
+
+CONTENT:
+3EEJ-023
+
+Some of the functions of the machine may rarely be used or provide opportunities for misuse. For security purposes,
+the machine can be set to limit its capabilities by partially or completely disabling these functions.
+
+**Restricting USB Functions**
+
+![Restricting the Machine's Functions](images/image_p96_00.png)
+
+**Restricting USB Functions(P. 93)**
+
+Q&A PAIRS:
+  Q1: How do you restrict USB functions on this machine?
+  A1: To restrict USB functions, follow the procedure outlined on page 93 of the manual.
+
+  Q2: What is the purpose of restricting USB functions on this machine?
+  A2: The purpose of restricting USB functions is to limit the machine's capabilities for security purposes, especially for functions that may rarely be used or provide opportunities for misuse.
+
+
+--------------------------------------------------
+Entry 60: [PROCEDURE] Restricting USB Functions
+Source: canon_manual.md | Page: 97
+Keywords: port, machine, disable, located, right, side, disabled, cannot
+--------------------------------------------------
+
+CONTENT:
+3EEJ-024
+
+You can disable the USB port located on the right side of the machine. If this port is disabled, the machine cannot
+communicate with a computer via USB.
+
+**● If a screen for entering a PIN is displayed, enter the PIN, and tap <Apply>. Setting the System Manager
+PIN(P. 91)**
+
+Q&A PAIRS:
+  Q1: How do you disable the USB port on this printer?
+  A1: You can disable the USB port located on the right side of the machine.
+
+
+--------------------------------------------------
+Entry 61: [PROCEDURE] 4 Select <Off>.
+Source: canon_manual.md | Page: 97
+Keywords: port, located, back, side, machine, select, images, disables
+--------------------------------------------------
+
+CONTENT:
+![4 Select <Off>](images/image_p97_00.png)
+
+**<Off>**
+
+Disables the USB port located on the back side of the machine.
+
+Enables the USB port located on the back side of the machine.
+
+Q&A PAIRS:
+  Q1: What does selecting <Off> do in this context?
+  A1: Disables the USB port located on the back side of the machine.
+
+
+--------------------------------------------------
+Entry 62: [PROCEDURE] 5 Restart the machine.
+Source: canon_manual.md | Page: 97
+Keywords: turn, machine, wait, least, seconds, back
+--------------------------------------------------
+
+CONTENT:
+● Turn OFF the machine, wait for at least 10 seconds, and turn it back ON.
+
+Q&A PAIRS:
+  Q1: How should I restart the printer to perform this procedure?
+  A1: Turn OFF the machine, wait for at least 10 seconds, and turn it back ON.
+
+
+--------------------------------------------------
+Entry 63: [PROCEDURE] Preferences
+Source: canon_manual.md | Page: 100
+Keywords: settings, display, images, listed, short, descriptions, default, marked
+--------------------------------------------------
+
+CONTENT:
+3EEJ-026
+
+All the settings about the display are listed with short descriptions. Default
+settings are ). marked with a dagger (
+
+![Preferences](images/image_p100_00.png)
+
+![All the settings about the display are](images/image_p100_01.png)
+
+Q&A PAIRS:
+  Q1: How can you identify the default settings in the display preferences?
+  A1: The default settings are marked with a dagger ().
+
+
+--------------------------------------------------
+Entry 64: [PROCEDURE] Timer Settings
+Source: canon_manual.md | Page: 103
+Keywords: settings, time, auto, timer, images, reset, listed, short
+--------------------------------------------------
+
+CONTENT:
+3EEJ-027
+
+All the settings about the timer are listed with short descriptions. Default
+settings are ). marked with a dagger (
+
+![Timer Settings](images/image_p103_00.png)
+
+![All the settings about the timer are](images/image_p103_01.png)
+
+**Date/Time Settings(P. 99)
+Auto Reset Time(P. 101)
+Function After Auto Reset(P. 101)
+Auto Sleep Time(P. 102)
+(P. 102) Auto Offline Time
+Auto Shutdown Time (P. 102)**
+
+Q&A PAIRS:
+  Q1: How can I find the default settings for the timer?
+  A1: Default settings are marked with a dagger (†).
+
+
+--------------------------------------------------
+Entry 65: [PROCEDURE] Common Settings
+Source: canon_manual.md | Page: 108
+Keywords: settings, paper, operation, drawer, listed, short, descriptions, default
+--------------------------------------------------
+
+CONTENT:
+3EEJ-028
+
+All the settings about the operation of the paper drawer are listed with
+short descriptions. Default settings are ). marked with a dagger (
+
+![Common Settings](images/image_p108_00.png)
+
+**Paper Source Auto Selection (P. 104)**
+
+Q&A PAIRS:
+  Q1: How can I identify the default settings for the paper drawer operation?
+  A1: The default settings are marked with a dagger ().
+
+
+--------------------------------------------------
+Entry 66: [PROCEDURE] Copy Settings
+Source: canon_manual.md | Page: 110
+Keywords: settings, default, copy, listed, short, descriptions, marked, dagger
+--------------------------------------------------
+
+CONTENT:
+3EEJ-029
+
+All the settings about the copy are listed with short descriptions. Default
+settings are ). marked with a dagger (
+
+![Copy Settings](images/image_p110_00.png)
+
+**Change Default Settings (P. 106)
+Auto Recognize Original Orientation (P. 107)
+Initialize Default Settings (P. 107)**
+
+Q&A PAIRS:
+  Q1: How can I change the default settings of the copy?
+  A1: Refer to page 106 for instructions on how to change the default settings.
+
+  Q2: What should I do if I want to automatically recognize the original orientation?
+  A2: Follow the instructions on page 107 to enable Auto Recognize Original Orientation.
+
+
+--------------------------------------------------
+Entry 67: [PROCEDURE] Printer Settings
+Source: canon_manual.md | Page: 112
+Keywords: settings, printer, listed, short, descriptions, default, marked, dagger
+--------------------------------------------------
+
+CONTENT:
+3EEJ-02A
+
+All the settings about the printer are listed with short descriptions. Default
+settings are ). marked with a dagger (
+
+![Printer Settings](images/image_p112_00.png)
+
+**Paper Size Override (P. 108)
+Print Quality(P. 108)**
+
+Q&A PAIRS:
+  Q1: How can I find the default settings in the printer manual?
+  A1: Default settings are marked with a dagger ().
+
+
+--------------------------------------------------
+Entry 68: [PROCEDURE] Clearing Jams
+Source: canon_manual.md | Page: 125
+Keywords: paper, jams, display, images, drawer, around, jammed, displayed
+--------------------------------------------------
+
+CONTENT:
+3EEJ-02H
+
+If a paper jams, <Paper jammed.> is displayed on the screen. Press <Next> to display simple solutions. If it is difficult to
+understand the procedures on the display, see the following sections to clear jams.
+
+![Clearing Jams](images/image_p125_00.png)
+
+**Paper Jams in the Paper Drawer 1(P. 121)
+Paper Jams around the Output Area(P. 124)
+Paper Jams around the Fixing Assembly(P. 126)
+Paper Jams in the Multi-Purpose Tray(P. 127)**
+
+![Paper Jams in the Paper Drawer 1(P.](images/image_p125_01.png)
+
+Q&A PAIRS:
+  Q1: What should you do if the procedures on the display are difficult to understand?
+  A1: See the following sections to clear jams: Paper Jams in the Paper Drawer 1(P. 121), Paper Jams around the Output Area(P. 124), Paper Jams around the Fixing Assembly(P. 126), Paper Jams in the Multi-Purpose Tray(P. 127).
+
+
+--------------------------------------------------
+Entry 69: [PROCEDURE] 9 Place your hand where the hand symbol is located on the left cover of the main unit,
+Source: canon_manual.md | Page: 127
+Keywords: gently, close, left, cover, until, clicks, place, closed
+--------------------------------------------------
+
+CONTENT:
+and then gently close the left cover until it clicks into place in the closed position.
+
+Q&A PAIRS:
+  Q1: How should you close the left cover of the printer?
+  A1: Gently close the left cover until it clicks into place in the closed position.
+
+
+--------------------------------------------------
+Entry 70: [PROCEDURE] 3 Remove the jammed paper.
+Source: canon_manual.md | Page: 128
+Keywords: jammed, paper, fixing, assembly, remove, images, surroundings, inside
+--------------------------------------------------
+
+CONTENT:
+![3 Remove the jammed paper](images/image_p129_00.png)
+
+![3 Remove the jammed paper](images/image_p129_01.png)
+
+The fixing assembly and its surroundings inside the printer are hot during use. Make sure the fixing assembly is completely cool
+before removing the jammed paper. Touching the fixing assembly when it is still hot may result in burns.
+
+Q&A PAIRS:
+  Q1: How should you proceed before removing jammed paper from the printer?
+  A1: Make sure the fixing assembly and its surroundings are completely cool.
+
+
+--------------------------------------------------
+Entry 71: [PROCEDURE] 7 Place your hand where the hand symbol is located on the left cover of the main unit,
+Source: canon_manual.md | Page: 130
+Keywords: gently, close, left, cover, until, clicks, place, closed
+--------------------------------------------------
+
+CONTENT:
+and then gently close the left cover until it clicks into place in the closed position.
+
+Q&A PAIRS:
+  Q1: How should you close the left cover?
+  A1: Gently close the left cover until it clicks into place in the closed position.
+
+
+--------------------------------------------------
+Entry 72: [PROCEDURE] Countermeasures for Each Message
+Source: canon_manual.md | Page: 134
+Keywords: memory, full, encounter, operation, problems, message, appears, display
+--------------------------------------------------
+
+CONTENT:
+3EEJ-04S
+
+If the memory is full or you encounter operation problems, a message appears on the display. Find out more
+information about messages in the following list.
+
+Q&A PAIRS:
+  Q1: How do I know if my printer's memory is full or there are operation problems?
+  A1: A message appears on the display.
+
+
+--------------------------------------------------
+Entry 73: [PROCEDURE] Common Problems
+Source: canon_manual.md | Page: 138
+Keywords: problems, encounter, using, machine, check, items, section, contacting
+--------------------------------------------------
+
+CONTENT:
+3EEJ-02L
+
+If you encounter problems when using the machine, check the items in this section before contacting us. If the
+problems persist, contact your local authorized Canon dealer.
+
+Q&A PAIRS:
+  Q1: How should I proceed if I have issues with the printer?
+  A1: Check the items in the troubleshooting section before contacting us. If the problems persist, contact your local authorized Canon dealer.
+
+
+--------------------------------------------------
+Entry 74: [PROCEDURE] When You Cannot Print Properly
+Source: canon_manual.md | Page: 143
+Keywords: printouts, appear, paper, images, streaks, white, toner, creases
+--------------------------------------------------
+
+CONTENT:
+3EEJ-02W
+
+If printing results are not satisfactory, or paper creases or curls, try the following solutions. If the problems persist,
+contact your local authorized Canon dealer.
+
+![When You Cannot Print Properly](images/image_p143_00.png)
+
+**Streaks Appear on White Streaks Appear(P. 141) Toner Smudges and Splatters
+Printouts(P. 141) Appear(P. 141)**
+
+![Streaks Appear on White Streaks Appear(P. 141)](images/image_p143_01.png)
+
+**Printouts Are Faded(P. 142) Printed Pages Have White Print Density Is Uneven(P. 143)
+Specks(P. 142)**
+
+![Printouts Are Faded(P. 142) Printed Pages Have](images/image_p143_02.png)
+
+**Printouts Are Grayish(P. 143) The Toner Adheres to the Paper Creases(P. 145)
+. 144) Hand(P**
+
+
+![Printouts Are Grayish(P. 143) The Toner Adheres](images/image_p144_00.png)
+
+**Paper Curls(P. 145) Printouts Are Skewed(P. 147) Paper Is Not Fed/Two or More
+Are Fed Together(P. 147) Sheets**
+
+Q&A PAIRS:
+  Q1: How should I proceed if the printing results are not satisfactory or if paper creases or curls?
+  A1: Try the following solutions. If the problems persist, contact your local authorized Canon dealer.
+
+
+--------------------------------------------------
+Entry 75: [PROCEDURE] Printing Results Are Not Satisfactory
+Source: canon_manual.md | Page: 145
+Keywords: machine, cleaning, dirt, inside, affect, printing, results, perform
+--------------------------------------------------
+
+CONTENT:
+3EEJ-02X
+
+**Dirt inside the machine may affect printing results. Perform care and cleaning to the machine first.
+Cleaning the Machine(P. 152)**
+
+Q&A PAIRS:
+  Q1: How should you prepare the machine before addressing printing issues?
+  A1: Perform care and cleaning to the machine first.
+
+
+--------------------------------------------------
+Entry 76: [PROCEDURE] Cleaning the Machine
+Source: canon_manual.md | Page: 156
+Keywords: machine, platen, clean, exterior, fixing, assembly, glass, regularly
+--------------------------------------------------
+
+CONTENT:
+3EEJ-033
+
+Regularly clean the machine to prevent deterioration in printing quality and to ensure that you use it safely and easily.
+
+**Where to Clean**
+
+![Cleaning the Machine](images/image_p156_00.png)
+
+**Exterior of the machine and ventilation slots
+Exterior(P. 153)**
+
+**Interior of the machine and fixing assembly
+Fixing Assembly(P. 157)**
+
+**Platen glass and the underside of the platen cover Platen
+Glass(P. 154)**
+
+Q&A PAIRS:
+  Q1: How do you maintain the printing quality and ensure safe use of the machine?
+  A1: Regularly clean the machine.
+
+
+--------------------------------------------------
+Entry 77: [PROCEDURE] Exterior
+Source: canon_manual.md | Page: 157
+Keywords: machine, regularly, wipe, exterior, especially, around, ventilation, slots
+--------------------------------------------------
+
+CONTENT:
+3EEJ-034
+
+Regularly wipe the exterior of the machine, especially around the ventilation slots, to keep the machine in good
+condition.
+
+Q&A PAIRS:
+  Q1: How can you maintain the printer's condition according to the manual?
+  A1: Regularly wipe the exterior of the machine, especially around the ventilation slots.
+
+
+--------------------------------------------------
+Entry 78: [PROCEDURE] 1 Turn OFF the machine, and unplug the power cord from the AC power outlet.
+Source: canon_manual.md | Page: 157
+Keywords: turn, machine, data, waiting, printed, deleted
+--------------------------------------------------
+
+CONTENT:
+● When you turn OFF the machine, data that is waiting to be printed is deleted.
+
+Q&A PAIRS:
+  Q1: How can I prevent data from being deleted when turning off the printer?
+  A1: You cannot. When you turn OFF the machine, data that is waiting to be printed is deleted.
+
+
+--------------------------------------------------
+Entry 79: [PROCEDURE] 2 Clean the exterior of the machine and the ventilation slots.
+Source: canon_manual.md | Page: 157
+Keywords: water, soft, well, wrung, cloth, dampened, mild, detergent
+--------------------------------------------------
+
+CONTENT:
+● Use a soft, well-wrung-out cloth dampened with water or a mild detergent diluted with water.
+
+**● To locate the ventilation slots, see External View(P. 5) .**
+
+![2 Clean the exterior of the machine](images/image_p157_00.png)
+
+Q&A PAIRS:
+  Q1: How should you clean the exterior of the printer?
+  A1: Use a soft, well-wrung-out cloth dampened with water or a mild detergent diluted with water.
+
+  Q2: What should you use to locate the ventilation slots on the printer?
+  A2: To locate the ventilation slots, see External View(P. 5) .
+
+
+--------------------------------------------------
+Entry 80: [PROCEDURE] Platen Glass
+Source: canon_manual.md | Page: 158
+Keywords: platen, regularly, wipe, dust, glass, underside, cover, prevent
+--------------------------------------------------
+
+CONTENT:
+3EEJ-035
+
+Regularly wipe off the dust from the platen glass and the underside of the platen cover to prevent smudges to be
+printed on documents or printouts.
+
+Q&A PAIRS:
+  Q1: How can you prevent smudges from being printed on documents?
+  A1: Regularly wipe off the dust from the platen glass and the underside of the platen cover.
+
+  Q2: What should be cleaned to avoid printouts with smudges?
+  A2: The platen glass and the underside of the platen cover should be wiped off regularly.
+
+
+--------------------------------------------------
+Entry 81: [PROCEDURE] 3 Clean the platen glass and the underside of the platen cover.
+Source: canon_manual.md | Page: 158
+Keywords: cloth, clean, areas, dampened, water, wipe, area, soft
+--------------------------------------------------
+
+CONTENT:
+● Clean the areas with a cloth dampened with water. Then, wipe the area with a soft, dry cloth.
+
+Q&A PAIRS:
+  Q1: How should you initially clean the areas?
+  A1: Clean the areas with a cloth dampened with water.
+
+  Q2: What should you do after wiping the area with a damp cloth?
+  A2: Wipe the area with a soft, dry cloth.
+
+
+--------------------------------------------------
+Entry 82: [PROCEDURE] 4 Tap <Start>.
+Source: canon_manual.md | Page: 159
+Keywords: drum, unit, machine, images, inside, clean, start, cleaning
+--------------------------------------------------
+
+CONTENT:
+![4 Tap <Start>](images/image_p159_01.png)
+
+to ● Cleaning starts. When the <Finished.> message is displayed approximately 30 seconds later, press
+
+return to the <Home> screen.
+
+
+3EEJ-037
+
+When the drum unit inside the machine becomes dirty, print quality may deteriorate. If this happens, follow the
+procedure below to clean the drum unit. Note that you cannot clean the drum unit when the machine has documents
+waiting to be printed.
+
+![When the drum unit inside the machine](images/image_p160_00.png)
+
+Q&A PAIRS:
+  Q1: How do you initiate the cleaning process for the drum unit?
+  A1: Tap <Start> to begin the cleaning process.
+
+
+--------------------------------------------------
+Entry 83: [PROCEDURE] 4 Load paper (A4 or LTR) in the multi-purpose tray, and tap <OK> <Start>.
+Source: canon_manual.md | Page: 161
+Keywords: cleaning, screen, images, sheet, printed, instructions, press, load
+--------------------------------------------------
+
+CONTENT:
+![4 Load paper (A4 or LTR) in](images/image_p161_02.png)
+
+● A sheet for cleaning the fixing assembly is printed.
+
+w the instructions on the screen to place the sheet for cleaning with the side to be printed face up in Follo
+the multi-purpose tray, and then press <OK>.
+
+
+![w the instructions on the screen](images/image_p162_00.png)
+
+● After cleaning is completed and the message <Finished.> appears, press to return to the <Home>
+
+screen.
+
+Q&A PAIRS:
+  Q1: How do you place the cleaning sheet in the printer?
+  A1: Place the sheet for cleaning with the side to be printed face up in the multi-purpose tray.
+
+
+--------------------------------------------------
+Entry 84: [PROCEDURE] Purchase Information for Consumables Configuring
+Source: canon_manual.md | Page: 165
+Keywords: information, purchase, scan, register, documentation, local, authorized, canon
+--------------------------------------------------
+
+CONTENT:
+3EEJ-03A
+
+You can scan and register the documentation of your local authorized Canon dealer (business card, information, etc.).
+You can print their contact information when you run out of consumables.
+
+**Registering/Editing Purchase Information(P. 161)
+Printing Purchase Information(P. 161)
+Deleting Purchase Information(P. 162)**
+
+Q&A PAIRS:
+  Q1: How do you print the contact information of your local authorized Canon dealer?
+  A1: You can print their contact information when you run out of consumables.
+
+
+--------------------------------------------------
+Entry 85: [PROCEDURE] 3
+Source: canon_manual.md | Page: 165
+Keywords: placing, documents, press, place, document, already, registered, confirmation
+--------------------------------------------------
+
+CONTENT:
+Placing Documents(P. 19) ) press . Place the document. (
+
+already registered, a confirmation screen for overwriting the existing data is ● If the documentation is
+displayed.
+
+Q&A PAIRS:
+  Q1: What should you do after pressing the button to place documents?
+  A1: Place the document.
+
+
+--------------------------------------------------
+Entry 86: [PROCEDURE] 6 Install the toner cartridge.
+Source: canon_manual.md | Page: 168
+Keywords: cartridge, toner, machine, hand, sure, side, label, facing
+--------------------------------------------------
+
+CONTENT:
+Make sure that the side of the cartridge with the label is facing up, and push the toner cartridge into the ●
+machine as far as it will go.
+
+● Support the new toner cartridge with one hand from underneath, while pushing it into the machine with the
+other hand.
+
+![6 Install the toner cartridge](images/image_p168_02.png)
+
+Q&A PAIRS:
+  Q1: How should you orient the toner cartridge when inserting it into the machine?
+  A1: Make sure that the side of the cartridge with the label is facing up.
+
+  Q2: What should you do to support the new toner cartridge during installation?
+  A2: Support the new toner cartridge with one hand from underneath, while pushing it into the machine with the other hand.
+
+
+--------------------------------------------------
+Entry 87: [PROCEDURE] 7 Hold the toner cartridge in place with one hand, and then remove the protective seal
+Source: canon_manual.md | Page: 168
+Keywords: hold, toner, cartridge, place, images, pulling, straight, hand
+--------------------------------------------------
+
+CONTENT:
+by pulling it straight out with the other hand.
+
+
+![7 Hold the toner cartridge in place](images/image_p169_00.png)
+
+![7 Hold the toner cartridge in place](images/image_p169_01.png)
+
+Q&A PAIRS:
+  Q1: How do you remove the toner cartridge?
+  A1: By pulling it straight out.
+
+
+--------------------------------------------------
+Entry 88: [PROCEDURE] 9 Close the front cover.
+Source: canon_manual.md | Page: 169
+Keywords: cannot, close, front, cover, sure, toner, cartridge, inserted
+--------------------------------------------------
+
+CONTENT:
+**If you cannot close the front cover
+Make sure that the toner cartridge is inserted properly. Forcing it closed may cause damage.**
+
+Q&A PAIRS:
+  Q1: What should you check if you can't close the front cover of the printer?
+  A1: Make sure that the toner cartridge is inserted properly.
+
+
+--------------------------------------------------
+Entry 89: [PROCEDURE] Printing Reports and Lists
+Source: canon_manual.md | Page: 174
+Keywords: list, data, check, machine, settings, user, system, manager
+--------------------------------------------------
+
+CONTENT:
+3EEJ-03F
+
+You can check the machine settings by printing reports and lists.
+
+User Data List/System Manager Data List
+You can check the list of the settings ( Setting Menu List(P. 95) ) as well as the content that has been
+registered User Data List/System Manager Data List(P. 171) in the machine.
+
+**Copy/Print Charge Log Report
+You can check the counter information. Copy/Print Charge Log Report(P. 172)**
+
+Q&A PAIRS:
+  Q1: How do you check the settings of the machine?
+  A1: You can check the machine settings by printing reports and lists.
+
+
+--------------------------------------------------
+Entry 90: [PROCEDURE] User Data List/System Manager Data List
+Source: canon_manual.md | Page: 175
+Keywords: list, data, images, example, machine, paper, setting, menu
+--------------------------------------------------
+
+CONTENT:
+3EEJ-03H
+
+**You Setting Menu List(P. 95) ) and current can check the list of setting items ( settings registered in the machine.
+This list includes the paper size and type registered in the machine.**
+
+![User Data List/System Manager Data List](images/image_p175_00.png)
+
+<Menu> <Output Rprt.> <Print List> <User Data List> or <System Manager Data List>
+Check that the size and type of paper displayed on the screen is loaded in the machine
+<OK> <Yes>
+
+**Example:**
+
+![Example:](images/image_p175_01.png)
+
+![Example:](images/image_p175_02.png)
+
+![Example:](images/image_p175_03.png)
+
+**Loading Paper(P. 20)**
+
+Q&A PAIRS:
+  Q1: How do you access the list of setting items registered in the machine?
+  A1: To access the list of setting items, navigate to the You Setting Menu List on page 95. From there, select <Menu>, then <Output Rprt.>, followed by <Print List>. You can choose between <User Data List> or <System Manager Data List>.
+
+  Q2: What should you check before proceeding with the procedure?
+  A2: You should check that the size and type of paper displayed on the screen is loaded in the machine.
+
+
+--------------------------------------------------
+Entry 91: [PROCEDURE] Copy/Print Charge Log Report
+Source: canon_manual.md | Page: 176
+Keywords: print, charge, counter, copy, check, report, images, menu
+--------------------------------------------------
+
+CONTENT:
+3EEJ-03J
+
+You can check the counter numbers which are used for the total counter (charge counter).
+
+![Copy/Print Charge Log Report](images/image_p176_00.png)
+
+<Menu> <Output Rprt.> <Print List> <Copy/Print Charge Log Report> Check that the size
+and type of paper displayed on the screen <OK> <Yes> is loaded in the machine
+
+![<Menu> <Output Rprt.> <Print List> <Copy/Print Charge](images/image_p176_01.png)
+
+Q&A PAIRS:
+  Q1: How do you access the Copy/Print Charge Log Report?
+  A1: To access the Copy/Print Charge Log Report, navigate through the menu by selecting <Menu> <Output Rprt.> <Print List> <Copy/Print Charge Log Report>.
+
+
+--------------------------------------------------
+Entry 92: [PROCEDURE] Initializing Settings
+Source: canon_manual.md | Page: 179
+Keywords: settings, initializing, restore, following, menu, system, management, data
+--------------------------------------------------
+
+CONTENT:
+3EEJ-03L
+
+You can restore the following settings:
+
+**Initializing Menu(P. 176)
+Initializing System Management Settings(P. 177)
+Initializing All Data/Settings(P. 178)**
+
+Q&A PAIRS:
+  Q1: What can you restore using the Initializing System Management Settings option?
+  A1: You can restore system management settings.
+
+
+--------------------------------------------------
+Entry 93: [PROCEDURE] Initializing Menu
+Source: canon_manual.md | Page: 180
+Keywords: menu, settings, images, initialize, setting, list, system, management
+--------------------------------------------------
+
+CONTENT:
+3EEJ-03R
+
+**You Setting Menu List(P. 95) ). can restore the settings of the machine (**
+
+![Initializing Menu](images/image_p180_00.png)
+
+![You Setting Menu List(P. 95) ). can](images/image_p180_01.png)
+
+<Menu> <System Management Settings> <Initialize Menu> Select the item you want to
+initialize <Yes>
+
+![<Menu> <System Management Settings> <Initialize Menu> Select](images/image_p180_02.png)
+
+Q&A PAIRS:
+  Q1: How do you access the Initialize Menu in the printer settings?
+  A1: To access the Initialize Menu, go to <Menu> <System Management Settings> <Initialize Menu>.
+
+
+--------------------------------------------------
+Entry 94: [PROCEDURE] Initializing System Management Settings
+Source: canon_manual.md | Page: 181
+Keywords: menu, settings, system, management, machine, images, initialize, setting
+--------------------------------------------------
+
+CONTENT:
+3EEJ-03S
+
+**You Setting Menu List(P. 95) ). Some settings require can restore the settings of the machine ( restarting the
+machine to be initialized.**
+
+![Initializing System Management Settings](images/image_p181_00.png)
+
+![You Setting Menu List(P. 95) ). Some](images/image_p181_01.png)
+
+<Menu> <System Management Settings> <Initialize Menu> <System Management
+Settings> Select the item that you want to initialize <Yes> Restart the machine if necessary.
+
+![<Menu> <System Management Settings> <Initialize Menu> <System](images/image_p181_02.png)
+
+Q&A PAIRS:
+  Q1: How do you initialize system management settings in the printer?
+  A1: To initialize system management settings, go to Menu > System Management Settings > Initialize Menu. Then select the item that you want to initialize and confirm with Yes. Restart the machine if necessary.
+
+
+--------------------------------------------------
+Entry 95: [PROCEDURE] Initializing All Data/Settings
+Source: canon_manual.md | Page: 182
+Keywords: data, settings, registered, machine, changes, menu, initialize, restart
+--------------------------------------------------
+
+CONTENT:
+3EEJ-03U
+
+To make changes to registered data and settings all at once such as when changing the installation location of the
+Setting Menu List(P. 95) ) together at the same machine, you can delete registered data and initialize all settings (
+time. You are required to restart the machine after initializing all data/settings.
+
+![Initializing All Data/Settings](images/image_p182_00.png)
+
+![To make changes to registered data](images/image_p182_01.png)
+
+<Menu> <System Management Settings> <Initialize All Data/Settings> <Yes> <Yes> and
+restart the machine.
+
+Q&A PAIRS:
+  Q1: How do you delete registered data and initialize all settings at once?
+  A1: To delete registered data and initialize all settings, go to <Menu> <System Management Settings> <Initialize All Data/Settings> <Yes> <Yes>, then restart the machine.
+
+
+--------------------------------------------------
+Entry 96: [PROCEDURE] Replacement Parts
+Source: canon_manual.md | Page: 183
+Keywords: canon, parts, replacement, consumables, genuine, machine, multi, functional
+--------------------------------------------------
+
+CONTENT:
+3EEJ-03W
+
+This section describes the replacement parts (consumables/consumable parts) used by the machine. Purchase the
+replacement parts from the authorized Canon dealer that you purchased the machine from. Follow the precautions
+when handling and storing the replacement parts.
+
+Genuine Consumables
+Canon continuously develops technology innovations in Canon manufactured Toner,
+Cartridge, and Parts, specifically designed for use in Canon Multi-Functional machines.
+Experience the benefits of optimal print performance, print volume and high quality
+outputs, achieved through Canon's new advanced technologies. Therefore, the use of
+Canon genuine consumables is recommended for your Canon Multi-Functional machines.
+
+![Replacement Parts](images/image_p183_00.png)
+
+
+![Genuine Consumables](images/image_p183_01.png)
+
+Q&A PAIRS:
+  Q1: How should you acquire replacement parts for the machine?
+  A1: Purchase the replacement parts from the authorized Canon dealer that you purchased the machine from.
+
+  Q2: What is recommended for use in Canon Multi-Functional machines to ensure optimal print performance?
+  A2: The use of Canon genuine consumables is recommended for your Canon Multi-Functional machines.
+
+
+--------------------------------------------------
+Entry 97: [PROCEDURE] Third Party Software
+Source: canon_manual.md | Page: 186
+Keywords: third, party, software, information, related, click, following, icon
+--------------------------------------------------
+
+CONTENT:
+3EEJ-03Y
+
+For information related to third-party software, click the following icon(s).
+
+![Third Party Software](images/image_p186_00.png)
+
+Q&A PAIRS:
+  Q1: How can I find information about third-party software in this manual?
+  A1: To find information related to third-party software, click the icon(s) provided in the manual.
+
+
+--------------------------------------------------
+Entry 98: [PROCEDURE] Feature Highlights
+Source: canon_manual.md | Page: 187
+Keywords: features, going, section, describes, tips, leveraging, machine, category
+--------------------------------------------------
+
+CONTENT:
+3EEJ-040
+
+This section describes tips for leveraging the features of the machine by category. You can make use of the features
+according to your intended purposes and operating environment.
+
+**Going Green and Saving Money(P. 184)
+Improving Efficiency(P. 186)
+Going Digital(P. 187)
+So Much More(P. 189)**
+
+Q&A PAIRS:
+  Q1: How can I access the tips for leveraging the printer's features?
+  A1: You can access the tips by referring to the specific sections described in the manual, such as 'Going Green and Saving Money' on page 184, 'Improving Efficiency' on page 186, 'Going Digital' on page 187, and 'So Much More' on page 189.
+
+
+--------------------------------------------------
+Entry 99: [PROCEDURE] Going Green and Saving Money
+Source: canon_manual.md | Page: 188
+Keywords: images, multiple, pages, sleep, saving, sheet, money, onto
+--------------------------------------------------
+
+CONTENT:
+3EEJ-041
+
+![Going Green and Saving Money](images/image_p188_00.png)
+
+![3EEJ-041](images/image_p188_01.png)
+
+**Print Multiple Pages on a Single Sheet**
+
+To really start saving paper, shrink multiple pages onto a single sheet - 2 or 4 pages for copies, and up to 16
+pages for print jobs sent from your computer.
+
+![To really start saving paper, shrink multiple](images/image_p188_02.png)
+
+To copy multiple pages of a document onto one sheet: Copying Multiple Documents onto One Sheet (2 on
+1)(P. 53) 1/4 on
+To print multiple pages of a document onto one sheet: Printing from a Computer(P. 66)
+
+![To copy multiple pages of a document](images/image_p188_03.png)
+
+**Sleep Mode**
+
+For saving energy and money, a sleep mode that powers down a machine when nobody is using it has become
+an essential feature. This machine will enter sleep mode automatically, and can also be put to sleep whenever
+once to put the machine to sleep. Press it again to instantly wake the machine back into you want. Press
+action.
+
+![For saving energy and money, a sleep](images/image_p188_04.png)
+
+**For more information about this function, see Entering Sleep Mode(P. 39) .**
+
+![For more information about this function, see](images/image_p188_05.png)
+
+**Save Toner**
+
+Got multi-page documents or drafts that don't need presentation-quality printing?
+
+
+There's a setting that uses less toner. Give it a try and save toner and money.
+
+![There's a setting that uses less toner.](images/image_p189_00.png)
+
+**For more information about this function, see Printing from a Computer(P. 66) .**
+
+Q&A PAIRS:
+  Q1: How can I save paper when copying documents?
+  A1: To really start saving paper, shrink multiple pages onto a single sheet - 2 or 4 pages for copies.
+
+
+--------------------------------------------------
+Entry 100: [PROCEDURE] Improving Efficiency
+Source: canon_manual.md | Page: 190
+Keywords: images, settings, operation, easily, specify, page, layout, improving
+--------------------------------------------------
+
+CONTENT:
+3EEJ-042
+
+![Improving Efficiency](images/image_p190_00.png)
+
+![3EEJ-042](images/image_p190_01.png)
+
+**Make Print Settings Quickly with Intuitive Operation**
+
+You can easily specify the page layout as well as binding position, etc. intuitively on the preview image in the
+printer driver. The simple click-operation allows you to conveniently make settings while viewing how settings
+are applied.
+
+![You can easily specify the page layout](images/image_p190_02.png)
+
+**For more information, see Printing from a Computer(P. 66) .**
+
+Q&A PAIRS:
+  Q1: How do you quickly specify the page layout in the printer driver?
+  A1: You can easily specify the page layout as well as binding position, etc. intuitively on the preview image in the printer driver.
+
+
+--------------------------------------------------
+Entry 101: [PROCEDURE] Going Digital
+Source: canon_manual.md | Page: 191
+Keywords: images, scanning, information, searchable, text, need, whole, page
+--------------------------------------------------
+
+CONTENT:
+3EEJ-043. ![Going Digital](images/image_p191_00.png). ![3EEJ-043](images/image_p191_01.png). **Scan Only What You Need**. What if you're scanning a whole page of a newspaper but all you're really interested in is a headline and a. photo? Use ScanGear MF. You can select what you want from a preview, and then have the scanner disregard. the rest. Otherwise you'll have to use an editing program to crop out everything you don't need.. ![What if you're scanning a whole page](images/image_p191_02.png). ![What if you're scanning a whole page](images/image_p191_03.png). **(P. 86) . For more information about this function, see Configuring Scan Settings in ScanGear MF**. ![(P. 86) . For more information about](images/image_p191_04.png). **Searchable PDFs**. * Searching of text in a PDF can be done with a "searchable PDF ". By scanning an original with both te xt and. images, text portions are converted by OCR into text data. In addition to being able to search for text. information, you can also copy required portions into an Excel spreadsheet or Word document in Microsoft. Office. Eliminate the need to type in customer data, addresses, etc. from scratch.. * You cannot create a searchable PDF in the macOS environment.. ![* You cannot create a searchable PDF](images/image_p192_00.png). **For more information about this function, see Scanning from a Computer(P. 83) .**. ![For more information about this function, see](images/image_p192_01.png). **Add Images to a Work in Progress**. Some applications work with the machine to let you easily import scanned images directly into documents. you're working on.
+
+Q&A PAIRS:
+  Q1: How can I scan only specific parts of a page, like a headline and a photo?
+  A1: Use ScanGear MF to select what you want from a preview, and then have the scanner disregard the rest.
+
+
+--------------------------------------------------
+Entry 102: [PROCEDURE] Going Digital
+Source: canon_manual.md | Page: 191
+Keywords: application, images, using, working, skip, steps, opening, separate
+--------------------------------------------------
+
+CONTENT:
+you're working on. This way you can skip the steps of opening a separate application just for receiving the. scanned images and then exporting them to the application you're really using.. ![Some applications work with the machine](images/image_p192_02.png). **For more information about this function, see Scanning Using an Application(P. 84) .**
+
+Q&A PAIRS:
+  Q1: How can you receive scanned images directly in the application you're using?
+  A1: You can receive scanned images directly by using an application that works with the machine, allowing you to skip the steps of opening a separate application for receiving and then exporting the scanned images.
+
+
+--------------------------------------------------
+Entry 103: [PROCEDURE] So Much More
+Source: canon_manual.md | Page: 193
+Keywords: images, blow, regular, sheet, printout, large, poster, much
+--------------------------------------------------
+
+CONTENT:
+3EEJ-044
+
+![So Much More](images/image_p193_00.png)
+
+![3EEJ-044](images/image_p193_01.png)
+
+**Make Posters**
+
+Blow up a regular one-sheet printout and make an exceptionally large poster. A large poster will be printed out
+on nine sheets. Put them together in a 3x3 grid, and voila!
+
+![Blow up a regular one-sheet printout](images/image_p193_02.png)
+
+Q&A PAIRS:
+  Q1: How do you create a large poster using this printer?
+  A1: To create a large poster, blow up a regular one-sheet printout. The large poster will be printed out on nine sheets and put together in a 3x3 grid.
+
+
+--------------------------------------------------
+Entry 104: [PROCEDURE] Specifications
+Source: canon_manual.md | Page: 194
+Keywords: specifications, subject, change, without, notice, product, improvement, future
+--------------------------------------------------
+
+CONTENT:
+3EEJ-04W
+
+Specifications are subject to change without notice for product improvement or future release.
+
+Q&A PAIRS:
+  Q1: How should you proceed if there are changes in the specifications of the printer model 3EEJ-04W?
+  A1: You should be aware that specifications are subject to change without notice for product improvement or future release.
+
+
+--------------------------------------------------
+Entry 105: [PROCEDURE] Available Paper
+Source: canon_manual.md | Page: 198
+Keywords: paper, types, used, machine, shown, following, table
+--------------------------------------------------
+
+CONTENT:
+3EEJ-04Y
+
+The paper types that can be used with this machine are shown in the following table.
+
+Q&A PAIRS:
+  Q1: How can I determine which paper types are compatible with this printer?
+  A1: Consult the table provided in the manual that lists the paper types that can be used with the machine.
+
+
+--------------------------------------------------
+Entry 106: [PROCEDURE] System Environment
+Source: canon_manual.md | Page: 203
+Keywords: system, environment, images, viewing, manuals, internet
+--------------------------------------------------
+
+CONTENT:
+3EEJ-053
+
+![System Environment](images/image_p203_00.png)
+
+* viewing manuals on the Internet. Only when
+
+Q&A PAIRS:
+  Q1: How can you view manuals for this printer?
+  A1: You can view manuals on the Internet.
+
+
+--------------------------------------------------
+Entry 107: [PROCEDURE] Options
+Source: canon_manual.md | Page: 204
+Keywords: installing, options, machine, enables, features
+--------------------------------------------------
+
+CONTENT:
+3EEJ-054
+
+Installing options on the machine enables you to use more features.
+
+Q&A PAIRS:
+  Q1: How can I enable additional features on my printer?
+  A1: By installing options on the machine.
+
+
+--------------------------------------------------
+Entry 108: [PROCEDURE] Optional Equipment
+Source: canon_manual.md | Page: 205
+Keywords: optional, machine, equipment, paper, functionality, expanded, installing, install
+--------------------------------------------------
+
+CONTENT:
+3EEJ-04C
+
+The functionality of the machine can be expanded by installing optional equipment to the machine. Install the optional
+equipment to meet your needs such as by loading a large amount of paper.
+
+**Optional Paper Drawer(P. 201)**
+
+Q&A PAIRS:
+  Q1: How can you expand the functionality of the machine?
+  A1: By installing optional equipment to the machine.
+
+
+--------------------------------------------------
+Entry 109: [PROCEDURE] Using User's Guide
+Source: canon_manual.md | Page: 207
+Keywords: guide, user, describes, manual, viewed, computer, mobile, device
+--------------------------------------------------
+
+CONTENT:
+3EEJ-055
+
+The User's Guide is a manual that can be viewed on your computer or mobile device and it describes all of the
+functions of the machine. You can search from your intended use or enter a keyword to quickly find the page you are
+looking for. The section describes the screen layout of the User's Guide and how to read the Guide. You can specify
+how the appearance of the User's Guide looks.
+
+Q&A PAIRS:
+  Q1: How do you search for a specific function in the User's Guide?
+  A1: You can search from your intended use or enter a keyword to quickly find the page you are looking for.
+
+  Q2: What section describes the screen layout of the User's Guide and how to read it?
+  A2: The section describes the screen layout of the User's Guide and how to read the Guide.
+
+
+--------------------------------------------------
+Entry 110: [PROCEDURE] Screen Layout of User's Guide
+Source: canon_manual.md | Page: 208
+Keywords: click, display, page, user, guide, information, topic, return
+--------------------------------------------------
+
+CONTENT:
+3EEJ-056
+
+The User's Guide is divided into different screens, and the content of each screen varies.
+
+**Top Page
+Appears when User's Guide is started.**
+
+![Screen Layout of User's Guide](images/image_p208_00.png)
+
+Click to also display all of the sections under the chapters. Click to return to the previous display.
+
+Click to toggle the display between the contents and search. When the table of contents is displayed, each
+click on switches between hiding and showing the display. When the search display is shown, each
+click on switches between hiding and showing the display.
+
+Click to set parameters to determine how the User's Guide is displayed, such as character size or layout.
+
+Click to display information on how to view the User's Guide, how to perform a search, and other
+information.
+
+Click to display the previous or following topic.
+
+**[Notice]**
+
+view important information you should know when using the machine. Click to
+
+
+**Topic Page
+Contains information about how to configure and use the machine.**
+
+![Topic Page](images/image_p209_00.png)
+
+**Navigation**
+
+See what chapter topic you are currently viewing.
+
+Click to jump to the corresponding page. To return to the previous page, click "Back" on your Web
+browser.
+
+Click to display the hidden detailed descriptions. Click to close the detailed descriptions.
+
+Click to return to the page top.
+
+Q&A PAIRS:
+  Q1: How do you toggle between the contents and search displays in the User's Guide?
+  A1: Click on the button to toggle the display between the contents and search. When the table of contents is displayed, each click on switches between hiding and showing the display. When the search display is shown, each click on switches between hiding and showing the display.
+
+  Q2: What should you do if you want to set parameters for how the User's Guide is displayed?
+  A2: Click on the button to set parameters such as character size or layout.
+
+
+======================================================================
+  SPECIFICATIONS (1 entries)
+======================================================================
+
+--------------------------------------------------
+Entry 111: [SPECIFICATION] Adjustment/Maintenance
+Source: canon_manual.md | Page: 113
+Keywords: clean, settings, adjustment, maintenance, listed, short, descriptions, default
+--------------------------------------------------
+
+CONTENT:
+3EEJ-02C
+
+All the settings about adjustment and maintenance are listed with short
+descriptions. Default settings are ). marked with a dagger (
+
+![Adjustment/Maintenance](images/image_p113_00.png)
+
+Printer Density (P. 109)
+Toner Save (P. 109)
+Speed/Image Quality Priority for Rotate + Collate (P. 110)
+Special Processing(P. 110)
+Clean Transfer Roller(P. 112)
+Clean Drum Unit(P. 112)
+Clean Fixing Assembly (P. 113)
+
+Q&A PAIRS:
+  Q1: What is the model number of this printer?
+  A1: The model number of this printer is 3EEJ-02C.
+
+
+======================================================================
+  RULES (7 entries)
+======================================================================
+
+--------------------------------------------------
+Entry 112: [RULE] » Continue to Specifying Paper Size and Type(P. 34)
+Source: canon_manual.md | Page: 28
+Keywords: paper, size, type, machine, change, settings, changing, different
+--------------------------------------------------
+
+CONTENT:
+When changing the paper size or type
+different size or type of paper into the machine, make sure to change the settings. If you do not If you load a
+change the settings, the machine cannot print properly.
+
+**Available Paper(P. 194)**
+
+Q&A PAIRS:
+  Q1: What happens if you don't change the printer settings when loading a different size or type of paper?
+  A1: If you do not change the settings, the machine cannot print properly.
+
+
+--------------------------------------------------
+Entry 113: [RULE] Checking the Printing Status
+Source: canon_manual.md | Page: 75
+Keywords: printed, want, waiting, documents, check, current, print, statuses
+--------------------------------------------------
+
+CONTENT:
+3EEJ-01H
+
+You can check the current print statuses.
+
+![Checking the Printing Status](images/image_p75_00.png)
+
+**Useful in the Following Cases**
+
+are not printed for a long time, you may want to see the waiting list of the ● When your documents
+documents waiting to be printed.
+
+● When you cannot find your printouts that you thought had been printed, you may want to see whether an
+error has occurred.
+
+Q&A PAIRS:
+  Q1: What should I do if my documents are not being printed and I suspect an error?
+  A1: You can check the current print statuses to see whether an error has occurred.
+
+
+--------------------------------------------------
+Entry 114: [RULE] Scanning Using an Application
+Source: canon_manual.md | Page: 87
+Keywords: scan, application, originals, image, images, online, remote, processing
+--------------------------------------------------
+
+CONTENT:
+3EEJ-01W
+
+You can scan originals from applications such as image-processing or word-processing
+software. The scanned image is directly loaded in the application, allowing you to edit
+or process the image immediately. The following procedure varies depending on the
+application.
+
+![Scanning Using an Application](images/image_p88_00.png)
+
+![You can scan originals](images/image_p88_01.png)
+
+![You can scan originals](images/image_p88_02.png)
+
+second or subsequent documents may not be scanned, or an error message may be displayed ● The
+depending on the application. In such a case, place and scan one document at a time.
+
+**● When <Auto Online for Remote Scan> is set to <Off>, you must tap <Scan> <Remote Scanner> in the
+screen to bring the machine online. <Home> Auto Online for Remote Scan(P. 115)**
+
+Q&A PAIRS:
+  Q1: What should you avoid when scanning images using an application?
+  A1: You should avoid starting another application to scan, as you can load the images directly into the application you are already using.
+
+  Q2: What should you do if an error message appears when scanning multiple documents?
+  A2: Place and scan one document at a time.
+
+
+--------------------------------------------------
+Entry 115: [RULE] Countermeasures for Each Error Code
+Source: canon_manual.md | Page: 137
+Keywords: print, error, printing, code, check, machine, status, monitor
+--------------------------------------------------
+
+CONTENT:
+3EEJ-04U
+
+If printing is not successful or another error occurs, that error appears on a message on the <Status Monitor> screen
+as a three-digit number (error code). Check the following to find out causes and solutions for each error code. For
+<Status Monitor> Screen(P. 11) . details of the <Status Monitor> screen, see
+
+**Memory is full.**
+
+**An operation that caused a job to be canceled has been performed.**
+
+● When you cancel a job, this error code is displayed, but this is not abnormal. Print documents again as
+necessary.
+
+**The machine turns OFF for some reason.**
+
+power plug is inserted into an outlet firmly. ● Check whether the
+
+**A document could not be printed because its data size exceeded the machine's upper processing
+capability.**
+
+● The machine may not be able to print documents with many pages. Reduce the number of pages per
+printing, or print when no print job is queued or no document is being printed. If you are still unable to
+print, check the document data for any defects.
+
+Printing was canceled from the computer.
+● If you cancel an operation when the print data is being sent to the machine from a computer, this error
+code is displayed, but this is not abnormal. Print again as necessary.
+
+**You tried to print a file that is either corrupted or not supported.
+● Check the file and try again.
+Basic Printing Operations(P. 66)**
+
+Q&A PAIRS:
+  Q1: What should you do if you encounter an error code on your printer's status monitor screen?
+  A1: Check the causes and solutions for each error code as listed in the manual.
+
+
+--------------------------------------------------
+Entry 116: [RULE] Transfer Roller
+Source: canon_manual.md | Page: 159
+Keywords: transfer, roller, machine, clean, inside, becomes, dirty, print
+--------------------------------------------------
+
+CONTENT:
+3EEJ-036
+
+When the transfer roller inside the machine becomes dirty, print quality may deteriorate or dots may appear on
+printouts. If this happens, follow the procedure below to clean the transfer roller. Note that you cannot clean the
+transfer roller when the machine has documents waiting to be printed.
+
+![Transfer Roller](images/image_p159_00.png)
+
+Q&A PAIRS:
+  Q1: What causes dots to appear on printouts?
+  A1: Dots may appear on printouts when the transfer roller inside the machine becomes dirty.
+
+
+--------------------------------------------------
+Entry 117: [RULE] Fixing Assembly
+Source: canon_manual.md | Page: 161
+Keywords: fixing, assembly, paper, clean, machine, following, procedure, multi
+--------------------------------------------------
+
+CONTENT:
+3EEJ-038
+
+Dirt may adhere to the fixing assembly inside the machine and cause black streaks to appear on printouts. To clean
+the fixing assembly, perform the following procedure. Note that you cannot clean the fixing assembly when the
+machine has documents waiting to be printed. To clean the fixing assembly, you need A4 or Letter size paper. Set the
+paper in the paper drawer or multi-purpose tray before performing the following procedure.
+
+![Fixing Assembly](images/image_p161_00.png)
+
+**Checking Toner Level(P. 160)
+Loading Paper in the Multi-Purpose Tray(P. 25)**
+
+![Checking Toner Level(P. 160)](images/image_p161_01.png)
+
+Q&A PAIRS:
+  Q1: What should you avoid doing before cleaning the fixing assembly in the printer?
+  A1: You should not clean the fixing assembly when the machine has documents waiting to be printed.
+
+
+--------------------------------------------------
+Entry 118: [RULE] Viewing User's Guide
+Source: canon_manual.md | Page: 211
+Keywords: machine, indicates, marks, items, cautions, operations, user, guide
+--------------------------------------------------
+
+CONTENT:
+3EEJ-04J
+
+This section describes the marks, buttons, screens, and other items used in the User's Guide. The warnings are also
+given in the "Important Safety Instructions" in the "Getting Started" included with the machine. See also these
+instructions.
+
+**Marks
+Cautions regarding safety, restrictions and cautions regarding the handling of the machine, useful tips, and
+other information are indicated using the marks below.**
+
+Indicates a caution concerning operations that may lead to injury to persons if
+not performed correctly. To use the machine safely, always pay attention to
+these cautions.
+
+![Viewing User's Guide](images/image_p211_00.png)
+
+![Indicates a caution concerning operations that may](images/image_p211_01.png)
+
+Indicates an operation that must not be performed. Read these items carefully,
+and make sure not to perform the described operations.
+
+Indicates operational requirements and restrictions. Be sure to read these items
+carefully to operate the machine correctly, and avoid damage to the machine or
+property.
+
+
+operation, or contains additional explanations for a Indicates a clarification of an
+procedure.
+
+Indicates useful functions or tips for using the machine.
+
+Q&A PAIRS:
+  Q1: What do the caution marks in the user's guide indicate?
+  A1: The caution marks in the user's guide indicate operations that may lead to injury if not performed correctly, operations that must not be performed, and operational requirements and restrictions.
+
+

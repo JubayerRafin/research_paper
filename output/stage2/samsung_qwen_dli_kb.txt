@@ -1,0 +1,232 @@
+======================================================================
+  DLI KNOWLEDGE BASE SNAPSHOT
+  Deep Doc Extractor — Team DocuForge
+======================================================================
+
+Total entries: 15
+  PROCEDURE: 10
+  RULE: 5
+
+======================================================================
+  PROCEDURES (10 entries)
+======================================================================
+
+--------------------------------------------------
+Entry 1: [PROCEDURE] Accessibility Guidance
+Source: samsung_manual.md | Page: 6
+Keywords: provides, menu, remote, control, guide, visually, impaired
+--------------------------------------------------
+
+CONTENT:
+Provides a menu and a remote control guide that aid the visually impaired.
+
+Q&A PAIRS:
+  Q1: What is listed as step 279 in the manual?
+  A1: Using the Remote control.
+
+  Q2: What does the manual provide to assist the visually impaired?
+  A2: A menu and a remote control guide.
+
+
+--------------------------------------------------
+Entry 2: [PROCEDURE] Connections
+Source: samsung_manual.md | Page: 7
+Keywords: cable, access, using, watch, live, broadcasts, connecting, coaxial
+--------------------------------------------------
+
+CONTENT:
+You can watch live broadcasts by connecting a coaxial cable to your TV and can get access to the network by using a
+LAN cable or wireless access point. Using various connectors, you can also connect external devices.
+
+Q&A PAIRS:
+  Q1: How do I watch live broadcasts on my TV?
+  A1: Connect a coaxial cable to your TV.
+
+
+--------------------------------------------------
+Entry 3: [PROCEDURE] Remote Control and Peripherals
+Source: samsung_manual.md | Page: 27
+Keywords: control, operations, remote, pair, external, devices, keyboard, ease
+--------------------------------------------------
+
+CONTENT:
+You can control TV operations with your Remote Control. Pair external devices, such as a keyboard, for ease of use.
+
+Q&A PAIRS:
+  Q1: How can you control TV operations?
+  A1: You can control TV operations with your Remote Control.
+
+
+--------------------------------------------------
+Entry 4: [PROCEDURE] TV Viewing and Recording
+Source: samsung_manual.md | Page: 130
+Keywords: list, channels, variety, convenience, features, offered, samsung, while
+--------------------------------------------------
+
+CONTENT:
+Use a variety of convenience features offered by your Samsung TV while watching TV. You can also edit your list of
+channels and create a list of favorite channels.
+
+Q&A PAIRS:
+  Q1: What actions can you take regarding your channel lists on the Samsung TV?
+  A1: You can edit your list of channels and create a list of favorite channels.
+
+
+--------------------------------------------------
+Entry 5: [PROCEDURE] Picture and Sound
+Source: samsung_manual.md | Page: 144
+Keywords: change, settings, picture, sound, according, preference
+--------------------------------------------------
+
+CONTENT:
+You can change the settings for the picture and the sound according to your preference.
+
+Q&A PAIRS:
+  Q1: How can you adjust the settings for the picture and the sound?
+  A1: You can change them according to your preference.
+
+
+--------------------------------------------------
+Entry 6: [PROCEDURE] System and Support
+Source: samsung_manual.md | Page: 158
+Keywords: configure, system, support, settings, clock, timers, energy, usage
+--------------------------------------------------
+
+CONTENT:
+You can configure system and support settings, such as clock, timers, energy usage and software updates.
+
+Q&A PAIRS:
+  Q1: What types of settings can be configured on the printer?
+  A1: System and support settings, such as clock, timers, energy usage and software updates.
+
+
+--------------------------------------------------
+Entry 7: [PROCEDURE] Precautions and Notes
+Source: samsung_manual.md | Page: 175
+Keywords: instructions, information, must, read, installation, available
+--------------------------------------------------
+
+CONTENT:
+Instructions and information that you must read after installation are available for you.
+
+Q&A PAIRS:
+  Q1: When should I read the instructions and information provided?
+  A1: You must read them after installation.
+
+
+--------------------------------------------------
+Entry 8: [PROCEDURE] Wireless One Connect Issues
+Source: samsung_manual.md | Page: 260
+Keywords: following, solutions, having, issues, connecting, wireless, connect
+--------------------------------------------------
+
+CONTENT:
+Try the following solutions if you are having issues connecting to Wireless One Connect.
+
+Q&A PAIRS:
+  Q1: What should I try if I am experiencing problems connecting to Wireless One Connect?
+  A1: You should try the following solutions.
+
+
+--------------------------------------------------
+Entry 9: [PROCEDURE] Diagnosing TV operational issues
+Source: samsung_manual.md | Page: 275
+Keywords: diagnose, issues, smart, reset, functions
+--------------------------------------------------
+
+CONTENT:
+You can diagnose issues with your TV and Smart Hub and run reset functions.
+
+Q&A PAIRS:
+  Q1: What diagnostic actions can be performed on the TV and Smart Hub?
+  A1: You can diagnose issues with your TV and Smart Hub and run reset functions.
+
+
+--------------------------------------------------
+Entry 10: [PROCEDURE] Learn Menu Screen
+Source: samsung_manual.md | Page: 279
+Keywords: once, learn, menu, screen, enabled, tell, information, features
+--------------------------------------------------
+
+CONTENT:
+Once "Learn Menu Screen" is enabled, your TV will tell you the information and features of the menus you select.
+
+Q&A PAIRS:
+  Q1: What happens once the 'Learn Menu Screen' is enabled?
+  A1: Your TV will tell you the information and features of the menus you select.
+
+
+======================================================================
+  RULES (5 entries)
+======================================================================
+
+--------------------------------------------------
+Entry 11: [RULE] Channel and Broadcast Issues
+Source: samsung_manual.md | Page: 256
+Keywords: difficulties, receiving, broadcasts, steps, help, resolve, problem
+--------------------------------------------------
+
+CONTENT:
+When the TV has difficulties receiving broadcasts, these steps may help resolve the problem.
+
+Q&A PAIRS:
+  Q1: What should be done if the TV has difficulties receiving broadcasts?
+  A1: These steps may help resolve the problem.
+
+
+--------------------------------------------------
+Entry 12: [RULE] Network Issues
+Source: samsung_manual.md | Page: 259
+Keywords: difficulties, connecting, network, steps, help, resolve, problem
+--------------------------------------------------
+
+CONTENT:
+When the TV has difficulties connecting to the network, these steps may help resolve the problem.
+
+Q&A PAIRS:
+  Q1: What should be done when the TV has difficulties connecting to the network?
+  A1: These steps may help resolve the problem.
+
+
+--------------------------------------------------
+Entry 13: [RULE] Remote Control Issues
+Source: samsung_manual.md | Page: 265
+Keywords: remote, control, working, steps, help, resolve, problem
+--------------------------------------------------
+
+CONTENT:
+When the remote control isn't working, these steps may help resolve the problem.
+
+Q&A PAIRS:
+  Q1: What should you do if the remote control isn't working?
+  A1: Follow the steps provided in the manual to help resolve the problem.
+
+
+--------------------------------------------------
+Entry 14: [RULE] Recording Issues
+Source: samsung_manual.md | Page: 267
+Keywords: timeshift, schedule, recording, aren, working, steps, help, resolve
+--------------------------------------------------
+
+CONTENT:
+When Timeshift or Schedule recording aren't working, these steps may help resolve the problem.
+
+Q&A PAIRS:
+  Q1: What should you do if Timeshift or Schedule recording are not working?
+  A1: Follow the provided troubleshooting steps to try and resolve the problem.
+
+
+--------------------------------------------------
+Entry 15: [RULE] Getting Support
+Source: samsung_manual.md | Page: 278
+Keywords: help, directly, samsung, problem
+--------------------------------------------------
+
+CONTENT:
+Get help directly from Samsung if you have a problem with your TV.
+
+Q&A PAIRS:
+  Q1: What should I do if I encounter a problem with my TV?
+  A1: You should get help directly from Samsung.
+
+
