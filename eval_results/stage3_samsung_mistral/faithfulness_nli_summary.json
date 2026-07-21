@@ -1,0 +1,48 @@
+{
+  "metric": "faithfulness_nli",
+  "method": "NLI (DeBERTa-v3-MNLI) on sentence-level claims",
+  "model": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli",
+  "n_pairs": 2644,
+  "claim_level": {
+    "total_claims": 2948,
+    "entailed": 2490,
+    "contradicted": 160,
+    "entailment_rate": 0.8446,
+    "contradiction_rate": 0.0543
+  },
+  "pair_level": {
+    "mean_score": 0.8413,
+    "median_score": 1.0,
+    "verdict_counts": {
+      "unfaithful": 417,
+      "faithful": 2196,
+      "partial": 27,
+      "no_claims": 4
+    },
+    "verdict_pct": {
+      "unfaithful": 15.77,
+      "faithful": 83.06,
+      "partial": 1.02,
+      "no_claims": 0.15
+    }
+  },
+  "thresholds": {
+    "faithful_min_score": 0.8,
+    "partial_min_score": 0.5,
+    "any_contradiction_fails": true
+  },
+  "verdict_counts": {
+    "unfaithful": 417,
+    "faithful": 2196,
+    "partial": 27,
+    "no_claims": 4
+  },
+  "verdict_pct": {
+    "unfaithful": 15.77,
+    "faithful": 83.06,
+    "partial": 1.02,
+    "no_claims": 0.15
+  },
+  "mean_score": 0.8413,
+  "median_score": 1.0
+}

@@ -1,0 +1,28 @@
+{
+  "input_stage2_pairs": 96,
+  "original_records_written": 96,
+  "augmented_records_written": 239,
+  "total_records_written": 335,
+  "variations_kept": 239,
+  "variations_dropped": 49,
+  "rejected_records_written": 49,
+  "llm_failures": 0,
+  "dropped_reasons": {
+    "near-duplicate": 44,
+    "semantic drift": 5
+  },
+  "category_distribution": {
+    "procedure": 60,
+    "spec": 35,
+    "rule_error": 1
+  },
+  "elapsed_seconds": 115.2,
+  "config": {
+    "model": "qwen3.5:35b",
+    "variations_per_qa": 3,
+    "sim_max": 0.97,
+    "sim_min": 0.7,
+    "temperature": 0.4
+  },
+  "multiplier": 3.49
+}

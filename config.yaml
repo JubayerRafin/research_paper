@@ -98,8 +98,8 @@ stage2:
     csv: true
     dli_kb: true
 stage3:
-  output_dir: output/stage3_hp_mistral
-  input_jsonl: output/stage2/hp_mistral.jsonl
+  output_dir: output/stage3_samsung_mistral
+  input_jsonl: output/stage2/samsung_mistral.jsonl
   llm:
     base_url: http://localhost:11434
     model: qwen3.5:35b

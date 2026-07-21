@@ -1,0 +1,22 @@
+{
+  "metric": "provenance_integrity",
+  "method": "page/element resolution + chunk-to-page grounding (deterministic)",
+  "n_pairs": 1662,
+  "valid": 1610,
+  "valid_pct": 96.87,
+  "status_counts": {
+    "valid": 1610,
+    "chunk_mismatch": 52
+  },
+  "status_pct": {
+    "valid": 96.87,
+    "chunk_mismatch": 3.13
+  },
+  "checks": {
+    "page_resolution": true,
+    "element_resolution": false,
+    "chunk_grounding": true
+  },
+  "target_valid_pct": 95.0,
+  "passes": true
+}

@@ -1,0 +1,1663 @@
+idx,page,category,status,detail,question
+0,5,procedure,valid,,How do you start using the basic operations of this printer?
+1,6,procedure,valid,,How can I learn about the parts of the machine and their functions?
+2,6,procedure,valid,,What should I do to understand how to use the keys on the control panel?
+3,6,procedure,valid,,How can I view the display of the printer?
+4,6,procedure,valid,,How do you place documents on the platen glass?
+5,6,procedure,valid,,How do you start loading paper according to this manual?
+6,7,procedure,valid,,How do you enter sleep mode on the printer?
+7,8,procedure,valid,,"How can I learn about the basic operations of the printer, like placing document"
+8,9,procedure,valid,,How do you use a different type of paper temporarily?
+9,9,procedure,valid,,How should I place documents for scanning?
+10,9,procedure,valid,,What can you use to specify settings for the printer?
+11,9,procedure,valid,,How should I start loading paper into the printer?
+12,9,procedure,valid,,How should you connect the printer to a computer?
+13,10,procedure,valid,,How do you restart the printer?
+14,10,procedure,valid,,How do you determine which genuine toner to use?
+15,11,procedure,valid,,How do you prepare to scan documents using the printer?
+16,11,procedure,valid,,What should you use for scanning thick or bound documents like books?
+17,11,rule_error,valid,,What should you do if you encounter a paper jam in paper drawer 1?
+18,11,rule_error,valid,,What should you do when a paper jam occurs near the fixing assembly?
+19,11,rule_error,valid,,What should you do if you encounter a paper jam in the printer?
+20,11,procedure,valid,,How do you know when it's time to replace the toner cartridge?
+21,11,procedure,valid,,How can you replace the drum unit in this printer?
+22,12,procedure,valid,,How do you start the process of replacing the toner cartridges?
+23,13,procedure,valid,,How can I access the Home screen on my printer?
+24,13,procedure,valid,,How do you choose the paper source?
+25,14,procedure,valid,,How do you view the usage history of the printer?
+26,14,procedure,valid,,What can you check on the machine's status?
+27,14,procedure,valid,,What should you press to exit sleep mode?
+28,14,procedure,valid,,How do you view the total number of pages used for copying or printing?
+29,14,procedure,valid,,What can you check by pressing the button described?
+30,14,rule_error,valid,,What does the blinking light indicate on my printer?
+31,14,procedure,valid,,How can you tell if the printer has documents waiting to be processed?
+32,14,procedure,valid,,How do you start copying both sides of an ID?
+33,15,procedure,valid,,How do you access the <Home> screen on the printer?
+34,15,procedure,valid,,How can I switch to the copy function on this printer?
+35,15,procedure,valid,,How do you register frequently used combinations of copy settings?
+36,15,procedure,valid,,How do I customize the order of the <Home> screen buttons?
+37,15,procedure,valid,,How do you access the Timer Settings?
+38,15,procedure,valid,,How can I check the status of documents being printed and the machine's toner le
+39,16,rule_error,valid,,What page can I find countermeasures for each error message?
+40,16,procedure,valid,,How can I check the amount of paper loaded in each paper source?
+41,16,procedure,valid,,What does the Toner Level display show me?
+42,16,procedure,valid,,How can I view the current status of my print job?
+43,16,rule_error,valid,,What should you do when an error message appears on the printer's screen?
+44,18,procedure,valid,,How do you rearrange the buttons on the <Home> screen?
+45,18,procedure,valid,,How do you access the home screen settings?
+46,18,procedure,valid,,What should you do after the screen for entering a PIN is displayed?
+47,19,procedure,valid,,How do you insert blanks in the Home screen?
+48,19,procedure,valid,,How do you delete an inserted blank?
+49,20,procedure,valid,,How do you select or finalize items on the touch panel display?
+50,20,procedure,valid,,How do you view all the text when it cannot be completely displayed on one line?
+51,20,procedure,valid,,How do you make a selection in the printer menu?
+52,21,procedure,valid,,How do you scroll the screen when the scroll bar is displayed?
+53,21,procedure,valid,,What happens when you tap / to scroll the screen?
+54,21,spec,valid,,What are some of the display-related settings you can change on this printer?
+55,23,procedure,valid,,How should you position the document on the platen glass?
+56,23,procedure,valid,,What should you do when scanning transparent documents?
+57,23,procedure,valid,,How should you proceed after the printer has finished scanning?
+58,24,spec,valid,,What is the paper weight range for 'Plain 2' setting?
+59,26,procedure,valid,,How do you print on paper that is not loaded in the paper drawer?
+60,26,procedure,valid,,How do you adjust the position of the right guide?
+61,26,procedure,valid,,What should you do to adjust the front guide?
+62,27,procedure,valid,,How should you prepare a stack of paper before using it in the printer?
+63,27,procedure,valid,,How should you arrange the paper stack when loading it into the drawer?
+64,28,rule_error,valid,,What happens if you don't change the printer settings when loading a different s
+65,29,procedure,valid,,How do you prepare the multi-purpose tray for large-sized paper?
+66,30,procedure,valid,,How do you prepare the paper before inserting it into the multi-purpose tray for
+67,30,procedure,valid,,What should be done with the previously printed side when inserting paper into t
+68,32,procedure,valid,,How should you prepare envelopes before loading them into the printer?
+69,32,procedure,valid,,What should you pay attention to when orienting envelopes for loading?
+70,32,procedure,valid,,How should you arrange the envelopes before loading?
+71,33,procedure,valid,,How should you orient the envelopes when loading them into the printer?
+72,33,procedure,valid,,What is the correct way to load the envelopes as shown in the illustration?
+73,35,procedure,valid,,How do you load paper with logos in portrait orientation?
+74,35,procedure,valid,,How should you load the paper in the paper drawer when it has a logo?
+75,35,procedure,valid,,What is the correct orientation for placing a document on the platen glass?
+76,38,procedure,valid,,How do you ensure the printer settings match the loaded paper?
+77,38,procedure,valid,,What should you do when loading a different type of paper?
+78,38,procedure,valid,,How do you set up the Multi-Purpose Tray for always using the same size and type
+79,38,procedure,valid,,How do you select a different paper size if it's not displayed on the screen?
+80,38,procedure,valid,,How do you set the machine to display only frequently used paper sizes?
+81,39,procedure,valid,,How do you access other paper sizes not shown on the main screen?
+82,39,procedure,valid,,How should you load paper into the printer's paper drawer?
+83,39,procedure,valid,,What types of paper are compatible with this printer?
+84,40,procedure,valid,,How can you register a custom paper size and type?
+85,40,procedure,valid,,How do you specify the length of the <X> side?
+86,41,procedure,valid,,How do you specify the length of the Y side?
+87,41,procedure,valid,,What should I do if I want to use the multi-purpose tray to load paper?
+88,42,spec,valid,,What is the default time setting mentioned in the manual?
+89,43,procedure,valid,,What does the Auto Sleep Time setting do?
+90,43,procedure,valid,,How do you change the auto sleep time on the printer?
+91,45,procedure,valid,,How can I make a basic copy using this printer?
+92,46,procedure,valid,,How do you start basic copy operations according to the manual?
+93,46,procedure,valid,,What should you do if you need to select a specific type of copy paper?
+94,46,procedure,valid,,How can you cancel copies that are in progress?
+95,47,procedure,valid,,How can I change the default settings of my printer?
+96,47,procedure,valid,,What should I do if I frequently use certain copy settings?
+97,48,procedure,valid,,How do you specify how many copies you want to print?
+98,48,procedure,valid,,What should you do if you want to cancel the number of copies you've entered?
+99,49,procedure,valid,,What should you do if you want to cancel copying?
+100,49,procedure,valid,,How do I start scanning the next document?
+101,49,procedure,valid,,How do I make copies with the same settings when the <Paper Size & Settings Mism
+102,50,procedure,valid,,How do you specify the paper source for printing copies?
+103,50,procedure,valid,,How can you select the paper that is loaded in the multi-purpose tray?
+104,50,procedure,valid,,How do you select the paper loaded in the drawer?
+105,51,procedure,valid,,How do I cancel copying on this printer?
+106,51,procedure,valid,,What can I do to check the copy status before cancelling?
+107,51,procedure,valid,,How do you cancel a copy document that has been scanned and is waiting to be pri
+108,51,procedure,valid,,How do you cancel a copy or print job?
+109,52,procedure,valid,,How do you view the details of a copy job without canceling it?
+110,54,spec,valid,,What limitation applies to the copy ratio feature?
+111,54,procedure,valid,,How do you enlarge or reduce copies using preset ratios?
+112,54,procedure,valid,,What should you do to set a custom copy ratio?
+113,54,procedure,valid,,How do you set the copy ratio on this printer?
+114,55,procedure,valid,,How do you select the optical image quality for your copy?
+115,55,procedure,valid,,What should you do to choose the appropriate document type?
+116,55,procedure,valid,,How should I copy documents that only contain text?
+117,55,procedure,valid,,How should you use this printer setting?
+118,55,procedure,valid,,How should you place the document when copying printed photos from magazines or 
+119,56,procedure,valid,,How do you adjust the copy density on this printer?
+120,56,procedure,valid,,What should you do if the text or images in a document are too light or dark?
+121,56,procedure,valid,,How does the printer determine the optimal density for the document?
+122,56,procedure,valid,,What is the default setting for the original type when making a copy?
+123,57,procedure,valid,,How do I copy two pages of a document onto one sheet?
+124,57,procedure,valid,,What should I select to copy four pages of a document onto one sheet?
+125,57,procedure,valid,,How do you access the layout options in the printer manual?
+126,59,procedure,valid,,How do you start copying both sides of an ID card using this printer?
+127,59,procedure,valid,,What should you do after placing the card on the scanner glass?
+128,60,procedure,valid,,How do you start the process to erase frame lines and dark borders?
+129,60,procedure,valid,,What should you specify after selecting the type of Erase Frame?
+130,60,procedure,valid,,How do you remove dark borders and frame lines from your copy?
+131,60,procedure,valid,,How do you remove the dark borders and lines when copying facing pages from a bo
+132,62,procedure,valid,,How do you select the order of copied papers when preparing multiple copies of m
+133,62,procedure,valid,,What should you do if you want to prepare handouts for meetings or presentations
+134,62,procedure,valid,,How are the printed copies of a multi-page document grouped?
+135,62,procedure,valid,,How are the copies collated by the printer?
+136,62,procedure,valid,,How should the copies of a document be grouped when using the Rotate + Group fea
+137,63,procedure,valid,,How do you arrange the copies when using the rotate and collate function?
+138,64,procedure,valid,,How do you copy documents with two facing pages into separate pages?
+139,64,procedure,valid,,What should you select to copy a document with two facing pages?
+140,65,procedure,valid,,How do I change the copy ratio to 95% and set it as the default?
+141,66,procedure,valid,,What should you do after selecting an item in the Change Default Settings menu?
+142,67,procedure,valid,,How do you start the process of registering frequently used copy settings?
+143,67,procedure,valid,,What should you select to choose which setting combination to register?
+144,68,procedure,valid,,How do you print documents from your computer?
+145,70,procedure,valid,,How can you print a document made with an application on your computer?
+146,70,procedure,valid,,What do you need to complete before using the printing function from a computer?
+147,70,procedure,valid,,How do you access additional information about the printer driver?
+148,70,procedure,valid,,What can you find on the Help screen that isn't in the User's Guide?
+149,70,procedure,valid,,How do you start printing a document?
+150,70,procedure,valid,,How do you adjust the printer's settings?
+151,71,procedure,valid,,How do I stop a print job once it has started?
+152,72,procedure,valid,,How do you cancel printing from a computer according to the manual?
+153,72,procedure,valid,,What are the steps to cancel printing from the control panel?
+154,72,procedure,valid,,How do you open the printer folder if the printer icon is not displayed?
+155,72,procedure,valid,,How do you cancel the printing of a selected document from the application scree
+156,73,procedure,valid,,How do you cancel a print job on this printer?
+157,75,rule_error,valid,,What should I do if my documents are not being printed and I suspect an error?
+158,75,procedure,valid,,What should I do if I want more information about a specific document in the pri
+159,77,procedure,valid,,How can you register frequently used settings as default in the printer driver?
+160,77,procedure,valid,,What should you do to use 'TOP SECRET' as a watermark repeatedly?
+161,78,procedure,valid,,How can I save time when specifying print settings frequently?
+162,78,procedure,valid,,How do I start adjusting the print settings?
+163,78,procedure,valid,,How do you view the settings that will be registered?
+164,78,procedure,valid,,What should you enter in the [Comment] field?
+165,79,procedure,valid,,What should you do if you always want to print 2 document pages on each printout
+166,80,procedure,valid,,How do you make print settings as required?
+167,82,procedure,chunk_mismatch,chunk overlap 0.15 < 0.30 with page 82,How do you start scanning original documents?
+168,82,procedure,chunk_mismatch,chunk overlap 0.15 < 0.30 with page 82,What file formats are scanned documents converted into?
+169,83,procedure,valid,,How do you start scanning and saving documents to your computer using this machi
+170,83,procedure,valid,,How can you scan documents placed on the machine?
+171,83,procedure,valid,,What are the options for scanning using a computer?
+172,84,procedure,valid,,How do you start the process of scanning a document and saving it to a computer?
+173,84,procedure,valid,,What settings can be specified while scanning documents?
+174,84,procedure,valid,,How can I change the default settings of MF Scan Utility?
+175,84,procedure,valid,,What should macOS users do to find relevant driver or software manuals?
+176,85,procedure,valid,,How do you initiate a scan using this printer?
+177,85,procedure,valid,,What should you do if you need to cancel a scan?
+178,85,spec,valid,,What is the maximum resolution for scanning in this printer?
+179,85,procedure,valid,,How do you scan multiple pages according to the manual?
+180,86,procedure,valid,,How do you complete the scanning process when the save destination folder is sho
+181,87,procedure,valid,,How can you scan documents or images to a computer using the provided machine?
+182,87,procedure,valid,,What are the two ways to scan from a computer according to the manual?
+183,87,rule_error,valid,,What should you avoid when scanning images using an application?
+184,88,rule_error,valid,,What should you do if an error message appears when scanning multiple documents?
+185,88,procedure,valid,,How do you select the start scan command?
+186,88,procedure,valid,,How do I access advanced scan settings?
+187,88,procedure,valid,,How do you proceed after the scanning process is finished?
+188,90,procedure,valid,,How do you start ScanGear MF when scanning from the MF Scan Utility?
+189,90,procedure,valid,,How do you scan using an application?
+190,90,procedure,valid,,How can I check how my document will look before scanning it?
+191,90,procedure,valid,,What should you do to select which part of the document you want to scan?
+192,91,procedure,chunk_mismatch,chunk overlap 0.08 < 0.30 with page 91,How can I protect my confidential information from unauthorized access through t
+193,93,procedure,valid,,How can you prevent unauthorized access to the machine?
+194,94,procedure,valid,,What is the System Manager PIN used for?
+195,95,procedure,valid,,How do you set up a System Manager PIN according to this manual?
+196,95,procedure,valid,,How do you set a new System Manager PIN?
+197,95,procedure,valid,,What should you do when <PIN (Confirm)> is displayed?
+198,96,procedure,valid,,How do you restrict USB functions on this machine?
+199,96,procedure,valid,,What is the purpose of restricting USB functions on this machine?
+200,97,procedure,valid,,How do you disable the USB port on this printer?
+201,97,procedure,valid,,What does selecting <Off> do in this context?
+202,97,procedure,valid,,How should I restart the printer to perform this procedure?
+203,100,procedure,valid,,How can you identify the default settings in the display preferences?
+204,100,procedure,valid,,How do you change the default screen that appears after startup or auto reset?
+205,100,procedure,valid,,How do you change the order of buttons on the Home screen?
+206,100,procedure,valid,,What should you do if the display is hard to view after adjusting brightness?
+207,101,procedure,valid,,How do you select the unit of measurement in the printer?
+208,101,procedure,valid,,How do you enable the pop-up screen to confirm the paper loaded in the paper dra
+209,101,procedure,valid,,What should you do to set the interval for displaying different messages?
+210,102,procedure,valid,,How do you adjust the screen scrolling speed in this printer?
+211,102,procedure,valid,,What are the steps to change the scrolling speed on this printer?
+212,103,procedure,valid,,How can I find the default settings for the timer?
+213,103,procedure,valid,,How do you set the date format in the printer?
+214,103,procedure,valid,,What determines the time that is printed on each report?
+215,103,procedure,valid,,What are the available date format options in the printer?
+216,103,procedure,valid,,How do you change the clock display setting on the printer?
+217,103,procedure,valid,,What should you do to set the current date and time on the printer?
+218,104,procedure,valid,,How do you select the time zone on this printer?
+219,104,procedure,valid,,What should you do if you want to enable daylight saving time?
+220,105,procedure,valid,,How do you disable the Auto Reset function on this printer?
+221,105,procedure,valid,,What should you do to specify the interval at which the Auto Reset is performed?
+222,105,procedure,valid,,How do you return the display to the default screen after performing an Auto Res
+223,105,procedure,valid,,What should you do if you want the main screen of the function selected in 'Defa
+224,106,procedure,valid,,How do you specify the period of time after which auto sleep is performed?
+225,106,procedure,valid,,How do you set the machine to remain online?
+226,106,procedure,valid,,What should you do if you want to specify a time period after which the machine 
+227,106,procedure,valid,,How do you set the auto shutdown time on the printer?
+228,108,procedure,valid,,How can I identify the default settings for the paper drawer operation?
+229,108,procedure,valid,,How do you enable the automatic drawer selection feature for printing documents?
+230,108,procedure,valid,,What are the options available under the 'Printer' category for paper source aut
+231,109,procedure,valid,,How do I begin configuring automatic drawer selection?
+232,109,procedure,valid,,What should I select for functions like printing reports and lists?
+233,109,procedure,valid,,How do you enable a source in this printer setup?
+234,110,procedure,valid,,How can I change the default settings of the copy?
+235,110,procedure,valid,,What should I do if I want to automatically recognize the original orientation?
+236,111,procedure,valid,,How do you enable the Auto Recognize Original Orientation feature on the printer
+237,111,procedure,valid,,How do you restore the copy settings to factory defaults?
+238,112,procedure,valid,,How can I find the default settings in the printer manual?
+239,112,procedure,valid,,How do you enable the Paper Size Override feature on the printer?
+240,112,procedure,valid,,How do you enable the Toner Save feature on this printer?
+241,113,spec,valid,,What is the model number of this printer?
+242,113,procedure,valid,,How do you adjust the printer density according to the manual?
+243,113,procedure,valid,,How do you reduce toner consumption when copying?
+244,114,procedure,valid,,How do you access the Speed/Image Quality Priority settings for Rotate + Collate
+245,114,procedure,valid,,How can I improve the print quality if it's not satisfactory?
+246,114,procedure,valid,,How do you access the Special Printing Mode setting?
+247,114,procedure,valid,,What should be done if paper jams frequently occur when using the multi-purpose 
+248,114,procedure,valid,,How do you access the Special Printing Mode M settings?
+249,114,procedure,valid,,What should you do if paper curls or jams when printing on moist paper?
+250,115,procedure,valid,,How can you reduce the waiting time for printing when switching to a larger size
+251,115,procedure,valid,,What should you do if paper curls when printing on lightweight paper?
+252,116,procedure,valid,,How do you access the Special Printing Mode F setting to address uneven images?
+253,116,procedure,valid,,How do you clean the transfer roller?
+254,116,procedure,valid,,How should you clean the drum unit when print quality deteriorates?
+255,117,procedure,valid,,How do you know when it's time to clean the fixing assembly?
+256,118,procedure,valid,,How many digits should the System Manager PIN have?
+257,118,procedure,valid,,How do you specify the country or region where the printer is used?
+258,119,procedure,valid,,How do you enable the remote scanning feature without using the control panel?
+259,119,procedure,valid,,"How do you enable the display of copying, printing and scanning logs on the mach"
+260,119,procedure,valid,,What should you do after changing the USB device settings?
+261,120,procedure,valid,,How do you select a page description language for USB connection in Plug and Pla
+262,120,procedure,valid,,How does the LT printer connect to a machine?
+263,120,spec,valid,,What type of printer does this machine connect as?
+264,120,procedure,valid,,How do you manually install a firmware update?
+265,121,procedure,valid,,How can I restore all the settings to their factory defaults?
+266,121,procedure,valid,,What should I do if I only want to restore specific settings?
+267,121,procedure,valid,,How do you delete all data on the printer and return it to factory settings?
+268,122,rule_error,chunk_mismatch,chunk overlap 0.14 < 0.30 with page 122,What should I do first when a problem occurs with my printer?
+269,123,procedure,valid,,How do you start addressing a paper jam in the printer?
+270,123,rule_error,valid,,What should I do if the printer screen shows an error code consisting of three d
+271,123,procedure,valid,,What should you do if the printing results are not satisfactory?
+272,123,rule_error,valid,,What should I do if a printer problem cannot be solved using the manual?
+273,125,procedure,valid,,What should you do if the procedures on the display are difficult to understand?
+274,127,procedure,valid,,How should you close the left cover of the printer?
+275,128,procedure,valid,,How should you proceed before removing jammed paper from the printer?
+276,130,procedure,valid,,How should you close the left cover?
+277,134,procedure,valid,,How do I know if my printer's memory is full or there are operation problems?
+278,134,procedure,valid,,How do you fix a paper jam while trying to clean the printer?
+279,134,procedure,valid,,What should you do if there is not enough toner for cleaning the fixing assembly
+280,134,procedure,valid,,What should I do if the drum unit is not inserted?
+281,134,procedure,valid,,How do you proceed when the message '<Drawer 1> or <Multi-Purpose Tray> is displ
+282,135,procedure,valid,,How do you adjust the paper size setting if it doesn't match the loaded paper si
+283,135,procedure,valid,,What should you check when printing from a computer and the paper size doesn't m
+284,135,procedure,valid,,How do you proceed when the toner cartridge has reached the end of its lifetime?
+285,135,procedure,valid,,What should be done to address a toner cartridge that has reached the end of its
+286,135,procedure,valid,,How should I proceed if the printer loses connection to the computer during a sc
+287,135,procedure,valid,,How can you resolve an issue where an original could not be scanned due to insuf
+288,136,procedure,valid,,How should you proceed when printing a document with a page that has a very larg
+289,136,rule_error,valid,,What should you do if an error occurs with the printer?
+290,136,procedure,valid,,What should you do when the drum unit has reached the end of its lifetime?
+291,137,rule_error,valid,,What should you do if you encounter an error code on your printer's status monit
+292,138,procedure,valid,,How should I proceed if I have issues with the printer?
+293,138,procedure,valid,,How should you proceed if the printer is on but not responding?
+294,138,procedure,valid,,How can I verify if my USB cable is properly linked to the printer?
+295,138,procedure,valid,,How do you wake the printer from sleep mode?
+296,138,rule_error,valid,,What should I do when a problem message is displayed on the printer?
+297,138,procedure,valid,,How should you begin using the printer?
+298,138,procedure,valid,,What should you do if the printer doesn't start even after pressing the power bu
+299,138,rule_error,valid,,What should you do if an error indicator keeps blinking on the printer?
+300,139,procedure,valid,,How do you ensure proper loading of paper?
+301,139,procedure,valid,,What should you check when loading paper into the drawer or multi-purpose tray?
+302,139,procedure,valid,,How do you ensure the paper is ready for printing?
+303,139,rule_error,valid,,What section should I refer to if I'm having trouble setting up my printer?
+304,140,procedure,valid,,How should I adjust my USB cable if I'm experiencing issues?
+305,140,procedure,valid,,What should you do if the printer is connected through a USB hub?
+306,141,rule_error,valid,,What should you do if you can't print a test page and are using a USB connection
+307,141,spec,valid,,What happens when the printer's memory is running low?
+308,141,procedure,valid,,How should you proceed if you've printed on narrow width paper and the machine i
+309,141,procedure,valid,,What should you do if you forgot to remove the sealing tape when loading the ton
+310,142,procedure,valid,,How can you prevent moisture evaporation from damp paper in the printer?
+311,143,procedure,valid,,How should I proceed if the printing results are not satisfactory or if paper cr
+312,145,procedure,valid,,How should you prepare the machine before addressing printing issues?
+313,145,procedure,valid,,How do you know what kind of paper to use in the printer?
+314,145,procedure,valid,,How do you check the remaining amount of toner in the printer?
+315,145,procedure,valid,,What should be done if the toner cartridges are empty or low?
+316,145,procedure,valid,,How should you address the issue of toner smudges and splatters appearing on you
+317,146,procedure,valid,,How do you address faded printouts?
+318,146,procedure,valid,,How should you address the issue of printed pages having white specks?
+319,147,procedure,valid,,How can I make the print density lighter?
+320,147,procedure,valid,,How should you handle a printing issue that might be caused by the toner cartrid
+321,148,procedure,valid,,How do you ensure the correct paper is used for printing?
+322,149,procedure,valid,,How do you proceed after replacing the paper?
+323,149,procedure,valid,,How do you address paper curls in the printer?
+324,149,procedure,valid,,What should you change the setting of <Paper Type> to when dealing with thinner 
+325,151,procedure,valid,,How can you ensure that printouts are not skewed?
+326,151,procedure,valid,,How should you prepare envelopes before printing them using the Multi-Purpose Tr
+327,151,procedure,valid,,What should you do to ensure the paper is loaded correctly?
+328,153,rule_error,valid,,What information should I have ready when contacting support about an issue with
+329,154,procedure,valid,,How do you start maintaining the printer according to this manual?
+330,154,procedure,valid,,What are the two main topics covered in this maintenance chapter?
+331,155,procedure,valid,,How do you clean the exterior of the machine?
+332,155,procedure,valid,,What should you do if smudge marks appear on originals or printouts?
+333,155,procedure,valid,,How can you address streaks appearing on printouts?
+334,155,procedure,valid,,What should I do if I need to replace the toner cartridges?
+335,155,procedure,valid,,How can I view the total page number of my printouts?
+336,155,procedure,valid,,How can I reset my printer's settings?
+337,156,procedure,valid,,How do you maintain the printing quality and ensure safe use of the machine?
+338,157,procedure,valid,,How can you maintain the printer's condition according to the manual?
+339,157,procedure,valid,,How can I prevent data from being deleted when turning off the printer?
+340,157,procedure,valid,,How should you clean the exterior of the printer?
+341,157,procedure,valid,,What should you use to locate the ventilation slots on the printer?
+342,158,procedure,valid,,How can you prevent smudges from being printed on documents?
+343,158,procedure,valid,,What should be cleaned to avoid printouts with smudges?
+344,158,procedure,valid,,How should you initially clean the areas?
+345,158,procedure,valid,,What should you do after wiping the area with a damp cloth?
+346,159,rule_error,valid,,What causes dots to appear on printouts?
+347,159,procedure,valid,,How do you initiate the cleaning process for the drum unit?
+348,161,rule_error,valid,,What should you avoid doing before cleaning the fixing assembly in the printer?
+349,161,procedure,valid,,How do you place the cleaning sheet in the printer?
+350,163,procedure,valid,,How should you prepare a toner cartridge when you see the 'Prepare the toner car
+351,163,procedure,valid,,What should you do if you see the 'Prepare the toner cartridge.' message before 
+352,163,procedure,valid,,What should you do when the toner cartridge is nearly empty?
+353,164,procedure,valid,,How do you check the toner level on this printer?
+354,165,procedure,valid,,How do you print the contact information of your local authorized Canon dealer?
+355,165,procedure,valid,,How can I scan and register the documentation of my local authorized Canon deale
+356,165,procedure,valid,,How do you start the process of accessing purchase information for consumables?
+357,165,procedure,valid,,What should you do after pressing the button to place documents?
+358,165,procedure,valid,,How do you start the process of printing purchase information for consumables?
+359,165,procedure,valid,,What items are printed when you specify to print purchase information for consum
+360,166,procedure,valid,,How do you access the purchase information for the press?
+361,166,procedure,valid,,How can I remove unwanted purchase information from my printer?
+362,168,procedure,valid,,How should you orient the toner cartridge when inserting it into the machine?
+363,168,procedure,valid,,What should you do to support the new toner cartridge during installation?
+364,168,procedure,valid,,How do you remove the toner cartridge?
+365,169,procedure,valid,,What should you check if you can't close the front cover of the printer?
+366,174,procedure,valid,,How do you check the settings of the machine?
+367,175,procedure,valid,,How do you access the list of setting items registered in the machine?
+368,175,procedure,valid,,What should you check before proceeding with the procedure?
+369,176,procedure,valid,,How do you access the Copy/Print Charge Log Report?
+370,179,procedure,valid,,What can you restore using the Initializing System Management Settings option?
+371,180,procedure,valid,,How do you access the Initialize Menu in the printer settings?
+372,181,procedure,valid,,How do you initialize system management settings in the printer?
+373,182,procedure,valid,,How do you delete registered data and initialize all settings at once?
+374,183,spec,valid,,What is the model number of the imageRUNNER 2206 product?
+375,183,spec,valid,,What is the genuine Canon toner used in the imageRUNNER 2206 model?
+376,183,procedure,valid,,How should you acquire replacement parts for the machine?
+377,183,procedure,valid,,What is recommended for use in Canon Multi-Functional machines to ensure optimal
+378,183,procedure,valid,,How do you verify the authenticity of a toner cartridge before replacement?
+379,184,procedure,chunk_mismatch,chunk overlap 0.14 < 0.30 with page 184,How do I access the technical specifications of the printer?
+380,186,procedure,valid,,How can I find information about third-party software in this manual?
+381,187,procedure,valid,,How can I access the tips for leveraging the printer's features?
+382,188,procedure,valid,,How can I save paper when copying documents?
+383,190,procedure,valid,,How do you quickly specify the page layout in the printer driver?
+384,191,procedure,valid,,"How can I scan only specific parts of a page, like a headline and a photo?"
+385,191,procedure,valid,,How can you receive scanned images directly in the application you're using?
+386,193,procedure,valid,,How do you create a large poster using this printer?
+387,194,procedure,valid,,How should you proceed if there are changes in the specifications of the printer
+388,194,procedure,valid,,How can I access the scan function on this printer?
+389,194,procedure,valid,,What is the procedure to use other printer functions?
+390,195,spec,valid,,What is the resolution for reading on the Canon imageRUNNER 2206?
+391,195,spec,valid,,How many tones does the Canon imageRUNNER 2206 support?
+392,198,procedure,valid,,How can I determine which paper types are compatible with this printer?
+393,198,spec,valid,,What are the dimensions for custom paper size that can be used in the multi-purp
+394,200,spec,valid,,What paper types can be used in this machine?
+395,203,spec,valid,,What web browsers are supported for the User's Guide on Windows?
+396,203,procedure,valid,,How can you view manuals for this printer?
+397,204,procedure,valid,,How can I enable additional features on my printer?
+398,205,procedure,valid,,How can you expand the functionality of the machine?
+399,205,procedure,valid,,How do you install the optional paper drawer?
+400,205,procedure,valid,,How do you replace the standard paper drawer with the optional one?
+401,206,spec,valid,,What is the purpose of the User's Guide mentioned on page 206?
+402,207,procedure,valid,,How do you search for a specific function in the User's Guide?
+403,207,procedure,valid,,What section describes the screen layout of the User's Guide and how to read it?
+404,207,procedure,valid,,How can I find more information about the marks used in the User's Guide?
+405,207,procedure,valid,,How can you change the character size in the User's Guide?
+406,207,procedure,valid,,What can you do to adjust the screen layout of the User's Guide?
+407,207,procedure,valid,,How do I locate a specific page in the manual?
+408,207,procedure,valid,,How do you perform a keyword search in this printer manual?
+409,208,procedure,valid,,How do you toggle between the contents and search displays in the User's Guide?
+410,208,procedure,valid,,What should you do if you want to set parameters for how the User's Guide is dis
+411,209,procedure,valid,,What should I do if I want to search for an exact phrase in the printer manual?
+412,211,spec,valid,,What are some examples of settings that can be displayed on the control panel?
+413,211,rule_error,valid,,What do the caution marks in the user's guide indicate?
+414,211,procedure,valid,,How can I identify the keys on the control panel and buttons on the computer dis
+415,211,procedure,valid,,How can I identify the displays shown in the User's Guide?
+416,212,spec,valid,,What does the note say about potential differences in operation?
+417,212,procedure,valid,,How do you access the 'Devices and Printers' section in Windows 7 or Server 2008
+418,212,procedure,valid,,What should you do to view devices and printers on Windows 8 or Server 2012?
+419,212,procedure,valid,,How can you access 'Devices and Printers' in Windows 8.1 or Server 2012 R2?
+420,212,procedure,valid,,What are the steps to open 'Devices and Printers' on Windows 10?
+421,212,procedure,valid,,How do you get to the 'Printers' section in Windows Server 2008?
+422,212,procedure,valid,,What is the procedure to view devices and printers on Windows Server 2016?
+423,212,procedure,valid,,How can I verify if my printer driver is working?
+424,216,spec,valid,,What is the maximum power consumption for the imageRUNNER 2206 model in networke
+425,216,procedure,valid,,How should you dispose of this product according to the WEEE Directive?
+426,216,rule_error,valid,,What happens if I deactivate the Power Save Mode on my Canon printer?
+427,216,rule_error,valid,,What is recommended by Canon regarding the duplex printing function?
+428,217,procedure,valid,,What kind of warranty does CANON INC. provide for this material?
+429,217,procedure,valid,,How is a PostScript printing device defined in this manual?
+430,217,procedure,chunk_mismatch,chunk overlap 0.30 < 0.30 with page 217,How can licensed fonts be used under the OFL?
+431,217,procedure,chunk_mismatch,chunk overlap 0.30 < 0.30 with page 217,What is required when bundling or embedding fonts with software?
+432,217,procedure,valid,,How can the Font Software be bundled and redistributed?
+433,217,procedure,valid,,How should source code be redistributed according to the Apache Software Foundat
+434,217,procedure,valid,,What conditions must be met for redistribution in binary form as per the Apache 
+435,217,procedure,valid,,How should the copyright notice and disclaimer be included when redistributing i
+436,217,procedure,valid,,What acknowledgment must be included in the end-user documentation when redistri
+437,217,procedure,valid,,How can I download the Original Code?
+438,217,procedure,valid,,How can I access updated information or additional third-party code information 
+439,217,procedure,chunk_mismatch,chunk overlap 0.30 < 0.30 with page 217,How should I acknowledge the use of FreeType code in my program?
+440,217,procedure,valid,,What does the term 'using' refer to in the context of the FreeType Project licen
+441,217,procedure,chunk_mismatch,chunk overlap 0.24 < 0.30 with page 217,How should you handle redistribution of source code under the FreeType license?
+442,217,procedure,chunk_mismatch,chunk overlap 0.24 < 0.30 with page 217,What should you include when redistributing in binary form under the FreeType li
+443,217,procedure,chunk_mismatch,chunk overlap 0.24 < 0.30 with page 217,How can you refer to the FreeType software in your documentation or advertising 
+444,217,procedure,chunk_mismatch,chunk overlap 0.26 < 0.30 with page 217,How can I get support for using FreeType?
+445,217,procedure,chunk_mismatch,chunk overlap 0.26 < 0.30 with page 217,What should I do if I encounter bugs or want to discuss engine internals?
+446,217,procedure,chunk_mismatch,chunk overlap 0.26 < 0.30 with page 217,"How can I legally use, distribute, or modify the FreeType Project?"
+447,217,procedure,valid,,"How can one use, copy, modify, and distribute the software described?"
+448,217,procedure,valid,,What should be done with the notice when using or distributing the software?
+449,5,procedure,valid,,What is the procedure for initiating the basic operations on this printer?
+450,5,procedure,valid,,How does one get started with the essential operations of this printer?
+451,6,procedure,valid,,Where can I find information on the machine's parts and their purposes?
+452,6,procedure,valid,,How can I learn about using the control panel keys?
+453,6,procedure,valid,,I need guidance on operating the buttons located on the control panel; what step
+454,6,procedure,valid,,What is the procedure for understanding how to utilize the control panel's keys?
+455,6,procedure,valid,,What is the method to see the printer's display?
+456,6,procedure,valid,,In what way do I access the printer's screen?
+457,6,procedure,valid,,How do I check the printer's display?
+458,6,procedure,valid,,What is the procedure for placing documents on the platen glass?
+459,6,procedure,valid,,In what manner should documents be positioned on the platen glass?
+460,6,procedure,valid,,What is the procedure for starting to load paper as described in this manual?
+461,6,procedure,valid,,"According to this manual, how can one begin loading paper?"
+462,6,procedure,valid,,How does one initiate the process of loading paper per this manual's instruction
+463,7,procedure,valid,,What is the procedure to put the printer into sleep mode?
+464,7,procedure,valid,,In what way can one activate sleep mode on this printer?
+465,7,procedure,valid,,How does one switch the printer to sleep mode?
+466,8,procedure,valid,,What are the fundamental printer functions such as document placement and paper 
+467,8,procedure,valid,,Can you explain how to perform essential tasks like loading paper or placing doc
+468,9,procedure,valid,,What is the procedure for using a temporary alternative paper type?
+469,9,procedure,valid,,In what way can one switch to a different kind of paper on a short-term basis?
+470,9,procedure,valid,,How can I temporarily use another variety of paper?
+471,9,procedure,valid,,What is the correct way to position documents when scanning?
+472,9,procedure,valid,,Where do I put documents to scan them?
+473,9,procedure,valid,,In what orientation should documents be placed for scanning?
+474,9,procedure,valid,,Which items allow you to define printer settings?
+475,9,procedure,valid,,How do you set up configurations for the printer?
+476,9,procedure,valid,,What is used to specify the printer's configuration?
+477,9,procedure,valid,,What is the correct procedure for starting to load paper into the printer?
+478,9,procedure,valid,,In what manner do I begin placing paper in the printer?
+479,9,procedure,valid,,How does one initiate the process of loading paper into the printer?
+480,9,procedure,valid,,What is the correct method for connecting the printer to a computer?
+481,9,procedure,valid,,In what way do I attach the printer to a computer?
+482,9,procedure,valid,,How does one connect this printer to a computer?
+483,10,procedure,valid,,What steps are required to restart the printer?
+484,10,procedure,valid,,In what way can one reboot the printer?
+485,10,procedure,valid,,Could you explain how to perform a printer restart?
+486,10,procedure,valid,,What is the method for identifying the correct genuine toner?
+487,10,procedure,valid,,Which procedure should be followed to select an authentic toner cartridge?
+488,10,procedure,valid,,How can one ascertain the appropriate genuine toner?
+489,11,procedure,valid,,What steps are required to set up scanning on this printer?
+490,11,procedure,valid,,In what way should one get ready to use the printer for document scanning?
+491,11,procedure,valid,,How can I prepare my HP printer to scan documents?
+492,11,procedure,valid,,Which method is recommended for scanning thick or bound documents such as books?
+493,11,procedure,valid,,"For scanning items like books that are thick or bound, what should be used?"
+494,11,procedure,valid,,What tool or approach is suitable when scanning thick or bound documents includi
+495,11,rule_error,valid,,How can I resolve a paper jam occurring in paper drawer 1?
+496,11,rule_error,valid,,What steps should be taken to clear a paper jam from paper drawer 1?
+497,11,rule_error,valid,,"If there is a paper jam in paper drawer 1, what action do you need to take?"
+498,11,rule_error,valid,,What action is required if a paper jam happens close to the fixing assembly?
+499,11,rule_error,valid,,How do you handle a situation where paper jams occur near the fixing unit?
+500,11,rule_error,valid,,"When there is a paper jam in the vicinity of the fixing assembly, what steps sho"
+501,11,rule_error,valid,,How can one resolve a paper jam issue on the printer?
+502,11,rule_error,valid,,What steps should be taken to address a paper jam occurring in the printer?
+503,11,procedure,valid,,When should I replace the toner cartridge?
+504,11,procedure,valid,,What indicates that the toner cartridge needs replacing?
+505,11,procedure,valid,,How can I tell if it is time to change the toner cartridge?
+506,11,procedure,valid,,What is the procedure for replacing the drum unit in this printer?
+507,11,procedure,valid,,In what way do I change out the drum unit on this device?
+508,11,procedure,valid,,How does one go about swapping the drum unit in this printer?
+509,12,procedure,valid,,What is the procedure for initiating the replacement of toner cartridges?
+510,12,procedure,valid,,In what way does one begin the task of changing the toner cartridges?
+511,12,procedure,valid,,How can I start replacing the printer's toner cartridges?
+512,13,procedure,valid,,What is the method to reach the Home screen on my printer?
+513,13,procedure,valid,,In what way do I get to the Home screen using my printer?
+514,13,procedure,valid,,How does one access the Home screen from their printer?
+515,13,procedure,valid,,What steps are involved in selecting the paper source?
+516,13,procedure,valid,,In what way can one select which paper source to use?
+517,13,procedure,valid,,How is the paper source selected?
+518,14,procedure,valid,,What is the procedure to check the printer's usage history?
+519,14,procedure,valid,,In what way can one access the record of how much the printer has been used?
+520,14,procedure,valid,,How can I view a log of the printer's past activity?
+521,14,procedure,valid,,Which items regarding the machine's status are available for checking?
+522,14,procedure,valid,,How do I verify the current status of the machine?
+523,14,procedure,valid,,What aspects of the machine's status can be inspected?
+524,14,procedure,valid,,Which key must be pressed to leave sleep mode?
+525,14,procedure,valid,,"To get out of sleep mode, what do you need to press?"
+526,14,procedure,valid,,What action is required on the printer to exit sleep mode?
+527,14,procedure,valid,,What is the method to check the cumulative page count for copy and print jobs?
+528,14,procedure,valid,,In what way can one see how many pages have been used for printing or copying in
+529,14,procedure,valid,,How can I find out the total number of pages printed or copied?
+530,14,procedure,valid,,"By pressing the mentioned button, what is possible to inspect?"
+531,14,rule_error,valid,,What is indicated by the flashing light on my printer?
+532,14,rule_error,valid,,My printer has a blinking light; what does it mean?
+533,14,rule_error,valid,,"The light on my printer is blinking, which indicates?"
+534,14,procedure,valid,,What indicates that there are pending documents in the printer?
+535,14,procedure,valid,,In what way is it possible to identify if the printer holds unprocessed document
+536,14,procedure,valid,,How do you determine whether documents are queued for processing on the printer?
+537,14,procedure,valid,,What is the procedure for copying both sides of an ID?
+538,14,procedure,valid,,In what way can one copy two-sided IDs on this printer?
+539,14,procedure,valid,,How are you supposed to make copies from both faces of an identification card?
+540,15,procedure,valid,,What is the method to reach the <Home> screen on the printer?
+541,15,procedure,valid,,In what way can one access the <Home> screen from the printer?
+542,15,procedure,valid,,How is it possible to get to the <Home> screen on the printer?
+543,15,procedure,valid,,How does one change the operation mode of this printer to copying?
+544,15,procedure,valid,,What is the procedure for registering commonly used copy setting combinations?
+545,15,procedure,valid,,In what way can one save frequent combinations of copy settings?
+546,15,procedure,valid,,How are frequently utilized sets of copy configurations registered?
+547,15,procedure,valid,,What is the process for customizing the sequence of buttons on the Home screen?
+548,15,procedure,valid,,In what way can I rearrange the order of the <Home> screen buttons?
+549,15,procedure,valid,,How are the button orders on the <Home> screen customized?
+550,15,procedure,valid,,What steps are required to reach the Timer Settings?
+551,15,procedure,valid,,In what way can one navigate to the Timer Settings?
+552,15,procedure,valid,,How is it possible to access the Timer Settings?
+553,15,procedure,valid,,What is the method to verify both the current printing document statuses and the
+554,15,procedure,valid,,How do I view the progress of active print jobs along with the machine's toner l
+555,15,procedure,valid,,In what way can one check on the status of documents in the queue and the printe
+556,16,rule_error,valid,,Where are the countermeasures listed for every error message?
+557,16,rule_error,valid,,On which page do I locate solutions corresponding to each error notification?
+558,16,rule_error,valid,,Which section contains remedies for all displayed error messages?
+559,16,procedure,valid,,What is the method to verify the quantity of paper present in every paper tray?
+560,16,procedure,valid,,How do I determine how much paper has been loaded into each input source?
+561,16,procedure,valid,,In what way can one check the paper volume available in all paper sources?
+562,16,procedure,valid,,What is displayed on the Toner Level screen?
+563,16,procedure,valid,,Can you explain what information the Toner Level indicator provides?
+564,16,procedure,valid,,What does the Toner Level readout indicate?
+565,16,procedure,valid,,What is the method to check the current status of my print job?
+566,16,procedure,valid,,In what way can I see where my print job stands now?
+567,16,procedure,valid,,How do I view the present state of my printing task?
+568,16,rule_error,valid,,"When an error message shows up on the printer display, what action is required?"
+569,16,rule_error,valid,,What steps should be taken if an error notification appears on the screen?
+570,16,rule_error,valid,,"In the event that a warning displays on the printer's interface, how do you resp"
+571,18,procedure,valid,,What is the process for reordering the buttons on the Home screen?
+572,18,procedure,valid,,In what way can I change the arrangement of the buttons displayed on the <Home> 
+573,18,procedure,valid,,How are the buttons on the <Home> screen rearranged?
+574,18,procedure,valid,,What is the method to reach the home screen settings?
+575,18,procedure,valid,,In what way can one navigate to the home screen settings?
+576,18,procedure,valid,,"After the PIN entry screen appears, what action must be taken?"
+577,18,procedure,valid,,"Once the display shows the prompt to enter a PIN, what should you do next?"
+578,18,procedure,valid,,What is the required step following the appearance of the screen for entering a 
+579,19,procedure,valid,,What is the method for inserting blank spaces on the Home screen?
+580,19,procedure,valid,,In what way can one add blanks to the Home screen?
+581,19,procedure,valid,,How are blanks inserted into the Home screen?
+582,19,procedure,valid,,What steps are required to remove an inserted blank?
+583,19,procedure,valid,,In what way can one delete a blank that has been inserted?
+584,19,procedure,valid,,How is it possible to get rid of an inserted blank?
+585,20,procedure,valid,,What is the procedure for selecting or finalizing items using the touch panel di
+586,20,procedure,valid,,In what way can one select or finalize items on the printer's touch panel displa
+587,20,procedure,valid,,How are items selected or finalized via the touch panel display?
+588,20,procedure,valid,,What is the method for viewing complete text that overflows beyond a single line
+589,20,procedure,valid,,How can you display all content when it does not fit entirely on one line?
+590,20,procedure,valid,,In what way do you access full text if it cannot be shown completely in one row?
+591,20,procedure,valid,,What is the procedure for making a selection within the printer menu?
+592,20,procedure,valid,,In what way can one select an option from the printer's menu?
+593,21,procedure,valid,,What is the method for scrolling the screen once the scroll bar appears?
+594,21,procedure,valid,,"When the scroll bar is visible, how can you perform scrolling on the screen?"
+595,21,procedure,valid,,How do I use the scroll function on the display when a scroll bar is shown?
+596,21,procedure,valid,,How does tapping / affect screen scrolling?
+597,21,procedure,valid,,"If you tap /, what occurs regarding screen scrolling?"
+598,21,spec,valid,,Which display settings can be modified on this printer?
+599,21,spec,valid,,List some configurable display-related parameters available on this printer.
+600,23,procedure,valid,,What is the correct way to place the document on the platen glass?
+601,23,procedure,valid,,In what manner ought the document be positioned on the platen glass?
+602,23,procedure,valid,,How do you handle scanning transparency sheets?
+603,23,procedure,valid,,"When is it necessary to take special steps for scanning clear documents, and wha"
+604,23,procedure,valid,,What procedure should be followed when the document being scanned is transparent
+605,23,procedure,valid,,What steps follow once the scanner completes its operation?
+606,23,procedure,valid,,"After the printing process is done, what action do you take next?"
+607,23,procedure,valid,,"Once scanning has finished, how should one proceed?"
+608,24,spec,valid,,Which paper weights are supported by the 'Plain 2' setting?
+609,24,spec,valid,,"For the 'Plain 2' option, what is the allowable range of paper weight?"
+610,24,spec,valid,,What constitutes the paper weight spectrum for the 'Plain 2' configuration?
+611,26,procedure,valid,,What steps are required to print using paper that isn't currently in the paper d
+612,26,procedure,valid,,How can I print on sheets not loaded into the paper tray?
+613,26,procedure,valid,,In what way do you initiate printing when the desired paper is not inside the pa
+614,26,procedure,valid,,What is the method for adjusting the right guide's position?
+615,26,procedure,valid,,In what way can one modify where the right guide is located?
+616,26,procedure,valid,,How should the position of the right guide be adjusted?
+617,26,procedure,valid,,How can I adjust the front guide?
+618,26,procedure,valid,,What is the procedure for adjusting the front guide?
+619,26,procedure,valid,,"To adjust the front guide, what actions are required?"
+620,27,procedure,valid,,What is the proper procedure for preparing a stack of paper prior to loading it 
+621,27,procedure,valid,,"Before inserting paper into the printer, how should one ready a stack of sheets?"
+622,27,procedure,valid,,How do you get a pile of paper ready for use in the printer?
+623,27,procedure,valid,,What is the correct way to position the paper stack before placing it in the dra
+624,27,procedure,valid,,"When loading the printer, how must the paper be stacked for insertion into the t"
+625,27,procedure,valid,,How do you orient and arrange the paper when putting it into the drawer?
+626,28,rule_error,valid,,What are the consequences of not updating printer settings for a new paper size 
+627,28,rule_error,valid,,If you load different sized or typed paper without changing the printer settings
+628,28,rule_error,valid,,What is the result when loading various paper sizes or types while leaving print
+629,29,procedure,valid,,What is the procedure to set up the multi-purpose tray for oversized paper?
+630,29,procedure,valid,,In what way should one prepare the multi-purpose tray when using large-sized pap
+631,29,procedure,valid,,How can I get the multi-purpose tray ready for big sheets of paper?
+632,30,procedure,valid,,What steps are required to ready the paper prior to loading it into the multi-pu
+633,30,procedure,valid,,"Before placing paper in the multi-purpose tray for manual duplex printing, how s"
+634,30,procedure,valid,,How must one prepare sheets of paper before inserting them into the multi-purpos
+635,30,procedure,valid,,"When loading paper in the multi-purpose tray, what is required for the face that"
+636,30,procedure,valid,,How should one handle the side already printed before placing it into the multi-
+637,30,procedure,valid,,What action must be taken regarding the previously printed surface when insertin
+638,32,procedure,valid,,What is the proper way to ready envelopes prior to inserting them into the print
+639,32,procedure,valid,,"Before placing envelopes in the printer, what preparation steps are required?"
+640,32,procedure,valid,,How ought one to prepare an envelope before feeding it into the printer?
+641,32,procedure,valid,,"When loading envelopes, what factors require your attention regarding their orie"
+642,32,procedure,valid,,What should you observe about envelope placement when preparing to load them?
+643,32,procedure,valid,,What is the correct way to position envelopes prior to feeding them?
+644,32,procedure,valid,,In what manner must envelopes be organized before they are loaded into the print
+645,32,procedure,valid,,How ought one to set up the envelopes ahead of loading?
+646,33,procedure,valid,,What is the correct orientation for placing envelopes in the printer?
+647,33,procedure,valid,,In what direction must envelopes be positioned during loading?
+648,33,procedure,valid,,How do you align envelopes when inserting them into the printer?
+649,33,procedure,valid,,How should the envelopes be loaded according to the provided illustration?
+650,33,procedure,valid,,In what manner are the envelopes depicted in the image supposed to be inserted?
+651,33,procedure,valid,,What is the proper procedure for loading envelopes as illustrated?
+652,35,procedure,valid,,What is the procedure for loading logo-bearing paper in portrait mode?
+653,35,procedure,valid,,In what way should one insert paper featuring logos to maintain a portrait orien
+654,35,procedure,valid,,What is the correct method for loading paper into the drawer if it features a lo
+655,35,procedure,valid,,In which orientation should paper bearing a logo be placed in the paper drawer?
+656,35,procedure,valid,,How do you load logo-printed paper into the printer's paper tray?
+657,35,procedure,valid,,Which way should you orient a document when placing it on the platen glass?
+658,35,procedure,valid,,How do I correctly position a document on the platen glass for scanning or copyi
+659,38,procedure,valid,,What steps are required to align printer settings with the paper that is loaded?
+660,38,procedure,valid,,How can you make sure the printer's configuration matches the specifications of 
+661,38,procedure,valid,,"When changing to a different type of paper, what is the correct procedure?"
+662,38,procedure,valid,,How does one proceed upon loading a new kind of paper in an HP printer?
+663,38,procedure,valid,,What actions are required when you load a different paper type?
+664,38,procedure,valid,,What is the procedure to configure the Multi-Purpose Tray to consistently use a 
+665,38,procedure,valid,,How can I set up the Multi-Purpose Tray so that it always uses the same kind of 
+666,38,procedure,valid,,In order for the Multi-Purpose Tray to always utilize identical paper dimensions
+667,38,procedure,valid,,What steps are required to choose an alternative paper size when it does not app
+668,38,procedure,valid,,In what way can one select another paper dimension if it is missing from the scr
+669,38,procedure,valid,,How should a different paper size be selected in cases where it isn't shown on t
+670,38,procedure,valid,,In what way can one adjust the machine so that it displays only frequently used 
+671,39,procedure,valid,,What is the method for accessing additional paper sizes that are not displayed o
+672,39,procedure,valid,,In what way can you reach other paper formats unavailable on the primary display
+673,39,procedure,valid,,How can one access paper sizes beyond those shown on the main interface?
+674,39,procedure,valid,,What is the correct procedure for loading paper into the printer's paper drawer?
+675,39,procedure,valid,,In what manner does one insert paper into the printer's paper tray?
+676,39,procedure,valid,,How do you place paper in the printer's paper drawer?
+677,39,procedure,valid,,Which paper types work with this printer?
+678,39,procedure,valid,,For what kinds of paper is this printer suitable?
+679,39,procedure,valid,,What papers can be used in this device?
+680,40,procedure,valid,,What is the procedure to register a custom paper size and type?
+681,40,procedure,valid,,In what way do I register a specific paper size and type as custom?
+682,40,procedure,valid,,How does one go about registering a custom paper size and type?
+683,40,procedure,valid,,In what way do you define the length for side <X>?
+684,41,procedure,valid,,What is the procedure for specifying the Y-side length?
+685,41,procedure,valid,,In what way can one define the length of the Y side?
+686,41,procedure,valid,,How does one set the dimension of the Y side?
+687,41,procedure,valid,,How can I load paper into the multi-purpose tray?
+688,41,procedure,valid,,I wish to utilize the multi-purpose tray for paper; what is the procedure?
+689,41,procedure,valid,,What steps are required to use the multi-purpose tray for loading paper?
+690,42,spec,valid,,Which time setting does the manual specify as the default?
+691,42,spec,valid,,"According to the manual, what is the standard or default time configuration?"
+692,42,spec,valid,,What default time value is indicated in the documentation?
+693,43,procedure,valid,,How does the Auto Sleep Time setting operate?
+694,43,procedure,valid,,What purpose does the Auto Sleep Time setting serve?
+695,43,procedure,valid,,What is the procedure to modify the printer's automatic sleep duration?
+696,43,procedure,valid,,How do you set or change the time for the printer to enter auto sleep?
+697,45,procedure,valid,,What is the procedure for making a basic copy on this printer?
+698,45,procedure,valid,,How does one perform a basic copy with this printer?
+699,46,procedure,valid,,What is the procedure for initiating basic copying as outlined in the manual?
+700,46,procedure,valid,,"According to the manual, how can one begin basic copy operations?"
+701,46,procedure,valid,,How does the manual describe starting basic copies?
+702,46,procedure,valid,,How can I choose a particular kind of copy paper?
+703,46,procedure,valid,,"If selecting a specific type of copy paper is required, what steps should be tak"
+704,46,procedure,valid,,What action is necessary when you need to pick out a certain variety of copy pap
+705,46,procedure,valid,,What is the method to stop copies currently being made?
+706,47,procedure,valid,,What steps are required to modify the printer's default configurations?
+707,47,procedure,valid,,In what way do I alter the standard settings on my HP printer?
+708,47,procedure,valid,,How is it possible to update the factory defaults for my printer?
+709,47,procedure,valid,,How can I manage frequent usage of specific copy settings?
+710,47,procedure,valid,,"If I often rely on particular copy configurations, what is the recommended appro"
+711,47,procedure,valid,,What steps should be taken when certain copy settings are used regularly?
+712,48,procedure,valid,,What is the procedure for setting the number of copies to print?
+713,48,procedure,valid,,In what way can one indicate the desired quantity of printed copies?
+714,48,procedure,valid,,How do you set the copy count for printing?
+715,48,procedure,valid,,What steps are required to cancel an entered copy quantity?
+716,49,procedure,valid,,How can I stop the copy process?
+717,49,procedure,valid,,"If I wish to halt copying, what action is required?"
+718,49,procedure,valid,,What steps should be taken to cancel a copy job?
+719,49,procedure,valid,,What is the procedure to begin scanning another document?
+720,49,procedure,valid,,In what way can I initiate the scan for the subsequent document?
+721,49,procedure,valid,,How do I proceed to start scanning the following document?
+722,49,procedure,valid,,What steps should be taken to copy using identical settings upon encountering th
+723,49,procedure,valid,,"When the <Paper Size & Settings Mismatch> message is displayed, how can I procee"
+724,49,procedure,valid,,How can I ensure copies are made with consistent settings if a <Paper Size & Set
+725,50,procedure,valid,,What is the method to designate the paper source when making print copies?
+726,50,procedure,valid,,What is the method for selecting paper from the multi-purpose tray?
+727,50,procedure,valid,,In what way can one choose the paper situated in the multi-purpose tray?
+728,50,procedure,valid,,How do you go about choosing the paper loaded into the multi-purpose tray?
+729,50,procedure,valid,,What is the method for selecting the paper that has been loaded into the drawer?
+730,50,procedure,valid,,In what way can one choose the paper currently placed in the drawer?
+731,50,procedure,valid,,How does one go about picking out the paper situated within the drawer?
+732,51,procedure,valid,,What is the procedure to stop a copy job on this printer?
+733,51,procedure,valid,,How do I terminate the copying process on this HP printer?
+734,51,procedure,valid,,How can I verify the copy status prior to cancellation?
+735,51,procedure,valid,,"Before canceling, what steps allow me to check if copying is in progress?"
+736,51,procedure,valid,,What method exists for checking copy status before stopping it?
+737,51,procedure,valid,,What steps are required to stop a copied document from printing after it has fin
+738,51,procedure,valid,,How can I abort the print job for a scanned copy that is currently queued?
+739,51,procedure,valid,,In what way do you cancel a scan-to-print task once the copying process is compl
+740,51,procedure,valid,,What is the procedure to stop an ongoing copy or print task?
+741,51,procedure,valid,,In what way can one abort a pending print or copying operation?
+742,51,procedure,valid,,How does one terminate a current printing or copying job?
+743,52,procedure,valid,,What is the method to see the specifics of an active copy job without terminatin
+744,54,spec,valid,,Which restrictions apply to the copy ratio feature?
+745,54,spec,valid,,What are the limitations associated with the copy ratio function?
+746,54,spec,valid,,How is the copy ratio feature restricted?
+747,54,procedure,valid,,What is the method for enlarging or reducing copies via preset ratios?
+748,54,procedure,valid,,How are copy sizes adjusted larger or smaller with preset ratio settings?
+749,54,procedure,valid,,How can I configure a custom copy ratio?
+750,54,procedure,valid,,"To establish a custom copy ratio, what steps are required?"
+751,54,procedure,valid,,What is the procedure for setting up a custom copy ratio?
+752,54,procedure,valid,,In what way can one adjust the copy ratio on this device?
+753,54,procedure,valid,,How should the copy ratio be configured on this printer?
+754,55,procedure,valid,,What is the procedure to choose the optical image quality setting for copying?
+755,55,procedure,valid,,In what way can one configure the optical image quality when making copies?
+756,55,procedure,valid,,How do you set the copy's optical image quality?
+757,55,procedure,valid,,How does one select the correct document type?
+758,55,procedure,valid,,Which steps are required to determine the suitable document type?
+759,55,procedure,valid,,What is the procedure for choosing an appropriate document type?
+760,55,procedure,valid,,What is the procedure for copying documents consisting solely of text?
+761,55,procedure,valid,,What is the proper usage for this printer setting?
+762,55,procedure,valid,,In what manner ought one to utilize this printer configuration?
+763,55,procedure,valid,,How does one correctly apply this printer option?
+764,55,procedure,valid,,What is the correct orientation for placing documents to copy printed photos fou
+765,55,procedure,valid,,"When copying images from magazine pages, how ought you position the document?"
+766,55,procedure,valid,,How do you correctly place a source document when making copies of printed photo
+767,56,procedure,valid,,What is the procedure for adjusting the copy density on this printer?
+768,56,procedure,valid,,In what way can I change the copy density settings on this device?
+769,56,procedure,valid,,How can one modify the copy density level using this printer?
+770,56,procedure,valid,,How can you resolve issues where printed text or images appear excessively faint
+771,56,procedure,valid,,What steps should be taken to correct documents that print too light or too dark
+772,56,procedure,valid,,By what method is the optimal print density determined by the printer?
+773,56,procedure,valid,,What process enables the printer to establish the ideal document density?
+774,56,procedure,valid,,How does the printer ascertain the best density level for a document?
+775,56,procedure,valid,,Which setting does the printer use by default for document type during copying?
+776,56,procedure,valid,,"When creating a copy, what is the factory-set option for original type?"
+777,56,procedure,valid,,What is the preset configuration for original source type when making copies?
+778,57,procedure,valid,,What is the procedure for copying two document pages onto a single sheet?
+779,57,procedure,valid,,In what way can I print two pages from a document on just one piece of paper?
+780,57,procedure,valid,,How do I combine two pages into one when making copies?
+781,57,procedure,valid,,Which option allows me to print four document pages on a single sheet?
+782,57,procedure,valid,,How do I choose the setting to copy four pages onto one page?
+783,57,procedure,valid,,What selection is required to fit four pages of text onto one sheet?
+784,57,procedure,valid,,In what way can one reach the layout choices within the printer documentation?
+785,57,procedure,valid,,What is the procedure for accessing layout settings as described in the user gui
+786,57,procedure,valid,,How are layout options accessed according to the printer manual?
+787,59,procedure,valid,,What is the procedure for initiating a double-sided copy of an ID card on this p
+788,59,procedure,valid,,How can I begin copying both sides of an identification card using this device?
+789,59,procedure,valid,,In what way do you start making copies that include both sides of an ID card wit
+790,59,procedure,valid,,"After putting the card on the scanner glass, what is the next step?"
+791,59,procedure,valid,,"Once the card has been placed on the scanner glass, what should be done?"
+792,59,procedure,valid,,What action follows placing the card onto the scanner glass?
+793,60,procedure,valid,,What steps are required to begin erasing frame lines and dark borders?
+794,60,procedure,valid,,In what way can one initiate the removal of frame lines and dark borders?
+795,60,procedure,valid,,How is the process for deleting frame lines and dark borders started?
+796,60,procedure,valid,,Which parameter must be specified once an Erase Frame type is selected?
+797,60,procedure,valid,,"After choosing the Erase Frame type, what needs to be defined next?"
+798,60,procedure,valid,,What follows the selection of a specific Erase Frame type?
+799,60,procedure,valid,,What is the method for eliminating dark borders and frame lines on copies?
+800,60,procedure,valid,,In what way can one get rid of dark borders and frame lines from their copy?
+801,60,procedure,valid,,How are dark borders and frame lines removed when making a copy?
+802,60,procedure,valid,,What is the procedure for eliminating dark borders and lines during the copy pro
+803,60,procedure,valid,,How can one get rid of dark borders and lines when copying two-page spreads from
+804,60,procedure,valid,,In what way do you remove unwanted dark borders and lines that appear when copyi
+805,62,procedure,valid,,"When preparing multiple copies of multi-page documents, how can one determine th"
+806,62,procedure,valid,,How do you specify the copy order for individual sheets while creating multiple 
+807,62,procedure,valid,,How can one get ready to create meeting handouts?
+808,62,procedure,valid,,What action is required to prepare handouts for meetings or presentations?
+809,62,procedure,valid,,In what manner are the pages of a multi-page print job assembled?
+810,62,procedure,valid,,What is the arrangement method for multiple printed copies of a single document?
+811,62,procedure,valid,,How does the printer organize the output when printing several pages?
+812,62,procedure,valid,,What is the method used for collating copies on this printer?
+813,62,procedure,valid,,In what manner does the printer arrange the collated copies?
+814,62,procedure,valid,,How does the printer handle copy collation?
+815,62,procedure,valid,,"When utilizing the Rotate + Group function, what is the correct method for group"
+816,62,procedure,valid,,What is the proper way to arrange copies when using the Rotate + Group feature?
+817,62,procedure,valid,,How are document copies grouped with the Rotate + Group setting?
+818,63,procedure,valid,,What is the method for arranging copies while utilizing both the rotate and coll
+819,63,procedure,valid,,"When employing the rotate and collate features, how are the copies organized?"
+820,63,procedure,valid,,In what way should copies be arranged when using the combined rotate and collate
+821,64,procedure,valid,,In what way can one scan or copy opposing pages so they appear on separate pages
+822,64,procedure,valid,,"How does one duplicate facing documents into distinct, single-sided pages?"
+823,64,procedure,valid,,Which option do I need to choose for copying a document that has two facing page
+824,64,procedure,valid,,"To copy a document consisting of two side-by-side pages, what should be selected"
+825,64,procedure,valid,,What is the correct selection when copying a book-style page layout with two fac
+826,65,procedure,valid,,What steps are required to adjust the copy ratio to 95 percent and establish it 
+827,65,procedure,valid,,How can I set the copy ratio to 95% and make that the default configuration?
+828,65,procedure,valid,,"In order to change the copy ratio to 95%, what is the procedure, and how do I sa"
+829,66,procedure,valid,,"After choosing an item from the Change Default Settings menu, what is the next s"
+830,66,procedure,valid,,"Once you have selected an option in the Change Default Settings menu, what actio"
+831,66,procedure,valid,,What comes after selecting something within the Change Default Settings menu?
+832,67,procedure,valid,,What is the procedure for initiating registration of frequently used copy settin
+833,67,procedure,valid,,In what way can one begin to register commonly utilized copy configurations?
+834,67,procedure,valid,,How does one commence registering regular copy settings?
+835,67,procedure,valid,,Which option do you need to select in order to specify the setting combination f
+836,67,procedure,valid,,"To define which setting combination gets registered, what should be selected?"
+837,67,procedure,valid,,What is the selection required to choose a setting combination for registration?
+838,68,procedure,valid,,What is the procedure for printing documents from my computer?
+839,68,procedure,valid,,In what way can I print files using my computer on this printer?
+840,68,procedure,valid,,How are documents printed when connected to a computer?
+841,70,procedure,valid,,What is the process for printing a document created in a computer application?
+842,70,procedure,valid,,In what way can one print a file generated by software running on their PC?
+843,70,procedure,valid,,How does one go about printing a document that was made using an app on your com
+844,70,procedure,valid,,Which prerequisites must be met prior to utilizing the printer's functionality v
+845,70,procedure,valid,,"Before you can use the print feature from your PC, what is required?"
+846,70,procedure,valid,,What steps or conditions are necessary before printing from a computer?
+847,70,procedure,valid,,What is the method to obtain more details regarding the printer driver?
+848,70,procedure,valid,,In what way can one retrieve further information on the printer driver?
+849,70,procedure,valid,,How can additional data about the printer driver be accessed?
+850,70,procedure,valid,,Which items appear on the Help screen but are absent from the User's Guide?
+851,70,procedure,valid,,What content is available on the Help screen that does not exist in the User's G
+852,70,procedure,valid,,In what ways do the contents of the Help screen differ from those found in the U
+853,70,procedure,valid,,What are the steps to begin printing a document?
+854,70,procedure,valid,,In what way does one initiate the printing process for a file?
+855,70,procedure,valid,,How can I start the print job on my HP printer?
+856,70,procedure,valid,,What is the procedure for adjusting the printer's settings?
+857,70,procedure,valid,,In what way can one modify the configuration on the printer?
+858,70,procedure,valid,,How are the printer's settings modified?
+859,71,procedure,valid,,What is the procedure to cancel a print job after it begins?
+860,71,procedure,valid,,In what way can one halt an active printing task?
+861,71,procedure,valid,,How do I terminate a print operation that has already started?
+862,72,procedure,valid,,What is the procedure for cancelling print jobs from a computer as described in 
+863,72,procedure,valid,,"According to the manual, how can one cancel printing originating from a computer"
+864,72,procedure,valid,,How does the manual instruct you to stop or cancel printing from a computer?
+865,72,procedure,valid,,How do I stop a print job using the control panel?
+866,72,procedure,valid,,What procedure cancels printing via the control panel?
+867,72,procedure,valid,,Can you explain how to cancel prints from the printer's control panel?
+868,72,procedure,valid,,What steps should be taken to access the printer folder when the printer icon do
+869,72,procedure,valid,,"In cases where the printer icon is missing, how can one open the printer folder?"
+870,72,procedure,valid,,"If the printer icon isn't visible, what is the procedure for opening the printer"
+871,72,procedure,valid,,What is the procedure to stop printing a chosen document via the application int
+872,72,procedure,valid,,How do you abort the output of a selected document using the application display
+873,73,procedure,valid,,What is the procedure to stop a pending print task on this device?
+874,73,procedure,valid,,In what way can I halt an active printing operation using this printer?
+875,73,procedure,valid,,How do you terminate a job that is currently being printed by this machine?
+876,75,rule_error,valid,,"If I believe there is an error because my documents aren't printing, what steps "
+877,75,rule_error,valid,,What actions are recommended if a suspected error prevents document printing?
+878,75,procedure,valid,,How can I obtain additional details regarding a particular document currently in
+879,75,procedure,valid,,"If I need more information about a specific file in the print queue, what steps "
+880,75,procedure,valid,,Where do I go to get further info on a certain document within the print queue?
+881,77,procedure,valid,,What is the procedure to save commonly used configurations as defaults within th
+882,77,procedure,valid,,In what way can frequently utilized settings be established as default in the pr
+883,77,procedure,valid,,How does one register standard or often-used settings as the default configurati
+884,77,procedure,valid,,How can one apply the 'TOP SECRET' watermark on multiple pages?
+885,77,procedure,valid,,"In order to frequently utilize 'TOP SECRET' as a watermark, what steps are requi"
+886,77,procedure,valid,,What is the procedure for repeatedly using 'TOP SECRET' as a watermark?
+887,78,procedure,valid,,What is the best way to speed up frequent specification of print settings?
+888,78,procedure,valid,,Is there a method to reduce time spent on setting print options often?
+889,78,procedure,valid,,What is the procedure to begin modifying print settings?
+890,78,procedure,valid,,In what way can I initiate adjustments to the print configuration?
+891,78,procedure,valid,,How should one go about starting changes to the print options?
+892,78,procedure,valid,,What is the procedure to see the settings that are about to be saved?
+893,78,procedure,valid,,How does one access the pending registered settings?
+894,78,procedure,valid,,What is required to be entered into the Comment field?
+895,78,procedure,valid,,Which information belongs in the [Comment] box?
+896,78,procedure,valid,,Where should you input data within the Comment section?
+897,79,procedure,valid,,How can I configure the printer so that two document pages appear on every singl
+898,79,procedure,valid,,What is the procedure for printing two document pages per output page consistent
+899,79,procedure,valid,,"If my goal is to have each printout contain two document pages, what action shou"
+900,80,procedure,valid,,What is the procedure for configuring print settings to meet requirements?
+901,80,procedure,valid,,In what way can I adjust the print settings according to specific needs?
+902,80,procedure,valid,,How are required print configurations set up?
+903,82,procedure,chunk_mismatch,chunk overlap 0.15 < 0.30 with page 82,What are the steps to begin scanning original documents?
+904,82,procedure,chunk_mismatch,chunk overlap 0.15 < 0.30 with page 82,In what way can one initiate the scanning process for original documents?
+905,82,procedure,chunk_mismatch,chunk overlap 0.15 < 0.30 with page 82,How does one start the procedure for scanning originals?
+906,82,procedure,chunk_mismatch,chunk overlap 0.15 < 0.30 with page 82,Which file types result from the scanning process?
+907,82,procedure,chunk_mismatch,chunk overlap 0.15 < 0.30 with page 82,Scanned documents are transformed into which file formats?
+908,83,procedure,valid,,What is the procedure for initiating scans from this device and storing them on 
+909,83,procedure,valid,,In what way can I begin scanning documents to save onto my PC using this machine
+910,83,procedure,valid,,How do you scan documents with this printer and transfer/save them to a connecte
+911,83,procedure,valid,,What is the method for scanning documents that are positioned on the device?
+912,83,procedure,valid,,In what way do I scan papers located on the printer?
+913,83,procedure,valid,,How does one go about scanning items placed atop the machine?
+914,83,procedure,valid,,How can I scan documents to my computer?
+915,83,procedure,valid,,What methods exist for scanning via a PC?
+916,83,procedure,valid,,Which options allow me to use a computer for scanning?
+917,84,procedure,valid,,What is the procedure for initiating a scan of a document and storing it on a co
+918,84,procedure,valid,,How can one begin scanning a document to save it onto a PC?
+919,84,procedure,valid,,In what way do you start the process of capturing a document via scanner and sav
+920,84,procedure,valid,,Which options are available for configuration during document scanning?
+921,84,procedure,valid,,What parameters may be set when scanning documents?
+922,84,procedure,valid,,What configurable settings exist for the document scanning process?
+923,84,procedure,valid,,In what way do I alter the standard configuration options for MF Scan Utility?
+924,84,procedure,valid,,How does one change the preset configurations of MF Scan Utility?
+925,84,procedure,valid,,How can macOS users locate relevant driver or software manuals?
+926,84,procedure,valid,,"For macOS users, what steps are required to access the appropriate driver or sof"
+927,84,procedure,valid,,What is the procedure for macOS users to find applicable driver and software gui
+928,85,procedure,valid,,What is the procedure to start a scan on this printer?
+929,85,procedure,valid,,In what way can one begin scanning with this device?
+930,85,procedure,valid,,How does one commence a scan using this printer?
+931,85,procedure,valid,,How can I stop an ongoing scan?
+932,85,procedure,valid,,"If I want to abort the scanning process, what steps should be taken?"
+933,85,procedure,valid,,What is the procedure for cancelling a scan?
+934,85,spec,valid,,What is the highest scan resolution supported by this printer?
+935,85,spec,valid,,What is the top scanning resolution available on this device?
+936,85,spec,valid,,How high can the scanning resolution be set in this printer?
+937,85,procedure,valid,,What is the procedure for scanning multiple pages as described in the manual?
+938,85,procedure,valid,,"According to the manual, what steps are required to scan several pages?"
+939,85,procedure,valid,,How can one scan more than one page following the instructions provided?
+940,86,procedure,valid,,What steps should be taken to finish scanning once the save destination folder a
+941,86,procedure,valid,,"When the save destination folder is displayed, how can one complete the scan pro"
+942,86,procedure,valid,,How do you proceed with finishing a scan when prompted for the save destination 
+943,87,procedure,valid,,What is the procedure for scanning documents or images from this device to a com
+944,87,procedure,valid,,In what way can one scan files onto a PC using the provided machine?
+945,87,procedure,valid,,How do I transfer scanned documents or pictures from the printer to my computer?
+946,87,procedure,valid,,"According to the manual, what are the two methods for scanning from a computer?"
+947,87,procedure,valid,,What two procedures does the manual describe for initiating a scan from a comput
+948,87,rule_error,valid,,Which actions must be avoided while scanning images via an application?
+949,87,rule_error,valid,,"When utilizing an application to scan images, what should you refrain from doing"
+950,87,rule_error,valid,,What precautions are necessary when using an app for image scanning?
+951,88,rule_error,valid,,How to resolve an error message that occurs during multi-document scanning?
+952,88,rule_error,valid,,"If an error message shows up while scanning several pages, what is the recommend"
+953,88,rule_error,valid,,What steps should be taken when encountering a scan error with multiple document
+954,88,procedure,valid,,What is the procedure to choose the start scan command?
+955,88,procedure,valid,,In what way can one initiate the selection of the start scan command?
+956,88,procedure,valid,,How does one go about selecting the start scan command?
+957,88,procedure,valid,,What steps are required to reach the advanced scan configuration options?
+958,88,procedure,valid,,In what way can one navigate to the detailed scanning preferences?
+959,88,procedure,valid,,How is it possible to open up the high-level scan settings?
+960,88,procedure,valid,,What steps should be taken once the scanning operation completes?
+961,88,procedure,valid,,"After the scan has finished, what is the next procedure?"
+962,88,procedure,valid,,"Upon completion of the scanning process, how does one proceed?"
+963,90,procedure,valid,,What is the procedure to launch ScanGear MF while using the MF Scan Utility for 
+964,90,procedure,valid,,In what way can one initiate ScanGear MF when performing scans via the MF Scan U
+965,90,procedure,valid,,How does a user start ScanGear MF during a scan operation from the MF Scan Utili
+966,90,procedure,valid,,What is the method for scanning via an application?
+967,90,procedure,valid,,In what way can one perform a scan through an app?
+968,90,procedure,valid,,What steps should I take to preview my document's appearance prior to scanning?
+969,90,procedure,valid,,Is there a way to see how the scanned result will look before starting the scan 
+970,90,procedure,valid,,How do I verify what my document looks like before initiating the scan?
+971,90,procedure,valid,,How can I choose the specific portion of the document for scanning?
+972,90,procedure,valid,,Which steps are required to designate the area of the document to be scanned?
+973,90,procedure,valid,,What is the procedure for selecting a particular section of the document to scan
+974,91,procedure,chunk_mismatch,chunk overlap 0.08 < 0.30 with page 91,What steps should I take to prevent unauthorized individuals from accessing my s
+975,91,procedure,chunk_mismatch,chunk overlap 0.08 < 0.30 with page 91,How do I ensure that private details stored or processed by this printer cannot 
+976,93,procedure,valid,,What steps should be taken to stop unauthorized users from accessing the device?
+977,93,procedure,valid,,How do you ensure that only authorized personnel can access this machine?
+978,94,procedure,valid,,For what purpose is the System Manager PIN utilized?
+979,94,procedure,valid,,The System Manager PIN serves which function?
+980,94,procedure,valid,,What does the System Manager PIN accomplish?
+981,95,procedure,valid,,What is the procedure for setting up a System Manager PIN as described in this m
+982,95,procedure,valid,,"According to this guide, how can one configure a System Manager PIN?"
+983,95,procedure,valid,,In what way does this manual instruct users to establish a System Manager PIN?
+984,95,procedure,valid,,What is the procedure for setting a new System Manager PIN?
+985,95,procedure,valid,,In what way can one establish a fresh System Manager PIN?
+986,95,procedure,valid,,How does one configure a new System Manager PIN?
+987,95,procedure,valid,,What action is required when <PIN (Confirm)> appears?
+988,95,procedure,valid,,<PIN (Confirm)> is shown; what should be done?
+989,95,procedure,valid,,"When the display shows <PIN (Confirm)>, what steps must you take?"
+990,96,procedure,valid,,What is the procedure to limit USB functionality on this device?
+991,96,procedure,valid,,How can one prevent the use of USB functions on this machine?
+992,96,procedure,valid,,Why are USB functions restricted on this device?
+993,96,procedure,valid,,For what reason does this machine limit its USB capabilities?
+994,96,procedure,valid,,What is the rationale behind restricting USB functionality on this printer?
+995,97,procedure,valid,,What is the procedure to turn off the USB port on this printer?
+996,97,procedure,valid,,In what way can I deactivate the USB port on this device?
+997,97,procedure,valid,,How do you go about disabling the USB functionality of this printer?
+998,97,procedure,valid,,What is the function of choosing <Off> here?
+999,97,procedure,valid,,"<Off>, when selected, performs what action in this situation?"
+1000,97,procedure,valid,,"In this context, what happens if I select <Off>?"
+1001,97,procedure,valid,,What is the correct way to restart the printer for this procedure?
+1002,97,procedure,valid,,In what manner must I reboot the printer to carry out this task?
+1003,100,procedure,valid,,What is the method for identifying default settings within the display preferenc
+1004,100,procedure,valid,,In what way do you locate the default configurations shown in the display prefer
+1005,100,procedure,valid,,How does one determine which settings are set as defaults on the display prefere
+1006,100,procedure,valid,,What is the procedure to modify the default display shown following boot-up or a
+1007,100,procedure,valid,,In what way can one alter the initial screen that displays after startup or auto
+1008,100,procedure,valid,,How does a user change which screen appears by default once the device has start
+1009,100,procedure,valid,,What is the procedure for reordering buttons on the Home screen?
+1010,100,procedure,valid,,In what way can one rearrange the button sequence displayed on the Home screen?
+1011,100,procedure,valid,,How are the orderings of the buttons modified within the Home screen interface?
+1012,100,procedure,valid,,If the screen remains difficult to see even after changing the brightness settin
+1013,100,procedure,valid,,What steps are recommended when the display is hard to view despite adjusting th
+1014,100,procedure,valid,,"In cases where the display stays hard to read after a brightness adjustment, wha"
+1015,101,procedure,valid,,What is the procedure for selecting the unit of measurement on the printer?
+1016,101,procedure,valid,,In what way can one choose the unit of measurement within the printer settings?
+1017,101,procedure,valid,,How does one go about choosing a unit of measurement in the printer?
+1018,101,procedure,valid,,What is the procedure for enabling the pop-up confirmation screen for paper load
+1019,101,procedure,valid,,How can I turn on the feature that displays a pop-up to verify the paper in the 
+1020,101,procedure,valid,,"To confirm the paper loading status, how do you activate the pop-up screen?"
+1021,101,procedure,valid,,How can one configure the time between message displays?
+1022,101,procedure,valid,,What steps are required to adjust the display interval for various messages?
+1023,101,procedure,valid,,"To set how often different messages appear, what must be done?"
+1024,102,procedure,valid,,What is the method for adjusting the screen scrolling speed on this printer?
+1025,102,procedure,valid,,In what way can one modify the rate at which the screen scrolls in this device?
+1026,102,procedure,valid,,How does a user change the scroll speed of the display on this printer?
+1027,102,procedure,valid,,How can I adjust the scrolling speed on this printer?
+1028,102,procedure,valid,,What is required to modify the scrolling velocity on this HP printer?
+1029,103,procedure,valid,,What is the method to locate the default timer settings?
+1030,103,procedure,valid,,Where can one discover the standard configuration for the timer?
+1031,103,procedure,valid,,How do I access the preset values for the timer?
+1032,103,procedure,valid,,What is the procedure for setting the date format on the printer?
+1033,103,procedure,valid,,In what way can I configure the printer's date format?
+1034,103,procedure,valid,,How can one change the date format settings in the printer?
+1035,103,procedure,valid,,Which settings control the timestamp displayed on every report?
+1036,103,procedure,valid,,The date and time shown on each report are determined by what factor?
+1037,103,procedure,valid,,What dictates when the time appears on individual reports?
+1038,103,procedure,valid,,Which date formats can be selected on the printer?
+1039,103,procedure,valid,,What are the supported date display options for the printer?
+1040,103,procedure,valid,,What is the procedure to modify the clock display settings on the printer?
+1041,103,procedure,valid,,How are the printer's clock display options adjusted?
+1042,103,procedure,valid,,How can I configure the current date and time settings on the printer?
+1043,103,procedure,valid,,"To update the printer's clock to the correct date and time, what steps must be t"
+1044,103,procedure,valid,,What procedure is required to set today's date and time on this HP printer?
+1045,104,procedure,valid,,What is the procedure for selecting the time zone on this printer?
+1046,104,procedure,valid,,In what way can one choose the time zone settings on this device?
+1047,104,procedure,valid,,How does one go about setting the time zone on this printer?
+1048,104,procedure,valid,,How can I enable daylight saving time?
+1049,104,procedure,valid,,"To activate daylight saving time, what steps must be taken?"
+1050,104,procedure,valid,,What is the procedure for enabling daylight saving time?
+1051,105,procedure,valid,,What is the procedure to turn off the Auto Reset feature on this printer?
+1052,105,procedure,valid,,In what way can one deactivate the Auto Reset function for this device?
+1053,105,procedure,valid,,How can I switch off the Auto Reset capability on this HP printer?
+1054,105,procedure,valid,,How can one set the frequency for the Auto Reset operation?
+1055,105,procedure,valid,,Which steps are required to define how often the Auto Reset occurs?
+1056,105,procedure,valid,,What is the procedure for specifying the time interval between Auto Resets?
+1057,105,procedure,valid,,What is the method for restoring the display to its default screen following an 
+1058,105,procedure,valid,,"After executing an Auto Reset, how can one revert the display back to the defaul"
+1059,105,procedure,valid,,How can I ensure the main screen of the function chosen under 'Default Screen af
+1060,105,procedure,valid,,What steps are required to display the primary screen for the selected function 
+1061,105,procedure,valid,,To have the main screen corresponding to the setting in 'Default Screen after St
+1062,106,procedure,valid,,What steps are required to set the duration before automatic sleep activates?
+1063,106,procedure,valid,,In what way can one define the timeout interval for triggering auto sleep?
+1064,106,procedure,valid,,How is the time period configured that precedes an auto-sleep action?
+1065,106,procedure,valid,,What is the procedure for keeping the machine online?
+1066,106,procedure,valid,,What steps are required to define an automatic offline time period for the machi
+1067,106,procedure,valid,,In what way can one adjust the timer for the printer's auto-shutdown feature?
+1068,106,procedure,valid,,How is the auto shutdown time configured on this device?
+1069,108,procedure,valid,,In what way do I find out which are the standard configurations for the paper dr
+1070,108,procedure,valid,,How does one ascertain the factory defaults regarding how the paper drawer opera
+1071,108,procedure,valid,,What is the procedure to activate the automatic drawer selection feature when pr
+1072,108,procedure,valid,,"To print documents, how can I enable the automatic drawer selection function?"
+1073,108,procedure,valid,,How do you turn on the automatic drawer selection capability for document printi
+1074,108,procedure,valid,,Which settings exist within the 'Printer' category to manage automatic paper sou
+1075,108,procedure,valid,,What choices are provided in the 'Printer' section for auto-selecting the paper 
+1076,108,procedure,valid,,"How can one configure paper source auto-selection under the 'Printer' category, "
+1077,109,procedure,valid,,What is the procedure for starting automatic drawer selection configuration?
+1078,109,procedure,valid,,In what way can one initiate the setup of automatic drawer selection?
+1079,109,procedure,valid,,How should I start setting up the feature that automatically selects drawers?
+1080,109,procedure,valid,,Which option is appropriate for tasks such as printing reports and lists?
+1081,109,procedure,valid,,"For operations including report and list printing, what should be chosen?"
+1082,109,procedure,valid,,What settings do I need to pick when performing functions like generating report
+1083,109,procedure,valid,,What is the procedure to enable a source within this printer's configuration?
+1084,109,procedure,valid,,In what way can one activate a source during this printer setup process?
+1085,109,procedure,valid,,How does one go about enabling a source in the current printer setup?
+1086,110,procedure,valid,,What is the procedure for modifying the default copy settings?
+1087,110,procedure,valid,,In what way do I alter the standard configuration for copying?
+1088,110,procedure,valid,,How are the default parameters for copies adjusted?
+1089,110,procedure,valid,,How can I set up automatic recognition for the original document's orientation?
+1090,110,procedure,valid,,What procedure allows me to enable auto-detection of the original paper's orient
+1091,111,procedure,valid,,What is the procedure to activate the Auto Recognize Original Orientation settin
+1092,111,procedure,valid,,By what steps can I turn on the Auto Recognize Original Orientation feature?
+1093,111,procedure,valid,,How can one enable the printer's Auto Recognize Original Orientation capability?
+1094,111,procedure,valid,,What is the procedure for restoring copy settings to their original factory defa
+1095,111,procedure,valid,,In what way can one reset the copy configurations back to factory default values
+1096,111,procedure,valid,,How are copy settings returned to the manufacturer's factory presets?
+1097,112,procedure,valid,,Where are the default settings located within the printer manual?
+1098,112,procedure,valid,,What is the procedure to activate the Paper Size Override feature?
+1099,112,procedure,valid,,In what way can I turn on the Paper Size Override function for this printer?
+1100,112,procedure,valid,,How do you proceed with enabling the Paper Size Override option?
+1101,112,procedure,valid,,What is the procedure to activate the Toner Save function on this device?
+1102,112,procedure,valid,,In what way can I turn on the Toner Save feature for this printer?
+1103,112,procedure,valid,,How can one enable the Toner Save mode on this specific printer?
+1104,113,spec,valid,,Which model number does this printer have?
+1105,113,spec,valid,,Can you identify the model number for this printer?
+1106,113,spec,valid,,What is the specific model designation of this printer?
+1107,113,procedure,valid,,What is the procedure for adjusting printer density as outlined in the manual?
+1108,113,procedure,valid,,How should you modify the printer density following the instructions in the manu
+1109,113,procedure,valid,,What steps should be taken to lower toner usage during copy operations?
+1110,113,procedure,valid,,In what way can one minimize the amount of toner used while making copies?
+1111,113,procedure,valid,,How is it possible to decrease toner consumption when performing a copy?
+1112,114,procedure,valid,,What is the method to reach the Speed/Image Quality Priority settings specifical
+1113,114,procedure,valid,,In order to access the Speed/Image Quality Priority settings for Rotate + Collat
+1114,114,procedure,valid,,Where can one find the Speed/Image Quality Priority settings configured for Rota
+1115,114,procedure,valid,,What steps should be taken to enhance print quality when results are unsatisfact
+1116,114,procedure,valid,,"If the printed output is poor, how can I improve its quality?"
+1117,114,procedure,valid,,How do I fix unsatisfactory print quality?
+1118,114,procedure,valid,,What is the procedure to reach the Special Printing Mode setting?
+1119,114,procedure,valid,,In what way can one navigate to the Special Printing Mode configuration?
+1120,114,procedure,valid,,How does a user access the option for Special Printing Mode?
+1121,114,procedure,valid,,How can frequent paper jams in the multi-purpose tray during two-sided copying o
+1122,114,procedure,valid,,What steps should I take if using the multi-purpose tray for reverse-side copy/p
+1123,114,procedure,valid,,If the multi-purpose tray frequently jams when printing or copying on both sides
+1124,114,procedure,valid,,In what way can one reach the Special Printing Mode M configuration options?
+1125,114,procedure,valid,,How can I get into the Special Printing Mode M settings?
+1126,114,procedure,valid,,How can one resolve issues where paper curls or gets jammed while printing on da
+1127,114,procedure,valid,,What steps should be taken if the printer experiences curling or jams when using
+1128,114,procedure,valid,,"If paper becomes curled or stuck during a print job on wet media, what is the re"
+1129,115,procedure,valid,,What steps should be taken to minimize print wait times during a switch to a lar
+1130,115,procedure,valid,,How do you decrease the delay when printing after changing to bigger paper?
+1131,115,procedure,valid,,In what way can waiting time for printing be reduced upon switching to a larger 
+1132,115,procedure,valid,,How can I resolve curling issues when using lightweight paper?
+1133,115,procedure,valid,,"If the printed pages are curling while using light-weight stock, what is the rec"
+1134,115,procedure,valid,,What steps should be taken to address paper curling during printing on lightweig
+1135,116,procedure,valid,,What is the procedure for accessing the Special Printing Mode F setting to resol
+1136,116,procedure,valid,,"To fix uneven images, how can one access the Special Printing Mode F setting?"
+1137,116,procedure,valid,,How do you reach the Special Printing Mode F configuration in order to correct u
+1138,116,procedure,valid,,What is the procedure for cleaning the transfer roller?
+1139,116,procedure,valid,,In what way can one clean the transfer roller?
+1140,116,procedure,valid,,Could you explain how to clean the transfer roller?
+1141,116,procedure,valid,,What is the correct procedure for cleaning the drum unit if print quality declin
+1142,116,procedure,valid,,"When print quality worsens, how do you clean the drum unit?"
+1143,116,procedure,valid,,In what way should the drum unit be cleaned to address deteriorating print quali
+1144,117,procedure,valid,,What indicates that the fixing assembly needs cleaning?
+1145,117,procedure,valid,,When is the appropriate time to perform maintenance on the fixing assembly by cl
+1146,117,procedure,valid,,How can one determine if the fixing assembly requires cleaning?
+1147,118,procedure,valid,,What is the required number of digits for the System Manager PIN?
+1148,118,procedure,valid,,The System Manager PIN must contain how many digits?
+1149,118,procedure,valid,,"How long, in terms of digit count, should the System Manager PIN be?"
+1150,118,procedure,valid,,What steps are required to define the country or region for the printer's operat
+1151,118,procedure,valid,,How should the usage location (country/region) be set up on the printer?
+1152,119,procedure,valid,,What is the method to activate remote scanning without accessing the control pan
+1153,119,procedure,valid,,In what way can one enable the remote scanning feature bypassing the control pan
+1154,119,procedure,valid,,How can I turn on the remote scanning capability if not using the control panel?
+1155,119,procedure,valid,,"In what way can I turn on the display of logs related to copying, printing, and "
+1156,119,procedure,valid,,"How do you configure the machine to show logs for copying, printing, and scannin"
+1157,119,procedure,valid,,What actions are required following an adjustment to the USB device settings?
+1158,119,procedure,valid,,"After modifying the USB device configurations, what is the next step?"
+1159,119,procedure,valid,,"Once you have changed the USB device settings, what should be done?"
+1160,120,procedure,valid,,"In Plug and Play mode, what is the procedure to choose a page description langua"
+1161,120,procedure,valid,,What steps are required to select a page description language for a USB link whi
+1162,120,procedure,valid,,How can one pick a page description language via USB during Plug and Play operat
+1163,120,procedure,valid,,What is the method for connecting an LT printer to a machine?
+1164,120,procedure,valid,,In what way can one connect a machine to an LT printer?
+1165,120,procedure,valid,,How do you establish a connection between a machine and an LT printer?
+1166,120,spec,valid,,Which printer model is connected to by this device?
+1167,120,spec,valid,,As what kind of printer does this machine establish its connection?
+1168,120,spec,valid,,What classification of printer does this unit connect as?
+1169,120,procedure,valid,,What is the procedure for manually installing a firmware update?
+1170,120,procedure,valid,,In what way can one perform a manual installation of a firmware update?
+1171,120,procedure,valid,,How is a firmware update installed manually?
+1172,121,procedure,valid,,What steps are required to reset all settings back to factory default?
+1173,121,procedure,valid,,In what way do I revert every setting to its original factory configuration?
+1174,121,procedure,valid,,How is it possible to restore the device's settings to their initial factory sta
+1175,121,procedure,valid,,How can I restore only particular settings?
+1176,121,procedure,valid,,What actions are required when restoring specific settings exclusively?
+1177,121,procedure,valid,,What is the procedure for erasing all stored information and restoring the print
+1178,121,procedure,valid,,In what way do you clear all user data on the HP printer and revert it to factor
+1179,122,rule_error,chunk_mismatch,chunk overlap 0.14 < 0.30 with page 122,"When encountering an issue with your printer, what is the initial step you shoul"
+1180,122,rule_error,chunk_mismatch,chunk overlap 0.14 < 0.30 with page 122,What action needs to be taken first upon experiencing a problem with my printer?
+1181,122,rule_error,chunk_mismatch,chunk overlap 0.14 < 0.30 with page 122,"In the event that a fault occurs with my printer, what should I do initially?"
+1182,123,procedure,valid,,What is the procedure for starting to address a paper jam in the printer?
+1183,123,procedure,valid,,In what way does one begin resolving a paper jam within the printer?
+1184,123,procedure,valid,,How should you initiate the process of dealing with a paper jam in the printer?
+1185,123,rule_error,valid,,What action is required when the printer display presents a three-digit error co
+1186,123,rule_error,valid,,"If the printer's screen indicates an error composed of three numbers, what steps"
+1187,123,rule_error,valid,,How do I respond to a three-digit error code appearing on the printer screen?
+1188,123,procedure,valid,,What steps should be taken when print quality is unsatisfactory?
+1189,123,procedure,valid,,How can one address situations where printing results fall short of satisfaction
+1190,123,rule_error,valid,,"If the manual does not resolve the printer issue, what steps should I take?"
+1191,123,rule_error,valid,,What actions are recommended when a printer problem cannot be fixed by following
+1192,123,rule_error,valid,,"In cases where the manual fails to solve a printer problem, what should I do?"
+1193,125,procedure,valid,,"In cases where the display procedures lack clarity, how should one proceed?"
+1194,125,procedure,valid,,What steps should be taken when the displayed procedures are not easy to underst
+1195,127,procedure,valid,,What is the correct procedure for closing the printer's left cover?
+1196,127,procedure,valid,,In what manner do I shut the left cover on the printer?
+1197,127,procedure,valid,,How does one close the left side cover of the printer?
+1198,128,procedure,valid,,"Before taking out jammed paper, what is the correct procedure?"
+1199,128,procedure,valid,,How do you proceed before removing paper that has become jammed?
+1200,130,procedure,valid,,What is the procedure for closing the left cover?
+1201,130,procedure,valid,,In what manner do you shut the left cover?
+1202,130,procedure,valid,,How does one go about closing the left cover?
+1203,134,procedure,valid,,What indicates that my printer has insufficient memory or operational issues?
+1204,134,procedure,valid,,In what ways can I determine if the printer's memory is full or experiencing fau
+1205,134,procedure,valid,,How can I tell whether there are operation problems or a full memory on my print
+1206,134,procedure,valid,,What is the procedure for resolving a paper jam during printer cleaning?
+1207,134,procedure,valid,,In what way should one address a paper jam that occurs while cleaning the printe
+1208,134,procedure,valid,,How can I clear a paper jam if it happens when I am trying to clean the printer?
+1209,134,procedure,valid,,What action is required when insufficient toner remains to clean the fixing asse
+1210,134,procedure,valid,,"If the toner level is too low to perform cleaning on the fixing assembly, what s"
+1211,134,procedure,valid,,What action should be taken when the drum unit has not been installed?
+1212,134,procedure,valid,,"If the drum unit is missing, what steps must I follow?"
+1213,134,procedure,valid,,How do I proceed if the drum unit isn't inserted?
+1214,134,procedure,valid,,What steps should be taken if the message '<Drawer 1> or <Multi-Purpose Tray>' d
+1215,134,procedure,valid,,When 'XXXX' shows a lack of paper and triggers the '<Drawer 1> or <Multi-Purpose
+1216,134,procedure,valid,,How should one respond when the error message indicating '<Drawer 1> or <Multi-P
+1217,135,procedure,valid,,What is the procedure to change the paper size setting when it does not correspo
+1218,135,procedure,valid,,"If the configured paper size differs from the one in the tray, how should you mo"
+1219,135,procedure,valid,,How can I update the paper size configuration if there is a mismatch with the in
+1220,135,procedure,valid,,"When printing from a computer, what needs to be checked if the paper sizes do no"
+1221,135,procedure,valid,,"If there is a mismatch in paper size while printing from a PC, what should you i"
+1222,135,procedure,valid,,What steps should be taken regarding paper size discrepancies during computer pr
+1223,135,procedure,valid,,What steps should be taken once the toner cartridge reaches the end of its lifes
+1224,135,procedure,valid,,In what way do you proceed when the toner cartridge has completed its useful lif
+1225,135,procedure,valid,,How should one act if the toner cartridge is at the end of its lifetime?
+1226,135,procedure,valid,,How do I handle a toner cartridge that has finished its life?
+1227,135,procedure,valid,,What steps are required for a toner cartridge at the end of its lifetime?
+1228,135,procedure,valid,,"To deal with a toner cartridge that has reached the end of its usable period, wh"
+1229,135,procedure,valid,,What steps should be taken when the printer disconnects from the computer mid-sc
+1230,135,procedure,valid,,"If the link between the printer and computer breaks while scanning, what is the "
+1231,135,procedure,valid,,"In the event that the scanner loses connection to the PC during operation, how d"
+1232,135,procedure,valid,,What steps are required to fix a scanning failure caused by lack of available me
+1233,135,procedure,valid,,How do you address an issue where the original document cannot be scanned becaus
+1234,135,procedure,valid,,In what way can one resolve a situation in which scanning fails due to inadequat
+1235,136,procedure,valid,,What steps are recommended for handling the print job if one page contains an ex
+1236,136,procedure,valid,,In what manner should you proceed when printing a document where a single page h
+1237,136,procedure,valid,,How do you handle printing a document that includes a page with significantly hi
+1238,136,rule_error,valid,,How can one resolve an issue that arises with the printer?
+1239,136,rule_error,valid,,"In the event of a printer malfunction, what is the appropriate course of action?"
+1240,136,rule_error,valid,,What steps should be taken when encountering a printer error?
+1241,136,procedure,valid,,What action is required once the drum unit reaches the end of its lifespan?
+1242,136,procedure,valid,,How should you respond when the drum unit's life has ended?
+1243,136,procedure,valid,,"When the drum unit expires, what steps must be taken?"
+1244,137,rule_error,valid,,"If an error code appears on the printer's status monitor, what actions should be"
+1245,137,rule_error,valid,,What is the procedure when you see an error code displayed on your printer's sta
+1246,137,rule_error,valid,,In the event of encountering an error code on the printer's status monitor displ
+1247,138,procedure,valid,,What steps should be taken to resolve printer problems?
+1248,138,procedure,valid,,"In case of printer difficulties, what is the correct procedure?"
+1249,138,procedure,valid,,"If I encounter issues with my printer, how do I proceed?"
+1250,138,procedure,valid,,What steps should be taken when the printer is powered on yet unresponsive?
+1251,138,procedure,valid,,"If the printer shows signs of being on but fails to respond, what action do you "
+1252,138,procedure,valid,,"In a scenario where the printer is turned on but does not respond, how should on"
+1253,138,procedure,valid,,What steps should I take to confirm that my USB cable is correctly connected to 
+1254,138,procedure,valid,,How do I check if the connection between my USB cable and the printer is secure?
+1255,138,procedure,valid,,What is the procedure to exit sleep mode on the printer?
+1256,138,procedure,valid,,In what way can the printer be awakened from its sleep state?
+1257,138,procedure,valid,,How do you bring the printer out of sleep mode?
+1258,138,rule_error,valid,,How can I resolve an issue if a problem message appears on the printer?
+1259,138,rule_error,valid,,"When a problem message shows up on the display, what steps should be taken?"
+1260,138,rule_error,valid,,What action is required when the printer displays a problem message?
+1261,138,procedure,valid,,What are the initial steps to start using the printer?
+1262,138,procedure,valid,,In what way does one commence operation of the printer?
+1263,138,procedure,valid,,How is the beginning process for utilizing the printer?
+1264,138,procedure,valid,,What steps should be taken when the printer fails to turn on despite pressing th
+1265,138,procedure,valid,,"If the printer does not start after hitting the power button, what is the approp"
+1266,138,procedure,valid,,How do you proceed if the printer remains off even though the power button has b
+1267,138,rule_error,valid,,What action is required when the printer's error light continues to blink?
+1268,138,rule_error,valid,,How can one resolve the issue if an error indicator blinks persistently on the p
+1269,138,rule_error,valid,,"If the error indicator keeps blinking, what steps should be taken?"
+1270,139,procedure,valid,,What is the correct procedure for loading paper?
+1271,139,procedure,valid,,In what way should one load paper to ensure it is done properly?
+1272,139,procedure,valid,,How can proper paper loading be achieved?
+1273,139,procedure,valid,,"When placing paper in the drawer or multi-purpose tray, what items need to be ve"
+1274,139,procedure,valid,,What must you inspect prior to loading paper into either the drawer or the multi
+1275,139,procedure,valid,,Which aspects should be checked before inserting paper into the drawer or multi-
+1276,139,procedure,valid,,What steps are required to confirm that the paper is prepared for printing?
+1277,139,procedure,valid,,In what way can one verify that the paper is ready before starting the print job
+1278,139,rule_error,valid,,Which section covers troubleshooting printer setup issues?
+1279,139,rule_error,valid,,"If I encounter problems during printer installation, where should I look for hel"
+1280,139,rule_error,valid,,Where can I find the relevant information if my printer is difficult to set up?
+1281,140,procedure,valid,,What steps should be taken to fix problems by adjusting the USB cable?
+1282,140,procedure,valid,,"In case of trouble, how do I modify my USB connection?"
+1283,140,procedure,valid,,"If there are issues, what is the procedure for readjusting the USB cable?"
+1284,140,procedure,valid,,How should one proceed when the printer connects via a USB hub?
+1285,140,procedure,valid,,What is the recommended action if the printer is linked through a USB hub?
+1286,141,rule_error,valid,,"If a test page cannot be printed while connected via USB, what steps should be t"
+1287,141,rule_error,valid,,What is the procedure when unable to print a test page and using a USB connectio
+1288,141,rule_error,valid,,"When you are unable to print a test page on a USB-connected printer, what action"
+1289,141,spec,valid,,What occurs if the printer has insufficient memory?
+1290,141,spec,valid,,How does the printer behave when its memory capacity is depleted?
+1291,141,spec,valid,,In what way does the printer respond to low memory conditions?
+1292,141,procedure,valid,,What steps should be taken after printing on narrow-width paper while the device
+1293,141,procedure,valid,,How do you proceed when the printer has finished printing on narrow width paper 
+1294,141,procedure,valid,,"If I forget to take off the sealing tape while installing the toner cartridge, w"
+1295,141,procedure,valid,,What action should be taken when the sealing tape remains on the toner cartridge
+1296,141,procedure,valid,,In the event that the sealing tape was not removed during toner cartridge instal
+1297,142,procedure,valid,,What steps should be taken to stop moisture from evaporating off wet paper insid
+1298,142,procedure,valid,,How is it possible to prevent water vaporization from moist paper in the printer
+1299,143,procedure,valid,,"What steps should be taken when print quality is poor, or if paper becomes creas"
+1300,143,procedure,valid,,"If the printed output is unsatisfactory or exhibits curling and creasing, what a"
+1301,143,procedure,valid,,How do I address issues where printing results fall short of expectations or pap
+1302,145,procedure,valid,,What steps are required to ready the device prior to resolving print problems?
+1303,145,procedure,valid,,"Before troubleshooting printing errors, how ought one to prepare the machine?"
+1304,145,procedure,valid,,In what manner should the printer be prepared before dealing with any printing i
+1305,145,procedure,valid,,What is the method for determining the appropriate paper type for the printer?
+1306,145,procedure,valid,,In what way can one identify which paper should be used in the printer?
+1307,145,procedure,valid,,How does someone know the correct kind of paper to load into the printer?
+1308,145,procedure,valid,,What is the procedure to verify the current toner level?
+1309,145,procedure,valid,,In what way can one determine how much toner remains?
+1310,145,procedure,valid,,How can I find out the remaining quantity of toner?
+1311,145,procedure,valid,,What action is required when toner cartridges run out or become depleted?
+1312,145,procedure,valid,,"If the toner cartridges are empty or nearly empty, what steps should be taken?"
+1313,145,procedure,valid,,What steps should be taken to resolve toner smudges or splatters on printed page
+1314,145,procedure,valid,,How can one fix the problem of toner appearing as smudges and splatters in print
+1315,145,procedure,valid,,In what way is an issue involving toner smudges and splatters on printouts addre
+1316,146,procedure,valid,,What steps should be taken to resolve faded printouts?
+1317,146,procedure,valid,,What steps resolve the problem of white specks on printed pages?
+1318,147,procedure,valid,,What steps are required to reduce the print density?
+1319,147,procedure,valid,,In what way can the printing be made less dense?
+1320,147,procedure,valid,,How do I adjust settings to achieve lighter print output?
+1321,147,procedure,valid,,What is the proper procedure for addressing potential printer problems stemming 
+1322,147,procedure,valid,,How does a user deal with print faults possibly caused by the toner cartridge?
+1323,148,procedure,valid,,What steps are required to guarantee that the appropriate paper type is selected
+1324,148,procedure,valid,,In what way can one verify that the correct paper is being used during the print
+1325,148,procedure,valid,,How should you make sure the right kind of paper is utilized when printing?
+1326,149,procedure,valid,,What steps follow replacing the paper?
+1327,149,procedure,valid,,"After changing the paper, what is the next action?"
+1328,149,procedure,valid,,"Once the paper has been replaced, how should you proceed?"
+1329,149,procedure,valid,,What is the method for resolving paper curling issues within the printer?
+1330,149,procedure,valid,,In what way can one fix curled paper occurring inside the printer?
+1331,149,procedure,valid,,How should paper curls be handled in the printer?
+1332,149,procedure,valid,,"When handling thinner paper, what is the appropriate adjustment for the <Paper T"
+1333,149,procedure,valid,,"For thinner paper, which value should be selected in the <Paper Type> configurat"
+1334,149,procedure,valid,,What modification to the <Paper Type> setting is required when using thinner pap
+1335,151,procedure,valid,,What steps should be taken to prevent skewed printouts?
+1336,151,procedure,valid,,In what way is it possible to avoid having prints come out crooked?
+1337,151,procedure,valid,,What is the proper procedure for preparing envelopes prior to printing via the M
+1338,151,procedure,valid,,"Before printing on envelopes using the Multi-Purpose Tray, how ought they be pre"
+1339,151,procedure,valid,,How can one verify that the paper has been loaded properly?
+1340,151,procedure,valid,,What steps are required to guarantee correct paper loading?
+1341,151,procedure,valid,,"To ensure proper paper loading, what actions should be taken?"
+1342,153,rule_error,valid,,Which details do I need to prepare before calling support regarding an issue wit
+1343,153,rule_error,valid,,What should be on hand when reaching out for help about a problem with the image
+1344,153,rule_error,valid,,"Before contacting support for an imageRUNNER 2206 malfunction, what information "
+1345,154,procedure,valid,,What is the procedure for starting printer maintenance as outlined in this manua
+1346,154,procedure,valid,,"According to this manual, how can one begin maintaining the printer?"
+1347,154,procedure,valid,,How should you initiate the maintenance process for the printer based on this gu
+1348,154,procedure,valid,,Which two primary subjects does this maintenance chapter address?
+1349,154,procedure,valid,,What are the two key areas discussed within this maintenance section?
+1350,155,procedure,valid,,What is the procedure for cleaning the outside of the unit?
+1351,155,procedure,valid,,How should the machine's exterior be cleaned?
+1352,155,procedure,valid,,"If smudge marks show up on original documents or printed pages, what action is r"
+1353,155,procedure,valid,,What steps should be taken when smudges are found on originals or printouts?
+1354,155,procedure,valid,,"In the event of smudge marks appearing on either originals or output prints, wha"
+1355,155,procedure,valid,,What is the method for resolving streaks that appear on printed pages?
+1356,155,procedure,valid,,In what way can one fix streaking issues found in output prints?
+1357,155,procedure,valid,,How do you go about fixing visible streaks on printouts?
+1358,155,procedure,valid,,How can I proceed when replacing toner cartridges?
+1359,155,procedure,valid,,"If replacement of the toner cartridges is required, what steps should be taken?"
+1360,155,procedure,valid,,What action is needed to replace the toner cartridges?
+1361,155,procedure,valid,,What is the method to check the cumulative page count on my printed documents?
+1362,155,procedure,valid,,In what way can I see how many pages have been printed in total?
+1363,155,procedure,valid,,How do I access the total number of printouts made?
+1364,155,procedure,valid,,What is the procedure to restore my printer's default settings?
+1365,155,procedure,valid,,In what way do I reset the configuration on my HP printer?
+1366,156,procedure,valid,,What steps are required to maintain print quality and ensure the machine is used
+1367,156,procedure,valid,,How can one preserve printing quality while guaranteeing safe operation of the d
+1368,156,procedure,valid,,In what way do you keep the printer's output quality high and use it without saf
+1369,157,procedure,valid,,What steps are required to keep the printer in good condition as outlined in the
+1370,157,procedure,valid,,"According to the manual, what is the proper way to maintain the printer's condit"
+1371,157,procedure,valid,,How should one maintain the printer according to the instructions provided in th
+1372,157,procedure,valid,,What steps should be taken to ensure that data is not lost upon powering down th
+1373,157,procedure,valid,,How do I stop information from being erased when the printer is turned off?
+1374,157,procedure,valid,,What is the proper method for cleaning the outside of the printer?
+1375,157,procedure,valid,,How does one clean the exterior casing of this printer?
+1376,157,procedure,valid,,Which tool or method is used to find the ventilation slots on the printer?
+1377,157,procedure,valid,,How do you identify the location of the ventilation slots on the printer?
+1378,157,procedure,valid,,What should be utilized for locating the printer's ventilation slots?
+1379,158,procedure,valid,,What steps should be taken to avoid printing smudged documents?
+1380,158,procedure,valid,,In what way is it possible to stop smudges from appearing on printed pages?
+1381,158,procedure,valid,,How do you ensure that no smudges are printed onto the documents?
+1382,158,procedure,valid,,Which components require cleaning to prevent smudged printouts?
+1383,158,procedure,valid,,"To stop smudges from appearing on prints, what needs to be cleaned?"
+1384,158,procedure,valid,,What must be cleaned in order to avoid getting smudges on the output?
+1385,158,procedure,valid,,What are the initial steps for cleaning these areas?
+1386,158,procedure,valid,,In what manner ought one begin by cleaning the specified regions?
+1387,158,procedure,valid,,How does one initially proceed to clean those areas?
+1388,158,procedure,valid,,"After cleaning the area with a damp cloth, what is the next step?"
+1389,158,procedure,valid,,"Once the area has been wiped down using a damp cloth, what should be done subseq"
+1390,158,procedure,valid,,What action follows wiping the region with a moist cloth?
+1391,159,rule_error,valid,,Why do dots show up on printed pages?
+1392,159,rule_error,valid,,What is responsible for the appearance of dots in output?
+1393,159,rule_error,valid,,Which factors lead to dots being visible on printouts?
+1394,159,procedure,valid,,What is the procedure to start the drum unit cleaning?
+1395,159,procedure,valid,,In what way can I begin the cleaning cycle for the drum unit?
+1396,159,procedure,valid,,How should one commence the cleaning process on the drum unit?
+1397,161,rule_error,valid,,Which actions must be avoided prior to cleaning the printer's fixing assembly?
+1398,161,rule_error,valid,,"Before cleaning the fixing assembly, what should you not do?"
+1399,161,rule_error,valid,,What precautions should be taken before cleaning the fixing assembly in the prin
+1400,161,procedure,valid,,What is the procedure for inserting the cleaning sheet into the printer?
+1401,161,procedure,valid,,Where should the cleaning sheet be placed within the printer?
+1402,161,procedure,valid,,How can one load the cleaning sheet in the printer?
+1403,163,procedure,valid,,What steps are required to prepare a toner cartridge upon seeing the 'Prepare th
+1404,163,procedure,valid,,"When prompted with 'Prepare the toner cartridge.', how do you proceed with prepa"
+1405,163,procedure,valid,,How is one supposed to handle a toner cartridge when the display shows the instr
+1406,163,procedure,valid,,What action is required when the 'Prepare the toner cartridge' prompt appears pr
+1407,163,procedure,valid,,If you encounter the message 'Prepare the toner cartridge.' before beginning a l
+1408,163,procedure,valid,,"Before starting a major print run, how do you respond if the printer displays 'P"
+1409,163,procedure,valid,,What action is required if the toner cartridge is almost depleted?
+1410,163,procedure,valid,,How should one respond to an almost-empty toner cartridge?
+1411,163,procedure,valid,,"When the toner cartridge is running low, what steps need to be taken?"
+1412,164,procedure,valid,,What is the procedure to verify the toner level on this printer?
+1413,164,procedure,valid,,In what way can one determine the current toner status for this device?
+1414,164,procedure,valid,,How can I find out how much toner remains in this printer?
+1415,165,procedure,valid,,What is the procedure to print my local authorized Canon dealer's contact detail
+1416,165,procedure,valid,,In what way can I obtain and print the contact information for an authorized Can
+1417,165,procedure,valid,,How do I go about printing the contact info of a nearby authorized Canon dealer?
+1418,165,procedure,valid,,In what way can I scan and then register the documents provided by my local auth
+1419,165,procedure,valid,,How do I go about scanning and registering the paperwork of my local authorized 
+1420,165,procedure,valid,,What steps are required to begin accessing purchase details for consumables?
+1421,165,procedure,valid,,In what way can one initiate retrieving consumption item purchasing data?
+1422,165,procedure,valid,,How is the procedure started to get access to buying information regarding consu
+1423,165,procedure,valid,,"After placing documents by pressing the button, what is the next step?"
+1424,165,procedure,valid,,"Once the button has been pressed for document placement, what action follows?"
+1425,165,procedure,valid,,What needs to be done after using the button to place documents?
+1426,165,procedure,valid,,What is the procedure to begin printing purchase details for consumables?
+1427,165,procedure,valid,,In what way can one initiate the printing process for consumable purchase inform
+1428,165,procedure,valid,,How does one commence the task of printing buying data for supplies?
+1429,165,procedure,valid,,Which items appear in the report when printing consumption details?
+1430,165,procedure,valid,,"When specifying to print purchase data for supplies, what content is included?"
+1431,165,procedure,valid,,What gets printed if you choose to output consumable purchase information?
+1432,166,procedure,valid,,What is the procedure to retrieve the purchase details for the press?
+1433,166,procedure,valid,,In what way can one obtain the buying information regarding the press?
+1434,166,procedure,valid,,How are you able to view the acquisition data for the press?
+1435,166,procedure,valid,,What is the process for deleting unnecessary purchase details from my HP printer
+1436,166,procedure,valid,,In what way can I get rid of extraneous buying information stored on my printer?
+1437,166,procedure,valid,,How do I clear unwanted acquisition data off my printer?
+1438,168,procedure,valid,,What is the correct orientation for placing the toner cartridge into the printer
+1439,168,procedure,valid,,In which direction should the toner cartridge be inserted into the device?
+1440,168,procedure,valid,,How must you position the toner cartridge when loading it into the machine?
+1441,168,procedure,valid,,How can the new toner cartridge be supported while installing it?
+1442,168,procedure,valid,,"During the installation process, what action is required to support the new tone"
+1443,168,procedure,valid,,What steps should be taken to provide support for the new toner cartridge during
+1444,168,procedure,valid,,What is the procedure to take out the toner cartridge?
+1445,168,procedure,valid,,In what way can one extract the toner cartridge?
+1446,168,procedure,valid,,How should I go about removing the toner cartridge?
+1447,169,procedure,valid,,"If the printer's front cover cannot be closed, what needs to be checked?"
+1448,169,procedure,valid,,What items should you inspect when unable to shut the printer's front cover?
+1449,169,procedure,valid,,"In the event that the front cover of the printer won't close, what do you check?"
+1450,174,procedure,valid,,What is the procedure to verify the machine's settings?
+1451,175,procedure,valid,,What is the method to view the list of settings stored on the device?
+1452,175,procedure,valid,,In what way can one retrieve the registerable setting items from the machine?
+1453,175,procedure,valid,,Which items need to be verified prior to starting the procedure?
+1454,176,procedure,valid,,In what way can one view the Copy/Print Charge Log Report?
+1455,176,procedure,valid,,How does one retrieve the Copy/Print Charge Log Report?
+1456,179,procedure,valid,,Which settings are restored by selecting the Initializing System Management Sett
+1457,179,procedure,valid,,"Using the Initializing System Management Settings option, what can be restored?"
+1458,179,procedure,valid,,What is recoverable through the Initializing System Management Settings feature?
+1459,180,procedure,valid,,What is the method to reach the Initialize Menu within the printer settings?
+1460,180,procedure,valid,,"In order to get into the Initialize Menu from the printer settings, what steps s"
+1461,180,procedure,valid,,Where can one find the Initialize Menu in the printer's configuration options?
+1462,181,procedure,valid,,In what way can one set up the system management configurations within the print
+1463,181,procedure,valid,,How are the system management parameters initialized in this printer?
+1464,182,procedure,valid,,What is the procedure to remove registered data and reset all settings simultane
+1465,182,procedure,valid,,How can I erase saved data and restore factory defaults for all configurations a
+1466,183,spec,valid,,Which model number corresponds to the imageRUNNER 2206?
+1467,183,spec,valid,,What is the specific model identifier for the imageRUNNER 2206 device?
+1468,183,spec,valid,,Can you provide the model number associated with the imageRUNNER 2206?
+1469,183,spec,valid,,Which authentic Canon toner is compatible with the imageRUNNER 2206?
+1470,183,spec,valid,,Identify the specific genuine Canon toner for the imageRUNNER 2206 model.
+1471,183,procedure,valid,,What is the procedure to obtain replacement parts for this device?
+1472,183,procedure,valid,,Where and how do you get new parts for the machine?
+1473,183,procedure,valid,,Which supplies are advised for Canon Multi-Functional devices to guarantee peak 
+1474,183,procedure,valid,,What is the recommended usage in Canon Multifunction machines to ensure optimal 
+1475,183,procedure,valid,,What is the procedure to confirm that a toner cartridge is genuine prior to its 
+1476,183,procedure,valid,,"Before replacing a toner cartridge, how can one ensure it is authentic?"
+1477,183,procedure,valid,,How does one check if a toner cartridge is real before putting in a new one?
+1478,184,procedure,chunk_mismatch,chunk overlap 0.14 < 0.30 with page 184,What is the procedure to view the printer's technical specifications?
+1479,184,procedure,chunk_mismatch,chunk overlap 0.14 < 0.30 with page 184,Where can I find the technical specifications for this printer?
+1480,184,procedure,chunk_mismatch,chunk overlap 0.14 < 0.30 with page 184,How do I locate the printer's technical specs?
+1481,186,procedure,valid,,Where is information regarding third-party software located within this manual?
+1482,186,procedure,valid,,What steps should I take to locate details on third-party software in this docum
+1483,186,procedure,valid,,How do I access information about third-party software contained in this manual?
+1484,187,procedure,valid,,What is the method to view advice on utilizing the printer's capabilities?
+1485,187,procedure,valid,,In what way do I find guidance on making use of the printer's features?
+1486,187,procedure,valid,,How might one access information regarding how to best employ the printer's func
+1487,188,procedure,valid,,What methods allow for saving paper during document copies?
+1488,188,procedure,valid,,In what ways can one conserve paper while making copies?
+1489,188,procedure,valid,,How is it possible to reduce paper usage when copying documents?
+1490,190,procedure,valid,,What is the quickest way to set the page layout within the printer driver?
+1491,190,procedure,valid,,In what manner can one rapidly define the page configuration in the printer driv
+1492,190,procedure,valid,,How can I fast specify the page setup using the printer driver?
+1493,191,procedure,valid,,"What is the method for scanning just particular sections of a document, such as "
+1494,191,procedure,valid,,How do I scan only specific areas like headlines and photos from a page?
+1495,191,procedure,valid,,"Is there a way to select and scan individual elements on a page, including text "
+1496,191,procedure,valid,,What is the method for having scanned images appear directly within your active 
+1497,191,procedure,valid,,In what way can scanned images be sent straight to the program you are currently
+1498,191,procedure,valid,,How do I get scanned images delivered immediately into my current software?
+1499,193,procedure,valid,,What is the process for creating a large poster on this printer?
+1500,193,procedure,valid,,In what way can I produce a large poster with this device?
+1501,194,procedure,valid,,What steps should be taken when the specifications for printer model 3EEJ-04W ch
+1502,194,procedure,valid,,In what manner do you proceed if there are alterations to the specs of printer m
+1503,194,procedure,valid,,"If the printer model 3EEJ-04W has changed its specifications, how should one pro"
+1504,194,procedure,valid,,In what way do I activate scanning capabilities on this printer?
+1505,194,procedure,valid,,How is the scan function accessed using this printer?
+1506,194,procedure,valid,,How do I access additional printer features?
+1507,194,procedure,valid,,What steps are required to utilize other printer capabilities?
+1508,194,procedure,valid,,In what way can the remaining printer functions be operated?
+1509,195,spec,valid,,How do I determine the read resolution for the Canon imageRUNNER 2206?
+1510,195,spec,valid,,What is the scanning resolution capability of the Canon imageRUNNER 2206?
+1511,195,spec,valid,,Can you provide the reading resolution specifications for a Canon imageRUNNER 22
+1512,195,spec,valid,,What is the number of supported tones on the Canon imageRUNNER 2206?
+1513,195,spec,valid,,How many tonal options are available for the Canon imageRUNNER 2206?
+1514,195,spec,valid,,Which count represents the supported tones in the Canon imageRUNNER 2206?
+1515,198,procedure,valid,,What methods allow me to identify paper types that work with this printer?
+1516,198,procedure,valid,,"Which paper varieties is this printer compatible with, and how do I find out?"
+1517,198,procedure,valid,,How can I check the list of supported paper types for this device?
+1518,198,spec,valid,,Which dimensions apply to custom paper sizes usable in the multi-purpose tray?
+1519,198,spec,valid,,What are the allowable dimension specifications for custom-sized paper in the mu
+1520,198,spec,valid,,How do I determine the size limits for custom paper placed in the multi-purpose 
+1521,200,spec,valid,,For what kinds of paper is this printer designed to operate?
+1522,200,spec,valid,,What varieties of paper can be loaded into this machine?
+1523,203,spec,valid,,Which web browsers support viewing the User's Guide on Windows?
+1524,203,spec,valid,,"For the User's Guide on Windows, what are the supported web browsers?"
+1525,203,spec,valid,,What is the list of compatible web browsers for accessing the User's Guide on a 
+1526,203,procedure,valid,,What is the method to access the manuals for this printer?
+1527,203,procedure,valid,,How do I find the user guides associated with this printer?
+1528,204,procedure,valid,,What steps are required to activate extra features on my printer?
+1529,204,procedure,valid,,In what way do I turn on more functionalities for my printer?
+1530,204,procedure,valid,,How is it possible to enable additional capabilities on the printer?
+1531,205,procedure,valid,,What methods are available to extend the machine's capabilities?
+1532,205,procedure,valid,,What is the procedure for installing an optional paper drawer?
+1533,205,procedure,valid,,In what way can one add an optional paper drawer to the printer?
+1534,205,procedure,valid,,How should the optional paper drawer be installed?
+1535,205,procedure,valid,,What is the procedure for swapping the standard paper drawer for an optional one
+1536,205,procedure,valid,,How should the default paper drawer be exchanged to install a non-standard versi
+1537,206,spec,valid,,Why does the manual refer to the User's Guide found on page 206?
+1538,206,spec,valid,,What function does the User's Guide serve as described on page 206?
+1539,206,spec,valid,,For what reason is there a mention of the User's Guide on page 206?
+1540,207,procedure,valid,,What is the method to locate a particular function within the User's Guide?
+1541,207,procedure,valid,,In what way can one find a specific function in the User's Guide?
+1542,207,procedure,valid,,How does one search for a given function using the User's Guide?
+1543,207,procedure,valid,,Which part explains the User's Guide's screen layout and instructions for readin
+1544,207,procedure,valid,,"How do I interpret the User's Guide, and where is its screen layout described?"
+1545,207,procedure,valid,,What section covers how to read the guide along with a description of its screen
+1546,207,procedure,valid,,In what way can I locate additional details regarding the symbols found in the U
+1547,207,procedure,valid,,What is the method for discovering more information about the marks listed in th
+1548,207,procedure,valid,,How do I access further explanations concerning the marks used within the User's
+1549,207,procedure,valid,,What is the method to modify the character size within the User's Guide?
+1550,207,procedure,valid,,In what way can one alter the font size in the User's Guide?
+1551,207,procedure,valid,,How do you adjust the character dimensions as described in the User's Guide?
+1552,207,procedure,valid,,How is it possible to modify the display format of the User Guide?
+1553,207,procedure,valid,,Which actions allow you to change how the screen layout appears in the User's Gu
+1554,207,procedure,valid,,In what ways can one adjust the on-screen arrangement of the User Guide?
+1555,207,procedure,valid,,What is the method to find a particular page within the manual?
+1556,207,procedure,valid,,How can I identify and access a specific page of this manual?
+1557,207,procedure,valid,,What is the method for conducting a keyword search within this printer manual?
+1558,207,procedure,valid,,In what way can one execute a keyword search using this printer manual?
+1559,207,procedure,valid,,How does one carry out a keyword search in this specific printer manual?
+1560,208,procedure,valid,,What is the method to switch between content views and search screens within the
+1561,208,procedure,valid,,How can one alternate between the contents display and the search display in the
+1562,208,procedure,valid,,In what way do you toggle from the contents view to the search view (or vice ver
+1563,208,procedure,valid,,What steps are required to adjust how the User's Guide appears on screen?
+1564,208,procedure,valid,,"To change the display parameters of the User's Guide, what actions should be tak"
+1565,209,procedure,valid,,How can I locate an exact phrase within the printer manual?
+1566,209,procedure,valid,,What steps are required to find an exact phrase in the HP printer manual?
+1567,211,spec,valid,,Can you list any settings visible on the control display?
+1568,211,spec,valid,,What kinds of settings are shown on the control panel?
+1569,211,rule_error,valid,,"In the user's manual, what information do the caution symbols convey?"
+1570,211,procedure,valid,,What is the method for identifying the control panel keys and computer display b
+1571,211,procedure,valid,,In what way can I recognize the keys located on the control panel alongside thos
+1572,211,procedure,valid,,How do I determine which are the keys on the control panel versus the buttons sh
+1573,211,procedure,valid,,What is the method for identifying the displays featured in the User's Guide?
+1574,211,procedure,valid,,In what way can I recognize the displays that appear in the User's Guide?
+1575,211,procedure,valid,,How do I locate and identify the displays within the User's Guide?
+1576,212,spec,valid,,The note mentions potential operational differences; what does it state about th
+1577,212,spec,valid,,What information is provided in the note regarding likely differences in operati
+1578,212,procedure,valid,,What is the method to reach the 'Devices and Printers' area on Windows 7 or Serv
+1579,212,procedure,valid,,In what way can one navigate to the 'Devices and Printers' section within Window
+1580,212,procedure,valid,,How does a user access the 'Devices and Printers' part of Windows 7 or Server 20
+1581,212,procedure,valid,,How can one access the list of devices and printers when using Windows 8 or Serv
+1582,212,procedure,valid,,What is the procedure for viewing connected devices and printers on a system run
+1583,212,procedure,valid,,"To see which devices and printers are available, what steps should be taken in W"
+1584,212,procedure,valid,,What steps are required to open the Devices and printers section on Windows 8.1 
+1585,212,procedure,valid,,In what way can one navigate to 'Devices and Printers' within Windows 8.1 or Ser
+1586,212,procedure,valid,,How do I get into the Devices and Printers menu when using Windows 8.1 or Server
+1587,212,procedure,valid,,How do I access 'Devices and Printers' in Windows 10?
+1588,212,procedure,valid,,What is the procedure for opening 'Devices and Printers' on Windows 10?
+1589,212,procedure,valid,,Can you provide instructions to open 'Devices and Printers' on a Windows 10 syst
+1590,212,procedure,valid,,What is the method for accessing the 'Printers' section within Windows Server 20
+1591,212,procedure,valid,,In what way can one navigate to the 'Printers' area on a Windows Server 2008 sys
+1592,212,procedure,valid,,How does a user reach the 'Printers' section when using Windows Server 2008?
+1593,212,procedure,valid,,What steps are required to see available devices and printers in Windows Server 
+1594,212,procedure,valid,,Can you describe the process for viewing devices and printers on a Windows Serve
+1595,212,procedure,valid,,What steps should I take to confirm that my printer driver is functioning?
+1596,212,procedure,valid,,Is there a way to check the status of my printer driver?
+1597,212,procedure,valid,,How do I know if my printer driver is operational?
+1598,216,spec,valid,,How much power does the imageRUNNER 2206 consume at most while in networked stan
+1599,216,spec,valid,,What is the peak power usage for the imageRUNNER 2206 when it is in networked st
+1600,216,spec,valid,,"In networked standby, what represents the maximum power consumption of the image"
+1601,216,procedure,valid,,What is the correct method for disposing of this product in compliance with the 
+1602,216,procedure,valid,,How does one dispose of this item according to the requirements of the WEEE Dire
+1603,216,rule_error,valid,,What are the consequences of disabling Power Save Mode on my Canon printer?
+1604,216,rule_error,valid,,"If I turn off Power Save Mode, what will occur on my Canon printer?"
+1605,216,rule_error,valid,,How does deactivating Power Save Mode affect my Canon printer?
+1606,216,rule_error,valid,,"According to Canon, what are their recommendations for using the duplex printing"
+1607,216,rule_error,valid,,Canon's guidelines on the duplex printing function—what do they specify?
+1608,216,rule_error,valid,,What does Canon advise regarding the use of duplex printing?
+1609,217,procedure,valid,,What warranty coverage from CANON INC. applies to this material?
+1610,217,procedure,valid,,What definition does this manual provide for a PostScript printing device?
+1611,217,procedure,valid,,In what way is the term 'PostScript printing device' defined within this documen
+1612,217,procedure,chunk_mismatch,chunk overlap 0.30 < 0.30 with page 217,What is the method for utilizing licensed fonts within the framework of the OFL?
+1613,217,procedure,chunk_mismatch,chunk overlap 0.30 < 0.30 with page 217,In what ways may one employ licensed fonts according to the OFL guidelines?
+1614,217,procedure,chunk_mismatch,chunk overlap 0.30 < 0.30 with page 217,How does one use fonts that are licensed under the OFL?
+1615,217,procedure,chunk_mismatch,chunk overlap 0.30 < 0.30 with page 217,"When using software to bundle or embed fonts, what are the requirements?"
+1616,217,procedure,chunk_mismatch,chunk overlap 0.30 < 0.30 with page 217,What must be done regarding font bundling or embedding within software applicati
+1617,217,procedure,chunk_mismatch,chunk overlap 0.30 < 0.30 with page 217,"In the context of software, what is necessary when fonts are bundled or embedded"
+1618,217,procedure,valid,,What is the method for bundling and redistributing the Font Software?
+1619,217,procedure,valid,,In what way may the Font Software be combined and shared again?
+1620,217,procedure,valid,,How does one bundle and redistribute the Font Software?
+1621,217,procedure,valid,,What is the procedure for redistributing source code under the Apache Software F
+1622,217,procedure,valid,,"According to the Apache Software Foundation, how must source code be redistribut"
+1623,217,procedure,valid,,How does one redistribute source code in compliance with the Apache Software Fou
+1624,217,procedure,valid,,"According to the Apache Software Foundation's license, what are the requirements"
+1625,217,procedure,valid,,For redistribution of software in binary format as specified by the Apache Softw
+1626,217,procedure,valid,,In what manner must the copyright notice and disclaimer appear during redistribu
+1627,217,procedure,valid,,How are the copyright notice and disclaimer to be incorporated upon binary redis
+1628,217,procedure,valid,,Which acknowledgments are required in end-user documentation during redistributi
+1629,217,procedure,valid,,What steps are required to download the Original Code?
+1630,217,procedure,valid,,In what way do I obtain the Original Code for download?
+1631,217,procedure,valid,,How is it possible to get the Original Code?
+1632,217,procedure,valid,,What is the method for accessing updated details or supplementary third-party co
+1633,217,procedure,valid,,Where can I find revised information or extra third-party code specifics concern
+1634,217,procedure,valid,,How do I retrieve updates and additional third-party code information related to
+1635,217,procedure,chunk_mismatch,chunk overlap 0.30 < 0.30 with page 217,What is the proper way to credit the usage of FreeType code within my applicatio
+1636,217,procedure,chunk_mismatch,chunk overlap 0.30 < 0.30 with page 217,How do I properly give attribution for using FreeType code in my software?
+1637,217,procedure,valid,,What does the word 'using' signify within the FreeType Project license framework
+1638,217,procedure,valid,,How should the term 'using' be interpreted according to the FreeType Project lic
+1639,217,procedure,chunk_mismatch,chunk overlap 0.24 < 0.30 with page 217,What is the proper procedure for redistributing source code according to the Fre
+1640,217,procedure,chunk_mismatch,chunk overlap 0.24 < 0.30 with page 217,In what manner should one redistribute source code under the terms of the FreeTy
+1641,217,procedure,chunk_mismatch,chunk overlap 0.24 < 0.30 with page 217,Which items must be included when redistributing in binary form under the FreeTy
+1642,217,procedure,chunk_mismatch,chunk overlap 0.24 < 0.30 with page 217,What is required to include during redistribution of the software in binary form
+1643,217,procedure,chunk_mismatch,chunk overlap 0.24 < 0.30 with page 217,"When distributing in binary form, what should you ensure is included per the Fre"
+1644,217,procedure,chunk_mismatch,chunk overlap 0.24 < 0.30 with page 217,What is the proper way to mention the FreeType software within our documents and
+1645,217,procedure,chunk_mismatch,chunk overlap 0.24 < 0.30 with page 217,In what manner should we cite the FreeType software in advertising or documentat
+1646,217,procedure,chunk_mismatch,chunk overlap 0.24 < 0.30 with page 217,How do you correctly reference the FreeType software when creating marketing or 
+1647,217,procedure,chunk_mismatch,chunk overlap 0.26 < 0.30 with page 217,What is the process to obtain assistance with utilizing FreeType?
+1648,217,procedure,chunk_mismatch,chunk overlap 0.26 < 0.30 with page 217,In what way can I access help for employing FreeType?
+1649,217,procedure,chunk_mismatch,chunk overlap 0.26 < 0.30 with page 217,How do I receive support regarding the use of FreeType?
+1650,217,procedure,chunk_mismatch,chunk overlap 0.26 < 0.30 with page 217,How can I report bugs or engage in discussions about engine internals?
+1651,217,procedure,chunk_mismatch,chunk overlap 0.26 < 0.30 with page 217,"If I find issues or wish to talk about the engine's internal workings, what step"
+1652,217,procedure,chunk_mismatch,chunk overlap 0.26 < 0.30 with page 217,What is the procedure for reporting defects or discussing engine internals?
+1653,217,procedure,chunk_mismatch,chunk overlap 0.26 < 0.30 with page 217,"What are the legal requirements for using, distributing, or modifying the FreeTy"
+1654,217,procedure,chunk_mismatch,chunk overlap 0.26 < 0.30 with page 217,"How do I legally utilize, share, or alter the FreeType Project?"
+1655,217,procedure,chunk_mismatch,chunk overlap 0.26 < 0.30 with page 217,"In what ways can one lawfully use, distribute, or modify the FreeType Project?"
+1656,217,procedure,valid,,"What is the procedure for using, copying, modifying, and distributing the descri"
+1657,217,procedure,valid,,"In what ways may one utilize, replicate, alter, or share the software outlined i"
+1658,217,procedure,valid,,"How should users proceed to use, copy, modify, and distribute the mentioned soft"
+1659,217,procedure,valid,,How should one handle the notice while using or distributing the software?
+1660,217,procedure,valid,,"When utilizing or sharing the software, what is required regarding the notice?"
+1661,217,procedure,valid,,What actions are necessary concerning the notice during software use or distribu

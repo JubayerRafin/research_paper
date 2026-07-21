@@ -1,0 +1,207 @@
+idx,page,category,qa_cosine,nn_cosine,nearest_neighbor_idx,is_near_duplicate,question
+0,1,procedure,0.295,0.946,65,0,What should users do if they are unable to locate the software license or limited warranty?
+1,1,procedure,0.485,0.9067,68,0,What measures can users try to correct interference caused by this equipment?
+2,1,procedure,0.9535,0.9435,70,0,How do you connect the console port to a computer using a DB-9 adapter?
+3,7,procedure,0.1218,0.8626,71,0,What does the preface describe?
+4,7,spec,0.3816,0.9591,76,1,What does Appendix 1's section on Technical Specifications include?
+5,7,procedure,0.3217,0.8701,78,0,What prerequisites are required before using this installation guide?
+6,8,spec,0.2461,0.9681,79,1,What specifications are listed in Appendix 1?
+7,10,procedure,0.6219,0.9267,81,0,How can I find the Cisco MDS 9000 Family documentation online?
+8,10,procedure,0.7771,0.937,83,0,What are the specific release notes available for the Cisco MDS 9000 family?
+9,10,procedure,0.7939,0.9143,84,0,What documents are available regarding Cisco MDS 9000 interoperability and compatibility?
+10,11,procedure,0.4745,0.9203,87,0,What is the title of the guide that covers system management configuration?
+11,12,procedure,0.8868,0.951,88,1,What documents are included in the Cisco MDS 9000 Family NX-OS troubleshooting and reference materials?
+12,13,procedure,0.6732,0.9672,90,1,What are the major features of the Cisco MDS 9148S switch?
+13,13,procedure,0.4321,0.9523,93,1,What views of the chassis are described in this section?
+14,14,procedure,0.4646,0.9438,95,0,What components are located on the front of the Cisco MDS 9148S switch?
+15,17,spec,0.347,0.5641,99,0,What does the 'Red Blinking' status indicate for the Switch status LED?
+16,17,spec,0.2852,0.9586,98,1,What does it mean when the Port link LED is flashing orange?
+17,18,spec,0.2359,0.9252,102,0,What does it mean if the Right LED is solid amber?
+18,21,procedure,0.7799,0.9011,104,0,How do you stabilize the switch in the rack after sliding it into place?
+19,28,spec,0.8792,0.9429,107,0,What is the quantity of M4 x 6-mm Phillips flat-head screws included per kit?
+20,27,rule_error,0.5151,0.8687,108,0,What causes the need for rear-facing installation of the Cisco MDS 9148S switch?
+21,41,procedure,0.4138,0.9627,110,1,How do you connect the console port on the Cisco MDS 9148S switch?
+22,41,procedure,0.5062,0.9404,113,0,How do you connect the console port to perform functions like configuring the switch from the CLI or monitoring network statistics?
+23,51,procedure,0.5379,0.9384,114,0,How should air be cooled in solid-walled cabinets?
+24,52,spec,0.3683,0.9547,118,1,What is the weight limit for mounting an MDS 9148S on a Telco (2 post) rack?
+25,51,procedure,0.3133,0.9577,120,1,How can the optional Telco and EIA Shelf Bracket Kit be used during installation?
+26,53,procedure,0.428,0.9668,123,1,What equipment is needed for this installation?
+27,59,spec,0.466,0.963,126,1,What are the physical dimensions of the Cisco MDS 9148S Switch?
+28,53,procedure,0.8754,0.9592,127,1,How do you attach the crossbar to the shelf brackets?
+29,59,procedure,0.6549,0.9688,131,1,What technical specifications are included in this appendix for the Cisco MDS 9148S switch?
+30,59,spec,0.5027,0.9659,133,1,What is the ambient operating temperature range for this printer?
+31,60,spec,0.4535,0.9654,135,1,What is the nominal AC input voltage range for this printer?
+32,59,spec,0.5878,0.9452,139,0,What are the ambient operating temperature limits for the Cisco MDS 9148S switch?
+33,60,procedure,0.3997,0.8859,141,0,What information is included in this section?
+34,60,spec,0.3856,0.9605,142,1,What is the weight of the device when two fan modules and two power supplies are installed?
+35,61,spec,0.7693,0.9386,146,0,What is the fuse melting time for part number 341-0706-02?
+36,61,spec,0.5349,0.9527,148,1,What is the AC power consumption in watts for the Cisco MDS 9148S Switch under worst-case conditions at 220 volts?
+37,61,spec,0.3431,0.9367,149,0,What are the specifications for the AC input power supply's voltage and current limits?
+38,62,spec,0.3507,0.875,152,0,What is the maximum power required for the Cisco MDS 9148S16G Multilayer Fabric Switch?
+39,62,spec,0.7705,0.8972,153,0,What parameters are encoded in each Cisco SFP+ transceiver to enable verification by the switch?
+40,63,procedure,0.6941,0.9306,155,0,What Fibre Channel SFP+ transceivers are available for the CiscoMDS9148S switch?
+41,63,spec,0.1398,0.9688,157,1,What is the type of the DS-SFP-FC16G-LW part?
+42,64,spec,0.48,0.9332,160,0,What is the core size in microns for the DS-SFP-FC16G-L W SFP+ module?
+43,65,spec,0.5772,0.9576,162,1,What are the operating temperature limits for the DS-SFP-FC16G-SW SFP+ module?
+44,65,spec,0.3866,0.9644,165,1,What is the maximum average transmit power for the DS-SFP-FC16G-LW SFP+ module?
+45,66,spec,0.2488,0.8146,167,0,What is the cable distance for the DS-SFP-FC8G-ER SFP+ module operating at 1550 nanometers on single-mode fiber?
+46,67,spec,0.3123,0.9629,169,1,What is the maximum average transmit power for the DS-SFP-FC8G-LW SFP+ module at 8 Gbps?
+47,67,spec,0.2591,0.5594,45,0,What is the fiber loss budget for 50.0 micron OM2 cables?
+48,68,spec,0.8183,0.9043,171,0,"What are the minimum and maximum values for the receiver optical input power, and under what conditions do they apply?"
+49,63,procedure,0.7569,0.9582,174,1,What are the cabling specifications summarized in Table1-8?
+50,70,procedure,0.46,0.9617,175,1,How do you connect the console port to a computer?
+51,70,spec,0.3269,0.9531,178,1,What RJ-45 pin on the console port corresponds to the RTS signal?
+52,70,procedure,0.5494,0.9659,180,1,How are pins 1 and 8 of the console port on the Cisco MDS 9148S Switch related?
+53,70,procedure,0.4218,0.938,183,0,What components are required to connect the console port to a computer running terminal emulation software?
+54,71,spec,0.1237,0.9654,186,1,What signal is connected to RJ-45 pin 1 on the rollover cable?
+55,71,spec,0.3433,0.9137,187,0,Which DB-9 pin corresponds to the RTS signal in a console device connection?
+56,71,spec,0.2222,0.967,188,1,What RJ-45 pin corresponds to the DSR signal on the console port when using an RJ-45 to RJ-45 rollover cable?
+57,73,spec,0.321,0.9647,192,1,What is the cordset rating for power cords used in North America?
+58,71,spec,0.4536,0.964,193,1,What type of cable should be used to connect the 10/100 management Ethernet port to external hubs and switches?
+59,74,spec,0.2465,0.9641,194,1,What is the cordset rating for the power cord used in Japan?
+60,78,spec,0.6795,0.9412,197,0,What specific factors are included in the environmental evaluation task?
+61,74,procedure,0.6485,0.957,199,1,How do you connect the C14 connector on the optional jumper power cord?
+62,79,procedure,0.2921,0.9667,202,1,What is the purpose of using Table 1-2 in Chapter 1?
+63,80,procedure,0.2111,0.7917,205,0,What information should be recorded using the provided worksheets?
+64,1,procedure,0.3649,0.8133,0,0,How can users find the software license or limited warranty if it is missing?
+65,1,procedure,0.2909,0.946,0,0,What steps should be taken by users who cannot locate their software license or limited warranty?
+66,1,procedure,0.2918,0.9307,0,0,"If a user is unable to find the software license or limited warranty, what action should they take?"
+67,1,procedure,0.49,0.8401,68,0,What steps should users take to fix interference generated by this device?
+68,1,procedure,0.5223,0.9067,1,0,How can users address the interference issues resulting from this equipment?
+69,1,procedure,0.5022,0.8236,67,0,Which actions are recommended for users to resolve interference caused by this unit?
+70,1,procedure,0.9269,0.9435,2,0,How should a DB-9 adapter be used to link the console port with a computer?
+71,7,procedure,0.143,0.8626,3,0,What content is covered in the preface?
+72,7,procedure,0.1662,0.8548,3,0,How would you describe what the preface outlines?
+73,7,procedure,0.1747,0.857,71,0,Which topics are described by the preface?
+74,7,spec,0.3896,0.8961,4,0,Which items are covered in Appendix 1 under Technical Specifications?
+75,7,spec,0.4023,0.9447,76,0,What content is found within the Technical Specifications section of Appendix 1?
+76,7,spec,0.4471,0.9591,4,1,Appendix 1's Technical Specifications section contains what information?
+77,7,procedure,0.2803,0.7564,5,0,"Before starting the setup according to this guide, what conditions are necessary?"
+78,7,procedure,0.3325,0.8701,5,0,What requirements need to be fulfilled before using this installation manual?
+79,8,spec,0.2313,0.9681,6,1,Which specifications can be found in Appendix 1?
+80,8,spec,0.246,0.9267,79,0,"In which section are the listed specifications located, specifically Appendix 1?"
+81,10,procedure,0.6251,0.9267,7,0,What is the process for locating the Cisco MDS 9000 Family online documentation?
+82,10,procedure,0.53,0.862,7,0,How do I access the Cisco MDS 9000 Family technical documents via the web?
+83,10,procedure,0.7683,0.937,8,0,What specific release documentation is available for the Cisco MDS 9000 series?
+84,10,procedure,0.7341,0.9143,9,0,What materials are available on the topic of Cisco MDS 9000's interoperability and compatibility?
+85,11,procedure,0.4409,0.8738,87,0,Which document contains details on configuring system management?
+86,11,procedure,0.3951,0.8614,10,0,What is the name of the manual for system management setup?
+87,11,procedure,0.5107,0.9203,10,0,In which guide can I find information about system management configuration?
+88,12,procedure,0.8564,0.951,11,1,What is included in the set of troubleshooting and reference documentation for the Cisco MDS 9000 Family NX-OS?
+89,13,procedure,0.5729,0.8277,90,0,Which key capabilities does the Cisco MDS 9148S switch offer?
+90,13,procedure,0.6912,0.9672,12,1,What are the primary features included in the Cisco MDS 9148S switch?
+91,13,procedure,0.617,0.9616,12,1,Can you list the main functionalities of the Cisco MDS 9148S switch?
+92,13,procedure,0.5314,0.9497,93,0,Which chassis views does this section describe?
+93,13,procedure,0.5184,0.9523,13,1,This section describes which views of the chassis?
+94,13,procedure,0.4016,0.912,13,0,In what ways is the chassis depicted within this section?
+95,14,procedure,0.4264,0.9438,14,0,Which parts can be found on the front panel of the Cisco MDS 9148S switch?
+96,14,procedure,0.3842,0.9207,14,0,Identify the components located on the front side of the Cisco MDS 9148S switch.
+97,17,spec,0.2098,0.9468,16,0,Why is the Port link LED blinking orange?
+98,17,spec,0.3103,0.9586,16,1,"When the Port link LED flashes orange, what does that indicate?"
+99,17,spec,0.3278,0.9432,98,0,What signifies an orange flashing light on the Port link LED?
+100,18,spec,0.2398,0.8909,101,0,What signifies that the Right LED remains steadily amber?
+101,18,spec,0.2772,0.8909,100,0,"If the Right LED shows a constant amber light, what does this indicate?"
+102,18,spec,0.228,0.9252,17,0,The meaning behind the Right LED being solidly amber is?
+103,21,procedure,0.7091,0.8526,18,0,What is the procedure to secure the switch within the rack once it has been slid into position?
+104,21,procedure,0.7912,0.9011,18,0,"After inserting the switch into its slot, how can you stabilize it in the rack?"
+105,21,procedure,0.6801,0.886,18,0,How should one ensure the switch remains stable in the rack after sliding it into place?
+106,28,spec,0.8879,0.9518,107,1,How many M4 x 6-mm Phillips flat-head screws come in each kit?
+107,28,spec,0.8758,0.9518,106,1,What is the number of M4 x 6-mm Phillips flat-head screws provided per kit?
+108,27,rule_error,0.4492,0.8687,20,0,What necessitates installing the Cisco MDS 9148S switch in a rear-facing orientation?
+109,41,procedure,0.4513,0.9466,110,0,In what way can one establish a connection to the console port of the Cisco MDS 9148S switch?
+110,41,procedure,0.3864,0.9627,21,1,How should the console port be connected on the Cisco MDS 9148S switch?
+111,41,procedure,0.4546,0.9086,22,0,What is the procedure for connecting the console port to enable tasks such as switching configuration via the CLI or tracking network statistics?
+112,41,procedure,0.5015,0.9194,22,0,In what way can one connect the console port to carry out operations like configuring a switch from the command line interface or monitoring network stats?
+113,41,procedure,0.424,0.9404,22,0,How should the console port be connected in order to perform functions including setting up the switch through the CLI or observing network statistics?
+114,51,procedure,0.531,0.9384,23,0,What is the proper method for cooling air within solid-walled cabinets?
+115,51,procedure,0.5436,0.8867,23,0,In what manner ought to airflow be managed and cooled in cabinets that have solid walls?
+116,51,procedure,0.5483,0.8828,114,0,How does one ensure adequate air cooling inside solid-walled cabinet enclosures?
+117,52,spec,0.3744,0.9293,24,0,What is the maximum allowable weight when installing an MDS 9148S onto a Telco two-post rack?
+118,52,spec,0.2786,0.9547,24,1,How much weight can be supported by mounting an MDS 9148S on a Telco (2 post) rack?
+119,52,spec,0.2106,0.8798,24,0,For what load limit should one consider before mounting an MDS 9148S to a Telco (2 post) rack?
+120,51,procedure,0.2875,0.9577,25,1,What is the procedure for using the optional Telco and EIA Shelf Bracket Kit during installation?
+121,51,procedure,0.2547,0.9504,25,1,In what way should the optional Telco and EIA Shelf Bracket Kit be utilized when installing?
+122,53,procedure,0.2925,0.822,123,0,Which items are required to complete this installation?
+123,53,procedure,0.3986,0.9668,26,1,"For this installation, what equipment is necessary?"
+124,59,spec,0.3308,0.9482,126,0,What is the size of the Cisco MDS 9148S Switch?
+125,59,spec,0.3652,0.9128,27,0,Could you provide the physical measurements for the Cisco MDS 9148S Switch?
+126,59,spec,0.4552,0.963,27,1,How large are the dimensions of the Cisco MDS 9148S Switch?
+127,53,procedure,0.8733,0.9592,28,1,What is the method for attaching the crossbar to the shelf brackets?
+128,53,procedure,0.8053,0.8755,129,0,In what way can one secure the crossbar onto the shelf brackets?
+129,53,procedure,0.8884,0.9579,28,1,How should the crossbar be attached to the shelf brackets?
+130,59,procedure,0.5568,0.9596,29,1,What are the technical details listed in this appendix for the Cisco MDS 9148S switch?
+131,59,procedure,0.6011,0.9688,29,1,"For the Cisco MDS 9148S switch, what technical specs are covered in this appendix?"
+132,59,spec,0.5044,0.9647,30,1,What are the acceptable ambient temperatures for operating this printer?
+133,59,spec,0.4897,0.9659,30,1,For what ambient temperature range can this printer operate?
+134,59,spec,0.4716,0.918,30,0,Which ambient temperature limits apply to the operation of this printer?
+135,60,spec,0.3968,0.9654,31,1,Which AC input voltage range applies nominally to this printer?
+136,60,spec,0.4138,0.9639,31,1,"For this printer, what constitutes the standard AC input voltage range?"
+137,60,spec,0.4796,0.8,31,0,What is the specified nominal range for AC input voltage on this device?
+138,59,spec,0.5728,0.9459,140,0,What is the range of ambient temperatures in which the Cisco MDS 9148S switch can operate?
+139,59,spec,0.489,0.9452,32,0,Which temperature limits define the operating environment for the Cisco MDS 9148S switch?
+140,59,spec,0.5669,0.9459,138,0,For what ambient operating temperature ranges is the Cisco MDS 9148S switch rated?
+141,60,procedure,0.3361,0.8859,33,0,Which details are contained within this section?
+142,60,spec,0.3639,0.9605,34,1,How much does the device weigh if it has two fan modules and two power supplies installed?
+143,60,spec,0.4156,0.9424,34,0,What is the total weight of the unit given that two fan modules and two power supplies are present?
+144,61,spec,0.7766,0.9364,146,0,How long does it take for the fuse in part number 341-0706-02 to melt?
+145,61,spec,0.7809,0.8827,35,0,What is the duration until melting occurs for component 341-0706-02's fuse?
+146,61,spec,0.7799,0.9386,35,0,"For part number 341-0706-02, what is the time required for the fuse to melt?"
+147,61,spec,0.4944,0.952,36,1,"Under worst-case scenarios, how many watts of AC power does the Cisco MDS 9148S Switch consume at a voltage of 220V?"
+148,61,spec,0.5072,0.9527,36,1,"At 220 volts and during worst-case operation, what is the wattage consumption for the AC power supply of the Cisco MDS 9148S Switch?"
+149,61,spec,0.3593,0.9367,37,0,Which voltage and current limits apply to the AC input power supply?
+150,61,spec,0.3629,0.9034,37,0,Can you provide the specifications for the voltage and current constraints of the AC input power supply?
+151,61,spec,0.3596,0.872,149,0,What are the defined voltage and current boundaries for the AC input power supply?
+152,62,spec,0.4146,0.875,38,0,What is the peak power consumption for the Cisco MDS 9148S16G Multilayer Fabric Switch?
+153,62,spec,0.6389,0.8972,39,0,Which parameters within every Cisco SFP+ transceiver allow for switch-based verification?
+154,62,spec,0.7013,0.8324,39,0,What information is stored in a Cisco SFP+ transceiver that permits the switch to verify it?
+155,63,procedure,0.6462,0.9306,40,0,Which Fibre Channel SFP+ transceivers can be used with the Cisco MDS9148S switch?
+156,63,spec,0.087,0.8658,41,0,Which category does the DS-SFP-FC16G-LW component belong to?
+157,63,spec,0.129,0.9688,41,1,What kind is the DS-SFP-FC16G-LW part classified as?
+158,63,spec,0.1245,0.9509,41,1,Can you identify the type associated with the DS-SFP-FC16G-LW part?
+159,64,spec,0.3502,0.9244,42,0,What are the micron dimensions of the core for the DS-SFP-FC16G-L W SFP+ module?
+160,64,spec,0.4039,0.9332,42,0,How many microns wide is the core of the DS-SFP-FC16G-L W SFP+ module?
+161,65,spec,0.5937,0.9434,43,0,What is the range of operating temperatures for the DS-SFP-FC16G-SW SFP+ module?
+162,65,spec,0.559,0.9576,43,1,Which temperature limits apply to the operation of the DS-SFP-FC16G-SW SFP+ module?
+163,65,spec,0.4973,0.9188,161,0,For what temperature conditions can the DS-SFP-FC16G-SW SFP+ module operate?
+164,65,spec,0.3536,0.7873,166,0,What represents the peak average transmission power level supported by the DS-SFP-FC16G-LW SFP+ module?
+165,65,spec,0.3665,0.9644,44,1,"For the DS-SFP-FC16G-LW SFP+ module, what is the highest allowable average transmit power?"
+166,65,spec,0.3444,0.9244,44,0,Determine the maximum average transmit power specification for the DS-SFP-FC16G-LW SFP+ module.
+167,66,spec,0.2315,0.8146,45,0,How far can a signal travel using the DS-SFP-FC8G-ER SFP+ module over single-mode fiber at a wavelength of 1550 nm?
+168,67,spec,0.3118,0.9265,46,0,At what level does the DS-SFP-FC8G-LW SFP+ module reach its maximum average transmit power when operating at 8 Gbps?
+169,67,spec,0.3307,0.9629,46,1,What is the highest average transmit power achievable by the DS-SFP-FC8G-LW SFP+ module during an 8 Gbps transmission?
+170,68,spec,0.7553,0.9018,171,0,Which conditions define the lower and upper limits for receiver optical input power?
+171,68,spec,0.7385,0.9043,48,0,Under what specific circumstances do the specified minimum and maximum receiver optical input power levels occur?
+172,63,procedure,0.6835,0.7127,49,0,Which cable specifications are listed in Table1-8?
+173,63,procedure,0.6964,0.8878,49,0,Table1-8 summarizes what cabling requirements?
+174,63,procedure,0.7609,0.9582,49,1,What do the cabling specs shown in Table1-8 entail?
+175,70,procedure,0.4438,0.9617,50,1,What is the procedure for connecting the console port to a computer?
+176,70,procedure,0.4421,0.8761,50,0,In what way can one link the console port to a PC?
+177,70,procedure,0.4385,0.9122,175,0,How should the console port be attached to a computer?
+178,70,spec,0.3565,0.9531,51,1,Which pin on the RJ-45 connector at the console port is assigned to the RTS signal?
+179,70,spec,0.3285,0.9502,178,1,"On the console port's RJ-45 interface, which specific pin carries the RTS signal?"
+180,70,procedure,0.6081,0.9659,52,1,What is the relationship between pins 1 and 8 on the console port of the Cisco MDS 9148S Switch?
+181,70,procedure,0.6349,0.9611,52,1,Can you describe how pins 1 and 8 are connected or related on the console port of a Cisco MDS 9148S Switch?
+182,70,procedure,0.4255,0.7635,53,0,Which parts do I need to link the console port on an HP printer to a PC using terminal emulation?
+183,70,procedure,0.4178,0.938,53,0,What hardware is necessary for connecting the console port to a computer with terminal emulation software installed?
+184,71,spec,0.1287,0.9627,54,1,Which signal connects to pin 1 of the RJ-45 connector on the rollover cable?
+185,71,spec,0.0881,0.9052,54,0,"On a rollover cable, what is connected to RJ-45 pin 1?"
+186,71,spec,0.1505,0.9654,54,1,What signal does RJ-45 pin 1 receive from the rollover cable?
+187,71,spec,0.2791,0.9137,55,0,"For a console device link, identify the DB-9 pin that carries the RTS signal."
+188,71,spec,0.2062,0.967,56,1,Which RJ-45 pin is mapped to the DSR signal on the console port when utilizing an RJ-45 to RJ-45 rollover cable?
+189,71,spec,0.2384,0.963,56,1,"When using a rollover cable (RJ-45 to RJ-45), which specific pin corresponds to the DSR signal at the console port?"
+190,71,spec,0.2224,0.9635,56,1,"On a console port with an RJ-45 to RJ-45 rollover connection, what is the corresponding RJ-45 pin for the DSR signal?"
+191,73,spec,0.3497,0.9021,57,0,What are the specifications for power cord ratings utilized in North America?
+192,73,spec,0.309,0.9647,57,1,"For power cords used within North America, what is their required cordset rating?"
+193,71,spec,0.4057,0.964,58,1,Which cable is required for connecting the 10/100 management Ethernet port to external hubs and switches?
+194,74,spec,0.2189,0.9641,59,1,"In Japan, what rated cordset does the power cord have?"
+195,78,spec,0.6317,0.8908,60,0,Which elements constitute the environmental evaluation task?
+196,78,spec,0.6366,0.7939,60,0,What components make up the environmental assessment procedure?
+197,78,spec,0.7206,0.9412,60,0,"In the environmental evaluation, what specific factors are considered?"
+198,74,procedure,0.6624,0.9481,61,0,In what way should one connect the C14 connector found on the optional jumper power cord?
+199,74,procedure,0.6479,0.957,61,1,How can the C14 connector of the optional jumper power cord be connected?
+200,79,procedure,0.2415,0.9629,201,1,Why use Table 1-2 from Chapter 1?
+201,79,procedure,0.265,0.9629,200,1,For what reason is Table 1-2 in Chapter 1 utilized?
+202,79,procedure,0.2473,0.9667,62,1,What does using Table 1-2 in Chapter 1 accomplish?
+203,80,procedure,0.3021,0.7987,205,0,Which details need to be documented on the included worksheets?
+204,80,procedure,0.2373,0.7563,203,0,What data is required to fill out the supplied worksheets?
+205,80,procedure,0.2529,0.7987,203,0,For what purpose should information be entered into the provided worksheets?

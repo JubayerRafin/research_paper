@@ -1,0 +1,52 @@
+{
+  "metric": "question_quality",
+  "n_pairs": 1350,
+  "length": {
+    "mean_words": 12.5,
+    "median_words": 12,
+    "min_words": 4,
+    "max_words": 26,
+    "short_count": 87,
+    "short_pct": 6.44
+  },
+  "generic": {
+    "count": 24,
+    "pct": 1.78,
+    "target_max_pct": 5.0,
+    "passes": true
+  },
+  "type_distribution": {
+    "what": {
+      "count": 503,
+      "pct": 37.26
+    },
+    "how": {
+      "count": 429,
+      "pct": 31.78
+    },
+    "other": {
+      "count": 299,
+      "pct": 22.15
+    },
+    "which": {
+      "count": 58,
+      "pct": 4.3
+    },
+    "when": {
+      "count": 26,
+      "pct": 1.93
+    },
+    "yes/no": {
+      "count": 20,
+      "pct": 1.48
+    },
+    "why": {
+      "count": 9,
+      "pct": 0.67
+    },
+    "where": {
+      "count": 6,
+      "pct": 0.44
+    }
+  }
+}
